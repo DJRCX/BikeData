@@ -1,0 +1,3879 @@
+[
+  {
+    "name": "TVS Apache RTR 160 4V Fi",
+    "slug": "tvs-apache-rtr-160-4v-fi",
+    "brand": "TVS",
+    "category": "Street",
+    "cc": 159.7,
+    "price": "Tk. 274,900",
+    "short_description": "TVS Apache RTR 160 4V Fi - A fuel-injected 159.7cc sporty street motorcycle with aggressive styling and race-inspired features. Offers precise throttle response and efficient performance.",
+    "Zero_Sixty": "4.2 sec",
+    "Zero_Hundred": "11.5 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-42 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "139 kg",
+    "max_power": "17.63 PS @ 8500 rpm",
+    "max_torque": "14.73 Nm @ 6750 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "270 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-17",
+    "rear_tyre_size": "110/80-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "1995 mm",
+    "overall_width": "770 mm",
+    "build_quality": "Sporty with aerodynamic design",
+    "parts_availability": "Widely available",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926354/bikes/TVS/tvs-apache/tvs-apache%20-rtr-showroom-view.webp",
+          "alt": "tvs-apache Tvs Apache  Rtr Showroom View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926355/bikes/TVS/tvs-apache/tvs-apache-rtr-back-view.webp",
+          "alt": "tvs-apache Rtr Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926356/bikes/TVS/tvs-apache/tvs-apache-rtr-front-view.webp",
+          "alt": "tvs-apache Rtr Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926357/bikes/TVS/tvs-apache/tvs-apache-rtr-left-view.webp",
+          "alt": "tvs-apache Rtr Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926358/bikes/TVS/tvs-apache/tvs-apache-rtr-right-view.webp",
+          "alt": "tvs-apache Rtr Right View"
+        }
+      ] ,
+    "pros": [
+      "Fuel-injected engine for precise throttle response",
+      "Aggressive and sporty design language",
+      "LED lighting with projector headlamp",
+      "Good ground clearance for various road conditions",
+      "Sporty exhaust note enhances riding experience"
+    ],
+    "cons": [
+      "Base variant comes with rear drum brake",
+      "Noticeable vibrations at higher RPM ranges",
+      "Relatively small fuel tank limits touring capability",
+      "Firm seat may cause discomfort on long rides",
+      "No dual-channel ABS in this variant"
+    ],
+    "faqs": [
+      {
+        "question": "Does this model come with ABS?",
+        "answer": "The base Fi variant comes without ABS, but single-channel ABS is available as an option."
+      },
+      {
+        "question": "What's the acceleration performance like?",
+        "answer": "It can accelerate from 0-60 kmph in 4.2 seconds and 0-100 kmph in 11.5 seconds."
+      },
+      {
+        "question": "Is this suitable for daily city commuting?",
+        "answer": "Yes, its lightweight design and good low-end torque make it very suitable for city riding."
+      },
+      {
+        "question": "How does the fuel injection system benefit the rider?",
+        "answer": "Fuel injection ensures better throttle response, improved fuel efficiency, and smoother performance across RPM ranges compared to carbureted engines."
+      }
+    ]
+  },
+  {
+    "name": "TVS Apache RTR 160 4V SMARTXCONNECT DD",
+    "slug": "tvs-apache-rtr-160-4v-smartxconnect-dd",
+    "brand": "TVS",
+    "category": "Street",
+    "cc": 159.7,
+    "price": "Tk. 214,999",
+    "short_description": "TVS Apache RTR 160 4V SMARTXCONNECT DD - Features a digital dash with smartphone connectivity, offering a tech-enhanced riding experience with the same 159.7cc performance.",
+    "Zero_Sixty": "4.3 sec",
+    "Zero_Hundred": "11.7 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "44 kmpl",
+    "mileage_reported": "39-41 kmpl",
+    "top_speed_claimed": "118 km/h",
+    "top_speed_reported": "113 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "140 kg",
+    "max_power": "17.63 PS @ 8500 rpm",
+    "max_torque": "14.73 Nm @ 6750 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "270 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-17",
+    "rear_tyre_size": "110/80-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Digital LCD with SmartXonnect",
+    "seat_height": "800 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "1995 mm",
+    "overall_width": "770 mm",
+    "build_quality": "Sporty with tech features",
+    "parts_availability": "Widely available",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926354/bikes/TVS/tvs-apache/tvs-apache%20-rtr-showroom-view.webp",
+          "alt": "tvs-apache Tvs Apache  Rtr Showroom View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926355/bikes/TVS/tvs-apache/tvs-apache-rtr-back-view.webp",
+          "alt": "tvs-apache Rtr Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926356/bikes/TVS/tvs-apache/tvs-apache-rtr-front-view.webp",
+          "alt": "tvs-apache Rtr Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926357/bikes/TVS/tvs-apache/tvs-apache-rtr-left-view.webp",
+          "alt": "tvs-apache Rtr Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926358/bikes/TVS/tvs-apache/tvs-apache-rtr-right-view.webp",
+          "alt": "tvs-apache Rtr Right View"
+        }
+      ] ,
+    "pros": [
+      "SmartXonnect digital dash with smartphone connectivity",
+      "Same peppy 159.7cc engine as other variants",
+      "LED lighting with projector headlamp",
+      "Good value for money with tech features",
+      "Comfortable ergonomics for daily riding"
+    ],
+    "cons": [
+      "Rear drum brake limits braking performance",
+      "Bluetooth connectivity can be finicky at times",
+      "Slightly heavier than base variant",
+      "No ABS in this version",
+      "Small fuel tank compared to competitors"
+    ],
+    "faqs": [
+      {
+        "question": "What does the SmartXonnect system offer?",
+        "answer": "It provides smartphone connectivity for call/SMS alerts, navigation assist, and ride analytics."
+      },
+      {
+        "question": "Is there any performance difference from the Fi variant?",
+        "answer": "The engine is identical, but the added tech features make it slightly heavier, affecting acceleration marginally."
+      },
+      {
+        "question": "Does this variant have ABS?",
+        "answer": "No, the SMARTXCONNECT DD variant comes without ABS."
+      },
+      {
+        "question": "Can I use navigation on the digital display?",
+        "answer": "Yes, the SmartXonnect system supports turn-by-turn navigation when paired with your smartphone via Bluetooth."
+      }
+    ]
+  },
+  {
+    "name": "TVS Apache RTR 160 4V SMARTXCONNECT SD",
+    "slug": "tvs-apache-rtr-160-4v-smartxconnect-sd",
+    "brand": "TVS",
+    "category": "Street",
+    "cc": 159.7,
+    "price": "Tk. 219,900",
+    "short_description": "TVS Apache RTR 160 4V SMARTXCONNECT SD - Combines the 159.7cc engine with a semi-digital console and SmartXonnect features, offering a balance of tech and performance.",
+    "Zero_Sixty": "4.3 sec",
+    "Zero_Hundred": "11.7 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "44 kmpl",
+    "mileage_reported": "39-41 kmpl",
+    "top_speed_claimed": "118 km/h",
+    "top_speed_reported": "113 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "140 kg",
+    "max_power": "17.63 PS @ 8500 rpm",
+    "max_torque": "14.73 Nm @ 6750 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "270 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-17",
+    "rear_tyre_size": "110/80-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Semi-Digital with SmartXonnect",
+    "seat_height": "800 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "1995 mm",
+    "overall_width": "770 mm",
+    "build_quality": "Sporty with tech integration",
+    "parts_availability": "Widely available",
+     "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926354/bikes/TVS/tvs-apache/tvs-apache%20-rtr-showroom-view.webp",
+          "alt": "tvs-apache Tvs Apache  Rtr Showroom View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926355/bikes/TVS/tvs-apache/tvs-apache-rtr-back-view.webp",
+          "alt": "tvs-apache Rtr Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926356/bikes/TVS/tvs-apache/tvs-apache-rtr-front-view.webp",
+          "alt": "tvs-apache Rtr Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926357/bikes/TVS/tvs-apache/tvs-apache-rtr-left-view.webp",
+          "alt": "tvs-apache Rtr Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926358/bikes/TVS/tvs-apache/tvs-apache-rtr-right-view.webp",
+          "alt": "tvs-apache Rtr Right View"
+        }
+      ],
+    "pros": [
+      "More affordable SmartXonnect option",
+       "Retains the same 159.7cc engine performance",
+      "LED lighting package",
+      "Good balance between price and features",
+      "Comfortable riding position"
+    ],
+    "cons": [
+      "Semi-digital console instead of full digital",
+      "No ABS in this variant",
+      "Basic switchgear quality",
+      "Vibrations at high RPMs",
+      "Small pillion seat"
+    ],
+    "faqs": [
+      {
+        "question": "What's the difference between DD and SD variants?",
+        "answer": "The SD has a semi-digital console while DD has a full digital display, otherwise they share the same features."
+      },
+      {
+        "question": "Does this variant support navigation?",
+        "answer": "Yes, through the SmartXonnect app, but it's more limited than the DD variant."
+      },
+      {
+        "question": "Is the riding position aggressive?",
+        "answer": "It's moderately sporty but comfortable for daily use with slightly rear-set footpegs."
+      },
+      {
+        "question": "Does the SD variant get the same LED lighting?",
+        "answer": "Yes, both SD and DD variants come with full LED lighting including the projector headlamp and DRLs."
+      }
+    ]
+  },
+  {
+    "name": "TVS Apache RTR 160 Race Edition ABS",
+    "slug": "tvs-apache-rtr-160-race-edition-abs",
+    "brand": "TVS",
+    "category": "Street",
+    "cc": 159.7,
+    "price": "Tk. 194,999",
+    "short_description": "TVS Apache RTR 160 Race Edition ABS - A track-inspired variant with dual-tone colors, ABS, and the same 159.7cc engine tuned for spirited riding.",
+    "Zero_Sixty": "4.1 sec",
+    "Zero_Hundred": "11.3 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "43 kmpl",
+    "mileage_reported": "38-40 kmpl",
+    "top_speed_claimed": "122 km/h",
+    "top_speed_reported": "117 km/h",
+    "braking": "Front Disc, Rear Drum (Single-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "142 kg",
+    "max_power": "17.63 PS @ 8500 rpm",
+    "max_torque": "14.73 Nm @ 6750 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "270 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-17",
+    "rear_tyre_size": "110/80-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "1995 mm",
+    "overall_width": "770 mm",
+    "build_quality": "Race-inspired with premium graphics",
+    "parts_availability": "Widely available",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926354/bikes/TVS/tvs-apache/tvs-apache%20-rtr-showroom-view.webp",
+          "alt": "tvs-apache Tvs Apache  Rtr Showroom View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926355/bikes/TVS/tvs-apache/tvs-apache-rtr-back-view.webp",
+          "alt": "tvs-apache Rtr Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926356/bikes/TVS/tvs-apache/tvs-apache-rtr-front-view.webp",
+          "alt": "tvs-apache Rtr Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926357/bikes/TVS/tvs-apache/tvs-apache-rtr-left-view.webp",
+          "alt": "tvs-apache Rtr Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926358/bikes/TVS/tvs-apache/tvs-apache-rtr-right-view.webp",
+          "alt": "tvs-apache Rtr Right View"
+        }
+      ] ,
+    "pros": [
+      "Race-inspired graphics and styling",
+      "Single-channel ABS for safety",
+      "Slightly better acceleration than standard variants",
+      "LED lighting with DRLs",
+      "Good cornering stability"
+    ],
+    "cons": [
+      "ABS only on front wheel",
+      "Graphics may fade over time",
+      "Firmer suspension setup",
+      "No Bluetooth connectivity",
+      "Small mirrors for visibility"
+    ],
+    "faqs": [
+      {
+        "question": "Is this the fastest Apache RTR 160 variant?",
+        "answer": "Yes, the Race Edition is slightly quicker due to optimized tuning, doing 0-60 kmph in 4.1 seconds."
+      },
+      {
+        "question": "Does it have dual-channel ABS?",
+        "answer": "No, it comes with single-channel ABS (front wheel only)."
+      },
+      {
+        "question": "Are the race graphics durable?",
+        "answer": "The decals are quality but may require extra care during washing to prevent peeling over time."
+      },
+      {
+        "question": "Is the suspension setup different from standard variants?",
+        "answer": "It uses the same suspension components but is tuned slightly stiffer for better cornering stability."
+      }
+    ]
+  },
+  {
+    "name": "TVS Apache RTR 160 Race Edition SD",
+    "slug": "tvs-apache-rtr-160-race-edition-sd",
+    "brand": "TVS",
+    "category": "Street",
+    "cc": 159.7,
+    "price": "Tk. 189,999",
+    "short_description": "TVS Apache RTR 160 Race Edition SD - The affordable race-styled variant with semi-digital console, sharing the 159.7cc engine but without ABS.",
+    "Zero_Sixty": "4.2 sec",
+    "Zero_Hundred": "11.5 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "44 kmpl",
+    "mileage_reported": "39-41 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "141 kg",
+    "max_power": "17.63 PS @ 8500 rpm",
+    "max_torque": "14.73 Nm @ 6750 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "270 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-17",
+    "rear_tyre_size": "110/80-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Semi-Digital",
+    "seat_height": "800 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "1995 mm",
+    "overall_width": "770 mm",
+    "build_quality": "Race styling with cost-saving measures",
+    "parts_availability": "Widely available",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926354/bikes/TVS/tvs-apache/tvs-apache%20-rtr-showroom-view.webp",
+          "alt": "tvs-apache Tvs Apache  Rtr Showroom View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926355/bikes/TVS/tvs-apache/tvs-apache-rtr-back-view.webp",
+          "alt": "tvs-apache Rtr Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926356/bikes/TVS/tvs-apache/tvs-apache-rtr-front-view.webp",
+          "alt": "tvs-apache Rtr Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926357/bikes/TVS/tvs-apache/tvs-apache-rtr-left-view.webp",
+          "alt": "tvs-apache Rtr Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926358/bikes/TVS/tvs-apache/tvs-apache-rtr-right-view.webp",
+          "alt": "tvs-apache Rtr Right View"
+        }
+      ] ,
+    "pros": [
+      "Most affordable Race Edition variant",
+      "Retains the sporty 159.7cc engine",
+      "LED headlight with DRLs",
+      "Aggressive styling with race graphics",
+      "Lighter than ABS version"
+    ],
+    "cons": [
+      "No ABS even as an option",
+      "Semi-digital console feels basic",
+      "Vibrations at high speeds",
+      "Thinner seat padding",
+      "No Bluetooth features"
+    ],
+    "faqs": [
+      {
+        "question": "How does this differ from the Race Edition ABS?",
+        "answer": "It lacks ABS and has a semi-digital console instead of full digital, but shares the same engine and styling."
+      },
+      {
+        "question": "Is the suspension setup different?",
+        "answer": "No, it uses the same suspension as other variants but may feel stiffer due to lighter weight."
+      },
+      {
+        "question": "Does it have a gear position indicator?",
+        "answer": "Yes, the semi-digital console includes a gear indicator."
+      },
+      {
+        "question": "Are the race graphics the same as the ABS version?",
+        "answer": "Yes, it features identical race-inspired graphics and color schemes as the ABS variant."
+      }
+    ]
+  },
+  {
+    "name": "TVS Apache RTR 4V ABS",
+    "slug": "tvs-apache-rtr-4v-abs",
+    "brand": "TVS",
+    "category": "Street",
+    "cc": 159.7,
+    "price": "Tk. 247,900",
+    "short_description": "TVS Apache RTR 4V ABS - A 159.7cc street motorcycle with dual-channel ABS, refined 4-valve engine, and sporty ergonomics for spirited riding.",
+    "Zero_Sixty": "4.0 sec",
+    "Zero_Hundred": "11.2 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "43 kmpl",
+    "mileage_reported": "38-40 kmpl",
+    "top_speed_claimed": "125 km/h",
+    "top_speed_reported": "120 km/h",
+    "braking": "Front Disc, Rear Disc (Dual-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "143 kg",
+    "max_power": "18.1 PS @ 8500 rpm",
+    "max_torque": "15.0 Nm @ 7000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "270 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-17",
+    "rear_tyre_size": "110/80-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "1995 mm",
+    "overall_width": "770 mm",
+    "build_quality": "Sporty with premium fit-finish",
+    "parts_availability": "Widely available",
+     "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926354/bikes/TVS/tvs-apache/tvs-apache%20-rtr-showroom-view.webp",
+          "alt": "tvs-apache Tvs Apache  Rtr Showroom View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926355/bikes/TVS/tvs-apache/tvs-apache-rtr-back-view.webp",
+          "alt": "tvs-apache Rtr Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926356/bikes/TVS/tvs-apache/tvs-apache-rtr-front-view.webp",
+          "alt": "tvs-apache Rtr Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926357/bikes/TVS/tvs-apache/tvs-apache-rtr-left-view.webp",
+          "alt": "tvs-apache Rtr Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926358/bikes/TVS/tvs-apache/tvs-apache-rtr-right-view.webp",
+          "alt": "tvs-apache Rtr Right View"
+        }
+      ],
+    "pros": [
+      "Dual-channel ABS for superior safety",
+      "Refined 4-valve engine with linear power delivery",
+      "Sporty yet comfortable ergonomics",
+      "Premium LED lighting package",
+      "Excellent braking performance"
+    ],
+    "cons": [
+      "Slightly heavier than non-ABS variants",
+      "Vibrations noticeable at high RPMs",
+      "Small fuel tank for touring",
+      "Pillion seat could be more comfortable",
+      "No Bluetooth connectivity"
+    ],
+    "faqs": [
+      {
+        "question": "How does the 4V engine differ from standard RTR 160?",
+        "answer": "The 4-valve engine breathes better at high RPMs, offering improved top-end performance compared to 2-valve versions."
+      },
+      {
+        "question": "Is the ABS system switchable?",
+        "answer": "No, the dual-channel ABS is always active for safety."
+      },
+      {
+        "question": "What's the real-world fuel efficiency?",
+        "answer": "Expect 38-40 kmpl under normal riding conditions with mixed city-highway usage."
+      },
+      {
+        "question": "Does it have a slipper clutch?",
+        "answer": "No, it comes with a standard wet multi-plate clutch."
+      }
+    ]
+  },
+  {
+    "name": "TVS Jupiter",
+    "slug": "tvs-jupiter",
+    "brand": "TVS",
+    "category": "Scooter",
+    "cc": 109.7,
+    "price": "Tk. 137,900",
+    "short_description": "TVS Jupiter - A 109.7cc practical commuter scooter with best-in-class comfort features, excellent mileage, and reliable performance for daily commuting.",
+    "Zero_Sixty": "9.8 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "55 kmpl",
+    "mileage_reported": "50-53 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Disc/Rear Drum (CBS)",
+    "gear": "CVT Automatic",
+    "weight": "109 kg",
+    "max_power": "7.4 PS @ 7000 rpm",
+    "max_torque": "8.4 Nm @ 5500 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "190 mm Disc (Optional)",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "Single-piston (Disc variant)",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-12",
+    "rear_tyre_size": "90/90-12",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Combo",
+    "seat_height": "765 mm",
+    "ground_clearance": "155 mm",
+    "overall_length": "1795 mm",
+    "overall_width": "685 mm",
+    "build_quality": "Practical with good fit-finish",
+    "parts_availability": "Excellent",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926359/bikes/TVS/tvs-jupiter/tvs-jupiter-back-view.webp",
+          "alt": "tvs-jupiter Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926360/bikes/TVS/tvs-jupiter/tvs-jupiter-front-view.webp",
+          "alt": "tvs-jupiter Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926360/bikes/TVS/tvs-jupiter/tvs-jupiter-left-view.webp",
+          "alt": "tvs-jupiter Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926362/bikes/TVS/tvs-jupiter/tvs-jupiter-right-view.webp",
+          "alt": "tvs-jupiter Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926363/bikes/TVS/tvs-jupiter/tvs-jupiter-showroom-view.webp",
+          "alt": "tvs-jupiter Showroom View"
+        }
+      ],
+    "pros": [
+      "Excellent suspension for bumpy roads",
+      "Comfortable long seat with good cushioning",
+      "Best-in-class under-seat storage (21L)",
+      "Fuel-efficient engine with low maintenance",
+      "Lightweight and easy to maneuver"
+    ],
+    "cons": [
+      "Basic halogen headlight",
+      "Limited power for highway riding",
+      "Small fuel tank capacity",
+      "Drum brake variant lacks stopping power",
+      "No charging port in base variant"
+    ],
+    "faqs": [
+      {
+        "question": "What's the storage capacity?",
+        "answer": "It offers 21 liters of under-seat storage - enough for a full-face helmet and small items."
+      },
+      {
+        "question": "Is there a disc brake option?",
+        "answer": "Yes, a front disc brake variant is available with CBS (Combi Brake System)."
+      },
+      {
+        "question": "How comfortable is it for tall riders?",
+        "answer": "The flat floorboard and upright ergonomics make it comfortable for riders up to 6 feet tall."
+      },
+      {
+        "question": "Does it have a side stand indicator?",
+        "answer": "Yes, it comes with a side stand indicator and engine cut-off feature."
+      }
+    ]
+  },
+  {
+    "name": "TVS Max 125",
+    "slug": "tvs-max-125",
+    "brand": "TVS",
+    "category": "Commuter",
+    "cc": 124.53,
+    "price": "Tk. 144,900",
+    "short_description": "TVS Max 125 - A 124.53cc commuter motorcycle offering excellent fuel efficiency, low maintenance costs, and reliable performance for daily commuting.",
+    "Zero_Sixty": "7.5 sec",
+    "Zero_Hundred": "18.2 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "60-62 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "115 kg",
+    "max_power": "10.5 PS @ 7500 rpm",
+    "max_torque": "10.5 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "N/A (Drum)",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "790 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2000 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Utilitarian with focus on durability",
+    "parts_availability": "Excellent",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139254/bikes/TVS/TVS%20max%20125/tvs-max-125-left-view.webp",
+          "alt": "TVS max 125 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139255/bikes/TVS/TVS%20max%20125/tvs-max-125-right-view.webp",
+          "alt": "TVS max 125 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139256/bikes/TVS/TVS%20max%20125/tvs-max-125-showroom-view.webp",
+          "alt": "TVS max 125 Showroom View"
+        }
+      ],
+    "pros": [
+      "Exceptional fuel efficiency",
+      "Low maintenance costs",
+      "Lightweight and easy to handle",
+      "Comfortable upright riding position",
+      "Affordable spare parts"
+    ],
+    "cons": [
+      "Basic drum brakes lack stopping power",
+      "Outdated 4-speed gearbox",
+      "No modern features",
+      "Vibrations at higher speeds",
+      "Tubed tyres"
+    ],
+    "faqs": [
+      {
+        "question": "What's the service interval?",
+        "answer": "Recommended service interval is every 3,000 km or 3 months, whichever comes first."
+      },
+      {
+        "question": "Does it have electric start?",
+        "answer": "Yes, it comes with both kick and electric start options."
+      },
+      {
+        "question": "Is it suitable for highway riding?",
+        "answer": "While capable, it's best suited for city commuting due to its 90 kmph comfortable cruising speed."
+      },
+      {
+        "question": "What's the warranty period?",
+        "answer": "Standard warranty is 2 years or 30,000 km, whichever comes first."
+      }
+    ]
+  },
+  {
+    "name": "TVS Max 125 ST",
+    "slug": "tvs-max-125-st",
+    "brand": "TVS",
+    "category": "Commuter",
+    "cc": 124.53,
+    "price": "Tk. 127,990",
+    "short_description": "TVS Max 125 ST - A more affordable variant of the Max 125 with similar 124.53cc engine but with cost-saving measures for budget-conscious buyers.",
+    "Zero_Sixty": "7.8 sec",
+    "Zero_Hundred": "18.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "66 kmpl",
+    "mileage_reported": "61-63 kmpl",
+    "top_speed_claimed": "93 km/h",
+    "top_speed_reported": "88 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "113 kg",
+    "max_power": "10.2 PS @ 7500 rpm",
+    "max_torque": "10.2 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "N/A (Drum)",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "790 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2000 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Basic but durable",
+    "parts_availability": "Excellent",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139254/bikes/TVS/TVS%20max%20125/tvs-max-125-left-view.webp",
+          "alt": "TVS max 125 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139255/bikes/TVS/TVS%20max%20125/tvs-max-125-right-view.webp",
+          "alt": "TVS max 125 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139256/bikes/TVS/TVS%20max%20125/tvs-max-125-showroom-view.webp",
+          "alt": "TVS max 125 Showroom View"
+        }
+      ],
+    "pros": [
+      "Most affordable 125cc commuter",
+      "Even better mileage than standard Max 125",
+      "Lightest in its category",
+      "Proven reliable engine",
+      "Lowest maintenance costs"
+    ],
+    "cons": [
+      "No electric start (kick start only)",
+      "Very basic instrumentation",
+      "Smaller 3.5L fuel tank",
+      "No modern features",
+      "Weak headlight illumination"
+    ],
+    "faqs": [
+      {
+        "question": "What's different from regular Max 125?",
+        "answer": "The ST variant has kick start only, smaller fuel tank, and simpler switchgear to reduce costs."
+      },
+      {
+        "question": "Is the engine same as Max 125?",
+        "answer": "Yes, but tuned slightly differently for better mileage at the cost of some power."
+      },
+      {
+        "question": "Does it have a trip meter?",
+        "answer": "No, it comes with a basic analog speedometer without trip meter."
+      },
+      {
+        "question": "What colors are available?",
+        "answer": "Available in basic colors - Black, Red, and Blue with minimal graphics."
+      }
+    ]
+  },
+  {
+    "name": "TVS Metro ELS",
+    "slug": "tvs-metro-els",
+    "brand": "TVS",
+    "category": "Scooter",
+    "cc": 99.7,
+    "price": "Tk. 114,900",
+    "short_description": "TVS Metro ELS - An economical 99.7cc scooter designed for urban commuting with easy-to-use features, excellent mileage, and low running costs.",
+    "Zero_Sixty": "11.2 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "60 kmpl",
+    "mileage_reported": "55-58 kmpl",
+    "top_speed_claimed": "80 km/h",
+    "top_speed_reported": "75 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "102 kg",
+    "max_power": "6.7 PS @ 7000 rpm",
+    "max_torque": "7.5 Nm @ 5000 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "N/A (Drum)",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "3.50-10",
+    "rear_tyre_size": "3.50-10",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "4.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "760 mm",
+    "ground_clearance": "150 mm",
+    "overall_length": "1790 mm",
+    "overall_width": "680 mm",
+    "build_quality": "Basic but reliable",
+    "parts_availability": "Excellent",
+     "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139256/bikes/TVS/TVS%20metro/tvs-metro-left-view.webp",
+          "alt": "TVS metro Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139257/bikes/TVS/TVS%20metro/tvs-metro-right-view.webp",
+          "alt": "TVS metro Right View"
+        }
+      ],
+    "pros": [
+      "Most affordable TVS scooter",
+      "Excellent fuel efficiency",
+      "Very lightweight and maneuverable",
+      "Low maintenance costs",
+      "Comfortable for short commutes"
+    ],
+    "cons": [
+      "Basic drum brakes",
+      "Small wheels affect stability",
+      "Limited under-seat storage",
+      "Weak headlight at night",
+      "No modern features"
+    ],
+    "faqs": [
+      {
+        "question": "What does ELS stand for?",
+        "answer": "ELS stands for 'Easy Lift System' - a feature that makes it easier to lift the scooter onto its center stand."
+      },
+      {
+        "question": "Is it suitable for heavy riders?",
+        "answer": "Best suited for riders up to 70kg; performance drops noticeably with heavier loads."
+      },
+      {
+        "question": "Does it have a charging port?",
+        "answer": "No, the base ELS variant doesn't include a charging port."
+      },
+      {
+        "question": "What's the warranty coverage?",
+        "answer": "Comes with 2 years or 30,000 km warranty, whichever comes first."
+      }
+    ]
+  },
+
+  {
+    "name": "TVS Metro KLS",
+    "slug": "tvs-metro-kls",
+    "brand": "TVS",
+    "category": "Scooter",
+    "cc": 99.7,
+    "price": "Tk. 93,000",
+    "short_description": "TVS Metro KLS - An ultra-affordable 99.7cc commuter scooter with kick-start only, designed for budget-conscious buyers seeking reliable urban transportation.",
+    "Zero_Sixty": "12.5 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "62 kmpl",
+    "mileage_reported": "57-60 kmpl",
+    "top_speed_claimed": "75 km/h",
+    "top_speed_reported": "70 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "98 kg",
+    "max_power": "6.5 PS @ 7000 rpm",
+    "max_torque": "7.2 Nm @ 5000 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "N/A (Drum)",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "3.50-10",
+    "rear_tyre_size": "3.50-10",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "4 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "750 mm",
+    "ground_clearance": "150 mm",
+    "overall_length": "1780 mm",
+    "overall_width": "675 mm",
+    "build_quality": "Basic but functional",
+    "parts_availability": "Excellent",
+     "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139256/bikes/TVS/TVS%20metro/tvs-metro-left-view.webp",
+          "alt": "TVS metro Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139257/bikes/TVS/TVS%20metro/tvs-metro-right-view.webp",
+          "alt": "TVS metro Right View"
+        }
+      ],
+    "pros": [
+      "Most affordable TVS two-wheeler",
+      "Excellent fuel efficiency",
+      "Lightest scooter in TVS lineup",
+      "Low maintenance costs",
+      "Easy to maneuver in traffic"
+    ],
+    "cons": [
+      "Kick-start only (no electric start)",
+      "Very basic features",
+      "Small 4L fuel tank",
+      "Weak braking performance",
+      "Uncomfortable for long rides"
+    ],
+    "faqs": [
+      {
+        "question": "What does KLS stand for?",
+        "answer": "KLS stands for 'Kick Start' version, indicating it doesn't have electric start functionality."
+      },
+      {
+        "question": "Is it suitable for hilly areas?",
+        "answer": "The small engine struggles on steep inclines; better suited for flat urban areas."
+      },
+      {
+        "question": "Does it have any storage space?",
+        "alt": "TVS Metro Plus 110 RE Drum Front View"
+      },
+      {
+        "url": "https://cdn.example.com/tvs-metro-plus-drum-side.webp",
+        "alt": "TVS Metro Plus 110 RE Drum Side View"
+      }
+    ]
+  },
+  {
+    "name": "TVS Ntorq 125",
+    "slug": "tvs-ntorq-125",
+    "brand": "TVS",
+    "category": "Sporty Scooter",
+    "cc": 124.8,
+    "price": "Tk. 204,900",
+    "short_description": "TVS Ntorq 125 - A sporty 124.8cc performance scooter with race-inspired design, liquid-cooled engine, and premium features for young enthusiasts.",
+    "Zero_Sixty": "7.8 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-42 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc, Rear Drum (CBS)",
+    "gear": "CVT Automatic",
+    "weight": "118 kg",
+    "max_power": "9.25 PS @ 7500 rpm",
+    "max_torque": "10.5 Nm @ 5500 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "220 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "120/70-12",
+    "rear_tyre_size": "130/70-12",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5.8 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Full Digital with TVS SmartXonnect",
+    "seat_height": "770 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "1875 mm",
+    "overall_width": "710 mm",
+    "build_quality": "Sporty with premium finishes",
+    "parts_availability": "Widely available",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926363/bikes/TVS/tvs-ntorq/tvs-ntorq-125-back-view.webp",
+          "alt": "tvs-ntorq 125 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926364/bikes/TVS/tvs-ntorq/tvs-ntorq-125-front-view.webp",
+          "alt": "tvs-ntorq 125 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926365/bikes/TVS/tvs-ntorq/tvs-ntorq-125-left-view.webp",
+          "alt": "tvs-ntorq 125 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926366/bikes/TVS/tvs-ntorq/tvs-ntorq-125-right-view.webp",
+          "alt": "tvs-ntorq 125 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926366/bikes/TVS/tvs-ntorq/tvs-ntorq-125-showroom-view.webp",
+          "alt": "tvs-ntorq 125 Showroom View"
+        }
+      ] ,
+    "pros": [
+      "Peppy liquid-cooled engine",
+      "Sporty handling and styling",
+      "Full digital instrument cluster",
+      "LED lighting with DRLs",
+      "Good storage space (22L)"
+    ],
+    "cons": [
+      "Firm ride quality",
+      "Small fuel tank",
+      "Pillion seat could be better",
+      "Expensive for 125cc segment",
+      "Vibrations at high speeds"
+    ],
+    "faqs": [
+      {
+        "question": "Does it have ABS?",
+        "answer": "The Race Edition variant comes with ABS, but standard version has CBS (Combi Braking System)."
+      },
+      {
+        "question": "What's special about SmartXonnect?",
+        "answer": "It offers Bluetooth connectivity for calls, SMS alerts, navigation assist, and ride analytics."
+      },
+      {
+        "question": "Is it good for highway riding?",
+        "answer": "Can cruise at 80-85 kmph comfortably, but limited by small wheels for extended highway use."
+      },
+      {
+        "question": "What's the service interval?",
+        "answer": "Recommended service every 3,000 km or 3 months due to performance-oriented engine."
+      }
+    ]
+  },
+  {
+    "name": "TVS Radeon",
+    "slug": "tvs-radeon",
+    "brand": "TVS",
+    "category": "Commuter",
+    "cc": 109.7,
+    "price": "Tk. 107,999",
+    "short_description": "TVS Radeon - A 109.7cc commuter motorcycle with retro-classic styling, comfortable ergonomics, and fuel-efficient performance for daily commuting.",
+    "Zero_Sixty": "9.2 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "70 kmpl",
+    "mileage_reported": "65-68 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "112 kg",
+    "max_power": "8.08 PS @ 7000 rpm",
+    "max_torque": "8.7 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "N/A (Drum)",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Combo",
+    "seat_height": "790 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "2045 mm",
+    "overall_width": "780 mm",
+    "build_quality": "Retro styling with modern reliability",
+    "parts_availability": "Excellent",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926367/bikes/TVS/tvs-radeon/tvs-radeon-back-view.webp",
+          "alt": "tvs-radeon Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926368/bikes/TVS/tvs-radeon/tvs-radeon-front-view.webp",
+          "alt": "tvs-radeon Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926369/bikes/TVS/tvs-radeon/tvs-radeon-left-view.webp",
+          "alt": "tvs-radeon Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926370/bikes/TVS/tvs-radeon/tvs-radeon-right-view.webp",
+          "alt": "tvs-radeon Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926370/bikes/TVS/tvs-radeon/tvs-radeon-showroom-view.webp",
+          "alt": "tvs-radeon Showroom View"
+        }
+      ] ,
+    "pros": [
+      "Excellent fuel efficiency",
+      "Comfortable upright riding position",
+      "Classic retro styling",
+      "Low maintenance costs",
+      "Good pillion comfort"
+    ],
+    "cons": [
+      "Basic drum brakes",
+      "Outdated 4-speed gearbox",
+      "Limited power for highways",
+      "No modern features",
+      "Heavy for its engine capacity"
+    ],
+    "faqs": [
+      {
+        "question": "What's unique about Radeon's design?",
+        "answer": "It features retro-classic styling with round headlamp, chrome accents, and vintage-inspired body lines."
+      },
+      {
+        "question": "Does it have electric start?",
+        "answer": "Yes, it comes with both kick and electric start options."
+      },
+      {
+        "question": "Is it suitable for tall riders?",
+        "answer": "Yes, the upright ergonomics and 790mm seat height accommodate tall riders comfortably."
+      },
+      {
+        "question": "What's the warranty period?",
+        "answer": "Standard warranty is 3 years or 40,000 km, whichever comes first."
+      }
+    ]
+  },
+  {
+    "name": "TVS Raider",
+    "slug": "tvs-raider",
+    "brand": "TVS",
+    "category": "Street",
+    "cc": 124.8,
+    "price": "Tk. 169,900",
+    "short_description": "TVS Raider - A 124.8cc sporty commuter motorcycle with aggressive styling, segment-first features, and peppy performance for young riders.",
+    "Zero_Sixty": "7.2 sec",
+    "Zero_Hundred": "18.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "67 kmpl",
+    "mileage_reported": "62-65 kmpl",
+    "top_speed_claimed": "99 km/h",
+    "top_speed_reported": "95 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "123 kg",
+    "max_power": "11.2 PS @ 7500 rpm",
+    "max_torque": "11.2 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-17",
+    "rear_tyre_size": "120/80-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "780 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "810 mm",
+    "build_quality": "Sporty with premium touches",
+    "parts_availability": "Widely available",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926371/bikes/TVS/tvs-raider/tvs-raider-back-view.webp",
+          "alt": "tvs-raider Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926372/bikes/TVS/tvs-raider/tvs-raider-front-view.webp",
+          "alt": "tvs-raider Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926373/bikes/TVS/tvs-raider/tvs-raider-left-view.webp",
+          "alt": "tvs-raider Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926374/bikes/TVS/tvs-raider/tvs-raider-right-view.webp",
+          "alt": "tvs-raider Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926375/bikes/TVS/tvs-raider/tvs-raider-showroom-view.webp",
+          "alt": "tvs-raider Showroom View"
+        }
+      ],
+    "pros": [
+      "Sporty design with LED lighting",
+      "Peppy 125cc engine performance",
+      "Comfortable ergonomics",
+      "Good fuel efficiency",
+      "5-speed gearbox"
+    ],
+    "cons": [
+      "No ABS option",
+      "Small pillion seat",
+      "Vibrations at high RPM",
+      "Limited color options",
+      "Basic instrument cluster"
+    ],
+    "faqs": [
+      {
+        "question": "Does Raider have any special features?",
+        "answer": "Yes, it offers a Glide Through Technology (GTT) for easier low-speed maneuvering in traffic."
+      },
+      {
+        "question": "Is it suitable for highway riding?",
+        "answer": "It can handle short highway stints comfortably at 80-85 kmph, but isn't designed for long highway tours."
+      },
+      {
+        "question": "What's the service interval?",
+        "answer": "Recommended service every 3,000 km or 3 months, whichever comes first."
+      },
+      {
+        "question": "Does it have a gear position indicator?",
+        "answer": "Yes, the digital console includes a gear position indicator."
+      }
+    ]
+  },
+  {
+    "name": "TVS Rockz",
+    "slug": "tvs-rockz",
+    "brand": "TVS",
+    "category": "Scooter",
+    "cc": 125,
+    "price": "Tk. 153,900",
+    "short_description": "TVS Rockz - A rugged 125cc scooter with muscular styling, long travel suspension, and all-terrain capabilities for adventurous urban commuting.",
+    "Zero_Sixty": "9.5 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "55 kmpl",
+    "mileage_reported": "50-53 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "116 kg",
+    "max_power": "8.3 PS @ 7000 rpm",
+    "max_torque": "8.7 Nm @ 5500 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "190 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "120/70-12",
+    "rear_tyre_size": "130/70-12",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Combo",
+    "seat_height": "775 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "1865 mm",
+    "overall_width": "715 mm",
+    "build_quality": "Rugged with off-road styling",
+    "parts_availability": "Good",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139258/bikes/TVS/TVS%20rockz/tvs-rockz-left-view.webp",
+          "alt": "TVS rockz Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139259/bikes/TVS/TVS%20rockz/tvs-rockz-right-view.webp",
+          "alt": "TVS rockz Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139259/bikes/TVS/TVS%20rockz/tvs-rockz-showroom-view.webp",
+          "alt": "TVS rockz Showroom View"
+        }
+      ],
+    "pros": [
+      "Rugged styling with crash guards",
+      "Long travel suspension for bad roads",
+      "Comfortable upright riding position",
+      "Good ground clearance",
+      "Practical storage options"
+    ],
+    "cons": [
+      "Heavier than regular scooters",
+      "Basic instrumentation",
+      "Small fuel tank",
+      "Vibrations at high speed",
+      "Limited color choices"
+    ],
+    "faqs": [
+      {
+        "question": "Is Rockz suitable for off-road?",
+        "answer": "While it has rugged styling, it's primarily designed for rough urban roads rather than true off-roading."
+      },
+      {
+        "question": "What's the storage capacity?",
+        "answer": "It offers 18L under-seat storage plus optional front storage box."
+      },
+      {
+        "question": "Does it have a charging port?",
+        "answer": "Yes, it comes with a 12V charging socket."
+      },
+      {
+        "question": "Is the suspension adjustable?",
+        "answer": "No, it comes with fixed long-travel suspension setup."
+      }
+    ]
+  },
+  {
+    "name": "TVS Stryker",
+    "slug": "tvs-stryker",
+    "brand": "TVS",
+    "category": "Commuter",
+    "cc": 125,
+    "price": "Tk. 144,999",
+    "short_description": "TVS Stryker - A 125cc commuter motorcycle with bold streetfighter styling, comfortable ergonomics, and reliable performance for daily commuting.",
+    "Zero_Sixty": "8.5 sec",
+    "Zero_Hundred": "20.2 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "60-63 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "120 kg",
+    "max_power": "10.5 PS @ 7500 rpm",
+    "max_torque": "10.5 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "100/90-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Combo",
+    "seat_height": "800 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "2045 mm",
+    "overall_width": "785 mm",
+    "build_quality": "Robust streetfighter design",
+    "parts_availability": "Good",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139260/bikes/TVS/TVS%20Stryker/tvs-stryker-left-view.webp",
+          "alt": "TVS Stryker Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139261/bikes/TVS/TVS%20Stryker/tvs-stryker-right-view.webp",
+          "alt": "TVS Stryker Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139262/bikes/TVS/TVS%20Stryker/tvs-stryker-showroom-view.webp",
+          "alt": "TVS Stryker Showroom View"
+        }
+      ],
+    "pros": [
+      "Aggressive streetfighter styling",
+      "Comfortable upright riding position",
+      "Good fuel efficiency",
+      "5-speed gearbox",
+      "Large 12L fuel tank"
+    ],
+    "cons": [
+      "Basic instrumentation",
+      "No ABS option",
+      "Vibrations at high RPM",
+      "Heavy for 125cc segment",
+      "Limited color options"
+    ],
+    "faqs": [
+      {
+        "question": "What's unique about Stryker's design?",
+        "answer": "It features sharp streetfighter styling with angular bodywork, twin-pod headlight, and muscular fuel tank."
+      },
+      {
+        "question": "Is it suitable for tall riders?",
+        "answer": "Yes, the 800mm seat height and upright ergonomics accommodate tall riders well."
+      },
+      {
+        "question": "What's the service interval?",
+        "answer": "Recommended service every 3,000 km or 3 months, whichever comes first."
+      },
+      {
+        "question": "Does it have a gear position indicator?",
+        "answer": "Yes, the semi-digital console includes a gear position indicator."
+      }
+    ]
+  },
+  {
+    "name": "TVS Wego 110",
+    "slug": "tvs-wego-110",
+    "brand": "TVS",
+    "category": "Scooter",
+    "cc": 109.7,
+    "price": "Tk. 164,999",
+    "short_description": "TVS Wego 110 - A stylish and practical 110cc scooter with good mileage and comfortable ergonomics for city commuting.",
+    "Zero_Sixty": "9.5 sec",
+    "Zero_Hundred": "25.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "55 kmpl",
+    "mileage_reported": "50-53 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "108 kg",
+    "max_power": "7.9 PS @ 7500 rpm",
+    "max_torque": "8.3 Nm @ 5500 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-12",
+    "rear_tyre_size": "90/90-12",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "770 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1820 mm",
+    "overall_width": "710 mm",
+    "build_quality": "Practical urban scooter",
+    "parts_availability": "Excellent nationwide",
+     "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926376/bikes/TVS/tvs-wego/tvs-wego-back-view.webp",
+          "alt": "tvs-wego Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926377/bikes/TVS/tvs-wego/tvs-wego-front-view.webp",
+          "alt": "tvs-wego Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926378/bikes/TVS/tvs-wego/tvs-wego-left-view.webp",
+          "alt": "tvs-wego Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926379/bikes/TVS/tvs-wego/tvs-wego-right-view.webp",
+          "alt": "tvs-wego Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926380/bikes/TVS/tvs-wego/tvs-wego-showroom-view.webp",
+          "alt": "tvs-wego Showroom View"
+        }
+      ],
+    "pros": [
+      "Lightweight and easy to handle",
+      "Comfortable seat for city rides",
+      "Tubeless tires for safety",
+      "Low maintenance costs",
+      "LED taillight"
+    ],
+    "cons": [
+      "Basic drum brakes",
+      "Low power output",
+      "Small fuel tank",
+      "No disc brake option",
+      "Average mileage"
+    ],
+    "faqs": [
+      {"question": "ABS available?", "answer": "No, only drum brakes."},
+      {"question": "Suitable for highways?", "answer": "Best for city use; struggles at 80kmph+."},
+      {"question": "Service cost?", "answer": "~Tk. 700-900 per service."},
+      {"question": "Weight capacity?", "answer": "140kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "TVS XL 100",
+    "slug": "tvs-xl-100",
+    "brand": "TVS",
+    "category": "Moped",
+    "cc": 99.7,
+    "price": "Tk. 88,999",
+    "short_description": "TVS XL 100 - A rugged and economical 100cc moped known for its durability, high mileage and load-carrying capacity.",
+    "Zero_Sixty": "12.5 sec",
+    "Zero_Hundred": "30.8 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "75 kmpl",
+    "mileage_reported": "70-73 kmpl",
+    "top_speed_claimed": "70 km/h",
+    "top_speed_reported": "65 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "3-speed manual",
+    "weight": "85 kg",
+    "max_power": "5.7 PS @ 6000 rpm",
+    "max_torque": "6.5 Nm @ 4000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "110 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-14",
+    "rear_tyre_size": "3.00-14",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "4.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "760 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "1800 mm",
+    "overall_width": "700 mm",
+    "build_quality": "Heavy-duty moped",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139263/bikes/TVS/TVS%20XL%20100/tvs-xl-100-left-view.webp",
+          "alt": "TVS XL 100 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139264/bikes/TVS/TVS%20XL%20100/tvs-xl-100-right-view.webp",
+          "alt": "TVS XL 100 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139264/bikes/TVS/TVS%20XL%20100/tvs-xl-100-showroom-view.webp",
+          "alt": "TVS XL 100 Showroom View"
+        }
+      ],
+    "pros": [
+      "Extremely affordable",
+      "Unbeatable mileage",
+      "Durable and low-maintenance",
+      "Lightweight",
+      "Ideal for load-carrying"
+    ],
+    "cons": [
+      "Very slow acceleration",
+      "Basic drum brakes",
+      "No modern features",
+      "Uncomfortable for long rides",
+      "Tube-type tires"
+    ],
+    "faqs": [
+      {"question": "Top speed?", "answer": "65kmph (claimed 70kmph)."},
+      {"question": "Service cost?", "answer": "Cheapest; ~Tk. 500 per service."},
+      {"question": "Weight capacity?", "answer": "120kg (rider + cargo)."},
+      {"question": "Highway use?", "answer": "Not recommended; best for short city trips."}
+    ]
+  },
+  {
+    "name": "TVS XL 100 Comfort",
+    "slug": "tvs-xl-100-comfort",
+    "brand": "TVS",
+    "category": "Moped",
+    "cc": 99.7,
+    "price": "Tk. 103,900",
+    "short_description": "TVS XL 100 Comfort - An upgraded version of the XL 100 with improved seating and suspension for better ride comfort.",
+    "Zero_Sixty": "12.2 sec",
+    "Zero_Hundred": "30.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "74 kmpl",
+    "mileage_reported": "69-72 kmpl",
+    "top_speed_claimed": "70 km/h",
+    "top_speed_reported": "65 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "3-speed manual",
+    "weight": "87 kg",
+    "max_power": "5.7 PS @ 6000 rpm",
+    "max_torque": "6.5 Nm @ 4000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "110 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-14",
+    "rear_tyre_size": "3.00-14",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "4.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "760 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "1800 mm",
+    "overall_width": "700 mm",
+    "build_quality": "Improved comfort moped",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139263/bikes/TVS/TVS%20XL%20100/tvs-xl-100-left-view.webp",
+          "alt": "TVS XL 100 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139264/bikes/TVS/TVS%20XL%20100/tvs-xl-100-right-view.webp",
+          "alt": "TVS XL 100 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139264/bikes/TVS/TVS%20XL%20100/tvs-xl-100-showroom-view.webp",
+          "alt": "TVS XL 100 Showroom View"
+        }
+      ],
+    "pros": [
+      "More comfortable seat",
+      "Better suspension",
+      "Same legendary durability",
+      "Excellent mileage",
+      "Affordable pricing"
+    ],
+    "cons": [
+      "Still very slow",
+      "No disc brakes",
+      "Basic features",
+      "Not for highways",
+      "Tube-type tires"
+    ],
+    "faqs": [
+      {"question": "Difference from standard XL 100?", "answer": "Comfort has better seat, suspension, and minor cosmetic upgrades."},
+      {"question": "Top speed?", "answer": "65kmph (same as standard XL 100)."},
+      {"question": "Weight capacity?", "answer": "120kg (rider + cargo)."},
+      {"question": "Service cost?", "answer": "~Tk. 600 per service."}
+    ]
+  },
+  {
+    "name": "TVS XL 100 ES",
+    "slug": "tvs-xl-100-es",
+    "brand": "TVS",
+    "category": "Moped",
+    "cc": 99.7,
+    "price": "Tk. 78,900",
+    "short_description": "TVS XL 100 ES - The most basic and affordable variant of the XL 100 series, offering bare-bones functionality with unmatched fuel efficiency.",
+    "Zero_Sixty": "13.0 sec",
+    "Zero_Hundred": "31.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "76 kmpl",
+    "mileage_reported": "71-74 kmpl",
+    "top_speed_claimed": "70 km/h",
+    "top_speed_reported": "65 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "3-speed manual",
+    "weight": "83 kg",
+    "max_power": "5.5 PS @ 6000 rpm",
+    "max_torque": "6.3 Nm @ 4000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "110 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-14",
+    "rear_tyre_size": "3.00-14",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "4.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "760 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "1800 mm",
+    "overall_width": "700 mm",
+    "build_quality": "Basic moped",
+    "parts_availability": "Excellent nationwide",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139264/bikes/TVS/TVS%20XL%20100/tvs-xl-100-right-view.webp",
+          "alt": "TVS XL 100 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139263/bikes/TVS/TVS%20XL%20100/tvs-xl-100-left-view.webp",
+          "alt": "TVS XL 100 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139264/bikes/TVS/TVS%20XL%20100/tvs-xl-100-showroom-view.webp",
+          "alt": "TVS XL 100 Showroom View"
+        }
+      ],
+    "pros": [
+      "Lowest price in TVS lineup",
+      "Best-in-class mileage",
+      "Extremely low maintenance",
+      "Lightest weight",
+      "Ideal for short deliveries"
+    ],
+    "cons": [
+      "Very basic features",
+      "Uncomfortable for long rides",
+      "Slowest acceleration in class",
+      "No modern conveniences",
+      "Tube-type tires"
+    ],
+    "faqs": [
+      {"question": "Difference from standard XL 100?", "answer": "ES is lighter, has fewer features, and is cheaper."},
+      {"question": "Top speed?", "answer": "65kmph (same as other XL 100 variants)."},
+      {"question": "Service cost?", "answer": "As low as Tk. 400 per service."},
+      {"question": "Weight capacity?", "answer": "115kg (rider + cargo)."}
+    ]
+  },
+  {
+    "name": "TVS RTR 310",
+    "slug": "tvs-rtr-310",
+    "brand": "TVS",
+    "category": "Super Sport",
+    "cc": 312.2,
+    "price": "Tk. 4,80,000",
+    "short_description": "TVS RTR 310 - A high-performance 310cc supersport motorcycle with track-focused dynamics, premium components, and aggressive styling.",
+    "Zero_Sixty": "3.2 sec",
+    "Zero_Hundred": "7.8 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "30 kmpl",
+    "mileage_reported": "25-28 kmpl",
+    "top_speed_claimed": "160 km/h",
+    "top_speed_reported": "155 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "169 kg",
+    "max_power": "33.5 PS @ 9700 rpm",
+    "max_torque": "28.7 Nm @ 6650 rpm",
+    "clutch": "Slipper Assist",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "300 mm Disc",
+    "rear_brake": "240 mm Disc",
+    "caliper": {
+      "front": "Radial 4-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/70-17",
+    "rear_tyre_size": "150/60-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": true,
+    "traction_control": true,
+    "bluetooth_connectivity": true,
+    "display": "Full-color TFT",
+    "seat_height": "810 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "2005 mm",
+    "overall_width": "800 mm",
+    "build_quality": "Premium supersport",
+    "parts_availability": "Good in major cities",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139250/bikes/TVS/TVS%20Apache%20RTR%20310/tvs-apache-rtr-310-back-view.webp",
+          "alt": "TVS Apache RTR 310 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139251/bikes/TVS/TVS%20Apache%20RTR%20310/tvs-apache-rtr-310-front-view.webp",
+          "alt": "TVS Apache RTR 310 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139252/bikes/TVS/TVS%20Apache%20RTR%20310/tvs-apache-rtr-310-left-view.webp",
+          "alt": "TVS Apache RTR 310 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139252/bikes/TVS/TVS%20Apache%20RTR%20310/tvs-apache-rtr-310-right-view.webp",
+          "alt": "TVS Apache RTR 310 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139253/bikes/TVS/TVS%20Apache%20RTR%20310/tvs-apache-rtr-310-showroom-view.webp",
+          "alt": "TVS Apache RTR 310 Showroom View"
+        }
+      ],
+    "pros": [
+      "Track-focused performance",
+      "Premium suspension and brakes",
+      "Advanced electronics package",
+      "Aggressive styling",
+      "Full-color TFT display"
+    ],
+    "cons": [
+      "Very expensive",
+      "High maintenance costs",
+      "Not comfortable for daily commuting",
+      "Limited service network for premium bikes",
+      "Small fuel tank for a sportbike"
+    ],
+    "faqs": [
+      {"question": "ABS available?", "answer": "Yes, dual-channel ABS with Supermoto mode."},
+      {"question": "Suitable for beginners?", "answer": "Not recommended; very powerful for new riders."},
+      {"question": "Service cost?", "answer": "~Tk. 5,000-7,000 per service."},
+      {"question": "Weight capacity?", "answer": "180kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "TVS 300 RR",
+    "slug": "tvs-300-rr",
+    "brand": "TVS",
+    "category": "Racing Replica",
+    "cc": 312.2,
+    "price": "Tk. 500,000",
+    "short_description": "TVS 300 RR - A race-spec version of the RTR 310 with track-focused upgrades including lighter weight, more power, and racing components.",
+    "Zero_Sixty": "2.9 sec",
+    "Zero_Hundred": "7.2 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "25 kmpl",
+    "mileage_reported": "20-23 kmpl",
+    "top_speed_claimed": "170 km/h",
+    "top_speed_reported": "165 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "155 kg",
+    "max_power": "36 PS @ 10000 rpm",
+    "max_torque": "30 Nm @ 7000 rpm",
+    "clutch": "Slipper Assist",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "320 mm Disc",
+    "rear_brake": "240 mm Disc",
+    "caliper": {
+      "front": "Radial 4-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/70-17",
+    "rear_tyre_size": "150/60-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": true,
+    "traction_control": true,
+    "bluetooth_connectivity": false,
+    "display": "Full-color TFT",
+    "seat_height": "820 mm",
+    "ground_clearance": "185 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "790 mm",
+    "build_quality": "Race-spec",
+    "parts_availability": "Limited (race parts)",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139246/bikes/TVS/TVS%20Apache%20RR%20310/tvs-apache-rr-310-back-view.webp",
+          "alt": "TVS Apache RR 310 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139247/bikes/TVS/TVS%20Apache%20RR%20310/tvs-apache-rr-310-front-view.webp",
+          "alt": "TVS Apache RR 310 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139248/bikes/TVS/TVS%20Apache%20RR%20310/tvs-apache-rr-310-left-view.webp",
+          "alt": "TVS Apache RR 310 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139248/bikes/TVS/TVS%20Apache%20RR%20310/tvs-apache-rr-310-right-view.webp",
+          "alt": "TVS Apache RR 310 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139249/bikes/TVS/TVS%20Apache%20RR%20310/tvs-apache-rr-310-showroom-view.webp",
+          "alt": "TVS Apache RR 310 Showroom View"
+        }
+      ],
+    "pros": [
+      "Race-spec performance",
+      "Lighter weight than RTR 310",
+      "Higher power output",
+      "Track-focused ergonomics",
+      "Premium suspension components"
+    ],
+    "cons": [
+      "Extremely expensive",
+      "Not street-legal in some areas",
+      "Very uncomfortable for road use",
+      "Limited availability",
+      "High maintenance costs"
+    ],
+    "faqs": [
+      {"question": "ABS available?", "answer": "No, removed for racing purposes."},
+      {"question": "Street legal?", "answer": "Limited road legality; primarily for track use."},
+      {"question": "Service cost?", "answer": "~Tk. 8,000-10,000 per service."},
+      {"question": "Weight capacity?", "answer": "170kg (rider only; not designed for pillion)."}
+    ]
+  },
+  
+ {
+  "name": "Runner AD80S Alloy",
+  "slug": "runner-ad80s-alloy",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 85,
+  "price": "Tk. 79,000",
+  "short_description": "Runner AD80S Alloy is an 85cc commuter motorcycle designed for reliable and cost-effective daily travel within the city.",
+  "Zero_Sixty": "10.2 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "65 kmpl",
+  "mileage_reported": "60-68 kmpl",
+  "top_speed_claimed": "80 km/h",
+  "top_speed_reported": "75-80 km/h",
+  "braking": "Front Drum, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "87 kg",
+  "max_power": "5.6 PS @ 8000 rpm",
+  "max_torque": "5.5 Nm @ 6000 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "110 mm Drum",
+  "rear_brake": "110 mm Drum",
+  "caliper": {
+    "front": "N/A (Drum)",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.50-17",
+  "rear_tyre_size": "2.75-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "9.5 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog",
+  "seat_height": "780 mm",
+  "ground_clearance": "150 mm",
+  "overall_length": "1910 mm",
+  "overall_width": "710 mm",
+  "build_quality": "Value-oriented and light-weight",
+  "parts_availability": "Excellent",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139196/bikes/Runner/Runner%20AD%2080%20S%20Alloy/runner-ad-80s-alloy-back-view.webp",
+          "alt": "Runner AD 80 S Alloy Runner Ad 80S Alloy Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139197/bikes/Runner/Runner%20AD%2080%20S%20Alloy/runner-ad-80s-alloy-front-view.webp",
+          "alt": "Runner AD 80 S Alloy Runner Ad 80S Alloy Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139198/bikes/Runner/Runner%20AD%2080%20S%20Alloy/runner-ad-80s-alloy-left-view.webp",
+          "alt": "Runner AD 80 S Alloy Runner Ad 80S Alloy Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139199/bikes/Runner/Runner%20AD%2080%20S%20Alloy/runner-ad-80s-alloy-right-view.webp",
+          "alt": "Runner AD 80 S Alloy Runner Ad 80S Alloy Right View"
+        }
+      ],
+  "pros": [
+    "Great mileage",
+    "Lightweight and maneuverable",
+    "Affordable for beginners",
+    "Low maintenance",
+    "Alloy wheels offer better looks"
+  ],
+  "cons": [
+    "Low engine power",
+    "No disc brakes",
+    "Basic instrumentation",
+    "Not suitable for highways",
+    "Limited comfort for pillion"
+  ],
+  "faqs": [
+    {
+      "question": "What’s the top speed?",
+      "answer": "Runner claims up to 80 km/h under optimal conditions."
+    },
+    {
+      "question": "Is it good for rural roads?",
+      "answer": "Yes, it performs decently on village and city roads alike."
+    },
+    {
+      "question": "Does it come with self-start?",
+      "answer": "Yes, it includes both self and kick-start options."
+    },
+    {
+      "question": "How long does the engine last?",
+      "answer": "With regular maintenance, the engine is durable for over 50,000 km."
+    }
+  ]
+ },
+ {
+  "name": "Runner Bike RT 80",
+  "slug": "runner-bike-rt",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 86,
+  "price": "Tk. 59,000",
+  "short_description": "Runner Bike RT is one of the most affordable two-wheelers in Bangladesh, ideal for short-distance commuting with high fuel economy.",
+  "Zero_Sixty": "11.5 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "70 kmpl",
+  "mileage_reported": "65-75 kmpl",
+  "top_speed_claimed": "75 km/h",
+  "top_speed_reported": "70-75 km/h",
+  "braking": "Front Drum, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "86 kg",
+  "max_power": "4.8 PS @ 7500 rpm",
+  "max_torque": "5 Nm @ 6000 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "110 mm Drum",
+  "rear_brake": "110 mm Drum",
+  "caliper": {
+    "front": "N/A (Drum)",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.25-17",
+  "rear_tyre_size": "2.50-17",
+  "wheel_type": "Spoke",
+  "fuel_tank_capacity": "9 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog",
+  "seat_height": "770 mm",
+  "ground_clearance": "145 mm",
+  "overall_length": "1900 mm",
+  "overall_width": "700 mm",
+  "build_quality": "Basic commuter motorcycle",
+  "parts_availability": "Very good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139203/bikes/Runner/Runner%20Bike%20RT%2080/runner-bike-rt-80-left-view.webp",
+          "alt": "Runner Bike RT 80 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139204/bikes/Runner/Runner%20Bike%20RT%2080/runner-bike-rt-80-right-view.webp",
+          "alt": "Runner Bike RT 80 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139205/bikes/Runner/Runner%20Bike%20RT%2080/runner-bike-rt-80-showroom-view.webp",
+          "alt": "Runner Bike RT 80 Showroom View"
+        }
+      ],
+  "pros": [
+    "Extremely budget-friendly",
+    "High mileage",
+    "Easy to ride and maintain",
+    "Lightweight design",
+    "Good availability of parts"
+  ],
+  "cons": [
+    "Low performance",
+    "No alloy wheels",
+    "Very basic features",
+    "Not comfortable for long rides",
+    "No electric start"
+  ],
+  "faqs": [
+    {
+      "question": "Is Runner Bike RT suitable for students?",
+      "answer": "Yes, it’s affordable, fuel-efficient, and ideal for students."
+    },
+    {
+      "question": "Does it have a self-start?",
+      "answer": "No, it only has a kick-start mechanism."
+    },
+    {
+      "question": "What’s the fuel capacity?",
+      "answer": "It can hold up to 9 liters of petrol."
+    },
+    {
+      "question": "Can it carry two adults?",
+      "answer": "Yes, but it’s more comfortable for solo rides."
+    }
+  ]
+ },
+ {
+  "name": "Runner Bolt 165R",
+  "slug": "runner-bolt-165r",
+  "brand": "Runner",
+  "category": "Naked Sports",
+  "cc": 164.74,
+  "price": "Tk. 189,000",
+  "short_description": "Runner Bolt 165R is a muscular 165cc naked sports bike with aggressive design, disc brakes, and good city performance at an affordable price.",
+  "Zero_Sixty": "5.5 sec",
+  "Zero_Hundred": "12.8 sec",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "45 kmpl",
+  "mileage_reported": "40-45 kmpl",
+  "top_speed_claimed": "125 km/h",
+  "top_speed_reported": "120 km/h",
+  "braking": "Front Disc, Rear Disc",
+  "gear": "5-speed manual",
+  "weight": "143 kg",
+  "max_power": "13.2 PS @ 7500 rpm",
+  "max_torque": "14 Nm @ 6500 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "276 mm Disc",
+  "rear_brake": "220 mm Disc",
+  "caliper": {
+    "front": "Dual-piston",
+    "rear": "Single-piston"
+  },
+  "tyre_type": "Tubeless",
+  "front_tyre_size": "90/90-17",
+  "rear_tyre_size": "130/80-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "13 L",
+  "headlight_type": "Halogen with DRL",
+  "tail_light_type": "LED",
+  "projector_headlamp": false,
+  "drls": true,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Fully Digital LCD",
+  "seat_height": "800 mm",
+  "ground_clearance": "165 mm",
+  "overall_length": "2000 mm",
+  "overall_width": "730 mm",
+  "build_quality": "Aggressive and sporty",
+  "parts_availability": "Good",
+ "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139205/bikes/Runner/Runner%20Bolt%20165%20R/runner-bolt-165-r-left-view.webp",
+          "alt": "Runner Bolt 165 R Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139206/bikes/Runner/Runner%20Bolt%20165%20R/runner-bolt-165-r-right-view.webp",
+          "alt": "Runner Bolt 165 R Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139207/bikes/Runner/Runner%20Bolt%20165%20R/runner-bolt-165-r-showroom-view-black-orange.webp",
+          "alt": "Runner Bolt 165 R Showroom View Black Orange"
+        }
+      ],
+  "pros": [
+    "Aggressive styling",
+    "Dual disc brakes",
+    "Good fuel economy for segment",
+    "Sporty riding posture",
+    "Digital meter console"
+  ],
+  "cons": [
+    "Lacks ABS",
+    "Vibrations at higher speed",
+    "No LED headlight",
+    "Slightly heavy in traffic",
+    "Limited brand prestige in sports segment"
+  ],
+  "faqs": [
+    {
+      "question": "Does Runner Bolt 165R have ABS?",
+      "answer": "No, it doesn’t have ABS in this variant."
+    },
+    {
+      "question": "Is it suitable for long tours?",
+      "answer": "It can handle short tours but better suited for city rides."
+    },
+    {
+      "question": "Is the seat height beginner friendly?",
+      "answer": "At 800 mm, it's manageable for most average-height riders."
+    },
+    {
+      "question": "What's the mileage in daily use?",
+      "answer": "Users report 40–45 kmpl in city conditions."
+    }
+  ]
+ },
+ {
+  "name": "Runner Bolt 165R Dual Tone",
+  "slug": "runner-bolt-165r-dual-tone",
+  "brand": "Runner",
+  "category": "Naked Sports",
+  "cc": 164.74,
+  "price": "Tk. 179,000",
+  "short_description": "The Dual Tone edition of Runner Bolt 165R features sporty graphics and styling upgrades while retaining the same performance and specs.",
+  "Zero_Sixty": "5.5 sec",
+  "Zero_Hundred": "12.8 sec",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "45 kmpl",
+  "mileage_reported": "40-45 kmpl",
+  "top_speed_claimed": "125 km/h",
+  "top_speed_reported": "120 km/h",
+  "braking": "Front Disc, Rear Disc",
+  "gear": "5-speed manual",
+  "weight": "143 kg",
+  "max_power": "13.2 PS @ 7500 rpm",
+  "max_torque": "14 Nm @ 6500 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "276 mm Disc",
+  "rear_brake": "220 mm Disc",
+  "caliper": {
+    "front": "Dual-piston",
+    "rear": "Single-piston"
+  },
+  "tyre_type": "Tubeless",
+  "front_tyre_size": "90/90-17",
+  "rear_tyre_size": "130/80-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "13 L",
+  "headlight_type": "Halogen with DRL",
+  "tail_light_type": "LED",
+  "projector_headlamp": false,
+  "drls": true,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Fully Digital LCD",
+  "seat_height": "800 mm",
+  "ground_clearance": "165 mm",
+  "overall_length": "2000 mm",
+  "overall_width": "730 mm",
+  "build_quality": "Sporty with visual upgrades",
+  "parts_availability": "Good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139205/bikes/Runner/Runner%20Bolt%20165%20R/runner-bolt-165-r-left-view.webp",
+          "alt": "Runner Bolt 165 R Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139206/bikes/Runner/Runner%20Bolt%20165%20R/runner-bolt-165-r-right-view.webp",
+          "alt": "Runner Bolt 165 R Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139207/bikes/Runner/Runner%20Bolt%20165%20R/runner-bolt-165-r-showroom-view-black-orange.webp",
+          "alt": "Runner Bolt 165 R Showroom View Black Orange"
+        }
+      ],
+  "pros": [
+    "Sporty dual-tone design",
+    "Same performance as regular Bolt 165R",
+    "Dual disc brakes",
+    "Digital instrument panel",
+    "Affordable in its segment"
+  ],
+  "cons": [
+    "No ABS option",
+    "No mechanical upgrades over standard version",
+    "No LED headlight",
+    "Slightly aggressive seat height",
+    "Limited color options"
+  ],
+  "faqs": [
+    {
+      "question": "What’s the difference from regular Bolt 165R?",
+      "answer": "Primarily cosmetic upgrades – dual-tone paint and decals."
+    },
+    {
+      "question": "Is the engine same as standard model?",
+      "answer": "Yes, it shares the same engine and power output."
+    },
+    {
+      "question": "Does it have ABS?",
+      "answer": "No ABS is available in this version."
+    },
+    {
+      "question": "Are color options available?",
+      "answer": "Yes, dual-tone colors vary by showroom availability."
+    }
+  ]
+ },
+ {
+  "name": "Runner Bullet 100",
+  "slug": "runner-bullet-100",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 100.54,
+  "price": "Tk. 1,06,000",
+  "short_description": "Runner Bullet is a stylish 100cc commuter bike with attractive design, alloy wheels, and great fuel efficiency ideal for daily users.",
+  "Zero_Sixty": "9.0 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "60 kmpl",
+  "mileage_reported": "55-60 kmpl",
+  "top_speed_claimed": "90 km/h",
+  "top_speed_reported": "85-90 km/h",
+  "braking": "Front Drum, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "103 kg",
+  "max_power": "6.5 PS @ 8000 rpm",
+  "max_torque": "7 Nm @ 6000 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "130 mm Drum",
+  "rear_brake": "130 mm Drum",
+  "caliper": {
+    "front": "N/A (Drum)",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.75-17",
+  "rear_tyre_size": "3.00-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "10 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog",
+  "seat_height": "785 mm",
+  "ground_clearance": "160 mm",
+  "overall_length": "1950 mm",
+  "overall_width": "720 mm",
+  "build_quality": "Attractive budget commuter",
+  "parts_availability": "Very good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139208/bikes/Runner/Runner%20Bullet%20100/runner-bullet-100-back-view.webp",
+          "alt": "Runner Bullet 100 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139209/bikes/Runner/Runner%20Bullet%20100/runner-bullet-100-front-view.webp",
+          "alt": "Runner Bullet 100 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139211/bikes/Runner/Runner%20Bullet%20100/runner-bullet-100-left-view.webp",
+          "alt": "Runner Bullet 100 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139211/bikes/Runner/Runner%20Bullet%20100/runner-bullet-100-right-view.webp",
+          "alt": "Runner Bullet 100 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139213/bikes/Runner/Runner%20Bullet%20100/runner-bullet-100-showroom-view-black.webp",
+          "alt": "Runner Bullet 100 Showroom View Black"
+        }
+      ],
+  "pros": [
+    "Stylish commuter design",
+    "Alloy wheels included",
+    "Reliable for daily use",
+    "Affordable price",
+    "Easy maintenance"
+  ],
+  "cons": [
+    "No front disc brake",
+    "Halogen lighting only",
+    "Analog meter only",
+    "Average top speed",
+    "No advanced features"
+  ],
+  "faqs": [
+    {
+      "question": "Is it good for office commute?",
+      "answer": "Yes, it's fuel-efficient and perfect for short city rides."
+    },
+    {
+      "question": "Does it have self-start?",
+      "answer": "Yes, it has both self and kick-start."
+    },
+    {
+      "question": "What colors are available?",
+      "answer": "Usually red, black, and blue. Check local availability."
+    },
+    {
+      "question": "Does it come with alloy wheels?",
+      "answer": "Yes, the Runner Bullet comes with factory alloy wheels."
+    }
+  ]
+ },
+ {
+  "name": "Runner Bullet 100 v2",
+  "slug": "runner-bullet-100-v2",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 100,
+  "price": "Tk. 1,06,000",
+  "short_description": "Runner Bullet 100 v2 is an upgraded commuter motorcycle offering efficient fuel economy, stylish looks, and essential features for city riders.",
+  "Zero_Sixty": "9.5 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "60 kmpl",
+  "mileage_reported": "55-60 kmpl",
+  "top_speed_claimed": "90 km/h",
+  "top_speed_reported": "85-90 km/h",
+  "braking": "Front Drum, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "103 kg",
+  "max_power": "6.5 PS @ 8000 rpm",
+  "max_torque": "7 Nm @ 6000 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "130 mm Drum",
+  "rear_brake": "130 mm Drum",
+  "caliper": {
+    "front": "N/A (Drum)",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.75-17",
+  "rear_tyre_size": "3.00-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "10 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog",
+  "seat_height": "785 mm",
+  "ground_clearance": "160 mm",
+  "overall_length": "1950 mm",
+  "overall_width": "720 mm",
+  "build_quality": "Improved build for budget commuting",
+  "parts_availability": "Very good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139214/bikes/Runner/Runner%20Bullet%20100%20V2/runner-bullet-100-v2-back-view.webp",
+          "alt": "Runner Bullet 100 V2 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139215/bikes/Runner/Runner%20Bullet%20100%20V2/runner-bullet-100-v2-front-view.webp",
+          "alt": "Runner Bullet 100 V2 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139216/bikes/Runner/Runner%20Bullet%20100%20V2/runner-bullet-100-v2-left-view.webp",
+          "alt": "Runner Bullet 100 V2 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139217/bikes/Runner/Runner%20Bullet%20100%20V2/runner-bullet-100-v2-right-view.webp",
+          "alt": "Runner Bullet 100 V2 Right View"
+        }
+      ],
+  "pros": [
+    "Stylish commuter appearance",
+    "Improved fit and finish",
+    "Good mileage for city use",
+    "Affordable pricing",
+    "Reliable engine performance"
+  ],
+  "cons": [
+    "Still no disc brake option",
+    "Basic analog instrument cluster",
+    "Limited advanced features",
+    "Halogen lights only",
+    "No tubeless tyres"
+  ],
+  "faqs": [
+    {
+      "question": "Is the Bullet 100 v2 good for beginners?",
+      "answer": "Yes, it’s light, easy to handle, and very fuel-efficient."
+    },
+    {
+      "question": "Does it come with electric start?",
+      "answer": "Yes, it has both electric and kick-start features."
+    },
+    {
+      "question": "Are alloy wheels standard?",
+      "answer": "Yes, the v2 model includes alloy wheels as standard."
+    },
+    {
+      "question": "What is the real-world mileage?",
+      "answer": "Riders report 55–60 kmpl under normal city riding."
+    }
+  ]
+ },
+ {
+  "name": "Runner Cheeta 100",
+  "slug": "runner-cheeta-100",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 97.67,
+  "price": "Tk. 87,000",
+  "short_description": "Runner Cheeta is a compact and efficient commuter bike designed for economical city riding with reliable performance and easy handling.",
+  "Zero_Sixty": "10.0 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "65 kmpl",
+  "mileage_reported": "60-65 kmpl",
+  "top_speed_claimed": "85 km/h",
+  "top_speed_reported": "80-85 km/h",
+  "braking": "Front Drum, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "95 kg",
+  "max_power": "6 PS @ 7500 rpm",
+  "max_torque": "7 Nm @ 5000 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "110 mm Drum",
+  "rear_brake": "110 mm Drum",
+  "caliper": {
+    "front": "N/A (Drum)",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.50-17",
+  "rear_tyre_size": "2.75-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "8 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog",
+  "seat_height": "780 mm",
+  "ground_clearance": "150 mm",
+  "overall_length": "1900 mm",
+  "overall_width": "700 mm",
+  "build_quality": "Good for budget urban commuting",
+  "parts_availability": "Very good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139218/bikes/Runner/Runner%20Cheeta%20100/runner-cheeta-100-back-view.webp",
+          "alt": "Runner Cheeta 100 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139219/bikes/Runner/Runner%20Cheeta%20100/runner-cheeta-100-front-view.webp",
+          "alt": "Runner Cheeta 100 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139219/bikes/Runner/Runner%20Cheeta%20100/runner-cheeta-100-left-view.webp",
+          "alt": "Runner Cheeta 100 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139220/bikes/Runner/Runner%20Cheeta%20100/runner-cheeta-100-right-view.webp",
+          "alt": "Runner Cheeta 100 Right View"
+        }
+      ],
+  "pros": [
+    "Lightweight and easy to handle",
+    "Excellent fuel efficiency",
+    "Affordable price",
+    "Good build quality for the price",
+    "Smooth engine performance"
+  ],
+  "cons": [
+    "No disc brake option",
+    "Basic instrument cluster",
+    "Halogen lighting only",
+    "No advanced features",
+    "Tubed tyres instead of tubeless"
+  ],
+  "faqs": [
+    {
+      "question": "Is Runner Cheeta suitable for daily city commuting?",
+      "answer": "Yes, it is designed to be economical and reliable for daily urban rides."
+    },
+    {
+      "question": "Does it have electric start?",
+      "answer": "Yes, electric start is available along with kick start."
+    },
+    {
+      "question": "Are alloy wheels standard?",
+      "answer": "Yes, alloy wheels come standard with the Runner Cheeta."
+    },
+    {
+      "question": "What is the fuel tank capacity?",
+      "answer": "The fuel tank capacity is 8 liters."
+    }
+  ]
+ },
+ {
+  "name": "Runner AD 80S Deluxe",
+  "slug": "runner-ad-80s-deluxe",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 85,
+  "price": "Tk. 85,000",
+  "short_description": "Runner Deluxe is an entry-level commuter motorcycle offering simplicity, good mileage, and an affordable price for budget-conscious riders.",
+  "Zero_Sixty": "11.5 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "70 kmpl",
+  "mileage_reported": "65-70 kmpl",
+  "top_speed_claimed": "80 km/h",
+  "top_speed_reported": "75-80 km/h",
+  "braking": "Front Drum, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "90 kg",
+  "max_power": "5.5 PS @ 7000 rpm",
+  "max_torque": "6.5 Nm @ 4500 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "110 mm Drum",
+  "rear_brake": "110 mm Drum",
+  "caliper": {
+    "front": "N/A (Drum)",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.50-17",
+  "rear_tyre_size": "2.75-17",
+  "wheel_type": "Spoke",
+  "fuel_tank_capacity": "7 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog",
+  "seat_height": "780 mm",
+  "ground_clearance": "145 mm",
+  "overall_length": "1880 mm",
+  "overall_width": "700 mm",
+  "build_quality": "Basic yet reliable for daily use",
+  "parts_availability": "Good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139199/bikes/Runner/Runner%20AD%2080S%20Deluxe/runner-ad-80s-deluxe-back-view.webp",
+          "alt": "Runner AD 80S Deluxe Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139200/bikes/Runner/Runner%20AD%2080S%20Deluxe/runner-ad-80s-deluxe-left-view.webp",
+          "alt": "Runner AD 80S Deluxe Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139201/bikes/Runner/Runner%20AD%2080S%20Deluxe/runner-ad-80s-deluxe-right-view.webp",
+          "alt": "Runner AD 80S Deluxe Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139202/bikes/Runner/Runner%20AD%2080S%20Deluxe/runner-ad80s-deluxe-front-view.webp",
+          "alt": "Runner AD 80S Deluxe Runner Ad80S Deluxe Front View"
+        }
+      ],
+  "pros": [
+    "Very affordable price",
+    "Excellent fuel economy",
+    "Light and easy to ride",
+    "Low maintenance costs",
+    "Simple and reliable engine"
+  ],
+  "cons": [
+    "No alloy wheels, uses spoke wheels",
+    "No electric start in some variants",
+    "Basic instrument cluster",
+    "No advanced safety features",
+    "Tubed tyres only"
+  ],
+  "faqs": [
+    {
+      "question": "Is Runner Deluxe suitable for new riders?",
+      "answer": "Yes, it is lightweight and easy to manage, ideal for beginners."
+    },
+    {
+      "question": "Does it have an electric start?",
+      "answer": "Some variants have electric start; others rely on kick start."
+    },
+    {
+      "question": "What kind of wheels does it have?",
+      "answer": "The Deluxe uses spoke wheels instead of alloy."
+    },
+    {
+      "question": "What is the fuel tank capacity?",
+      "answer": "It has a 7-liter fuel tank."
+    }
+  ]
+ },
+ 
+ {
+  "name": "Runner F100 6A",
+  "slug": "runner-f100-6a",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 95.74,
+  "price": "Tk. 87,000",
+  "short_description": "Runner F100 6A is a smart commuter motorcycle that balances affordability, urban performance, and fuel efficiency, ideal for everyday Bangladeshi roads.",
+  "Zero_Sixty": "10.0 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "65 kmpl",
+  "mileage_reported": "60-65 kmpl",
+  "top_speed_claimed": "85 km/h",
+  "top_speed_reported": "80-85 km/h",
+  "braking": "Front Drum, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "98 kg",
+  "max_power": "6.3 PS @ 7500 rpm",
+  "max_torque": "7 Nm @ 5000 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "130 mm Drum",
+  "rear_brake": "130 mm Drum",
+  "caliper": {
+    "front": "N/A (Drum)",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.75-17",
+  "rear_tyre_size": "3.00-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "10 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog",
+  "seat_height": "790 mm",
+  "ground_clearance": "160 mm",
+  "overall_length": "1950 mm",
+  "overall_width": "720 mm",
+  "build_quality": "Balanced commuter with decent durability",
+  "parts_availability": "Very good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139221/bikes/Runner/Runner%20F100%206A/runner-f100-6a-back-view.webp",
+          "alt": "Runner F100 6A Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139222/bikes/Runner/Runner%20F100%206A/runner-f100-6a-front-view.webp",
+          "alt": "Runner F100 6A Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139223/bikes/Runner/Runner%20F100%206A/runner-f100-6a-left-view.webp",
+          "alt": "Runner F100 6A Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139223/bikes/Runner/Runner%20F100%206A/runner-f100-6a-right-view.webp",
+          "alt": "Runner F100 6A Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139224/bikes/Runner/Runner%20F100%206A/runner-f100-6a-showroom-view-red.webp",
+          "alt": "Runner F100 6A Showroom View Red"
+        }
+      ],
+  "pros": [
+    "Smooth engine performance",
+    "Good mileage and fuel economy",
+    "Stylish design with alloy wheels",
+    "Low maintenance costs",
+    "Comfortable riding position"
+  ],
+  "cons": [
+    "No disc brake even in front",
+    "No digital meter",
+    "Basic halogen lights",
+    "No advanced features",
+    "Tube tyres instead of tubeless"
+  ],
+  "faqs": [
+    {
+      "question": "Is Runner F100 6A good for long rides?",
+      "answer": "It's ideal for city and short highway commutes but not for high-speed touring."
+    },
+    {
+      "question": "Does it come with alloy wheels?",
+      "answer": "Yes, alloy wheels are standard."
+    },
+    {
+      "question": "What kind of braking system is used?",
+      "answer": "Both front and rear use drum brakes."
+    },
+    {
+      "question": "How is the fuel economy?",
+      "answer": "Riders report 60–65 kmpl in real-world use."
+    }
+  ]
+ },
+ {
+  "name": "Runner Kite+ 100",
+  "slug": "runner-kite-plus-100",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 110,
+  "price": "Tk. 99,000",
+  "short_description": "Runner Kite+ 100 is a smart and economical 110cc commuter motorcycle built for daily use, offering great fuel economy and sleek design for city riders.",
+  "Zero_Sixty": "9.8 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "65 kmpl",
+  "mileage_reported": "60-65 kmpl",
+  "top_speed_claimed": "90 km/h",
+  "top_speed_reported": "85-90 km/h",
+  "braking": "Front Drum, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "97 kg",
+  "max_power": "7.5 PS @ 7500 rpm",
+  "max_torque": "8 Nm @ 5500 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "130 mm Drum",
+  "rear_brake": "130 mm Drum",
+  "caliper": {
+    "front": "N/A (Drum)",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.75-17",
+  "rear_tyre_size": "3.00-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "9 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog",
+  "seat_height": "785 mm",
+  "ground_clearance": "160 mm",
+  "overall_length": "1950 mm",
+  "overall_width": "715 mm",
+  "build_quality": "Well-built for affordable city commuting",
+  "parts_availability": "Very good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139225/bikes/Runner/Runner%20Kite%2B%20110/runner-kite%2B-110-front-view.webp",
+          "alt": "Runner Kite+ 110 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139226/bikes/Runner/Runner%20Kite%2B%20110/runner-kite%2B-110-left-view.webp",
+          "alt": "Runner Kite+ 110 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139226/bikes/Runner/Runner%20Kite%2B%20110/runner-kite%2B-110-right-view.webp",
+          "alt": "Runner Kite+ 110 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139227/bikes/Runner/Runner%20Kite%2B%20110/runnner-kite%2B-110-back-view.webp",
+          "alt": "Runner Kite+ 110 Runnner Kite+ 110 Back View"
+        }
+      ],
+  "pros": [
+    "Stylish and slim commuter design",
+    "Decent power in 110cc segment",
+    "Fuel efficient",
+    "Alloy wheels standard",
+    "Affordable price"
+  ],
+  "cons": [
+    "No front disc brake",
+    "Analog display only",
+    "No LED lights",
+    "Lacks advanced safety tech",
+    "Tubed tyres"
+  ],
+  "faqs": [
+    {
+      "question": "Is Runner Kite+ good for students and beginners?",
+      "answer": "Yes, it's lightweight, fuel-efficient, and budget-friendly."
+    },
+    {
+      "question": "Does it have an electric start?",
+      "answer": "Yes, electric start is available."
+    },
+    {
+      "question": "Is the engine powerful enough for two riders?",
+      "answer": "Yes, for daily city rides, it handles pillion riding well."
+    },
+    {
+      "question": "What is the mileage in real-world usage?",
+      "answer": "Reported mileage ranges from 60–65 kmpl."
+    }
+  ]
+ },
+ {
+  "name": "Runner Knight Rider v2",
+  "slug": "runner-knight-rider-v2",
+  "brand": "Runner",
+  "category": "Standard",
+  "cc": 150,
+  "price": "Tk. 146,000",
+  "short_description": "Runner Knight Rider v2 is a sporty 150cc bike combining style and performance, designed for urban riders seeking both aesthetics and value.",
+  "Zero_Sixty": "7.5 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "45 kmpl",
+  "mileage_reported": "40-45 kmpl",
+  "top_speed_claimed": "120 km/h",
+  "top_speed_reported": "110-115 km/h",
+  "braking": "Front Disc, Rear Drum",
+  "gear": "5-speed manual",
+  "weight": "135 kg",
+  "max_power": "11.2 PS @ 8500 rpm",
+  "max_torque": "12.2 Nm @ 6500 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "240 mm Disc",
+  "rear_brake": "130 mm Drum",
+  "caliper": {
+    "front": "Single-piston",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.75-18",
+  "rear_tyre_size": "100/90-18",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "14 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "LED",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog-Digital",
+  "seat_height": "790 mm",
+  "ground_clearance": "165 mm",
+  "overall_length": "2050 mm",
+  "overall_width": "760 mm",
+  "build_quality": "Sporty design with enhanced urban performance",
+  "parts_availability": "Good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139231/bikes/Runner/Runner%20Knight%20Rider%20V2/runner-knight-rider-v2-back-view.webp",
+          "alt": "Runner Knight Rider V2 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139231/bikes/Runner/Runner%20Knight%20Rider%20V2/runner-knight-rider-v2-front-view.webp",
+          "alt": "Runner Knight Rider V2 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139232/bikes/Runner/Runner%20Knight%20Rider%20V2/runner-knight-rider-v2-left-view.webp",
+          "alt": "Runner Knight Rider V2 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139233/bikes/Runner/Runner%20Knight%20Rider%20V2/runner-knight-rider-v2-right-view.webp",
+          "alt": "Runner Knight Rider V2 Right View"
+        }
+      ],
+  "pros": [
+    "Sporty and stylish looks",
+    "Front disc brake",
+    "Large fuel tank capacity",
+    "Good power in 150cc segment",
+    "Comfortable for daily and weekend rides"
+  ],
+  "cons": [
+    "Rear drum brake only",
+    "No ABS or safety tech",
+    "Still uses halogen headlamp",
+    "Tubed tyres instead of tubeless",
+    "Could improve refinement at high rpm"
+  ],
+  "faqs": [
+    {
+      "question": "Is Runner Knight Rider v2 good for long rides?",
+      "answer": "Yes, it has enough power and fuel tank capacity for highway rides."
+    },
+    {
+      "question": "Does it come with a digital display?",
+      "answer": "It has an analog-digital combo display."
+    },
+    {
+      "question": "What is the real-world mileage?",
+      "answer": "Users report 40–45 kmpl in mixed usage."
+    },
+    {
+      "question": "Is there a rear disc version?",
+      "answer": "Currently, it comes only with rear drum brake."
+    }
+  ]
+ },
+ {
+  "name": "Runner KnightRider 150",
+  "slug": "runner-knightrider-150",
+  "brand": "Runner",
+  "category": "Standard",
+  "cc": 150,
+  "price": "Tk. 135,000",
+  "short_description": "Runner KnightRider 150 is a stylish and budget-friendly 150cc motorcycle offering urban performance, attractive design, and reliability for daily commuting.",
+  "Zero_Sixty": "8.0 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "50 kmpl",
+  "mileage_reported": "45-50 kmpl",
+  "top_speed_claimed": "115 km/h",
+  "top_speed_reported": "105-110 km/h",
+  "braking": "Front Disc, Rear Drum",
+  "gear": "5-speed manual",
+  "weight": "132 kg",
+  "max_power": "11 PS @ 8500 rpm",
+  "max_torque": "11.5 Nm @ 6500 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "240 mm Disc",
+  "rear_brake": "130 mm Drum",
+  "caliper": {
+    "front": "Single-piston",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.75-18",
+  "rear_tyre_size": "100/90-18",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "14 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "LED",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog-Digital",
+  "seat_height": "790 mm",
+  "ground_clearance": "165 mm",
+  "overall_length": "2045 mm",
+  "overall_width": "760 mm",
+  "build_quality": "Good sporty commuter in budget segment",
+  "parts_availability": "Very good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139228/bikes/Runner/Runner%20Knight%20Rider%20150/runner-knight-rider-150-back-view.webp",
+          "alt": "Runner Knight Rider 150 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139228/bikes/Runner/Runner%20Knight%20Rider%20150/runner-knight-rider-150-front-view.webp",
+          "alt": "Runner Knight Rider 150 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139229/bikes/Runner/Runner%20Knight%20Rider%20150/runner-knight-rider-150-left-view.webp",
+          "alt": "Runner Knight Rider 150 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139230/bikes/Runner/Runner%20Knight%20Rider%20150/runner-knight-rider-150-right-view.webp",
+          "alt": "Runner Knight Rider 150 Right View"
+        }
+      ],
+  "pros": [
+    "Sporty design for a budget bike",
+    "Fuel-efficient for 150cc",
+    "Front disc brake",
+    "Comfortable riding posture",
+    "Dual-tone styling"
+  ],
+  "cons": [
+    "Rear brake is drum type",
+    "Halogen headlamp instead of LED",
+    "Tubed tyres",
+    "Lacks modern tech features",
+    "Refinement could be improved"
+  ],
+  "faqs": [
+    {
+      "question": "Is KnightRider suitable for long rides?",
+      "answer": "Yes, it is comfortable for short highway rides and daily commuting."
+    },
+    {
+      "question": "Does it have digital display?",
+      "answer": "It features a semi-digital (analog-digital) console."
+    },
+    {
+      "question": "Are alloy wheels standard?",
+      "answer": "Yes, alloy wheels are standard on the KnightRider."
+    },
+    {
+      "question": "What is the real-world mileage?",
+      "answer": "Users report mileage of 45–50 kmpl depending on usage."
+    }
+  ]
+ },
+ {
+  "name": "Runner Royal+ V2",
+  "slug": "runner-royal-plus-v2",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 109.10,
+  "price": "Tk. 1,03,000",
+  "short_description": "Runner Royal+ V2 is an upgraded 110cc commuter motorcycle with refined styling, comfortable ride, and enhanced reliability for everyday urban mobility.",
+  "Zero_Sixty": "9.5 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "65 kmpl",
+  "mileage_reported": "60-65 kmpl",
+  "top_speed_claimed": "95 km/h",
+  "top_speed_reported": "90-95 km/h",
+  "braking": "Front Disc, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "114 kg",
+  "max_power": "8.5 PS @ 7500 rpm",
+  "max_torque": "8.5 Nm @ 6000 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "240 mm Disc",
+  "rear_brake": "130 mm Drum",
+  "caliper": {
+    "front": "Single-piston",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.75-17",
+  "rear_tyre_size": "3.00-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "10 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog-Digital",
+  "seat_height": "785 mm",
+  "ground_clearance": "165 mm",
+  "overall_length": "2000 mm",
+  "overall_width": "765 mm",
+  "build_quality": "Well-built city commuter with modern styling",
+  "parts_availability": "Excellent",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139234/bikes/Runner/Runner%20Royal%2B%20110/runner-royal-%2B-110-back-view.webp",
+          "alt": "Runner Royal+ 110 Runner Royal + 110 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139234/bikes/Runner/Runner%20Royal%2B%20110/runner-royal-%2B-110-left-view.webp",
+          "alt": "Runner Royal+ 110 Runner Royal + 110 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139235/bikes/Runner/Runner%20Royal%2B%20110/runner-royal-%2B-110-right-view.webp",
+          "alt": "Runner Royal+ 110 Runner Royal + 110 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139236/bikes/Runner/Runner%20Royal%2B%20110/runner-royal-%2B-110%3Dfront-view.webp",
+          "alt": "Runner Royal+ 110 Runner Royal + 110=Front View"
+        }
+      ],
+  "pros": [
+    "Disc brake at front",
+    "Modern commuter styling",
+    "Great fuel economy",
+    "Reliable engine",
+    "Comfortable for city use"
+  ],
+  "cons": [
+    "No LED lighting",
+    "Rear brake is drum type",
+    "No digital-only display",
+    "No tubeless tyres",
+    "Lacks premium features"
+  ],
+  "faqs": [
+    {
+      "question": "Is the Royal+ V2 better than the previous version?",
+      "answer": "Yes, the V2 has improved design and better ride comfort."
+    },
+    {
+      "question": "Does it have a disc brake?",
+      "answer": "Yes, the front wheel features a disc brake."
+    },
+    {
+      "question": "Is it good for office commuting?",
+      "answer": "Absolutely, it's built for daily use with high mileage and comfort."
+    },
+    {
+      "question": "What is the fuel tank size?",
+      "answer": "It has a 10-liter fuel tank capacity."
+    }
+  ]
+ },
+ {
+  "name": "Runner Skooty 110",
+  "slug": "runner-skooty-110",
+  "brand": "Runner",
+  "category": "Scooter",
+  "cc": 104,
+  "price": "Tk. 123,000",
+  "short_description": "Runner Skooty 110 is a lightweight, fuel-efficient scooter designed for effortless urban commuting and daily errands.",
+  "Zero_Sixty": "10.5 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "50 kmpl",
+  "mileage_reported": "45-50 kmpl",
+  "top_speed_claimed": "80 km/h",
+  "top_speed_reported": "75-80 km/h",
+  "braking": "Front Drum, Rear Drum",
+  "gear": "CVT Automatic",
+  "weight": "100 kg",
+  "max_power": "5.2 PS @ 7500 rpm",
+  "max_torque": "7.4 Nm @ 6000 rpm",
+  "clutch": "Dry Centrifugal",
+  "cooling_system": "Air Cooled",
+  "front_brake": "110 mm Drum",
+  "rear_brake": "110 mm Drum",
+  "caliper": {
+    "front": "N/A (Drum)",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "3.50-10",
+  "rear_tyre_size": "3.50-10",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "4.5 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog",
+  "seat_height": "760 mm",
+  "ground_clearance": "135 mm",
+  "overall_length": "1785 mm",
+  "overall_width": "670 mm",
+  "build_quality": "Light and nimble with practical design for city use",
+  "parts_availability": "Very good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139236/bikes/Runner/Runner%20Skooty%20110/runner-skooty-110-back-view.webp",
+          "alt": "Runner Skooty 110 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139237/bikes/Runner/Runner%20Skooty%20110/runner-skooty-110-front-view.webp",
+          "alt": "Runner Skooty 110 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139238/bikes/Runner/Runner%20Skooty%20110/runner-skooty-110-left-view.webp",
+          "alt": "Runner Skooty 110 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139239/bikes/Runner/Runner%20Skooty%20110/runner-skooty-110-right-view.webp",
+          "alt": "Runner Skooty 110 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139239/bikes/Runner/Runner%20Skooty%20110/runner-skooty-110-showroom-view-red.webp",
+          "alt": "Runner Skooty 110 Showroom View Red"
+        }
+      ],
+  "pros": [
+    "User-friendly automatic transmission",
+    "Compact and lightweight for city use",
+    "Under-seat storage is convenient",
+    "Electric start included",
+    "Affordable pricing for a scooter"
+  ],
+  "cons": [
+    "No disc brakes",
+    "No LED lights or modern display",
+    "Small fuel tank",
+    "No tubeless tyres",
+    "Limited suspension travel"
+  ],
+  "faqs": [
+    {
+      "question": "Is Runner Skooty 110 suitable for female riders?",
+      "answer": "Yes, its light weight and automatic transmission make it ideal for all genders."
+    },
+    {
+      "question": "Does it have under-seat storage?",
+      "answer": "Yes, it comes with a decent amount of storage space under the seat."
+    },
+    {
+      "question": "What is the mileage in real-world usage?",
+      "answer": "Users report around 45–50 kmpl in typical city conditions."
+    },
+    {
+      "question": "Can it carry two people comfortably?",
+      "answer": "Yes, it’s suitable for two adult passengers on short city rides."
+    }
+  ]
+ },
+ {
+  "name": "Runner Royal+",
+  "slug": "runner-royal-plus",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 109.1,
+  "price": "Tk. 1,00,000",
+  "short_description": "Runner Royal+ is a stylish and budget-friendly commuter motorcycle offering a reliable 110cc engine and solid mileage for daily urban travel.",
+  "Zero_Sixty": "9.5 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "60 kmpl",
+  "mileage_reported": "55-60 kmpl",
+  "top_speed_claimed": "90 km/h",
+  "top_speed_reported": "85-90 km/h",
+  "braking": "Front Drum, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "114 kg",
+  "max_power": "6.0 kW @ 7500 rpm",
+  "max_torque": "7.8 Nm @ 6000 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "130 mm Drum",
+  "rear_brake": "130 mm Drum",
+  "caliper": {
+    "front": "N/A (Drum)",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.75-18",
+  "rear_tyre_size": "3.00-18",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "10 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog",
+  "seat_height": "780 mm",
+  "ground_clearance": "160 mm",
+  "overall_length": "2000 mm",
+  "overall_width": "740 mm",
+  "build_quality": "Well-built for everyday commuting with practical ergonomics",
+  "parts_availability": "Very good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139234/bikes/Runner/Runner%20Royal%2B%20110/runner-royal-%2B-110-back-view.webp",
+          "alt": "Runner Royal+ 110 Runner Royal + 110 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139234/bikes/Runner/Runner%20Royal%2B%20110/runner-royal-%2B-110-left-view.webp",
+          "alt": "Runner Royal+ 110 Runner Royal + 110 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139235/bikes/Runner/Runner%20Royal%2B%20110/runner-royal-%2B-110-right-view.webp",
+          "alt": "Runner Royal+ 110 Runner Royal + 110 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139236/bikes/Runner/Runner%20Royal%2B%20110/runner-royal-%2B-110%3Dfront-view.webp",
+          "alt": "Runner Royal+ 110 Runner Royal + 110=Front View"
+        }
+      ],
+    "pros": [
+    "Reliable engine for daily use",
+    "Good mileage for city rides",
+    "Affordable commuter bike",
+    "Stylish graphics and alloy wheels",
+    "Electric start included"
+  ],
+  "cons": [
+    "No disc brake option",
+    "Halogen headlamp only",
+    "Analog console feels outdated",
+    "No tubeless tyres",
+    "Basic feature set"
+  ],
+  "faqs": [
+    {
+      "question": "Is Runner Royal+ suitable for office commuting?",
+      "answer": "Yes, it’s designed for daily urban rides with good mileage and comfort."
+    },
+    {
+      "question": "Does it have an electric start?",
+      "answer": "Yes, it features both electric and kick start."
+    },
+    {
+      "question": "What kind of brakes does it have?",
+      "answer": "It comes with drum brakes on both front and rear."
+    },
+    {
+      "question": "What is the fuel tank capacity?",
+      "answer": "The fuel tank holds up to 10 liters."
+    }
+  ]
+ },
+ {
+  "name": "Runner Turbo 125",
+  "slug": "runner-turbo-125",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 124.84,
+  "price": "Tk. 129,000",
+  "short_description": "Runner Turbo 125 is a stylish and efficient commuter bike with a 125cc engine offering good power and mileage for daily rides.",
+  "Zero_Sixty": "8.5 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "50 kmpl",
+  "mileage_reported": "45-50 kmpl",
+  "top_speed_claimed": "100 km/h",
+  "top_speed_reported": "95-100 km/h",
+  "braking": "Front Disc, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "120 kg",
+  "max_power": "8.4 PS @ 7500 rpm",
+  "max_torque": "8.5 Nm @ 6000 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "240 mm Disc",
+  "rear_brake": "130 mm Drum",
+  "caliper": {
+    "front": "Single-piston",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.75-18",
+  "rear_tyre_size": "3.00-18",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "10 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog-Digital",
+  "seat_height": "785 mm",
+  "ground_clearance": "165 mm",
+  "overall_length": "2020 mm",
+  "overall_width": "765 mm",
+  "build_quality": "Robust and reliable build suitable for city and highway use",
+  "parts_availability": "Very good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139240/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-back-view.webp",
+          "alt": "Runner Turbo 125CC Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139241/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-front-view.webp",
+          "alt": "Runner Turbo 125CC Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139242/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-left-view.webp",
+          "alt": "Runner Turbo 125CC Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139243/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-right-view.webp",
+          "alt": "Runner Turbo 125CC Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139244/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-showroom-view-black.webp",
+          "alt": "Runner Turbo 125CC Showroom View Black"
+        }
+      ],
+  "pros": [
+    "Powerful 125cc engine for its class",
+    "Front disc brake for better safety",
+    "Good mileage for city rides",
+    "Comfortable seating and ergonomics",
+    "Attractive design and alloy wheels"
+  ],
+  "cons": [
+    "Rear drum brake instead of disc",
+    "Halogen lighting only",
+    "No advanced electronic features",
+    "No tubeless tyres",
+    "Basic instrument cluster"
+  ],
+  "faqs": [
+    {
+      "question": "Is Runner Turbo 125 suitable for highway rides?",
+      "answer": "Yes, its 125cc engine and comfortable seating make it suitable for short highway trips."
+    },
+    {
+      "question": "Does it have a front disc brake?",
+      "answer": "Yes, it comes with a 240mm front disc brake for improved stopping power."
+    },
+    {
+      "question": "What mileage can I expect in city traffic?",
+      "answer": "Users typically get around 45-50 kmpl in urban conditions."
+    },
+    {
+      "question": "Does it support electric start?",
+      "answer": "Yes, it features both electric and kick start options."
+    }
+  ]
+ },
+ {
+  "name": "Runner Turbo 125 Matte",
+  "slug": "runner-turbo-125-matte",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 124.84,
+  "price": "Tk. 129,000",
+  "short_description": "Runner Turbo 125 Matte is the stylish matte-finish variant of the Turbo 125, delivering the same reliable performance with a modern look.",
+  "Zero_Sixty": "8.5 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "50 kmpl",
+  "mileage_reported": "45-50 kmpl",
+  "top_speed_claimed": "100 km/h",
+  "top_speed_reported": "95-100 km/h",
+  "braking": "Front Disc, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "120 kg",
+  "max_power": "8.4 PS @ 7500 rpm",
+  "max_torque": "8.5 Nm @ 6000 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "240 mm Disc",
+  "rear_brake": "130 mm Drum",
+  "caliper": {
+    "front": "Single-piston",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.75-18",
+  "rear_tyre_size": "3.00-18",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "10 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog-Digital",
+  "seat_height": "785 mm",
+  "ground_clearance": "165 mm",
+  "overall_length": "2020 mm",
+  "overall_width": "765 mm",
+  "build_quality": "Durable build with matte paint finish for a modern look",
+  "parts_availability": "Very good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139240/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-back-view.webp",
+          "alt": "Runner Turbo 125CC Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139241/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-front-view.webp",
+          "alt": "Runner Turbo 125CC Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139242/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-left-view.webp",
+          "alt": "Runner Turbo 125CC Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139243/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-right-view.webp",
+          "alt": "Runner Turbo 125CC Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139244/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-showroom-view-black.webp",
+          "alt": "Runner Turbo 125CC Showroom View Black"
+        }
+      ],
+  "pros": [
+    "Modern matte finish paint",
+    "Powerful 125cc engine",
+    "Front disc brake for safety",
+    "Comfortable riding position",
+    "Good fuel efficiency"
+  ],
+  "cons": [
+    "Rear drum brake instead of disc",
+    "Basic halogen lights",
+    "No advanced features like ABS or Bluetooth",
+    "No tubeless tyres",
+    "Analog-digital instrument cluster only"
+  ],
+  "faqs": [
+    {
+      "question": "What is the difference between Turbo 125 and Turbo 125 Matte?",
+      "answer": "The Matte version features a modern matte paint finish but shares the same specs and features as the standard Turbo 125."
+    },
+    {
+      "question": "Is the fuel efficiency different for the Matte version?",
+      "answer": "No, both versions have similar mileage figures."
+    },
+    {
+      "question": "Does the Turbo 125 Matte have a disc brake?",
+      "answer": "Yes, it has a front disc brake and rear drum brake."
+    },
+    {
+      "question": "Is electric start available?",
+      "answer": "Yes, it has both electric and kick start options."
+    }
+  ]
+ },
+ {
+  "name": "Runner Turbo v2",
+  "slug": "runner-turbo-v2",
+  "brand": "Runner",
+  "category": "Commuter",
+  "cc": 124.84,
+  "price": "Tk. 129,000",
+  "short_description": "Runner Turbo v2 is the updated version of the Turbo 125, featuring refined design and reliable performance for everyday commuting.",
+  "Zero_Sixty": "8.4 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Air Cooled",
+  "mileage_claimed": "52 kmpl",
+  "mileage_reported": "47-52 kmpl",
+  "top_speed_claimed": "100 km/h",
+  "top_speed_reported": "95-100 km/h",
+  "braking": "Front Disc, Rear Drum",
+  "gear": "4-speed manual",
+  "weight": "118 kg",
+  "max_power": "8.6 PS @ 7500 rpm",
+  "max_torque": "8.6 Nm @ 6000 rpm",
+  "clutch": "Wet multi-plate",
+  "cooling_system": "Air Cooled",
+  "front_brake": "240 mm Disc",
+  "rear_brake": "130 mm Drum",
+  "caliper": {
+    "front": "Single-piston",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tube",
+  "front_tyre_size": "2.75-18",
+  "rear_tyre_size": "3.00-18",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "10 L",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Analog-Digital",
+  "seat_height": "785 mm",
+  "ground_clearance": "165 mm",
+  "overall_length": "2025 mm",
+  "overall_width": "765 mm",
+  "build_quality": "Improved build quality with refined design and updated features",
+  "parts_availability": "Very good",
+ "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139240/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-back-view.webp",
+          "alt": "Runner Turbo 125CC Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139241/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-front-view.webp",
+          "alt": "Runner Turbo 125CC Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139242/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-left-view.webp",
+          "alt": "Runner Turbo 125CC Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139243/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-right-view.webp",
+          "alt": "Runner Turbo 125CC Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139244/bikes/Runner/Runner%20Turbo%20125CC/runner-turbo-125cc-showroom-view-black.webp",
+          "alt": "Runner Turbo 125CC Showroom View Black"
+        }
+      ],
+  "pros": [
+    "Refined and updated styling",
+    "Powerful 125cc engine",
+    "Front disc brake for better stopping power",
+    "Improved fuel efficiency",
+    "Comfortable ergonomics for city rides"
+  ],
+  "cons": [
+    "Rear drum brake instead of disc",
+    "Basic halogen lighting",
+    "No tubeless tyres",
+    "No advanced electronics",
+    "Standard analog-digital display"
+  ],
+  "faqs": [
+    {
+      "question": "What are the improvements in Turbo v2 over the original Turbo 125?",
+      "answer": "Turbo v2 offers updated styling, improved engine tuning, and slightly better mileage."
+    },
+    {
+      "question": "Does Turbo v2 have disc brakes?",
+      "answer": "Yes, it has a front disc brake and rear drum brake."
+    },
+    {
+      "question": "Is electric start available on Turbo v2?",
+      "answer": "Yes, it supports both electric and kick start."
+    },
+    {
+      "question": "What is the fuel tank capacity of Turbo v2?",
+      "answer": "It has a 10-liter fuel tank capacity."
+    }
+  ]
+ }
+ 
+]
+
+
+
+
+

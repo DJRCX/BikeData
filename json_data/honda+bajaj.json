@@ -1,0 +1,2861 @@
+[
+  {
+    "name": "Honda CB Hornet 160R CBS",
+    "slug": "honda-cb-hornet-160r-cbs",
+    "brand": "Honda",
+    "category": "Streetfighter",
+    "cc": 162.71,
+    "price": "Tk. 212,000",
+    "short_description": "Honda CB Hornet 160R CBS - A muscular streetfighter with aggressive styling, refined 160cc engine, and CBS braking system for confident city riding.",
+    "Zero_Sixty": "5.8 sec",
+    "Zero_Hundred": "17.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45-48 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum (CBS)",
+    "gear": "5-speed manual",
+    "weight": "142 kg",
+    "max_power": "15.31 PS @ 8500 rpm",
+    "max_torque": "14.5 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "790 mm",
+    "ground_clearance": "164 mm",
+    "overall_length": "2040 mm",
+    "overall_width": "780 mm",
+    "build_quality": "Premium streetfighter",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926290/bikes/honda/honda-hornet-2.0/honda-hornet-2.0-back-view.webp",
+          "alt": "honda-hornet-2.0 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926291/bikes/honda/honda-hornet-2.0/honda-hornet-2.0-front-view.webp",
+          "alt": "honda-hornet-2.0 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926292/bikes/honda/honda-hornet-2.0/honda-hornet-2.0-left-view.webp",
+          "alt": "honda-hornet-2.0 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926293/bikes/honda/honda-hornet-2.0/honda-hornet-2.0-right-view.webp",
+          "alt": "honda-hornet-2.0 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926294/bikes/honda/honda-hornet-2.0/honda-hornet-2.0-showroom-view.webp",
+          "alt": "honda-hornet-2.0 Showroom View"
+        }
+      ],
+    "pros": [
+      "Muscular streetfighter styling",
+      "Refined 160cc engine",
+      "LED lighting all around",
+      "Comfortable ergonomics",
+      "CBS braking system"
+    ],
+    "cons": [
+      "No ABS option",
+      "Slightly heavy for segment",
+      "Average mileage",
+      "Vibrations at high RPM",
+      "No Bluetooth connectivity"
+    ],
+    "faqs": [
+      {"question": "Difference between CBS and ABS?", "answer": "CBS links both brakes when one is applied, while ABS prevents wheel lock-up."},
+      {"question": "Top speed?", "answer": "110kmph (claimed 115kmph)."},
+      {"question": "Service interval?", "answer": "Every 3000km or 3 months."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda CB Shine SP",
+    "slug": "honda-cb-shine-sp",
+    "brand": "Honda",
+    "category": "Commuter",
+    "cc": 124.7,
+    "price": "Tk. 151,000",
+    "short_description": "Honda CB Shine SP - A premium 125cc commuter bike with refined engine, comfortable ergonomics and sporty styling elements.",
+    "Zero_Sixty": "7.5 sec",
+    "Zero_Hundred": "20.8 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "60-63 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "123 kg",
+    "max_power": "10.5 PS @ 7500 rpm",
+    "max_torque": "10.3 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "80/100-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "10.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "790 mm",
+    "ground_clearance": "164 mm",
+    "overall_length": "2019 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Premium commuter",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926285/bikes/honda/honda-cb-shine/honda-cb-shine-back-view.webp",
+          "alt": "honda-cb-shine Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926286/bikes/honda/honda-cb-shine/honda-cb-shine-front-view.webp",
+          "alt": "honda-cb-shine Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926287/bikes/honda/honda-cb-shine/honda-cb-shine-left-view.webp",
+          "alt": "honda-cb-shine Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926288/bikes/honda/honda-cb-shine/honda-cb-shine-right-view.webp",
+          "alt": "honda-cb-shine Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926289/bikes/honda/honda-cb-shine/honda-cb-shine-showroom-view.webp",
+          "alt": "honda-cb-shine Showroom View"
+        }
+      ],
+    "pros": [
+      "Honda reliability",
+      "Excellent mileage",
+      "Comfortable ride quality",
+      "Low maintenance costs",
+      "Sporty looks for commuter"
+    ],
+    "cons": [
+      "Basic drum brakes",
+      "No ABS option",
+      "Outdated tube-type tires",
+      "Small pillion seat",
+      "Limited features"
+    ],
+    "faqs": [
+      {"question": "Difference from standard Shine?", "answer": "SP has sportier graphics, better suspension and premium finish."},
+      {"question": "Top speed?", "answer": "90kmph (claimed 95kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 800 per service."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda CBR 150R ABS",
+    "slug": "honda-cbr-150r-abs",
+    "brand": "Honda",
+    "category": "Sports",
+    "cc": 149.16,
+    "price": "Tk. 525,000",
+    "short_description": "Honda CBR 150R ABS - A fully-faired sportbike with liquid-cooled engine, 6-speed gearbox and ABS for confident braking.",
+    "Zero_Sixty": "4.8 sec",
+    "Zero_Hundred": "15.2 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35-38 kmpl",
+    "top_speed_claimed": "130 km/h",
+    "top_speed_reported": "125 km/h",
+    "braking": "Front Disc, Rear Disc (ABS)",
+    "gear": "6-speed manual",
+    "weight": "138 kg",
+    "max_power": "17.1 PS @ 9000 rpm",
+    "max_torque": "14.4 Nm @ 7000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "787 mm",
+    "ground_clearance": "181 mm",
+    "overall_length": "1980 mm",
+    "overall_width": "685 mm",
+    "build_quality": "Premium sportbike",
+    "parts_availability": "Good in major cities",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926263/bikes/honda/honda%20cbr%20150%20r/honda-cbr-150r-back-view.webp",
+          "alt": "honda cbr 150 r Honda Cbr 150R Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926264/bikes/honda/honda%20cbr%20150%20r/honda-cbr-150r-front-view.webp",
+          "alt": "honda cbr 150 r Honda Cbr 150R Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926265/bikes/honda/honda%20cbr%20150%20r/honda-cbr-150r-left-view.webp",
+          "alt": "honda cbr 150 r Honda Cbr 150R Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926266/bikes/honda/honda%20cbr%20150%20r/honda-cbr-150r-right-view.webp",
+          "alt": "honda cbr 150 r Honda Cbr 150R Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926266/bikes/honda/honda%20cbr%20150%20r/honda-cbr-150r-showroom-view.webp",
+          "alt": "honda cbr 150 r Honda Cbr 150R Showroom View"
+        }
+      ],
+      "pros": [
+      "Sporty fully-faired design",
+      "Liquid-cooled engine",
+      "Dual-channel ABS",
+      "6-speed gearbox",
+      "Premium build quality"
+    ],
+    "cons": [
+      "Expensive for 150cc",
+      "Aggressive riding posture",
+      "Small pillion seat",
+      "High maintenance costs",
+      "Limited service network"
+    ],
+    "faqs": [
+      {"question": "ABS type?", "answer": "Dual-channel ABS as standard."},
+      {"question": "Top speed?", "answer": "125kmph (claimed 130kmph)."},
+      {"question": "Service interval?", "answer": "Every 4000km or 4 months."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda CBR 150R ABS Motogp Edition",
+    "slug": "honda-cbr-150r-abs-motogp",
+    "brand": "Honda",
+    "category": "Sports",
+    "cc": 149.16,
+    "price": "Tk. 630,000",
+    "short_description": "Honda CBR 150R ABS Motogp Edition - A special edition of the CBR150R with MotoGP-inspired livery and premium components.",
+    "Zero_Sixty": "4.8 sec",
+    "Zero_Hundred": "15.2 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35-38 kmpl",
+    "top_speed_claimed": "130 km/h",
+    "top_speed_reported": "125 km/h",
+    "braking": "Front Disc, Rear Disc (ABS)",
+    "gear": "6-speed manual",
+    "weight": "138 kg",
+    "max_power": "17.1 PS @ 9000 rpm",
+    "max_torque": "14.4 Nm @ 7000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "787 mm",
+    "ground_clearance": "181 mm",
+    "overall_length": "1980 mm",
+    "overall_width": "685 mm",
+    "build_quality": "Premium sportbike",
+    "parts_availability": "Limited edition",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926263/bikes/honda/honda%20cbr%20150%20r/honda-cbr-150r-back-view.webp",
+          "alt": "honda cbr 150 r Honda Cbr 150R Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926264/bikes/honda/honda%20cbr%20150%20r/honda-cbr-150r-front-view.webp",
+          "alt": "honda cbr 150 r Honda Cbr 150R Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926265/bikes/honda/honda%20cbr%20150%20r/honda-cbr-150r-left-view.webp",
+          "alt": "honda cbr 150 r Honda Cbr 150R Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926266/bikes/honda/honda%20cbr%20150%20r/honda-cbr-150r-right-view.webp",
+          "alt": "honda cbr 150 r Honda Cbr 150R Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926266/bikes/honda/honda%20cbr%20150%20r/honda-cbr-150r-showroom-view.webp",
+          "alt": "honda cbr 150 r Honda Cbr 150R Showroom View"
+        }
+      ],
+    
+    "pros": [
+      "Exclusive MotoGP livery",
+      "Premium paint quality",
+      "Dual-channel ABS",
+      "6-speed gearbox",
+      "Limited edition status"
+    ],
+    "cons": [
+      "Very expensive premium",
+      "Same mechanicals as standard",
+      "Limited availability",
+      "High maintenance costs",
+      "Aggressive riding posture"
+    ],
+    "faqs": [
+      {"question": "Difference from standard?", "answer": "Only cosmetic - MotoGP livery and graphics."},
+      {"question": "ABS type?", "answer": "Same dual-channel ABS as standard model."},
+      {"question": "Service cost?", "answer": "Same as standard (~Tk. 5,000 per service)."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda Dio",
+    "slug": "honda-dio",
+    "brand": "Honda",
+    "category": "Scooter",
+    "cc": 109.19,
+    "price": "Tk. 199,000",
+    "short_description": "Honda Dio - A stylish and sporty 110cc scooter known for its peppy performance, good mileage and youthful appeal.",
+    "Zero_Sixty": "8.2 sec",
+    "Zero_Hundred": "22.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "55 kmpl",
+    "mileage_reported": "50-53 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "105 kg",
+    "max_power": "8.0 PS @ 8000 rpm",
+    "max_torque": "8.6 Nm @ 5500 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-12",
+    "rear_tyre_size": "90/100-10",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5.3 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "765 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "1805 mm",
+    "overall_width": "710 mm",
+    "build_quality": "Sporty scooter",
+    "parts_availability": "Excellent nationwide",
+     "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926267/bikes/honda/honda%20dio/honda-dio-back-view.webp",
+          "alt": "honda dio Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926268/bikes/honda/honda%20dio/honda-dio-front-view.webp",
+          "alt": "honda dio Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926269/bikes/honda/honda%20dio/honda-dio-left-view.webp",
+          "alt": "honda dio Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926270/bikes/honda/honda%20dio/honda-dio-right-view..webp",
+          "alt": "honda dio Right View."
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926272/bikes/honda/honda%20dio/honda-dio-showroom-view.webp",
+          "alt": "honda dio Showroom View"
+        }
+      ],
+    "pros": [
+      "Sporty and youthful design",
+      "Lightweight and nimble",
+      "Honda reliability",
+      "Good mileage",
+      "Low maintenance costs"
+    ],
+    "cons": [
+      "Basic drum brakes",
+      "Small fuel tank",
+      "No ABS option",
+      "Limited storage space",
+      "Average suspension"
+    ],
+    "faqs": [
+      {"question": "ABS available?", "answer": "No, only drum brakes."},
+      {"question": "Top speed?", "answer": "80kmph (claimed 85kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 700 per service."},
+      {"question": "Weight capacity?", "answer": "140kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda Dream 110 Red",
+    "slug": "honda-dream-110-red",
+    "brand": "Honda",
+    "category": "Commuter",
+    "cc": 110,
+    "price": "Tk. 121,000",
+    "short_description": "Honda Dream 110 Red - A basic 110cc commuter bike known for its reliability, excellent mileage and low maintenance costs.",
+    "Zero_Sixty": "9.8 sec",
+    "Zero_Hundred": "26.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "70 kmpl",
+    "mileage_reported": "65-68 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "112 kg",
+    "max_power": "8.0 PS @ 7500 rpm",
+    "max_torque": "8.6 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "8.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Basic commuter",
+    "parts_availability": "Excellent nationwide",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139189/bikes/Honda/Honda%20dream%20110/honda-dream-110-left-view.webp",
+          "alt": "Honda dream 110 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139190/bikes/Honda/Honda%20dream%20110/honda-dream-110-right-view.webp",
+          "alt": "Honda dream 110 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139192/bikes/Honda/Honda%20dream%20110/honda-dream-110-showroom-view.webp",
+          "alt": "Honda dream 110 Showroom View"
+        }
+      ] ,
+    "pros": [
+      "Excellent mileage",
+      "Low maintenance costs",
+      "Honda reliability",
+      "Affordable pricing",
+      "Lightweight"
+    ],
+    "cons": [
+      "Basic features",
+      "Outdated design",
+      "No disc brake option",
+      "Tube-type tires",
+      "Slow acceleration"
+    ],
+    "faqs": [
+      {"question": "Top speed?", "answer": "80kmph (claimed 85kmph)."},
+      {"question": "Service cost?", "answer": "Cheapest in Honda lineup (~Tk. 600 per service)."},
+      {"question": "Weight capacity?", "answer": "140kg (rider + pillion)."},
+      {"question": "ABS available?", "answer": "No, only basic drum brakes."}
+    ]
+  },
+  {
+    "name": "Honda Hornet 2.0",
+    "slug": "honda-hornet-2-0",
+    "brand": "Honda",
+    "category": "Streetfighter",
+    "cc": 184.4,
+    "price": "Tk. 289,000",
+    "short_description": "Honda Hornet 2.0 - A muscular 184cc streetfighter with aggressive styling, refined engine and premium features.",
+    "Zero_Sixty": "5.2 sec",
+    "Zero_Hundred": "16.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "125 km/h",
+    "top_speed_reported": "120 km/h",
+    "braking": "Front Disc, Rear Drum (CBS)",
+    "gear": "5-speed manual",
+    "weight": "142 kg",
+    "max_power": "17.1 PS @ 8500 rpm",
+    "max_torque": "16.1 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "790 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "800 mm",
+    "build_quality": "Premium streetfighter",
+    "parts_availability": "Good nationwide",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926290/bikes/honda/honda-hornet-2.0/honda-hornet-2.0-back-view.webp",
+          "alt": "honda-hornet-2.0 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926291/bikes/honda/honda-hornet-2.0/honda-hornet-2.0-front-view.webp",
+          "alt": "honda-hornet-2.0 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926292/bikes/honda/honda-hornet-2.0/honda-hornet-2.0-left-view.webp",
+          "alt": "honda-hornet-2.0 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926293/bikes/honda/honda-hornet-2.0/honda-hornet-2.0-right-view.webp",
+          "alt": "honda-hornet-2.0 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926294/bikes/honda/honda-hornet-2.0/honda-hornet-2.0-showroom-view.webp",
+          "alt": "honda-hornet-2.0 Showroom View"
+        }
+      ],
+    "pros": [
+      "Muscular streetfighter design",
+      "Peppy 184cc engine",
+      "LED lighting all around",
+      "Comfortable ergonomics",
+      "Premium fit and finish"
+    ],
+    "cons": [
+      "No ABS option",
+      "Slightly expensive",
+      "Average mileage",
+      "Rear drum brake",
+      "No Bluetooth connectivity"
+    ],
+    "faqs": [
+      {"question": "Difference from Hornet 160R?", "answer": "2.0 has larger 184cc engine, more power and updated styling."},
+      {"question": "Top speed?", "answer": "120kmph (claimed 125kmph)."},
+      {"question": "Service interval?", "answer": "Every 3000km or 3 months."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda Livo Disc CBS",
+    "slug": "honda-livo-disc-cbs",
+    "brand": "Honda",
+    "category": "Commuter",
+    "cc": 109.19,
+    "price": "Tk. 145,000",
+    "short_description": "Honda Livo Disc CBS - A premium 110cc commuter bike with refined engine, comfortable ergonomics and front disc brake with CBS.",
+    "Zero_Sixty": "8.0 sec",
+    "Zero_Hundred": "22.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "60-63 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Disc, Rear Drum (CBS)",
+    "gear": "4-speed manual",
+    "weight": "115 kg",
+    "max_power": "8.5 PS @ 7500 rpm",
+    "max_torque": "8.7 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "80/100-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "8.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2019 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Premium commuter",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926295/bikes/honda/honda-livo/honda-livo-back-view.webp",
+          "alt": "honda-livo Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926296/bikes/honda/honda-livo/honda-livo-front-view.webp",
+          "alt": "honda-livo Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926296/bikes/honda/honda-livo/honda-livo-left-view.webp",
+          "alt": "honda-livo Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926297/bikes/honda/honda-livo/honda-livo-right-view.webp",
+          "alt": "honda-livo Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926298/bikes/honda/honda-livo/honda-livo-showroom-view.webp",
+          "alt": "honda-livo Showroom View"
+        }
+      ],
+    "pros": [
+      "Refined 110cc engine",
+      "Front disc brake with CBS",
+      "Tubeless tires",
+      "Good mileage",
+      "Honda reliability"
+    ],
+    "cons": [
+      "No ABS option",
+      "Basic features",
+      "Small fuel tank",
+      "Average performance",
+      "No digital display"
+    ],
+    "faqs": [
+      {"question": "Difference from Drum version?", "answer": "Disc version has front disc brake, alloy wheels and tubeless tires."},
+      {"question": "Top speed?", "answer": "85kmph (claimed 90kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 700 per service."},
+      {"question": "Weight capacity?", "answer": "140kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda Livo Drum CBS",
+    "slug": "honda-livo-drum-cbs",
+    "brand": "Honda",
+    "category": "Commuter",
+    "cc": 109.19,
+    "price": "Tk. 125,000",
+    "short_description": "Honda Livo Drum CBS - An affordable 110cc commuter bike with Honda reliability, good mileage and basic features.",
+    "Zero_Sixty": "8.2 sec",
+    "Zero_Hundred": "22.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "66 kmpl",
+    "mileage_reported": "61-64 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Drum, Rear Drum (CBS)",
+    "gear": "4-speed manual",
+    "weight": "112 kg",
+    "max_power": "8.5 PS @ 7500 rpm",
+    "max_torque": "8.7 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "3.00-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "8.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2019 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Basic commuter",
+    "parts_availability": "Excellent nationwide",
+     "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926295/bikes/honda/honda-livo/honda-livo-back-view.webp",
+          "alt": "honda-livo Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926296/bikes/honda/honda-livo/honda-livo-front-view.webp",
+          "alt": "honda-livo Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926296/bikes/honda/honda-livo/honda-livo-left-view.webp",
+          "alt": "honda-livo Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926297/bikes/honda/honda-livo/honda-livo-right-view.webp",
+          "alt": "honda-livo Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926298/bikes/honda/honda-livo/honda-livo-showroom-view.webp",
+          "alt": "honda-livo Showroom View"
+        }
+      ],
+    "pros": [
+      "Most affordable Livo variant",
+      "Excellent mileage",
+      "Low maintenance costs",
+      "Honda reliability",
+      "Lightweight"
+    ],
+    "cons": [
+      "Basic drum brakes",
+      "Tube-type tires",
+      "No disc brake option",
+      "Outdated features",
+      "Average performance"
+    ],
+    "faqs": [
+      {"question": "Difference from Disc version?", "answer": "Drum version has spoke wheels, tube tires and drum brakes."},
+      {"question": "Top speed?", "answer": "85kmph (claimed 90kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 600 per service."},
+      {"question": "Weight capacity?", "answer": "140kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda Shine 100",
+    "slug": "honda-shine-100",
+    "brand": "Honda",
+    "category": "Commuter",
+    "cc": 98,
+    "price": "Tk. 109,000",
+    "short_description": "Honda Shine 100 - An entry-level 100cc commuter bike offering excellent mileage, Honda reliability and basic commuting features.",
+    "Zero_Sixty": "10.5 sec",
+    "Zero_Hundred": "28.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "72 kmpl",
+    "mileage_reported": "67-70 kmpl",
+    "top_speed_claimed": "80 km/h",
+    "top_speed_reported": "75 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "108 kg",
+    "max_power": "7.5 PS @ 7500 rpm",
+    "max_torque": "7.8 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "8.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Basic commuter",
+    "parts_availability": "Excellent nationwide",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926277/bikes/honda/honda%20shine%20100/honda-shine-100-back-view.webp",
+          "alt": "honda shine 100 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926277/bikes/honda/honda%20shine%20100/honda-shine-100-front-view.webp",
+          "alt": "honda shine 100 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926278/bikes/honda/honda%20shine%20100/honda-shine-100-left-view.webp",
+          "alt": "honda shine 100 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926279/bikes/honda/honda%20shine%20100/honda-shine-100-right-view.webp",
+          "alt": "honda shine 100 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926281/bikes/honda/honda%20shine%20100/honda-shine-100-showroom-view.webp",
+          "alt": "honda shine 100 Showroom View"
+        }
+      ],
+    "pros": [
+      "Excellent mileage",
+      "Most affordable Honda bike",
+      "Lightweight",
+      "Low maintenance costs",
+      "Honda reliability"
+    ],
+    "cons": [
+      "Very basic features",
+      "Slow acceleration",
+      "No disc brake option",
+      "Outdated design",
+      "Tube-type tires"
+    ],
+    "faqs": [
+      {"question": "Difference from Shine 125?", "answer": "Smaller 100cc engine, less power and more basic features."},
+      {"question": "Top speed?", "answer": "75kmph (claimed 80kmph)."},
+      {"question": "Service cost?", "answer": "Cheapest in Honda lineup (~Tk. 500 per service)."},
+      {"question": "Weight capacity?", "answer": "135kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda SP 125",
+    "slug": "honda-sp-125",
+    "brand": "Honda",
+    "category": "Commuter",
+    "cc": 124,
+    "price": "Tk. 163,000",
+    "short_description": "Honda SP 125 - A premium 125cc commuter bike with sporty styling, refined engine and semi-digital instrument cluster.",
+    "Zero_Sixty": "7.2 sec",
+    "Zero_Hundred": "20.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "60-63 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "125 kg",
+    "max_power": "10.72 PS @ 7500 rpm",
+    "max_torque": "10.9 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "80/100-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Semi-Digital",
+    "seat_height": "790 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2019 mm",
+    "overall_width": "785 mm",
+    "build_quality": "Premium commuter",
+    "parts_availability": "Excellent nationwide",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926299/bikes/honda/honda-sp/honda-sp-125-back-view.webp",
+          "alt": "honda-sp 125 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926300/bikes/honda/honda-sp/honda-sp-125-front-view.webp",
+          "alt": "honda-sp 125 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926301/bikes/honda/honda-sp/honda-sp-125-left-view.webp",
+          "alt": "honda-sp 125 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926302/bikes/honda/honda-sp/honda-sp-125-right-view.webp",
+          "alt": "honda-sp 125 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926302/bikes/honda/honda-sp/honda-sp-125-showroom-view.webp",
+          "alt": "honda-sp 125 Showroom View"
+        }
+      ],
+    "pros": [
+      "Sporty commuter design",
+      "LED lighting",
+      "Good mileage",
+      "Refined engine",
+      "Tubeless tires"
+    ],
+    "cons": [
+      "No ABS option",
+      "Basic suspension",
+      "Small pillion seat",
+      "Average performance",
+      "No Bluetooth features"
+    ],
+    "faqs": [
+      {"question": "Difference from Shine SP?", "answer": "SP 125 has more premium features like LED lights and digital console."},
+      {"question": "Top speed?", "answer": "90kmph (claimed 95kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 800 per service."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda SP 160",
+    "slug": "honda-sp-160",
+    "brand": "Honda",
+    "category": "Streetfighter",
+    "cc": 162.71,
+    "price": "Tk. 199,000",
+    "short_description": "Honda SP 160 - A sporty 160cc streetfighter with aggressive styling, refined engine and premium features.",
+    "Zero_Sixty": "5.5 sec",
+    "Zero_Hundred": "17.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45-48 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "137 kg",
+    "max_power": "15.31 PS @ 8500 rpm",
+    "max_torque": "14.5 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "795 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "800 mm",
+    "build_quality": "Premium streetfighter",
+    "parts_availability": "Good nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926303/bikes/honda/honda-sp-160/honda-cb-160-front-view.webp",
+          "alt": "honda-sp-160 Honda Cb 160 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926305/bikes/honda/honda-sp-160/honda-cb-160-left-view.webp",
+          "alt": "honda-sp-160 Honda Cb 160 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926306/bikes/honda/honda-sp-160/honda-cb-160-right-view.webp",
+          "alt": "honda-sp-160 Honda Cb 160 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926307/bikes/honda/honda-sp-160/honda-cb-160-showroom-view.webp",
+          "alt": "honda-sp-160 Honda Cb 160 Showroom View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926308/bikes/honda/honda-sp-160/honda-sp-160-back-view.webp",
+          "alt": "honda-sp-160 Back View"
+        }
+      ],
+    "pros": [
+      "Aggressive streetfighter design",
+      "Peppy 160cc engine",
+      "LED lighting",
+      "Comfortable ergonomics",
+      "Premium fit and finish"
+    ],
+    "cons": [
+      "No ABS in base variant",
+      "Slightly expensive",
+      "Average mileage",
+      "Rear drum brake",
+      "No Bluetooth connectivity"
+    ],
+    "faqs": [
+      {"question": "Difference from Hornet 160R?", "answer": "SP 160 has more aggressive styling and premium features."},
+      {"question": "Top speed?", "answer": "110kmph (claimed 115kmph)."},
+      {"question": "Service interval?", "answer": "Every 3000km or 3 months."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda SP 160 ABS",
+    "slug": "honda-sp-160-abs",
+    "brand": "Honda",
+    "category": "Streetfighter",
+    "cc": 162.71,
+    "price": "Tk. 225,000",
+    "short_description": "Honda SP 160 ABS - The premium variant of SP 160 with single-channel ABS for enhanced safety and braking performance.",
+    "Zero_Sixty": "5.5 sec",
+    "Zero_Hundred": "17.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45-48 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum (Single-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "139 kg",
+    "max_power": "15.31 PS @ 8500 rpm",
+    "max_torque": "14.5 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "795 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "800 mm",
+    "build_quality": "Premium streetfighter",
+    "parts_availability": "Good nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926303/bikes/honda/honda-sp-160/honda-cb-160-front-view.webp",
+          "alt": "honda-sp-160 Honda Cb 160 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926305/bikes/honda/honda-sp-160/honda-cb-160-left-view.webp",
+          "alt": "honda-sp-160 Honda Cb 160 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926306/bikes/honda/honda-sp-160/honda-cb-160-right-view.webp",
+          "alt": "honda-sp-160 Honda Cb 160 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926307/bikes/honda/honda-sp-160/honda-cb-160-showroom-view.webp",
+          "alt": "honda-sp-160 Honda Cb 160 Showroom View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926308/bikes/honda/honda-sp-160/honda-sp-160-back-view.webp",
+          "alt": "honda-sp-160 Back View"
+        }
+      ],
+    "pros": [
+      "Single-channel ABS safety",
+      "Aggressive streetfighter design",
+      "Peppy 160cc engine",
+      "LED lighting",
+      "Premium fit and finish"
+    ],
+    "cons": [
+      "More expensive than non-ABS",
+      "Average mileage",
+      "Rear drum brake",
+      "No Bluetooth connectivity",
+      "Heavier than non-ABS"
+    ],
+    "faqs": [
+      {"question": "ABS type?", "answer": "Single-channel ABS (front wheel only)."},
+      {"question": "Difference from non-ABS?", "answer": "Adds ABS and slightly heavier, otherwise identical."},
+      {"question": "Service cost?", "answer": "~Tk. 1,000 per service."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda X-Blade 160",
+    "slug": "honda-x-blade 160",
+    "brand": "Honda",
+    "category": "Streetfighter",
+    "cc": 162.71,
+    "price": "Tk. 192,500",
+    "short_description": "Honda X-Blade 160 - A futuristic streetfighter with sharp styling, 160cc engine and aggressive riding position.",
+    "Zero_Sixty": "5.7 sec",
+    "Zero_Hundred": "17.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "140 kg",
+    "max_power": "14.7 PS @ 8500 rpm",
+    "max_torque": "13.8 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/70-17",
+    "rear_tyre_size": "140/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "790 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2045 mm",
+    "overall_width": "788 mm",
+    "build_quality": "Premium streetfighter",
+    "parts_availability": "Good nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926281/bikes/honda/honda%20x%20blade/honda-x-blade-back-view.webp",
+          "alt": "honda x blade Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926282/bikes/honda/honda%20x%20blade/honda-x-blade-front-view.webp",
+          "alt": "honda x blade Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926283/bikes/honda/honda%20x%20blade/honda-x-blade-left-view.webp",
+          "alt": "honda x blade Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926283/bikes/honda/honda%20x%20blade/honda-x-blade-right-view.webp",
+          "alt": "honda x blade Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926284/bikes/honda/honda%20x%20blade/honda-x-blade-showroom-view.webp",
+          "alt": "honda x blade Showroom View"
+        }
+      ],
+    "pros": [
+      "Futuristic aggressive design",
+      "LED lighting all around",
+      "Comfortable ergonomics",
+      "Good performance",
+      "Premium features"
+    ],
+    "cons": [
+      "No ABS in base variant",
+      "Average mileage",
+      "Rear drum brake",
+      "Vibrations at high RPM",
+      "No Bluetooth connectivity"
+    ],
+    "faqs": [
+      {"question": "Difference from Hornet?", "answer": "X-Blade has more futuristic design and different ergonomics."},
+      {"question": "Top speed?", "answer": "110kmph (claimed 115kmph)."},
+      {"question": "Service interval?", "answer": "Every 3000km or 3 months."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Honda X-Blade ABS",
+    "slug": "honda-x-blade-abs",
+    "brand": "Honda",
+    "category": "Streetfighter",
+    "cc": 162.71,
+    "price": "Tk. 240,000",
+    "short_description": "Honda X-Blade ABS - The premium variant of X-Blade with single-channel ABS for enhanced safety and braking performance.",
+    "Zero_Sixty": "5.7 sec",
+    "Zero_Hundred": "17.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum (Single-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "142 kg",
+    "max_power": "14.7 PS @ 8500 rpm",
+    "max_torque": "13.8 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/70-17",
+    "rear_tyre_size": "140/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "790 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2045 mm",
+    "overall_width": "788 mm",
+    "build_quality": "Premium streetfighter",
+    "parts_availability": "Good nationwide",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926281/bikes/honda/honda%20x%20blade/honda-x-blade-back-view.webp",
+          "alt": "honda x blade Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926282/bikes/honda/honda%20x%20blade/honda-x-blade-front-view.webp",
+          "alt": "honda x blade Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926283/bikes/honda/honda%20x%20blade/honda-x-blade-left-view.webp",
+          "alt": "honda x blade Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926283/bikes/honda/honda%20x%20blade/honda-x-blade-right-view.webp",
+          "alt": "honda x blade Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926284/bikes/honda/honda%20x%20blade/honda-x-blade-showroom-view.webp",
+          "alt": "honda x blade Showroom View"
+        }
+      ] ,
+    
+    "pros": [
+      "Single-channel ABS safety",
+      "Futuristic aggressive design",
+      "LED lighting all around",
+      "Good performance",
+      "Premium features"
+    ],
+    "cons": [
+      "More expensive than non-ABS",
+      "Average mileage",
+      "Rear drum brake",
+      "Vibrations at high RPM",
+      "No Bluetooth connectivity"
+    ],
+    "faqs": [
+      {"question": "ABS type?", "answer": "Single-channel ABS (front wheel only)."},
+      {"question": "Difference from non-ABS?", "answer": "Adds ABS and slightly heavier, otherwise identical."},
+      {"question": "Service cost?", "answer": "~Tk. 1,000 per service."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+ {
+  "name": "Honda CB150R Exmotion",
+  "slug": "honda-cb150r-exmotion",
+  "brand": "Honda",
+  "category": "Naked",
+  "cc": 149,
+  "price": "Tk. 755,000 ",
+  "short_description": "The Honda CB150R Exmotion is a stylish, high-performance naked sports bike featuring modern design, reliable performance, and advanced technology, perfect for urban riding and young enthusiasts in Bangladesh.",
+  "description": "The Honda CB150R Exmotion is a premium naked street bike combining sportiness with modern design. It comes equipped with a 149cc liquid-cooled DOHC engine, offering smooth power delivery and an aggressive riding stance. Inspired by the Neo Sports Café concept, the Exmotion features LED lighting, an inverted front fork, and a fully digital instrument panel. Built on a lightweight frame, it provides excellent handling, making it ideal for both daily rides and spirited performance. It’s one of the most feature-rich 150cc bikes available in Bangladesh with an impressive blend of style, safety, and efficiency.",
+  "specifications": {
+    "engine_type": "Single Cylinder, 4-Stroke, DOHC, Liquid-Cooled",
+    "displacement": "149 cc",
+    "max_power": "16.8 BHP @ 9000 rpm",
+    "max_torque": "13.8 Nm @ 7000 rpm",
+    "bore_stroke": "57.3 mm x 57.8 mm",
+    "compression_ratio": "11.3:1",
+    "fuel_system": "PGM-FI (Fuel Injection)",
+    "cooling_system": "Liquid Cooled",
+    "starting_method": "Electric Start",
+    "transmission": "6-Speed Manual",
+    "gear": "6",
+    "clutch": "Multiplate Wet Clutch",
+    "top_speed": "135 km/h",
+    "mileage": "40 km/l (approx)",
+    "front_suspension": "41 mm USD Telescopic Fork",
+    "rear_suspension": "Mono Shock",
+    "front_brake": "296 mm Disc with ABS",
+    "rear_brake": "220 mm Disc with ABS",
+    "front_tyre": "110/70-17 M/C",
+    "rear_tyre": "150/60-17 M/C",
+    "wheel_type": "Alloy",
+    "battery": "Maintenance Free, 12V",
+    "headlight": "LED",
+    "tail_light": "LED",
+    "dimension": "1973 mm x 822 mm x 1053 mm",
+    "seat_height": "795 mm",
+    "ground_clearance": "139 mm",
+    "fuel_tank_capacity": "8.5 Liters",
+    "kerb_weight": "123 kg"
+  },
+  "zero_sixty": "5.7 sec",
+  "zero_hundred": "14.0 sec",
+ 
+  "pros": [
+    "Premium Neo Café design",
+    "Excellent handling and agility",
+    "Dual-channel ABS for safety",
+    "High build quality",
+    "USD front suspension"
+  ],
+  "cons": [
+    "Relatively small fuel tank",
+    "High price for 150cc category",
+    "No slipper clutch",
+    "Pillion seat is not very comfortable"
+  ],
+  "faqs": [
+    {
+      "question": "Is Honda CB150R Exmotion good for daily commuting?",
+      "answer": "Yes, its lightweight frame and smooth performance make it ideal for daily city commuting."
+    },
+    {
+      "question": "Does it have dual-channel ABS?",
+      "answer": "Yes, the CB150R Exmotion comes equipped with dual-channel ABS."
+    },
+    {
+      "question": "What is the mileage of Honda CB150R Exmotion?",
+      "answer": "It offers approximately 40 km/l under standard riding conditions."
+    },
+    {
+      "question": "Is it suitable for long rides?",
+      "answer": "While it performs well, the small fuel tank and firm seat may make long-distance touring less comfortable."
+    }
+  ]
+  },
+  {
+    "name": "Bajaj Avenger 160 ABS",
+    "slug": "bajaj-avenger-160-abs",
+    "brand": "Bajaj",
+    "category": "Cruiser",
+    "cc": 160.37,
+    "price": "Tk. 274,000",
+    "short_description": "Bajaj Avenger 160 ABS - A stylish 160cc cruiser with relaxed ergonomics, single-channel ABS and comfortable long-distance capability.",
+    "Zero_Sixty": "6.8 sec",
+    "Zero_Hundred": "19.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum (Single-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "156 kg",
+    "max_power": "15.5 PS @ 8500 rpm",
+    "max_torque": "13.7 Nm @ 7000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "280 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-17",
+    "rear_tyre_size": "130/90-15",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "13.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "737 mm",
+    "ground_clearance": "169 mm",
+    "overall_length": "2235 mm",
+    "overall_width": "820 mm",
+    "build_quality": "Premium cruiser",
+    "parts_availability": "Good nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926162/bikes/BAJAJ/Bajaj%20Avenger%20160%20ABS/bajaj-avenger-160-abs-back-view.webp",
+          "alt": "Bajaj Avenger 160 ABS Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926163/bikes/BAJAJ/Bajaj%20Avenger%20160%20ABS/bajaj-avenger-160-abs-front-view.webp",
+          "alt": "Bajaj Avenger 160 ABS Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926164/bikes/BAJAJ/Bajaj%20Avenger%20160%20ABS/bajaj-avenger-160-abs-left-view.webp",
+          "alt": "Bajaj Avenger 160 ABS Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926166/bikes/BAJAJ/Bajaj%20Avenger%20160%20ABS/bajaj-avenger-160-abs-right-view.webp",
+          "alt": "Bajaj Avenger 160 ABS Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926167/bikes/BAJAJ/Bajaj%20Avenger%20160%20ABS/bajaj-avenger-160-abs-showroom-view.webp",
+          "alt": "Bajaj Avenger 160 ABS Showroom View"
+        }
+      ],
+    "pros": [
+      "Comfortable cruiser ergonomics",
+      "Single-channel ABS safety",
+      "Low seat height (737mm)",
+      "Good torque for city riding",
+      "Large 13.5L fuel tank"
+    ],
+    "cons": [
+      "Heavy weight (156kg)",
+      "Average mileage",
+      "Basic instrument cluster",
+      "Limited ground clearance",
+      "No LED lighting"
+    ],
+    "faqs": [
+      {"question": "ABS type?", "answer": "Single-channel ABS (front wheel only)."},
+      {"question": "Suitable for tall riders?", "answer": "Best for riders under 6ft due to foot-forward position."},
+      {"question": "Service cost?", "answer": "~Tk. 1,200 per service."},
+      {"question": "Weight capacity?", "answer": "160kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj CT100 ES",
+    "slug": "bajaj-ct100-es",
+    "brand": "Bajaj",
+    "category": "Commuter",
+    "cc": 102,
+    "price": "Tk. 117,500",
+    "short_description": "Bajaj CT100 ES - An ultra-affordable 100cc commuter bike known for exceptional mileage and low maintenance costs.",
+    "Zero_Sixty": "11.5 sec",
+    "Zero_Hundred": "30.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "75 kmpl",
+    "mileage_reported": "70-73 kmpl",
+    "top_speed_claimed": "80 km/h",
+    "top_speed_reported": "75 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "109 kg",
+    "max_power": "7.7 PS @ 7500 rpm",
+    "max_torque": "8.05 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "10.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "805 mm",
+    "ground_clearance": "175 mm",
+    "overall_length": "2010 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Basic commuter",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926168/bikes/BAJAJ/Bajaj%20CT100%20ES/bajaj-ct-100-es-back-view.webp",
+          "alt": "Bajaj CT100 ES Bajaj Ct 100 Es Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926168/bikes/BAJAJ/Bajaj%20CT100%20ES/bajaj-ct-100-es-front-view.webp",
+          "alt": "Bajaj CT100 ES Bajaj Ct 100 Es Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926170/bikes/BAJAJ/Bajaj%20CT100%20ES/bajaj-ct-100-es-left%20view.webp",
+          "alt": "Bajaj CT100 ES Bajaj Ct 100 Es Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926171/bikes/BAJAJ/Bajaj%20CT100%20ES/bajaj-ct-100-es-right-view.webp",
+          "alt": "Bajaj CT100 ES Bajaj Ct 100 Es Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926172/bikes/BAJAJ/Bajaj%20CT100%20ES/bajaj-ct-100-es-showroom-view.webp",
+          "alt": "Bajaj CT100 ES Bajaj Ct 100 Es Showroom View"
+        }
+      ],
+    "pros": [
+      "Most affordable Bajaj bike",
+      "Excellent mileage",
+      "Low maintenance costs",
+      "Lightweight",
+      "Good ground clearance"
+    ],
+    "cons": [
+      "Very basic features",
+      "Slow acceleration",
+      "No disc brake option",
+      "Outdated design",
+      "Tube-type tires"
+    ],
+    "faqs": [
+      {"question": "Top speed?", "answer": "75kmph (claimed 80kmph)."},
+      {"question": "Service cost?", "answer": "Cheapest in Bajaj lineup (~Tk. 500 per service)."},
+      {"question": "Weight capacity?", "answer": "130kg (rider + pillion)."},
+      {"question": "ABS available?", "answer": "No, only basic drum brakes."}
+    ]
+  },
+  {
+    "name": "Bajaj Discover 110 Disc",
+    "slug": "bajaj-discover-110-disc",
+    "brand": "Bajaj",
+    "category": "Commuter",
+    "cc": 115.5,
+    "price": "Tk. 154,100",
+    "short_description": "Bajaj Discover 110 Disc - A premium 110cc commuter with front disc brake, alloy wheels and refined engine for comfortable city rides.",
+    "Zero_Sixty": "8.5 sec",
+    "Zero_Hundred": "23.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "70 kmpl",
+    "mileage_reported": "65-68 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "118 kg",
+    "max_power": "8.6 PS @ 7500 rpm",
+    "max_torque": "9.81 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2035 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Premium commuter",
+    "parts_availability": "Excellent nationwide",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926173/bikes/BAJAJ/Bajaj%20Discover%20110%20Disc/bajaj-discover-110-disc-back%20view.webp",
+          "alt": "Bajaj Discover 110 Disc Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926173/bikes/BAJAJ/Bajaj%20Discover%20110%20Disc/bajaj-discover-110-disc-front-view.webp",
+          "alt": "Bajaj Discover 110 Disc Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926175/bikes/BAJAJ/Bajaj%20Discover%20110%20Disc/bajaj-discover-110-disc-left-view.webp",
+          "alt": "Bajaj Discover 110 Disc Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926176/bikes/BAJAJ/Bajaj%20Discover%20110%20Disc/bajaj-discover-110-disc-right-view.webp",
+          "alt": "Bajaj Discover 110 Disc Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926177/bikes/BAJAJ/Bajaj%20Discover%20110%20Disc/bajaj-discover-110-disc-showroom-view.webp",
+          "alt": "Bajaj Discover 110 Disc Showroom View"
+        }
+      ],
+    "pros": [
+      "Front disc brake safety",
+      "Alloy wheels with tubeless tires",
+      "Good mileage",
+      "Comfortable ergonomics",
+      "Bajaj reliability"
+    ],
+    "cons": [
+      "No ABS option",
+      "Basic instrument cluster",
+      "Small pillion seat",
+      "Average performance",
+      "No LED lighting"
+    ],
+    "faqs": [
+      {"question": "Difference from Drum version?", "answer": "Disc version has front disc brake and alloy wheels."},
+      {"question": "Top speed?", "answer": "85kmph (claimed 90kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 700 per service."},
+      {"question": "Weight capacity?", "answer": "140kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Discover 125 Disc",
+    "slug": "bajaj-discover-125-disc",
+    "brand": "Bajaj",
+    "category": "Commuter",
+    "cc": 124.5,
+    "price": "Tk. 160,600",
+    "short_description": "Bajaj Discover 125 Disc - A 125cc commuter with sporty styling, front disc brake and comfortable riding position for daily commuting.",
+    "Zero_Sixty": "7.8 sec",
+    "Zero_Hundred": "21.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "60-63 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "123 kg",
+    "max_power": "11.8 PS @ 8500 rpm",
+    "max_torque": "11 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2035 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Premium commuter",
+    "parts_availability": "Excellent nationwide",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926173/bikes/BAJAJ/Bajaj%20Discover%20110%20Disc/bajaj-discover-110-disc-back%20view.webp",
+          "alt": "Bajaj Discover 110 Disc Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926173/bikes/BAJAJ/Bajaj%20Discover%20110%20Disc/bajaj-discover-110-disc-front-view.webp",
+          "alt": "Bajaj Discover 110 Disc Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926175/bikes/BAJAJ/Bajaj%20Discover%20110%20Disc/bajaj-discover-110-disc-left-view.webp",
+          "alt": "Bajaj Discover 110 Disc Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926176/bikes/BAJAJ/Bajaj%20Discover%20110%20Disc/bajaj-discover-110-disc-right-view.webp",
+          "alt": "Bajaj Discover 110 Disc Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926177/bikes/BAJAJ/Bajaj%20Discover%20110%20Disc/bajaj-discover-110-disc-showroom-view.webp",
+          "alt": "Bajaj Discover 110 Disc Showroom View"
+        }
+      ] ,
+    "pros": [
+      "More powerful 125cc engine",
+      "Front disc brake safety",
+      "Alloy wheels with tubeless tires",
+      "Good mileage",
+      "Comfortable ergonomics"
+    ],
+    "cons": [
+      "No ABS option",
+      "Basic instrument cluster",
+      "Small pillion seat",
+      "Average performance",
+      "No LED lighting"
+    ],
+    "faqs": [
+      {"question": "Difference from 110 version?", "answer": "125 has more power, 5-speed gearbox and sportier styling."},
+      {"question": "Top speed?", "answer": "90kmph (claimed 95kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 800 per service."},
+      {"question": "Weight capacity?", "answer": "140kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Platina 100 ES",
+    "slug": "bajaj-platina-100-es",
+    "brand": "Bajaj",
+    "category": "Commuter",
+    "cc": 102,
+    "price": "Tk. 1,34,350",
+    "short_description": "Bajaj Platina 100 ES - A comfortable 100cc commuter with ES (Electric Start), good mileage and plush suspension for rough roads.",
+    "Zero_Sixty": "11.0 sec",
+    "Zero_Hundred": "29.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "74 kmpl",
+    "mileage_reported": "69-72 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "115 kg",
+    "max_power": "7.9 PS @ 7500 rpm",
+    "max_torque": "8.34 Nm @ 4500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "805 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "2010 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Comfortable commuter",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926178/bikes/BAJAJ/Bajaj%20Platina%20100%20ES/bajaj-platina-100-es-back-view.webp",
+          "alt": "Bajaj Platina 100 ES Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926179/bikes/BAJAJ/Bajaj%20Platina%20100%20ES/bajaj-platina-100-es-front-view.webp",
+          "alt": "Bajaj Platina 100 ES Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926180/bikes/BAJAJ/Bajaj%20Platina%20100%20ES/bajaj-platina-100-es-left-view.webp",
+          "alt": "Bajaj Platina 100 ES Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926181/bikes/BAJAJ/Bajaj%20Platina%20100%20ES/bajaj-platina-100-es-right-view.webp",
+          "alt": "Bajaj Platina 100 ES Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926182/bikes/BAJAJ/Bajaj%20Platina%20100%20ES/bajaj-platina-100-es-showroom-view.webp",
+          "alt": "Bajaj Platina 100 ES Showroom View"
+        }
+      ],
+    "pros": [
+      "Comfortable suspension",
+      "Electric start convenience",
+      "Excellent mileage",
+      "Good ground clearance",
+      "Large 11L fuel tank"
+    ],
+    "cons": [
+      "Basic drum brakes",
+      "Slow acceleration",
+      "No disc brake option",
+      "Outdated features",
+      "Tube-type tires"
+    ],
+    "faqs": [
+      {"question": "Difference from CT100?", "answer": "Platina has better suspension, electric start and more comfort features."},
+      {"question": "Top speed?", "answer": "80kmph (claimed 85kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 600 per service."},
+      {"question": "Weight capacity?", "answer": "140kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Platina 110 H Gear Disc Brake",
+    "slug": "bajaj-platina-110-hgear-disc",
+    "brand": "Bajaj",
+    "category": "Commuter",
+    "cc": 115.45,
+    "price": "Tk. 1,42,500",
+    "short_description": "Bajaj Platina 110 H Gear Disc Brake - A 110cc commuter with comfortable ergonomics, front disc brake and H-Gear technology for better mileage.",
+    "Zero_Sixty": "9.5 sec",
+    "Zero_Hundred": "25.8 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "70 kmpl",
+    "mileage_reported": "65-68 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "117 kg",
+    "max_power": "8.6 PS @ 7500 rpm",
+    "max_torque": "9.81 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "805 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "2010 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Comfortable commuter",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926183/bikes/BAJAJ/Bajaj%20Platina%20110%20H%20Gear%20Disc%20Brake/bajaj-platina-110-h-gear-disc-brake-back-view.webp",
+          "alt": "Bajaj Platina 110 H Gear Disc Brake Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926184/bikes/BAJAJ/Bajaj%20Platina%20110%20H%20Gear%20Disc%20Brake/bajaj-platina-110-h-gear-disc-brake-front-view.webp",
+          "alt": "Bajaj Platina 110 H Gear Disc Brake Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926185/bikes/BAJAJ/Bajaj%20Platina%20110%20H%20Gear%20Disc%20Brake/bajaj-platina-110-h-gear-disc-brake-left-view.webp",
+          "alt": "Bajaj Platina 110 H Gear Disc Brake Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926186/bikes/BAJAJ/Bajaj%20Platina%20110%20H%20Gear%20Disc%20Brake/bajaj-platina-110-h-gear-disc-brake-right-view.webp",
+          "alt": "Bajaj Platina 110 H Gear Disc Brake Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926187/bikes/BAJAJ/Bajaj%20Platina%20110%20H%20Gear%20Disc%20Brake/bajaj-platina-110-h-gear-disc-brake-showroom-view.webp",
+          "alt": "Bajaj Platina 110 H Gear Disc Brake Showroom View"
+        }
+      ] ,
+    "pros": [
+      "Comfortable suspension",
+      "Front disc brake safety",
+      "H-Gear technology for mileage",
+      "Good ground clearance",
+      "Tubeless tires"
+    ],
+    "cons": [
+      "Basic instrument cluster",
+      "Slow acceleration",
+      "No ABS option",
+      "Outdated features",
+      "No LED lighting"
+    ],
+    "faqs": [
+      {"question": "What is H-Gear?", "answer": "Bajaj's technology that optimizes gear ratios for better mileage."},
+      {"question": "Top speed?", "answer": "85kmph (claimed 90kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 700 per service."},
+      {"question": "Weight capacity?", "answer": "140kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Pulsar 150 SD",
+    "slug": "bajaj-pulsar-150-sd",
+    "brand": "Bajaj",
+    "category": "Street",
+    "cc": 150,
+    "price": "Tk. 1,99,750",
+    "short_description": "Bajaj Pulsar 150 SD - The iconic 150cc street bike with sporty design, single disc brake and peppy performance.",
+    "Zero_Sixty": "6.2 sec",
+    "Zero_Hundred": "18.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45-48 kmpl",
+    "top_speed_claimed": "110 km/h",
+    "top_speed_reported": "105 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "144 kg",
+    "max_power": "14 PS @ 8000 rpm",
+    "max_torque": "13.25 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "260 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "100/90-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "15 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Sporty street bike",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926188/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-back-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926189/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-front-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926190/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-left-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926191/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-right-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926192/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-showroom-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Showroom View"
+        }
+      ] ,
+    "pros": [
+      "Iconic Pulsar design",
+      "Peppy 150cc engine",
+      "Large 15L fuel tank",
+      "LED tail light",
+      "Good resale value"
+    ],
+    "cons": [
+      "No ABS",
+      "Average mileage",
+      "Vibrations at high RPM",
+      "Basic halogen headlight",
+      "No Bluetooth features"
+    ],
+    "faqs": [
+      {"question": "What does SD stand for?", "answer": "Single Disc (front disc brake only)."},
+      {"question": "Top speed?", "answer": "105kmph (claimed 110kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 1,000 per service."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Pulsar 150 SD ABS",
+    "slug": "bajaj-pulsar-150-sd-abs",
+    "brand": "Bajaj",
+    "category": "Street",
+    "cc": 149.5,
+    "price": "Tk. 2,14,500",
+    "short_description": "Bajaj Pulsar 150 SD ABS - The safety-focused variant of Pulsar 150 with single-channel ABS for confident braking.",
+    "Zero_Sixty": "6.2 sec",
+    "Zero_Hundred": "18.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45-48 kmpl",
+    "top_speed_claimed": "110 km/h",
+    "top_speed_reported": "105 km/h",
+    "braking": "Front Disc, Rear Drum (Single-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "146 kg",
+    "max_power": "14 PS @ 8000 rpm",
+    "max_torque": "13.25 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "260 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "100/90-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "15 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Sporty street bike",
+    "parts_availability": "Excellent nationwide",
+     "image_urls": [
+       {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926188/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-back-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926189/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-front-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926190/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-left-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926191/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-right-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926192/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-showroom-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Showroom View"
+        }
+      ],
+    "pros": [
+      "Single-channel ABS safety",
+      "Iconic Pulsar design",
+      "Peppy 150cc engine",
+      "Large 15L fuel tank",
+      "LED tail light"
+    ],
+    "cons": [
+      "More expensive than non-ABS",
+      "Average mileage",
+      "Vibrations at high RPM",
+      "Basic halogen headlight",
+      "No Bluetooth features"
+    ],
+    "faqs": [
+      {"question": "ABS type?", "answer": "Single-channel ABS (front wheel only)."},
+      {"question": "Difference from non-ABS?", "answer": "Adds ABS and slightly heavier, otherwise identical."},
+      {"question": "Service cost?", "answer": "~Tk. 1,200 per service."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Pulsar 150 Twin Disc",
+    "slug": "bajaj-pulsar-150-twin-disc",
+    "brand": "Bajaj",
+    "category": "Street",
+    "cc": 149.5,
+    "price": "Tk. 2,17,000",
+    "short_description": "Bajaj Pulsar 150 Twin Disc - The premium variant of Pulsar 150 with dual disc brakes for enhanced stopping power.",
+    "Zero_Sixty": "6.2 sec",
+    "Zero_Hundred": "18.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45-48 kmpl",
+    "top_speed_claimed": "110 km/h",
+    "top_speed_reported": "105 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "147 kg",
+    "max_power": "14 PS @ 8000 rpm",
+    "max_torque": "13.25 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "260 mm Disc",
+    "rear_brake": "230 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "100/90-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "15 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Sporty street bike",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926188/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-back-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926189/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-front-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926190/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-left-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926191/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-right-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926192/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-showroom-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Showroom View"
+        }
+      ],
+    "pros": [
+      "Dual disc brake setup",
+      "Iconic Pulsar design",
+      "Peppy 150cc engine",
+      "Large 15L fuel tank",
+      "LED tail light"
+    ],
+    "cons": [
+      "No ABS",
+      "Average mileage",
+      "Vibrations at high RPM",
+      "Basic halogen headlight",
+      "No Bluetooth features"
+    ],
+    "faqs": [
+      {"question": "Difference from SD version?", "answer": "Adds rear disc brake, otherwise identical."},
+      {"question": "Top speed?", "answer": "105kmph (claimed 110kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 1,200 per service."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Pulsar 150 Twin Disc ABS",
+    "slug": "bajaj-pulsar-150-twin-disc-abs",
+    "brand": "Bajaj",
+    "category": "Street",
+    "cc": 149.5,
+    "price": "Tk. 2,35,000",
+    "short_description": "Bajaj Pulsar 150 Twin Disc ABS - The top variant of Pulsar 150 with dual disc brakes and single-channel ABS for maximum safety.",
+    "Zero_Sixty": "6.2 sec",
+    "Zero_Hundred": "18.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45-48 kmpl",
+    "top_speed_claimed": "110 km/h",
+    "top_speed_reported": "105 km/h",
+    "braking": "Front Disc, Rear Disc (Single-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "149 kg",
+    "max_power": "14 PS @ 8000 rpm",
+    "max_torque": "13.25 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "260 mm Disc",
+    "rear_brake": "230 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "100/90-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "15 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Sporty street bike",
+    "parts_availability": "Excellent nationwide",
+     "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926188/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-back-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926189/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-front-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926190/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-left-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926191/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-right-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926192/bikes/BAJAJ/Bajaj%20Pulsar%20150%20SD/bajaj-pulsar-150-sd-showroom-view.webp",
+          "alt": "Bajaj Pulsar 150 SD Showroom View"
+        }
+      ],
+    "pros": [
+      "Dual disc brakes with ABS",
+      "Maximum braking safety",
+      "Iconic Pulsar design",
+      "Peppy 150cc engine",
+      "Large 15L fuel tank"
+    ],
+    "cons": [
+      "Most expensive Pulsar 150 variant",
+      "Average mileage",
+      "Vibrations at high RPM",
+      "Basic halogen headlight",
+      "No Bluetooth features"
+    ],
+    "faqs": [
+      {"question": "ABS type?", "answer": "Single-channel ABS (front wheel only)."},
+      {"question": "Difference from Twin Disc?", "answer": "Adds ABS, otherwise identical."},
+      {"question": "Service cost?", "answer": "~Tk. 1,300 per service."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Pulsar F250",
+    "slug": "bajaj-pulsar-f250",
+    "brand": "Bajaj",
+    "category": "Sports",
+    "cc": 249,
+    "price": "Tk. 365,000",
+    "short_description": "Bajaj Pulsar F250 - A fully-faired 250cc sports bike with liquid-cooled engine, dual-channel ABS and aggressive styling.",
+    "Zero_Sixty": "4.5 sec",
+    "Zero_Hundred": "14.2 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "35 kmpl",
+    "mileage_reported": "30-33 kmpl",
+    "top_speed_claimed": "144 km/h",
+    "top_speed_reported": "140 km/h",
+    "braking": "Front Disc, Rear Disc (Dual-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "163 kg",
+    "max_power": "24.5 PS @ 8750 rpm",
+    "max_torque": "21.5 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "300 mm Disc",
+    "rear_brake": "230 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "14 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2019 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Premium sports bike",
+    "parts_availability": "Good in major cities",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926193/bikes/BAJAJ/Bajaj%20Pulsar%20F250/bajaj-pulsar-f250-back-view.webp",
+          "alt": "Bajaj Pulsar F250 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926194/bikes/BAJAJ/Bajaj%20Pulsar%20F250/bajaj-pulsar-f250-front-view.webp",
+          "alt": "Bajaj Pulsar F250 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926195/bikes/BAJAJ/Bajaj%20Pulsar%20F250/bajaj-pulsar-f250-left-view.webp",
+          "alt": "Bajaj Pulsar F250 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926196/bikes/BAJAJ/Bajaj%20Pulsar%20F250/bajaj-pulsar-f250-right-view.webp",
+          "alt": "Bajaj Pulsar F250 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926197/bikes/BAJAJ/Bajaj%20Pulsar%20F250/bajaj-pulsar-f250-showroom-view.webp",
+          "alt": "Bajaj Pulsar F250 Showroom View"
+        }
+      ] ,
+    "pros": [
+      "Fully-faired sporty design",
+      "Liquid-cooled engine",
+      "Dual-channel ABS",
+      "LED lighting",
+      "Premium suspension"
+    ],
+    "cons": [
+      "Expensive for 250cc",
+      "Heavy weight",
+      "Aggressive riding posture",
+      "High maintenance costs",
+      "Small pillion seat"
+    ],
+    "faqs": [
+      {"question": "ABS type?", "answer": "Dual-channel ABS as standard."},
+      {"question": "Top speed?", "answer": "140kmph (claimed 144kmph)."},
+      {"question": "Service interval?", "answer": "Every 4000km or 4 months."},
+      {"question": "Weight capacity?", "answer": "160kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Pulsar N160",
+    "slug": "bajaj-pulsar-n160",
+    "brand": "Bajaj",
+    "category": "Streetfighter",
+    "cc": 164.82,
+    "price": "Tk. 2,79,500",
+    "short_description": "Bajaj Pulsar N160 - A streetfighter with aggressive styling, single-channel ABS and refined 160cc engine.",
+    "Zero_Sixty": "5.8 sec",
+    "Zero_Hundred": "17.8 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc, Rear Drum (Single-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "152 kg",
+    "max_power": "15.68 PS @ 8500 rpm",
+    "max_torque": "14.65 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "280 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "14 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2000 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Premium streetfighter",
+    "parts_availability": "Good nationwide",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926198/bikes/BAJAJ/Bajaj%20Pulsar%20N160/bajaj-pulsar-n160-right-view.webp",
+          "alt": "Bajaj Pulsar N160 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926199/bikes/BAJAJ/Bajaj%20Pulsar%20N160/bajar-pulsar-n160-back-view.webp",
+          "alt": "Bajaj Pulsar N160 Bajar Pulsar N160 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926200/bikes/BAJAJ/Bajaj%20Pulsar%20N160/bajar-pulsar-n160-front-view.webp",
+          "alt": "Bajaj Pulsar N160 Bajar Pulsar N160 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926201/bikes/BAJAJ/Bajaj%20Pulsar%20N160/bajar-pulsar-n160-left-view.webp",
+          "alt": "Bajaj Pulsar N160 Bajar Pulsar N160 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926202/bikes/BAJAJ/Bajaj%20Pulsar%20N160/bajar-pulsar-n160-showroom-view.webp",
+          "alt": "Bajaj Pulsar N160 Bajar Pulsar N160 Showroom View"
+        }
+      ] ,
+    "pros": [
+      "Aggressive streetfighter design",
+      "Single-channel ABS",
+      "LED lighting",
+      "Comfortable ergonomics",
+      "Large 14L fuel tank"
+    ],
+    "cons": [
+      "Rear drum brake",
+      "Average mileage",
+      "Vibrations at high RPM",
+      "No Bluetooth features",
+      "Slightly heavy"
+    ],
+    "faqs": [
+      {"question": "ABS type?", "answer": "Single-channel ABS (front wheel only)."},
+      {"question": "Top speed?", "answer": "115kmph (claimed 120kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 1,200 per service."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Pulsar N250",
+    "slug": "bajaj-pulsar-n250",
+    "brand": "Bajaj",
+    "category": "Streetfighter",
+    "cc": 249.07,
+    "price": "Tk. 330,100",
+    "short_description": "Bajaj Pulsar N250 - A powerful streetfighter with 250cc engine, dual-channel ABS and premium features.",
+    "Zero_Sixty": "4.8 sec",
+    "Zero_Hundred": "15.0 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35-38 kmpl",
+    "top_speed_claimed": "138 km/h",
+    "top_speed_reported": "135 km/h",
+    "braking": "Front Disc, Rear Disc (Dual-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "164 kg",
+    "max_power": "24.5 PS @ 8750 rpm",
+    "max_torque": "21.5 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "300 mm Disc",
+    "rear_brake": "230 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "14 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2000 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Premium streetfighter",
+    "parts_availability": "Good in major cities",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926198/bikes/BAJAJ/Bajaj%20Pulsar%20N160/bajaj-pulsar-n160-right-view.webp",
+          "alt": "Bajaj Pulsar N160 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926199/bikes/BAJAJ/Bajaj%20Pulsar%20N160/bajar-pulsar-n160-back-view.webp",
+          "alt": "Bajaj Pulsar N160 Bajar Pulsar N160 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926200/bikes/BAJAJ/Bajaj%20Pulsar%20N160/bajar-pulsar-n160-front-view.webp",
+          "alt": "Bajaj Pulsar N160 Bajar Pulsar N160 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926201/bikes/BAJAJ/Bajaj%20Pulsar%20N160/bajar-pulsar-n160-left-view.webp",
+          "alt": "Bajaj Pulsar N160 Bajar Pulsar N160 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926202/bikes/BAJAJ/Bajaj%20Pulsar%20N160/bajar-pulsar-n160-showroom-view.webp",
+          "alt": "Bajaj Pulsar N160 Bajar Pulsar N160 Showroom View"
+        }
+      ] ,
+    "pros": [
+      "Powerful 250cc engine",
+      "Dual-channel ABS",
+      "LED lighting",
+      "Premium suspension",
+      "Large 14L fuel tank"
+    ],
+    "cons": [
+      "Expensive",
+      "Heavy weight",
+      "Average mileage",
+      "No Bluetooth features",
+      "Aggressive riding posture"
+    ],
+    "faqs": [
+      {"question": "ABS type?", "answer": "Dual-channel ABS as standard."},
+      {"question": "Top speed?", "answer": "135kmph (claimed 138kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 1,500 per service."},
+      {"question": "Weight capacity?", "answer": "160kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Pulsar NS 125",
+    "slug": "bajaj-pulsar-ns125",
+    "brand": "Bajaj",
+    "category": "Street",
+    "cc": 124.45,
+    "price": "Tk. 1,79,750",
+    "short_description": "Bajaj Pulsar NS 125 - A 125cc street bike with NS series styling, sporty ergonomics and good performance.",
+    "Zero_Sixty": "7.5 sec",
+    "Zero_Hundred": "21.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "55 kmpl",
+    "mileage_reported": "50-53 kmpl",
+    "top_speed_claimed": "100 km/h",
+    "top_speed_reported": "95 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "137 kg",
+    "max_power": "12 PS @ 8500 rpm",
+    "max_torque": "11 Nm @ 7000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-17",
+    "rear_tyre_size": "100/90-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "805 mm",
+    "ground_clearance": "175 mm",
+    "overall_length": "2012 mm",
+    "overall_width": "804 mm",
+    "build_quality": "Sporty street bike",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926202/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-back-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926203/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-front-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926204/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-left-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926206/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-right-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926207/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-showroom-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Showroom View"
+        }
+      ],
+      "pros": [
+      "Sporty NS design",
+      "Good performance for 125cc",
+      "LED tail light",
+      "Comfortable ergonomics",
+      "Tubeless tires"
+     ],
+    "cons": [
+      "No ABS",
+      "Basic halogen headlight",
+      "Average mileage",
+      "Vibrations at high RPM",
+      "No Bluetooth features"
+    ],
+    "faqs": [
+      {"question": "Difference from NS160?", "answer": "Smaller 125cc engine, less power and more affordable."},
+      {"question": "What is its Top speed?", "answer": "95kmph (claimed 100kmph)."},
+      {"question": "What may its Service cost?", "answer": "~Tk. 900 per service."},
+      {"question": "What is its Weight capacity?", "answer": "140kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Pulsar NS160 Fi ABS",
+    "slug": "bajaj-pulsar-ns160-fi-abs",
+    "brand": "Bajaj",
+    "category": "Street",
+    "cc": 160.3,
+    "price": "Tk. 2,62,500",
+    "short_description": "Bajaj Pulsar NS160 Fi ABS - A fuel-injected 160cc street bike with single-channel ABS and sporty NS series design.",
+    "Zero_Sixty": "6.0 sec",
+    "Zero_Hundred": "18.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum (Single-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "152 kg",
+    "max_power": "15.5 PS @ 8500 rpm",
+    "max_torque": "14.6 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "280 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "805 mm",
+    "ground_clearance": "175 mm",
+    "overall_length": "2012 mm",
+    "overall_width": "804 mm",
+    "build_quality": "Sporty street bike",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926202/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-back-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926203/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-front-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926204/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-left-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926206/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-right-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926207/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-showroom-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Showroom View"
+        }
+      ],
+       "pros": [
+      "Fuel-injected engine",
+      "Single-channel ABS",
+      "Sporty NS design",
+      "LED tail light",
+      "Good performance"
+    ],
+    "cons": [
+      "Rear drum brake",
+      "Average mileage",
+      "Basic halogen headlight",
+      "Vibrations at high RPM",
+      "No Bluetooth features"
+    ],
+    "faqs": [
+      {"question": "ABS type?", "answer": "Single-channel ABS (front wheel only)."},
+      {"question": "Top speed?", "answer": "110kmph (claimed 115kmph)."},
+      {"question": "Service cost?", "answer": "~Tk. 1,200 per service."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  },
+  {
+    "name": "Bajaj Pulsar NS160 TD ABS",
+    "slug": "bajaj-pulsar-ns160-td-abs",
+    "brand": "Bajaj",
+    "category": "Street",
+    "cc": 160,
+    "price": "Tk. 2,10,000",
+    "short_description": "Bajaj Pulsar NS160 TD ABS - A twin-disc brake version of NS160 with single-channel ABS and sporty street performance.",
+    "Zero_Sixty": "6.0 sec",
+    "Zero_Hundred": "18.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Disc (Single-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "154 kg",
+    "max_power": "15.5 PS @ 8500 rpm",
+    "max_torque": "14.6 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "280 mm Disc",
+    "rear_brake": "230 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "805 mm",
+    "ground_clearance": "175 mm",
+    "overall_length": "2012 mm",
+    "overall_width": "804 mm",
+    "build_quality": "Sporty street bike",
+    "parts_availability": "Excellent nationwide",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926202/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-back-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926203/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-front-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926204/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-left-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926206/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-right-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926207/bikes/BAJAJ/Bajaj%20Pulsar%20NS%20125/bajaj-pulsar-ns-125-showroom-view.webp",
+          "alt": "Bajaj Pulsar NS 125 Showroom View"
+        }
+      ] ,
+    "pros": [
+      "Twin-disc brake setup",
+      "Single-channel ABS",
+      "Sporty NS design",
+      "LED tail light",
+      "Good performance"
+    ],
+    "cons": [
+      "Not fuel-injected",
+      "Average mileage",
+      "Basic halogen headlight",
+      "Vibrations at high RPM",
+      "No Bluetooth features"
+    ],
+    "faqs": [
+      {"question": "Difference from Fi version?", "answer": "TD has twin discs but carbureted engine instead of FI."},
+      {"question": "ABS type?", "answer": "Single-channel ABS (front wheel only)."},
+      {"question": "Top speed?", "answer": "110kmph (claimed 115kmph)."},
+      {"question": "Weight capacity?", "answer": "150kg (rider + pillion)."}
+    ]
+  }
+]

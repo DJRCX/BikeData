@@ -1,0 +1,110 @@
+Bike Name : Bajaj Pulsar NS125
+Top Speed : 103 km/h (Company Claimed)  | ~110 km/h (User Reported) 
+Mileage(City): ~48-52 kmpl (User Reported) 
+Mileage(Highway): ~56-60 kmpl (User Reported) 
+Category: Sports Naked / Streetfighter 
+Base Price: BDT 117,600 (Estimated) 
+Description: The 2026 Bajaj Pulsar NS125 is an entry-level streetfighter that brings the aggressive design language of its bigger siblings (NS200) to the 125cc segment. It is powered by a 124.45cc, 4-valve, air-cooled DTS-i engine producing 12 PS. For 2026, it receives significant updates including a fully digital instrument cluster with Bluetooth connectivity (call alerts, turn-by-turn navigation) and, on the top variant, selectable ABS modes (Rain, Road, Off-Road) . It is known for its muscular tank, perimeter frame (rare in this class), and stable high-speed handling, making it a favorite among young riders looking for style and performance on a budget .
+
+Displacement(CC): 124.45 cc 
+Max Power: 12 PS @ 8,500 rpm 
+Max Torque: 11 Nm @ 7,000 rpm 
+Engine Type: 4-Stroke, SOHC, 4-Valve, Air-Cooled, DTS-i Ei (Fuel Injected) 
+Fuel System: Fuel Injection 
+Cooling System: Air Cooled 
+Gears : 5 Speed 
+Clutch: Wet Multi-Plate 
+Spark Plugs: 1 (Data not explicitly stated, standard for single cylinder) 
+Gear Shift Pattern: 1 Down, 4 Up (Standard) 
+
+Front Brake: 240 mm Disc 
+Rear Brake: 130 mm Drum 
+Braking System: Single Channel ABS (on top variant) / CBS (on base variant) 
+Front Tyre: 80/100-17 Tubeless 
+Rear Tyre: 100/90-17 Tubeless 
+
+Kerb Weight: 144 kg 
+Fuel Capacity: 12 Litres 
+Seat Height: 805 mm 
+Ground Clearance: 179 mm 
+Wheelbase: 1353 mm 
+
+(Boolean Answers Yes/No)
+USB Charging: Yes 
+Side Stand Cut-off: Yes 
+Projector Headlight: No (It features a "Wolf-Eyed" LED unit on top variants, but not a projector) 
+DRLs: Yes (LED DRLs) 
+Gear Indicator: Yes 
+Distance to Empty: Yes 
+Avg Fuel Consumption: Yes 
+
+Variants Count : 3 
+
+Variant 1: Pulsar NS125 Standard (STD)
+Variant Name: Pulsar NS125 Standard
+Variant Key: STD
+Price BDT: BDT 117,600 
+Top Speed(Company Claimed): 103 km/h 
+Top Speed(User Claimed): 110 km/h 
+Mileage(Company Claimed): 46.9 kmpl (ARAI certified for base model) 
+Braking System: Combined Braking System (CBS) 
+Rear Braking System: Drum 
+Tyre Type: Tubeless 
+Headlight Type: Halogen 
+Kerb Weight: 144 kg 
+Instrument Console: Semi-Digital (Analogue tachometer + digital display) 
+Seat Type: Split Seat 
+
+(Boolean Answers Yes/No)
+Mobile Phone Connectivity: No
+Riding Modes: No
+Traction Control: No
+GPS & Navigation: No
+Slipper/Assist Clutch: No
+Quick Shifter: No
+
+Variant 2: Pulsar NS125 LED BT
+Variant Name: Pulsar NS125 LED BT
+Variant Key: LED BT
+Price BDT: ~BDT 120,000 (Estimated, based on variant positioning) 
+Top Speed(Company Claimed): 103 km/h 
+Top Speed(User Claimed): 110 km/h 
+Mileage(Company Claimed): 46.9 kmpl 
+Braking System: Combined Braking System (CBS) 
+Rear Braking System: Drum 
+Tyre Type: Tubeless 
+Headlight Type: LED 
+Kerb Weight: 144 kg 
+Instrument Console: Fully Digital with Bluetooth Connectivity (Call/SMS Alerts, Turn-by-Turn Navigation) 
+Seat Type: Split Seat 
+
+(Boolean Answers Yes/No)
+Mobile Phone Connectivity: Yes 
+Riding Modes: No
+Traction Control: No
+GPS & Navigation: Yes (Turn-by-Turn) 
+Slipper/Assist Clutch: No
+Quick Shifter: No
+
+Variant 3: Pulsar NS125 LED BT ABS
+Variant Name: Pulsar NS125 LED BT ABS
+Variant Key: LED BT ABS
+Price BDT: ~BDT 125,000 (Estimated, based on variant positioning) 
+Top Speed(Company Claimed): 103 km/h 
+Top Speed(User Claimed): 110 km/h 
+Mileage(Company Claimed): 46.9 kmpl 
+Braking System: Single Channel ABS with selectable modes (Rain, Road, Off-Road) 
+Rear Braking System: Drum 
+Tyre Type: Tubeless 
+Headlight Type: LED 
+Kerb Weight: 144 kg 
+Instrument Console: Fully Digital with Bluetooth Connectivity (Call/SMS Alerts, Turn-by-Turn Navigation) 
+Seat Type: Split Seat 
+
+(Boolean Answers Yes/No)
+Mobile Phone Connectivity: Yes 
+Riding Modes: Yes (ABS Modes - Rain, Road, Off-Road) 
+Traction Control: No
+GPS & Navigation: Yes (Turn-by-Turn) 
+Slipper/Assist Clutch: No
+Quick Shifter: No

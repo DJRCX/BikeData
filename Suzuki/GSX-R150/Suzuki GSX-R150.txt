@@ -1,0 +1,87 @@
+Bike Name: Suzuki GSX-R150
+Top Speed: 148 km/h (claimed, based on印尼 test) 
+Mileage (City): 40 km/L (approx.) 
+Mileage (Highway): 45 km/L (approx.) 
+Category: Sports
+Base Price: BDT 524,950 (for ABS variant) 
+Description: The Suzuki GSX-R150 is a full-faired sports motorcycle that brings racetrack-inspired design and performance to the 150cc segment in Bangladesh. It features a high-revving, liquid-cooled engine and lightweight chassis, making it a popular choice for enthusiasts seeking an agile and powerful machine with the iconic GSX-R legacy.
+
+Displacement (CC): 147.3 cc 
+Max Power: 19.2 PS @ 10,500 rpm 
+Max Torque: 14.0 Nm @ 9,000 rpm 
+Engine Type: 4-Stroke, Single-Cylinder, DOHC, Liquid-Cooled 
+Fuel System: Fuel Injection 
+Cooling System: Liquid-Cooled 
+Gears: 6-Speed 
+Clutch: Wet Multi-Plate 
+Spark Plugs: Standard
+Gear Shift Pattern: 1 Down, 5 Up (Standard International Pattern)
+
+Front Brake: Disc (with ABS on ABS variant) 
+Rear Brake: Disc (with ABS on ABS variant) 
+Braking System: Dual Channel ABS (on ABS variant) / Standard Disc (on Non-ABS variant) 
+Front Tyre: 90/80-17 Tubeless 
+Rear Tyre: 130/70-17 Tubeless 
+
+Kerb Weight: 131 kg 
+Fuel Capacity: 11 Litres 
+Seat Height: 780 mm - 785 mm 
+Ground Clearance: 160 mm 
+Wheelbase: 1300 mm 
+
+(Give boolean answers Yes/No)
+USB Charging: No
+Side Stand Cut-off: No
+Projector Headlight: Yes (LED Projector) 
+DRLs: Yes (LED Position Lights) 
+Gear Indicator: Yes 
+Distance to Empty: No
+Avg Fuel Consumption: Yes 
+
+Variants Count: 2 (ABS and Non-ABS)
+
+Variant 1
+Variant Name: Suzuki GSX-R150 ABS
+Variant Key: GSX-R150-ABS-2026
+Price BDT: BDT 524,950 
+Top Speed (Company Claimed): 148 km/h 
+Top Speed (User Claimed): 140-145 km/h 
+Mileage (Company Claimed): 45 km/L 
+Braking System: Dual Channel ABS 
+Rear Braking System: Disc 
+Tyre Type: Tubeless 
+Headlight Type: LED 
+Kerb Weight: 131 kg 
+Instrument Console: Full Digital 
+Seat Type: Split Seat
+
+(Give boolean answers Yes/No)
+Mobile Phone Connectivity: No
+Riding Modes: No
+Traction Control: No
+GPS & Navigation: No
+Slipper/Assist Clutch: No
+Quick Shifter: No
+
+Variant 2
+Variant Name: Suzuki GSX-R150 (Non-ABS)
+Variant Key: GSX-R150-NONABS-2026
+Price BDT: BDT 525,000 
+Top Speed (Company Claimed): 145 km/h 
+Top Speed (User Claimed): 140 km/h
+Mileage (Company Claimed): 40 km/L 
+Braking System: Standard Disc 
+Rear Braking System: Disc 
+Tyre Type: Tubeless 
+Headlight Type: LED 
+Kerb Weight: 131 kg 
+Instrument Console: Full Digital 
+Seat Type: Split Seat
+
+(Give boolean answers Yes/No)
+Mobile Phone Connectivity: No
+Riding Modes: No
+Traction Control: No
+GPS & Navigation: No
+Slipper/Assist Clutch: No
+Quick Shifter: No

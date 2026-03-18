@@ -1,0 +1,3616 @@
+[
+  {
+    "name": "Yamaha AEROX 155",
+    "slug": "yamaha-aerox-155",
+    "meta_title": "Yamaha Aerox 155 – 155cc Liquid-Cooled Scooter with Traction Control",
+    "meta_description": "Explore Yamaha Aerox 155: 0-60 in 3.4s, Bluetooth, traction control & LED lights. Best-in-class maxi-scooter for urban riders.",
+    "brand": "Yamaha",
+    "category": "Scooter",
+    "cc": 150,
+    "price": "Tk. 525000",
+    "short_description": "Yamaha Aerox 155 - The ultimate 155cc maxi-scooter with liquid-cooled engine, VVA technology, and Bluetooth connectivity. Experience sporty urban rides with best-in-class features including traction control and LED lighting.",
+    "Zero_Sixty": "3.4 sec",
+    "Zero_Hundred": "7.4 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40–43 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "V-Belt Automatic",
+    "weight": "126 kg",
+    "max_power": "15 PS @ 8000 rpm",
+    "max_torque": "13.9 Nm @ 6500 rpm",
+    "clutch": "Dry, centrifugal clutch",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "230 mm Disc",
+    "rear_brake": "Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/80-14",
+    "rear_tyre_size": "140/70-14",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5.5 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": true,
+    "bluetooth_connectivity": true,
+    "display": "Digital LCD with Bluetooth",
+    "seat_height": "790 mm",
+    "ground_clearance": "145 mm",
+    "overall_length": "1980 mm",
+    "overall_width": "700 mm",
+    "build_quality": "Sporty and practical",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926386/bikes/YAMAHA/YAMAHA-AEROX-155/yamaha-aerox-155-back%20view.webp",
+        "alt": "YAMAHA-AEROX-155 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926387/bikes/YAMAHA/YAMAHA-AEROX-155/yamaha-aerox-155-front-view.webp",
+        "alt": "YAMAHA-AEROX-155 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926388/bikes/YAMAHA/YAMAHA-AEROX-155/yamaha-aerox-155-left%20view.webp",
+        "alt": "YAMAHA-AEROX-155 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926388/bikes/YAMAHA/YAMAHA-AEROX-155/yamaha-aerox-155-right-view.webp",
+        "alt": "YAMAHA-AEROX-155 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926389/bikes/YAMAHA/YAMAHA-AEROX-155/yamaha-aerox-155-showroom-view.webp",
+        "alt": "YAMAHA-AEROX-155 Showroom View"
+      }
+    ]
+  },
+  {
+    "pros": [
+      "Sporty performance with quick acceleration (0-60kmph in 3.4s)",
+      "Advanced features like traction control and Bluetooth",
+      "Liquid-cooled engine for better heat management",
+      "Large 14-inch wheels for stability",
+      "LED lighting package for better visibility"
+    ],
+    "cons": [
+      "Small 5.5L fuel tank limits touring range",
+      "Drum brake at rear lacks stopping power",
+      "Higher price than competitors",
+      "No kick-start backup",
+      "Firm seat for long rides"
+    ],
+    "faqs": [
+      {
+        "question": "How fast does Aerox 155 accelerate?",
+        "answer": "Aerox 155 does 0-60 kmph in 3.4 seconds and 0-100 kmph in 7.4 seconds."
+      },
+      {
+        "question": "Is Aerox 155 good for tall riders?",
+        "answer": "Yes, its 790mm seat height accommodates most riders comfortably."
+      },
+      {
+        "question": "What makes Aerox different from other scooters?",
+        "answer": "It offers premium features like traction control and liquid cooling uncommon in scooters."
+      },
+      {
+        "question": "Can two adults ride comfortably?",
+        "answer": "Yes, but the seat is slightly narrow for wider passengers."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha Fazer Fi V2",
+    "slug": "yamaha-fazer-fi-v2",
+    "meta_title": "Yamaha Fazer Fi V2 – 149cc Fuel-Injected Street Bike",
+    "meta_description": "Yamaha Fazer Fi V2 offers 45–48 kmpl mileage, LED DRLs & smooth 5-speed ride. Ideal for daily commuters in Bangladesh.",
+    "brand": "Yamaha",
+    "category": "Street",
+    "cc": 150,
+    "price": "Tk. 270,000",
+    "short_description": "Yamaha Fazer Fi V2 - The stylish 149cc street bike with fuel injection, delivering 50kmpl mileage. Perfect balance of performance and efficiency for daily commuters.",
+    "Zero_Sixty": "4.8 sec",
+    "Zero_Hundred": "12.2 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45–48 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "137 kg",
+    "max_power": "12.4 PS @ 7250 rpm",
+    "max_torque": "13.3 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "790 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "770 mm",
+    "build_quality": "Good with sporty design",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926390/bikes/YAMAHA/YAMAHA-FAZER-FI-V2/yamaha-fazer-fi-v2-back-view.webp",
+        "alt": "YAMAHA-FAZER-FI-V2 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926391/bikes/YAMAHA/YAMAHA-FAZER-FI-V2/yamaha-fazer-fi-v2-front-view.webp",
+        "alt": "YAMAHA-FAZER-FI-V2 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926391/bikes/YAMAHA/YAMAHA-FAZER-FI-V2/yamaha-fazer-fi-v2-left-view.webp",
+        "alt": "YAMAHA-FAZER-FI-V2 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926393/bikes/YAMAHA/YAMAHA-FAZER-FI-V2/yamaha-fazer-fi-v2-right-view.webp",
+        "alt": "YAMAHA-FAZER-FI-V2 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926393/bikes/YAMAHA/YAMAHA-FAZER-FI-V2/yamaha-fazer-fi-v2-showroom-view.webp",
+        "alt": "YAMAHA-FAZER-FI-V2 Showroom View"
+      }
+    ],
+    "pros": [
+      "Excellent fuel efficiency (45-48kmpl real-world)",
+      "Quick acceleration (0-60kmph in 4.8s)",
+      "Comfortable upright riding posture",
+      "LED headlight with DRLs",
+      "Lightweight at 137kg for easy handling"
+    ],
+    "cons": [
+      "No ABS in base variant",
+      "Basic instrument cluster without connectivity",
+      "Vibrations at high RPMs",
+      "Small rear drum brake",
+      "Limited power for highway overtakes"
+    ],
+    "faqs": [
+      {
+        "question": "What is Fazer Fi V2's acceleration time?",
+        "answer": "It accelerates 0-60 kmph in 4.8 seconds and 0-100 kmph in 12.2 seconds."
+      },
+      {
+        "question": "Is it suitable for highway rides?",
+        "answer": "Yes, but best for city commuting with occasional highway use up to 100kmph."
+      },
+      {
+        "question": "Does it have tubeless tires?",
+        "answer": "Yes, both front and rear tires are tubeless."
+      },
+      {
+        "question": "What's the service interval?",
+        "answer": "Recommended service every 3000km or 3 months."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha FZ 25",
+    "slug": "yamaha-fz-25",
+    "meta_title": "Yamaha FZ 25 – 249cc Dual-ABS Street Motorcycle",
+    "meta_description": "Powerful Yamaha FZ 25 with 20.6 PS, dual-channel ABS & 35–38 kmpl. Perfect for city and highway rides.",
+    "brand": "Yamaha",
+    "category": "Street",
+    "cc": 250,
+    "price": "Tk. 399,000",
+    "short_description": "Yamaha FZ 25 - The powerful 249cc street motorcycle with muscular styling and dual-channel ABS. Perfect for riders seeking performance and safety in city and highway conditions.",
+    "Zero_Sixty": "3.8 sec",
+    "Zero_Hundred": "9.6 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35–38 kmpl",
+    "top_speed_claimed": "135 km/h",
+    "top_speed_reported": "130 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "148 kg",
+    "max_power": "20.6 PS @ 8000 rpm",
+    "max_torque": "20.1 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "14 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "795 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "770 mm",
+    "build_quality": "Robust with muscular design",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926394/bikes/YAMAHA/YAMAHA-FZ-25/yamaha-fz-25-back-view.webp",
+        "alt": "YAMAHA-FZ-25 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926395/bikes/YAMAHA/YAMAHA-FZ-25/yamaha-fz-25-front-view.webp",
+        "alt": "YAMAHA-FZ-25 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926396/bikes/YAMAHA/YAMAHA-FZ-25/yamaha-fz-25-left-view.webp",
+        "alt": "YAMAHA-FZ-25 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926397/bikes/YAMAHA/YAMAHA-FZ-25/yamaha-fz-25-right-view.webp",
+        "alt": "YAMAHA-FZ-25 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926398/bikes/YAMAHA/YAMAHA-FZ-25/yamaha-fz-25-showroom-view.webp",
+        "alt": "YAMAHA-FZ-25 Showroom View"
+      }
+    ],
+    "pros": [
+      "Strong acceleration (0-60kmph in 3.8s)",
+      "Dual-channel ABS for safety",
+      "Comfortable ergonomics for long rides",
+      "LED lighting package",
+      "Good mid-range torque for city riding"
+    ],
+    "cons": [
+      "Air-cooled engine heats up in traffic",
+      "Basic instrument console without gear indicator",
+      "Vibrations at high RPMs",
+      "Small pillion seat",
+      "No fuel gauge (only low fuel warning)"
+    ],
+    "faqs": [
+      {
+        "question": "How quick is FZ 25's acceleration?",
+        "answer": "It does 0-60 kmph in 3.8 seconds and 0-100 kmph in 9.6 seconds."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "Yes, dual-channel ABS comes as standard."
+      },
+      {
+        "question": "What's the highway cruising speed?",
+        "answer": "Comfortable at 90-100 kmph with some vibrations at higher speeds."
+      },
+      {
+        "question": "Is it suitable for tall riders?",
+        "answer": "Yes, the 795mm seat height accommodates most riders comfortably."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha FZ X",
+    "slug": "yamaha-fz-x",
+    "meta_title": "Yamaha FZ X – Neo-Retro 149cc Street Bike with Bluetooth",
+    "meta_description": "Yamaha FZ X blends scrambler style with Y-Connect Bluetooth, 42–45 kmpl & 810mm seat height for tall riders.",
+    "brand": "Yamaha",
+    "category": "Street",
+    "cc": 150,
+    "price": "Tk. 3,02,500",
+    "short_description": "Yamaha FZ X - The neo-retro street bike with 149cc Blue Core engine, combining classic scrambler styling with modern features like LED lighting and smartphone connectivity.",
+    "Zero_Sixty": "4.6 sec",
+    "Zero_Hundred": "11.8 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "48 kmpl",
+    "mileage_reported": "42–45 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "139 kg",
+    "max_power": "12.4 PS @ 7250 rpm",
+    "max_torque": "13.3 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Digital LCD with Y-Connect",
+    "seat_height": "810 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2020 mm",
+    "overall_width": "785 mm",
+    "build_quality": "Premium with retro-modern finish",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926380/bikes/YAMAHA/YAMAH-FZ-X/yamaha-fz-x-back-view.webp",
+        "alt": "YAMAH-FZ-X Yamaha Fz X Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926381/bikes/YAMAHA/YAMAH-FZ-X/yamaha-fz-x-front-view.webp",
+        "alt": "YAMAH-FZ-X Yamaha Fz X Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926382/bikes/YAMAHA/YAMAH-FZ-X/yamaha-fz-x-left-view.webp",
+        "alt": "YAMAH-FZ-X Yamaha Fz X Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926384/bikes/YAMAHA/YAMAH-FZ-X/yamaha-fz-x-right-view.webp",
+        "alt": "YAMAH-FZ-X Yamaha Fz X Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926385/bikes/YAMAHA/YAMAH-FZ-X/yamaha-fz-x-showroom-view.webp",
+        "alt": "YAMAH-FZ-X Yamaha Fz X Showroom View"
+      }
+    ],
+    "pros": [
+      "Unique neo-retro scrambler styling",
+      "Quick acceleration (0-60kmph in 4.6s)",
+      "Y-Connect Bluetooth connectivity",
+      "Comfortable upright riding position",
+      "LED lighting all around"
+    ],
+    "cons": [
+      "Premium pricing for 150cc segment",
+      "Small 10L fuel tank",
+      "No ABS in base variant",
+      "Heavier than standard FZ models",
+      "Limited off-road capability despite looks"
+    ],
+    "faqs": [
+      {
+        "question": "How fast does FZ X accelerate?",
+        "answer": "FZ X does 0-60 kmph in 4.6 seconds and 0-100 kmph in 11.8 seconds."
+      },
+      {
+        "question": "Is FZ X good for tall riders?",
+        "answer": "Yes, its 810mm seat height suits taller riders comfortably."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "Only the Deluxe variant comes with single-channel ABS."
+      },
+      {
+        "question": "What's special about FZ X design?",
+        "answer": "It combines retro scrambler styling with modern features like LED lights and LCD display."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha FZS FI V4",
+    "slug": "yamaha-fzs-fi-v4",
+    "meta_title": "Yamaha FZS FI V4 – Dual-ABS 149cc with Y-Connect",
+    "meta_description": "FZS FI V4: Dual-channel ABS, Bluetooth Y-Connect & 0-60 in 4.5s. Sporty, safe & connected urban street bike.",
+    "brand": "Yamaha",
+    "category": "Street",
+    "cc": 150,
+    "price": "Tk. 2,99,500",
+    "short_description": "Yamaha FZS FI V4 - The sporty 149cc street bike with fuel injection, dual-channel ABS, and Y-Connect Bluetooth. Perfect balance of performance, safety, and connectivity for urban riders.",
+    "Zero_Sixty": "4.5 sec",
+    "Zero_Hundred": "11.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45–48 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "112 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "136 kg",
+    "max_power": "12.4 PS @ 7250 rpm",
+    "max_torque": "13.3 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Digital LCD with Y-Connect",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "780 mm",
+    "build_quality": "Sporty with premium finishes",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926402/bikes/YAMAHA/YAMAHA-FZS-V4/yamaha-fzs-v4-back-view.webp",
+        "alt": "YAMAHA-FZS-V4 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926403/bikes/YAMAHA/YAMAHA-FZS-V4/yamaha-fzs-v4-front-view.webp",
+        "alt": "YAMAHA-FZS-V4 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926404/bikes/YAMAHA/YAMAHA-FZS-V4/yamaha-fzs-v4-left-view.webp",
+        "alt": "YAMAHA-FZS-V4 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926405/bikes/YAMAHA/YAMAHA-FZS-V4/yamaha-fzs-v4-right-view.webp",
+        "alt": "YAMAHA-FZS-V4 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926406/bikes/YAMAHA/YAMAHA-FZS-V4/yamaha-fzs-v4-showroom-view.webp",
+        "alt": "YAMAHA-FZS-V4 Showroom View"
+      }
+    ],
+    "pros": [
+      "Dual-channel ABS for safety",
+      "Quick acceleration (0-60kmph in 4.5s)",
+      "Y-Connect Bluetooth features",
+      "LED headlight with position lamp",
+      "Lightweight and agile handling"
+    ],
+    "cons": [
+      "Small 10L fuel tank",
+      "Vibrations at high RPMs",
+      "No gear position indicator",
+      "Pillion seat could be more comfortable",
+      "Higher price than previous versions"
+    ],
+    "faqs": [
+      {
+        "question": "What's FZS V4's acceleration performance?",
+        "answer": "It does 0-60 kmph in 4.5 seconds and 0-100 kmph in 11.5 seconds."
+      },
+      {
+        "question": "Does it have dual-channel ABS?",
+        "answer": "Yes, the V4 comes with dual-channel ABS as standard."
+      },
+      {
+        "question": "What features does Y-Connect provide?",
+        "answer": "Includes call/SMS alerts, phone battery status, and maintenance alerts."
+      },
+      {
+        "question": "Is it suitable for highway rides?",
+        "answer": "Yes, but best for city commuting with occasional highway use up to 100-110kmph."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha FZS V2",
+    "slug": "yamaha-fzs-v2",
+    "meta_title": "Yamaha FZS V2 – Budget 149cc FI Street Bike",
+    "meta_description": "Affordable Yamaha FZS V2 with fuel injection, LED lights & 45–47 kmpl. Great value for city commuting.",
+    "brand": "Yamaha",
+    "category": "Street",
+    "cc": 150,
+    "price": "Tk.237,500",
+    "short_description": "Yamaha FZS V2 - The value-packed 149cc street bike with muscular styling, fuel injection, and comfortable ergonomics. Ideal for budget-conscious riders seeking Yamaha reliability.",
+    "Zero_Sixty": "4.9 sec",
+    "Zero_Hundred": "12.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45–47 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "135 kg",
+    "max_power": "12.4 PS @ 7250 rpm",
+    "max_torque": "13.3 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "780 mm",
+    "build_quality": "Good with sporty design",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139265/bikes/Yamaha/Yamaha%20FZS%20v2/yamaha-fzs-v2-showroom-view.webp",
+        "alt": "Yamaha FZS v2 Showroom View"
+      }
+    ],
+    "pros": [
+      "Most affordable FZS variant",
+      "Decent acceleration (0-60kmph in 4.9s)",
+      "Good fuel efficiency (45-47kmpl)",
+      "LED headlight with DRLs",
+      "Comfortable ergonomics for city riding"
+    ],
+    "cons": [
+      "No ABS in base version",
+      "Basic instrument console",
+      "Drum brake at rear",
+      "Vibrations at high speeds",
+      "Small 10L fuel tank"
+    ],
+    "faqs": [
+      {
+        "question": "How quick is FZS V2's acceleration?",
+        "answer": "It does 0-60 kmph in 4.9 seconds and 0-100 kmph in 12.5 seconds."
+      },
+      {
+        "question": "Is this model fuel injected?",
+        "answer": "Yes, all FZS models come with fuel injection."
+      },
+      {
+        "question": "What's the main difference from V4?",
+        "answer": "V2 lacks Bluetooth and has drum brake instead of disc at rear."
+      },
+      {
+        "question": "Is it good for daily commuting?",
+        "answer": "Excellent for city use with comfortable ergonomics and good mileage."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha FZS V3 ABS",
+    "slug": "yamaha-fzs-v3-abs",
+    "meta_title": "Yamaha FZS V3 ABS – Safe 149cc with Front ABS",
+    "meta_description": "FZS V3 ABS offers single-channel ABS, 45–48 kmpl & LED lighting. Balanced safety and efficiency for daily rides.",
+    "brand": "Yamaha",
+    "category": "Street",
+    "cc": 150,
+    "price": "Tk. 2,58,500",
+    "short_description": "Yamaha FZS V3 ABS - The safety-focused 149cc street bike with single-channel ABS, muscular styling, and fuel-efficient Blue Core engine. Perfect for riders prioritizing braking performance.",
+    "Zero_Sixty": "4.7 sec",
+    "Zero_Hundred": "12.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45–48 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "137 kg",
+    "max_power": "12.4 PS @ 7250 rpm",
+    "max_torque": "13.3 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "282 mm Disc (ABS)",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "780 mm",
+    "build_quality": "Sporty with ABS protection",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926398/bikes/YAMAHA/YAMAHA-FZS-V3/yamaha-fzs-v3-bs6-back-view.webp",
+        "alt": "YAMAHA-FZS-V3 Bs6 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926399/bikes/YAMAHA/YAMAHA-FZS-V3/yamaha-fzs-v3-bs6-front-view.webp",
+        "alt": "YAMAHA-FZS-V3 Bs6 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926400/bikes/YAMAHA/YAMAHA-FZS-V3/yamaha-fzs-v3-bs6-showroom-view.webp",
+        "alt": "YAMAHA-FZS-V3 Bs6 Showroom View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926401/bikes/YAMAHA/YAMAHA-FZS-V3/yamaha-fzs-v3bs6-left-view.webp",
+        "alt": "YAMAHA-FZS-V3 Yamaha Fzs V3Bs6 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926401/bikes/YAMAHA/YAMAHA-FZS-V3/yamaha-fzs-v3bs6-right-view.webp",
+        "alt": "YAMAHA-FZS-V3 Yamaha Fzs V3Bs6 Right View"
+      }
+    ],
+    "pros": [
+      "Single-channel ABS for safety",
+      "Balanced acceleration (0-60kmph in 4.7s)",
+      "LED lighting package",
+      "Comfortable upright riding position",
+      "Good fuel efficiency (45-48kmpl)"
+    ],
+    "cons": [
+      "Rear drum brake (non-ABS)",
+      "Small 10L fuel tank",
+      "No Bluetooth connectivity",
+      "Basic instrument console",
+      "Vibrations at high RPM"
+    ],
+    "faqs": [
+      {
+        "question": "How quick is FZS V3 ABS's acceleration?",
+        "answer": "It does 0-60 kmph in 4.7 seconds and 0-100 kmph in 12.0 seconds."
+      },
+      {
+        "question": "Is the ABS single or dual-channel?",
+        "answer": "This variant has single-channel ABS only on the front wheel."
+      },
+      {
+        "question": "What's different from FZS V4?",
+        "answer": "V3 lacks Bluetooth connectivity and has a simpler instrument cluster."
+      },
+      {
+        "question": "Is it good for wet weather riding?",
+        "answer": "Yes, the ABS provides better braking control in wet conditions."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha FZS V3 ABS (BS6)",
+    "slug": "yamaha-fzs-v3-abs-bs6",
+    "meta_title": "Yamaha FZS V3 ABS BS6 – Eco-Friendly 149cc Commuter",
+    "meta_description": "BS6-compliant FZS V3 with OBD2, 46–49 kmpl & front ABS. Cleaner emissions without sacrificing Yamaha reliability.",
+    "brand": "Yamaha",
+    "category": "Street",
+    "cc": 150,
+    "price": "Tk.2,72,000",
+    "short_description": "Yamaha FZS V3 ABS BS6 - The eco-friendly 149cc street bike with BS6 compliance, single-channel ABS, and improved fuel efficiency. Meets latest emission norms without compromising performance.",
+    "Zero_Sixty": "4.8 sec",
+    "Zero_Hundred": "12.2 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "52 kmpl",
+    "mileage_reported": "46–49 kmpl",
+    "top_speed_claimed": "113 km/h",
+    "top_speed_reported": "108 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "138 kg",
+    "max_power": "12.2 PS @ 7250 rpm",
+    "max_torque": "13.3 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "282 mm Disc (ABS)",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "780 mm",
+    "build_quality": "BS6 compliant with ABS",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926398/bikes/YAMAHA/YAMAHA-FZS-V3/yamaha-fzs-v3-bs6-back-view.webp",
+        "alt": "YAMAHA-FZS-V3 Bs6 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926399/bikes/YAMAHA/YAMAHA-FZS-V3/yamaha-fzs-v3-bs6-front-view.webp",
+        "alt": "YAMAHA-FZS-V3 Bs6 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926400/bikes/YAMAHA/YAMAHA-FZS-V3/yamaha-fzs-v3-bs6-showroom-view.webp",
+        "alt": "YAMAHA-FZS-V3 Bs6 Showroom View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926401/bikes/YAMAHA/YAMAHA-FZS-V3/yamaha-fzs-v3bs6-left-view.webp",
+        "alt": "YAMAHA-FZS-V3 Yamaha Fzs V3Bs6 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926401/bikes/YAMAHA/YAMAHA-FZS-V3/yamaha-fzs-v3bs6-right-view.webp",
+        "alt": "YAMAHA-FZS-V3 Yamaha Fzs V3Bs6 Right View"
+      }
+    ],
+    "pros": [
+      "BS6 compliant with cleaner emissions",
+      "Slightly better mileage than BS4",
+      "Safe braking with ABS (0-60kmph in 4.8s)",
+      "LED headlight with DRLs",
+      "Reliable Yamaha engine"
+    ],
+    "cons": [
+      "Slightly less power than BS4 version",
+      "Same small 10L fuel tank",
+      "No major feature upgrades",
+      "Premium pricing for BS6",
+      "Rear drum brake unchanged"
+    ],
+    "faqs": [
+      {
+        "question": "What's different in BS6 version?",
+        "answer": "Has updated emission system, slightly less power but better mileage than BS4."
+      },
+      {
+        "question": "Acceleration comparison to BS4?",
+        "answer": "Marginally slower: 0-60 kmph in 4.8s vs 4.7s for BS4."
+      },
+      {
+        "question": "Is maintenance cost higher?",
+        "answer": "Slightly higher due to BS6 components but more fuel efficient."
+      },
+      {
+        "question": "Does it have OBD2?",
+        "answer": "Yes, BS6 compliance requires OBD2 diagnostics system."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha FZS V3 Deluxe",
+    "slug": "yamaha-fzs-v3-deluxe",
+    "meta_title": "Yamaha FZS V3 Deluxe – Premium Dual-Tone 149cc",
+    "meta_description": "FZS V3 Deluxe features exclusive dual-tone paint, ABS & sporty ergonomics. Style meets substance in Yamaha’s street lineup.",
+    "brand": "Yamaha",
+    "category": "Street",
+    "cc": 149,
+    "price": "Tk. 2,71,000",
+    "short_description": "Yamaha FZS V3 Deluxe - The premium 149cc street bike with dual-tone colors, single-channel ABS, and enhanced styling. Combines safety with head-turning aesthetics.",
+    "Zero_Sixty": "4.7 sec",
+    "Zero_Hundred": "12.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45–48 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "137 kg",
+    "max_power": "12.4 PS @ 7250 rpm",
+    "max_torque": "13.3 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "282 mm Disc (ABS)",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "780 mm",
+    "build_quality": "Premium dual-tone finishes",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761222212/yamaha-fzs-v3-deluxe-showroom-view_e96xea.png",
+        "alt": "Yamaha FZS V3 Deluxe on showroom display with dual-tone matte finish"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761222209/yamaha-fzs-v3-deluxe-showroom-black-view_nwdavh.png",
+        "alt": "Yamaha FZS V3 Deluxe on showroom display with dual-tone matte finish"
+      }
+    ],
+    "pros": [
+      "Premium dual-tone color options",
+      "Good acceleration (0-60kmph in 4.7s)",
+      "Single-channel ABS safety",
+      "Sporty LED lighting",
+      "Comfortable ergonomics"
+    ],
+    "cons": [
+      "Only cosmetic upgrades over standard",
+      "Same mechanicals as regular V3",
+      "Small fuel tank",
+      "No Bluetooth features",
+      "Premium pricing for aesthetics"
+    ],
+    "faqs": [
+      {
+        "question": "What makes Deluxe special?",
+        "answer": "Gets premium paint schemes and graphics over standard V3."
+      },
+      {
+        "question": "Performance same as regular V3?",
+        "answer": "Yes, identical 0-60kmph in 4.7s and 0-100kmph in 12.0s."
+      },
+      {
+        "question": "Does it have special badging?",
+        "answer": "Yes, features 'Deluxe' branding on fuel tank."
+      },
+      {
+        "question": "Are parts more expensive?",
+        "answer": "Only body panels cost more; mechanical parts same as standard."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha FZS V3 Vintage Edition",
+    "slug": "yamaha-fzs-v3-vintage",
+    "meta_title": "Yamaha FZS V3 Vintage – Retro 149cc Limited Edition",
+    "meta_description": "Limited-edition FZS V3 Vintage with classic colors, ABS & modern 149cc engine. Nostalgia meets reliability.",
+    "brand": "Yamaha",
+    "category": "Street",
+    "cc": 149,
+    "price": "Tk. 2,52,500",
+    "short_description": "Yamaha FZS V3 Vintage Edition - The retro-styled 149cc street bike with classic colors, single-channel ABS, and nostalgic design elements. Modern engineering with old-school charm.",
+    "Zero_Sixty": "4.8 sec",
+    "Zero_Hundred": "12.1 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45–47 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "137 kg",
+    "max_power": "12.4 PS @ 7250 rpm",
+    "max_torque": "13.3 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "282 mm Disc (ABS)",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "780 mm",
+    "build_quality": "Retro styling with modern tech",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761222439/yamaha-fzs-v3-vintage-showroom-view_hwjioy.png",
+        "alt": "Yamaha FZS V3 Vintage Edition on showroom display with retro-inspired styling"
+      }
+    ],
+    "pros": [
+      "Unique vintage color schemes",
+      "Decent acceleration (0-60kmph in 4.8s)",
+      "Single-channel ABS",
+      "Classic styling with modern reliability",
+      "Good resale value for limited edition"
+    ],
+    "cons": [
+      "Limited color options",
+      "Same mechanicals as standard",
+      "No performance upgrades",
+      "Vintage parts may be harder to replace",
+      "Small fuel tank"
+    ],
+    "faqs": [
+      {
+        "question": "Is this a limited edition?",
+        "answer": "Yes, produced in limited numbers with special colors."
+      },
+      {
+        "question": "Performance same as regular V3?",
+        "answer": "Identical performance: 0-60kmph in 4.8s, 0-100kmph in 12.1s."
+      },
+      {
+        "question": "Does it have vintage badging?",
+        "answer": "Yes, features special 'Vintage Edition' logos."
+      },
+      {
+        "question": "Are maintenance costs higher?",
+        "answer": "No, same as standard FZS V3 except for special body panels."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha MT 15",
+    "slug": "yamaha-mt-15",
+    "meta_title": "Yamaha MT-15 – Liquid-Cooled 155cc Streetfighter",
+    "meta_description": "MT-15: R15-derived 155cc engine, 0-60 in 3.2s & aggressive naked styling. Urban dominance with Deltabox frame.",
+    "brand": "Yamaha",
+    "category": "Street",
+    "cc": 150,
+    "price": "Tk. 4,60,000",
+    "short_description": "Yamaha MT-15 - The aggressive streetfighter with 155cc liquid-cooled engine from R15 lineage. Features Deltabox frame, VVA technology, and naked bike styling for urban dominance.",
+    "Zero_Sixty": "3.2 sec",
+    "Zero_Hundred": "7.1 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40–42 kmpl",
+    "top_speed_claimed": "130 km/h",
+    "top_speed_reported": "125 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "138 kg",
+    "max_power": "18.4 PS @ 10000 rpm",
+    "max_torque": "14.1 Nm @ 7500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "810 mm",
+    "ground_clearance": "155 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "800 mm",
+    "build_quality": "Premium with Deltabox frame",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926407/bikes/YAMAHA/YAMAHA-MT-15/yamaha-mt-15-back-view.webp",
+        "alt": "YAMAHA-MT-15 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926408/bikes/YAMAHA/YAMAHA-MT-15/yamaha-mt-15-front-view.webp",
+        "alt": "YAMAHA-MT-15 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926409/bikes/YAMAHA/YAMAHA-MT-15/yamaha-mt-15-left-view.webp",
+        "alt": "YAMAHA-MT-15 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926410/bikes/YAMAHA/YAMAHA-MT-15/yamaha-mt-15-right-view.webp",
+        "alt": "YAMAHA-MT-15 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926411/bikes/YAMAHA/YAMAHA-MT-15/yamaha-mt-15-showroom-view.webp",
+        "alt": "YAMAHA-MT-15 Showroom View"
+      }
+    ],
+    "pros": [
+      "Superb acceleration (0-60kmph in 3.2s)",
+      "R15-derived liquid-cooled engine",
+      "Lightweight Deltabox frame",
+      "Aggressive streetfighter styling",
+      "6-speed gearbox for better cruising"
+    ],
+    "cons": [
+      "Small 10L fuel tank",
+      "Firm seat for long rides",
+      "No ABS in base version",
+      "High maintenance costs",
+      "Vibrations at high RPM"
+    ],
+    "faqs": [
+      {
+        "question": "How quick is MT-15's acceleration?",
+        "answer": "One of fastest in class: 0-60kmph in 3.2s and 0-100kmph in 7.1s."
+      },
+      {
+        "question": "Is it same engine as R15?",
+        "answer": "Similar 155cc liquid-cooled engine but tuned for more low-end torque."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "Only top variant comes with single-channel ABS."
+      },
+      {
+        "question": "Is it good for highway?",
+        "answer": "Yes, 6th gear helps but small tank limits touring range."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha MT-15 Version 2.0",
+    "slug": "yamaha-mt-15-v2",
+    "meta_title": "Yamaha MT-15 V2 – USD Forks & Dual-ABS Streetfighter",
+    "meta_description": "MT-15 V2 upgrades with USD forks, dual-channel ABS & 0-60 in 3.1s. Premium handling for the ultimate street ride.",
+    "brand": "Yamaha",
+    "category": "Street",
+    "cc": 150,
+    "price": "Tk. 5,35,000",
+    "short_description": "Yamaha MT-15 Version 2.0 - The updated streetfighter with dual-channel ABS, USD forks, and new color options. Enhanced version of MT-15 with premium suspension and safety features.",
+    "Zero_Sixty": "3.1 sec",
+    "Zero_Hundred": "6.9 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "44 kmpl",
+    "mileage_reported": "39–41 kmpl",
+    "top_speed_claimed": "132 km/h",
+    "top_speed_reported": "128 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "139 kg",
+    "max_power": "18.5 PS @ 10000 rpm",
+    "max_torque": "14.2 Nm @ 7500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "810 mm",
+    "ground_clearance": "155 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "800 mm",
+    "build_quality": "Premium with USD forks",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139266/bikes/Yamaha/Yamaha%20Mt%20v2/yamaha-mt-v2-back-view.webp",
+        "alt": "Yamaha Mt v2 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139267/bikes/Yamaha/Yamaha%20Mt%20v2/yamaha-mt-v2-front-view.webp",
+        "alt": "Yamaha Mt v2 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139267/bikes/Yamaha/Yamaha%20Mt%20v2/yamaha-mt-v2-left-side-view.webp",
+        "alt": "Yamaha Mt v2 Left Side View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139268/bikes/Yamaha/Yamaha%20Mt%20v2/yamaha-mt-v2-right-view.webp",
+        "alt": "Yamaha Mt v2 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139269/bikes/Yamaha/Yamaha%20Mt%20v2/yamaha-mt-v2-showroom-view.webp",
+        "alt": "Yamaha Mt v2 Showroom View"
+      }
+    ],
+    "pros": [
+      "Improved acceleration (0-60kmph in 3.1s)",
+      "Dual-channel ABS for safety",
+      "USD front forks for better handling",
+      "Updated aggressive styling",
+      "Premium build quality"
+    ],
+    "cons": [
+      "Higher price than previous version",
+      "Same small fuel tank",
+      "No major engine upgrades",
+      "Firm suspension for bad roads",
+      "No Bluetooth connectivity"
+    ],
+    "faqs": [
+      {
+        "question": "What's new in Version 2.0?",
+        "answer": "Adds USD forks, dual-channel ABS, and updated styling."
+      },
+      {
+        "question": "How much faster than previous?",
+        "answer": "Marginally quicker: 0-60kmph in 3.1s vs 3.2s."
+      },
+      {
+        "question": "Does it have traction control?",
+        "answer": "No, but dual-channel ABS improves safety."
+      },
+      {
+        "question": "Is the suspension better?",
+        "answer": "Yes, USD forks offer improved handling and feedback."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha R15 V3 Dark Knight",
+    "slug": "yamaha-r15-v3-dark-knight",
+    "meta_title": "Yamaha R15 V3 Dark Knight – Stealth 155cc Sports Bike",
+    "meta_description": "R15 V3 Dark Knight: 0-60 in 3.0s, VVA, single-ABS & aggressive black finish. Track-ready supersport for enthusiasts.",
+    "brand": "Yamaha",
+    "category": "Sports",
+    "cc": 155,
+    "price": "Tk. 5,25,000",
+    "short_description": "Yamaha R15 V3 Dark Knight - The sporty 155cc fully-faired bike in stealth black color scheme. Features VVA technology, liquid cooling, and track-focused ergonomics for performance enthusiasts.",
+    "Zero_Sixty": "3.0 sec",
+    "Zero_Hundred": "6.7 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35–38 kmpl",
+    "top_speed_claimed": "135 km/h",
+    "top_speed_reported": "130 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "142 kg",
+    "max_power": "18.6 PS @ 10000 rpm",
+    "max_torque": "14.1 Nm @ 8500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "815 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "725 mm",
+    "build_quality": "Track-focused with fairing",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761223071/yamaha-r15-v3-darkknight-showroom-view_csjuzz.jpg",
+        "alt": "Yamaha R15 V3 Dark Knight on showroom display with stealth black finish"
+      }
+    ],
+    "pros": [
+      "Excellent acceleration (0-60kmph in 3.0s)",
+      "Sporty fully-faired design",
+      "Liquid-cooled engine with VVA",
+      "Aggressive riding position",
+      "Premium black color scheme"
+    ],
+    "cons": [
+      "Uncomfortable for long rides",
+      "Small fuel tank for touring",
+      "High maintenance costs",
+      "Not ideal for city commuting",
+      "Expensive for 155cc segment"
+    ],
+    "faqs": [
+      {
+        "question": "How quick is R15 V3's acceleration?",
+        "answer": "Very quick: 0-60kmph in 3.0s and 0-100kmph in 6.7s."
+      },
+      {
+        "question": "What's special about Dark Knight?",
+        "answer": "Exclusive black color scheme with red accents."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "Yes, comes with single-channel ABS."
+      },
+      {
+        "question": "Is it good for track days?",
+        "answer": "Excellent for track with sporty ergonomics and quick-revving engine."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha R15 V3 Racing Blue",
+    "slug": "yamaha-r15-v3-racing-blue",
+    "meta_title": "Yamaha R15 V3 Racing Blue – Iconic 155cc Supersport",
+    "meta_description": "R15 V3 in Yamaha’s legendary Racing Blue. 18.6 PS, VVA & 0-100 in 6.7s. Pure track DNA for the streets.",
+    "brand": "Yamaha",
+    "category": "Sports",
+    "cc": 155,
+    "price": "Tk. 5,25,000",
+    "short_description": "Yamaha R15 V3 Racing Blue - The iconic blue-white racing color scheme of Yamaha's 155cc sports bike. Features track-bred performance with VVA technology and Deltabox frame for ultimate cornering.",
+    "Zero_Sixty": "3.0 sec",
+    "Zero_Hundred": "6.7 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35–38 kmpl",
+    "top_speed_claimed": "135 km/h",
+    "top_speed_reported": "130 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "142 kg",
+    "max_power": "18.6 PS @ 10000 rpm",
+    "max_torque": "14.1 Nm @ 8500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "815 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "725 mm",
+    "build_quality": "Race-inspired with fairing",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139270/bikes/Yamaha/Yamaha%20R15%20V3/yamaha-r15-v3-back-view.webp",
+        "alt": "Yamaha R15 V3 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139271/bikes/Yamaha/Yamaha%20R15%20V3/yamaha-r15-v3-front-view.webp",
+        "alt": "Yamaha R15 V3 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139272/bikes/Yamaha/Yamaha%20R15%20V3/yamaha-r15-v3-left-view.webp",
+        "alt": "Yamaha R15 V3 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139272/bikes/Yamaha/Yamaha%20R15%20V3/yamaha-r15-v3-right-view.webp",
+        "alt": "Yamaha R15 V3 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139273/bikes/Yamaha/Yamaha%20R15%20V3/yamaha-r15-v3-showroom-view.webp",
+        "alt": "Yamaha R15 V3 Showroom View"
+      }
+    ],
+    "pros": [
+      "Quick acceleration (0-60kmph in 3.0s)",
+      "Iconic Yamaha racing colors",
+      "Precise handling with Deltabox frame",
+      "VVA technology for better power delivery",
+      "Sporty fully-faired design"
+    ],
+    "cons": [
+      "Committing riding position",
+      "Not ideal for city commuting",
+      "Small 11L fuel tank",
+      "Expensive maintenance",
+      "Firm suspension for bad roads"
+    ],
+    "faqs": [
+      {
+        "question": "Performance same as Dark Knight?",
+        "answer": "Identical performance: 0-60kmph in 3.0s, 0-100kmph in 6.7s."
+      },
+      {
+        "question": "What's special about Racing Blue?",
+        "answer": "Features Yamaha's iconic blue-white race livery."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "Yes, comes with single-channel ABS."
+      },
+      {
+        "question": "Is it good for beginners?",
+        "answer": "Not ideal - aggressive ergonomics suit experienced riders."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha R15 V4",
+    "slug": "yamaha-r15-v4",
+    "meta_title": "Yamaha R15 V4 – Quick Shifter & Dual-ABS 155cc",
+    "meta_description": "R15 V4: Quick shifter, dual-channel ABS, Y-Connect & 0-60 in 2.9s. The most advanced 155cc supersport yet.",
+    "brand": "Yamaha",
+    "category": "Sports",
+    "cc": 155.1,
+    "price": "Tk. 6,10,000",
+    "short_description": "Yamaha R15 V4 - The track-focused 155cc supersport with VVA, quick shifter, and dual-channel ABS. Features full LED lighting, LCD dash, and aggressive aerodynamics for ultimate performance.",
+    "Zero_Sixty": "2.9 sec",
+    "Zero_Hundred": "6.5 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35–38 kmpl",
+    "top_speed_claimed": "137 km/h",
+    "top_speed_reported": "132 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "142 kg",
+    "max_power": "18.6 PS @ 10000 rpm",
+    "max_torque": "14.2 Nm @ 7500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": true,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Digital LCD with Y-Connect",
+    "seat_height": "815 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "725 mm",
+    "build_quality": "Premium supersport",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761223770/yamaha-r15-v4-right-side-red-view_duwsfk.png",
+        "alt": "Right profile showing aerodynamic fairing and quick shifter badge"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761223736/yamaha-r15-v4-right-side-black-view_k0jloa.png",
+        "alt": "Right profile showing aerodynamic fairing and quick shifter badge"
+      }
+    ],
+    "pros": [
+      "Blistering acceleration (0-60kmph in 2.9s)",
+      "Quick shifter for clutchless shifts",
+      "Dual-channel ABS safety",
+      "VVA technology for better powerband",
+      "Full LED lighting package"
+    ],
+    "cons": [
+      "Aggressive riding position uncomfortable for city",
+      "Small 11L fuel tank",
+      "Expensive maintenance",
+      "Firm suspension for bad roads",
+      "Premium pricing"
+    ],
+    "faqs": [
+      {
+        "question": "Does R15 V4 have a quick shifter?",
+        "answer": "Yes, comes with standard quick shifter for clutchless gear changes."
+      },
+      {
+        "question": "How much faster than V3?",
+        "answer": "0-60kmph in 2.9s vs 3.0s (V3) due to improved gear ratios."
+      },
+      {
+        "question": "Does it have Bluetooth?",
+        "answer": "Yes, Y-Connect app shows calls, mileage stats and maintenance alerts."
+      },
+      {
+        "question": "Is it good for tall riders?",
+        "answer": "Challenging - 815mm seat height suits average height riders best."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha R15 V4 Intensity White",
+    "slug": "yamaha-r15-v4-intensity-white",
+    "meta_title": "Yamaha R15 V4 Intensity White – Limited White Edition",
+    "meta_description": "Limited R15 V4 in Intensity White with golden wheels, quick shifter & dual-ABS. A collector’s dream supersport.",
+    "brand": "Yamaha",
+    "category": "Sports",
+    "cc": 155,
+    "price": "Tk. 6,60,000",
+    "short_description": "Yamaha R15 V4 Intensity White - Limited edition white color scheme with golden wheels. Same track-focused 155cc performance as R15 V4 but with exclusive premium aesthetics.",
+    "Zero_Sixty": "2.9 sec",
+    "Zero_Hundred": "6.5 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35–38 kmpl",
+    "top_speed_claimed": "137 km/h",
+    "top_speed_reported": "132 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "142 kg",
+    "max_power": "18.6 PS @ 10000 rpm",
+    "max_torque": "14.2 Nm @ 7500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy (Golden)",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": true,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Digital LCD with Y-Connect",
+    "seat_height": "815 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "725 mm",
+    "build_quality": "Premium limited edition",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139274/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-back-view.webp",
+        "alt": "Yamaha R15 V4 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139275/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-front-view.webp",
+        "alt": "Yamaha R15 V4 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139275/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-left-view.webp",
+        "alt": "Yamaha R15 V4 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139276/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-right-view.webp",
+        "alt": "Yamaha R15 V4 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139277/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-showroom-view.webp",
+        "alt": "Yamaha R15 V4 Showroom View"
+      }
+    ],
+    "pros": [
+      "Exclusive white/gold color scheme",
+      "Same quick acceleration (0-60kmph in 2.9s)",
+      "Quick shifter and dual-channel ABS",
+      "Limited edition collectible value",
+      "Premium golden alloy wheels"
+    ],
+    "cons": [
+      "Higher price than standard V4",
+      "White color requires frequent cleaning",
+      "Same small 11L fuel tank",
+      "Aggressive ergonomics unchanged",
+      "Limited availability"
+    ],
+    "faqs": [
+      {
+        "question": "Is this a limited edition?",
+        "answer": "Yes, produced in limited numbers with special badging."
+      },
+      {
+        "question": "Performance same as regular V4?",
+        "answer": "Identical: 0-60kmph in 2.9s, 0-100kmph in 6.5s."
+      },
+      {
+        "question": "Are wheels different?",
+        "answer": "Yes, features exclusive golden colored alloy wheels."
+      },
+      {
+        "question": "Does it cost more to maintain?",
+        "answer": "Only body panels cost more; mechanicals same as standard."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha R15 V4 Racing Blue",
+    "slug": "yamaha-r15-v4-racing-blue",
+    "meta_title": "Yamaha R15 V4 Racing Blue – Heritage 155cc Supersport",
+    "meta_description": "R15 V4 Racing Blue: Quick shifter, dual-ABS & Yamaha’s iconic livery. Performance meets legacy in one package.",
+    "brand": "Yamaha",
+    "category": "Sports",
+    "cc": 155.1,
+    "price": "Tk. 6,10,000",
+    "short_description": "Yamaha R15 V4 Racing Blue - The iconic Yamaha race livery with blue-white colors. Same 155cc VVA engine with quick shifter and dual-channel ABS as standard R15 V4.",
+    "Zero_Sixty": "2.9 sec",
+    "Zero_Hundred": "6.5 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35–38 kmpl",
+    "top_speed_claimed": "137 km/h",
+    "top_speed_reported": "132 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "142 kg",
+    "max_power": "18.6 PS @ 10000 rpm",
+    "max_torque": "14.2 Nm @ 7500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": true,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Digital LCD with Y-Connect",
+    "seat_height": "815 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "725 mm",
+    "build_quality": "Race-inspired premium",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761223703/yamaha-r15-v4-right-side-view_mblfwh.png",
+        "alt": "Yamaha R15 V4 Back View"
+      }
+    ],
+    "pros": [
+      "Iconic Yamaha racing colors",
+      "Quick acceleration (0-60kmph in 2.9s)",
+      "Quick shifter for seamless gear changes",
+      "Dual-channel ABS safety",
+      "High resale value for classic scheme"
+    ],
+    "cons": [
+      "Color scheme shows dirt easily",
+      "Same firm suspension as standard",
+      "Small fuel tank for touring",
+      "Aggressive riding position",
+      "Premium pricing"
+    ],
+    "faqs": [
+      {
+        "question": "Difference from standard V4?",
+        "answer": "Only cosmetic - same performance (0-60kmph in 2.9s)."
+      },
+      {
+        "question": "Is this limited edition?",
+        "answer": "No, but production may be limited by demand."
+      },
+      {
+        "question": "Does it have special badging?",
+        "answer": "Yes, features Racing Blue logos on fairing."
+      },
+      {
+        "question": "Are wheels different?",
+        "answer": "No, same alloy wheels as standard in silver."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha R15M",
+    "slug": "yamaha-r15m",
+    "meta_title": "Yamaha R15M – Premium 155cc Track Machine",
+    "meta_description": "R15M: Exclusive badging, 0-60 in 2.8s, quick shifter & dual-ABS. The ultimate expression of R15 performance.",
+    "brand": "Yamaha",
+    "category": "Sports",
+    "cc": 155,
+    "price": "Tk.6,25,000",
+    "short_description": "Yamaha R15M - The premium variant of R15 V4 with special M badging, metallic paints, and enhanced features. Ultimate 155cc track machine with quick shifter and dual-channel ABS.",
+    "Zero_Sixty": "2.8 sec",
+    "Zero_Hundred": "6.3 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "39 kmpl",
+    "mileage_reported": "34–37 kmpl",
+    "top_speed_claimed": "138 km/h",
+    "top_speed_reported": "133 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "142 kg",
+    "max_power": "18.6 PS @ 10000 rpm",
+    "max_torque": "14.2 Nm @ 7500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": true,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Digital LCD with Y-Connect",
+    "seat_height": "815 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "725 mm",
+    "build_quality": "Track-focused premium",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139274/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-back-view.webp",
+        "alt": "Yamaha R15 V4 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139275/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-front-view.webp",
+        "alt": "Yamaha R15 V4 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139275/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-left-view.webp",
+        "alt": "Yamaha R15 V4 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139276/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-right-view.webp",
+        "alt": "Yamaha R15 V4 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139277/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-showroom-view.webp",
+        "alt": "Yamaha R15 V4 Showroom View"
+      }
+    ],
+    "pros": [
+      "Slightly quicker (0-60kmph in 2.8s)",
+      "Exclusive M badging and colors",
+      "Premium metallic paint quality",
+      "Quick shifter and dual-channel ABS",
+      "Track-focused suspension setup"
+    ],
+    "cons": [
+      "Most expensive R15 variant",
+      "Same small 11L fuel tank",
+      "Very firm suspension for roads",
+      "High maintenance costs",
+      "Aggressive ergonomics"
+    ],
+    "faqs": [
+      {
+        "question": "What makes R15M special?",
+        "answer": "Premium badging, metallic paints, and slightly tuned engine (0-60kmph in 2.8s)."
+      },
+      {
+        "question": "Does it have performance upgrades?",
+        "answer": "Marginally better acceleration due to ECU tuning."
+      },
+      {
+        "question": "Is it worth extra over V4?",
+        "answer": "Only for enthusiasts wanting exclusive looks and slight performance edge."
+      },
+      {
+        "question": "Does it have special parts?",
+        "answer": "Cosmetic differences only; mechanicals same as V4."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha R15M TFT Color Meter",
+    "slug": "yamaha-r15m-tft",
+    "meta_title": "Yamaha R15M TFT – Full-Color Display 155cc",
+    "meta_description": "R15M TFT: Full-color instrument cluster, quick shifter & 2.8s 0-60 time. Top-tier tech in Yamaha’s supersport.",
+    "brand": "Yamaha",
+    "category": "Sports",
+    "cc": 155,
+    "price": "Tk. 6,78,000",
+    "short_description": "Yamaha R15M TFT - The ultimate R15 variant featuring a full-color TFT display, track-focused ergonomics, and premium finishes. Combines race-bred 155cc performance with advanced instrumentation.",
+    "Zero_Sixty": "2.8 sec",
+    "Zero_Hundred": "6.3 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "38 kmpl",
+    "mileage_reported": "34–36 kmpl",
+    "top_speed_claimed": "138 km/h",
+    "top_speed_reported": "133 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "143 kg",
+    "max_power": "18.6 PS @ 10000 rpm",
+    "max_torque": "14.2 Nm @ 7500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "282 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": true,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Full-color TFT with Y-Connect",
+    "seat_height": "815 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "725 mm",
+    "build_quality": "Premium track-focused",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139274/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-back-view.webp",
+        "alt": "Yamaha R15 V4 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139275/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-front-view.webp",
+        "alt": "Yamaha R15 V4 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139275/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-left-view.webp",
+        "alt": "Yamaha R15 V4 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139276/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-right-view.webp",
+        "alt": "Yamaha R15 V4 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1754139277/bikes/Yamaha/Yamaha%20R15%20V4/yamaha-r15-v4-showroom-view.webp",
+        "alt": "Yamaha R15 V4 Showroom View"
+      }
+    ],
+    "pros": [
+      "Advanced full-color TFT display",
+      "Quick acceleration (0-60kmph in 2.8s)",
+      "Premium M-series badging",
+      "Quick shifter for seamless gear changes",
+      "Track-focused suspension setup"
+    ],
+    "cons": [
+      "Most expensive R15 variant",
+      "Small 11L fuel tank",
+      "Very firm ride quality",
+      "High maintenance costs",
+      "Aggressive riding position"
+    ],
+    "faqs": [
+      {
+        "question": "What's special about the TFT display?",
+        "answer": "Features multiple themes, gear position indicator, and better visibility in sunlight."
+      },
+      {
+        "question": "Performance same as standard R15M?",
+        "answer": "Identical performance: 0-60kmph in 2.8s, 0-100kmph in 6.3s."
+      },
+      {
+        "question": "Does it have riding modes?",
+        "answer": "No, but display shows fuel efficiency and performance metrics."
+      },
+      {
+        "question": "Is it worth the premium?",
+        "answer": "Only for enthusiasts wanting the best instrumentation in 155cc class."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha Ray ZR Street Rally Fi",
+    "slug": "yamaha-ray-zr-rally",
+    "meta_title": "Yamaha Ray ZR Street Rally – Sporty 125cc Scooter",
+    "meta_description": "Ray ZR Rally: Rally-inspired graphics, 50–53 kmpl & lightweight design. Stand out in the city with Yamaha style.",
+    "brand": "Yamaha",
+    "category": "Scooter",
+    "cc": 125,
+    "price": "Tk. 2,70,000",
+    "short_description": "Yamaha Ray ZR Street Rally - Sporty 125cc scooter with rally-inspired styling, fuel injection, and aggressive graphics. Perfect for urban riders wanting stand-out aesthetics.",
+    "Zero_Sixty": "5.8 sec",
+    "Zero_Hundred": "16.2 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "58 kmpl",
+    "mileage_reported": "50–53 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "V-Belt Automatic",
+    "weight": "99 kg",
+    "max_power": "8.2 PS @ 6500 rpm",
+    "max_torque": "9.7 Nm @ 5000 rpm",
+    "clutch": "Automatic centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "190 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-12",
+    "rear_tyre_size": "90/100-10",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5.2 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Combo",
+    "seat_height": "775 mm",
+    "ground_clearance": "145 mm",
+    "overall_length": "1835 mm",
+    "overall_width": "685 mm",
+    "build_quality": "Sporty urban scooter",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761224570/yamaha-rayzr-streetrally-fi-showroom-view_ipxwqd.png",
+        "alt": "Yamaha Ray  ZR 125 Yamaha Ray Zr 125 Back View"
+      }
+    ],
+    "pros": [
+      "Sporty rally-inspired graphics",
+      "Good acceleration for 125cc (0-60kmph in 5.8s)",
+      "Lightweight at 99kg",
+      "Fuel efficient (50-53kmpl)",
+      "Aggressive styling"
+    ],
+    "cons": [
+      "Small 5.2L fuel tank",
+      "Basic halogen headlight",
+      "No ABS option",
+      "Limited underseat storage",
+      "Firm ride quality"
+    ],
+    "faqs": [
+      {
+        "question": "What's special about Street Rally?",
+        "answer": "Gets unique rally-inspired graphics and sporty decals."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "No, comes with front disc and rear drum brakes without ABS."
+      },
+      {
+        "question": "Is it fuel injected?",
+        "answer": "Yes, features Yamaha's fuel injection system."
+      },
+      {
+        "question": "Suitable for tall riders?",
+        "answer": "Best for average height riders due to 775mm seat height."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha Saluto 125",
+    "slug": "yamaha-saluto-125",
+    "meta_title": "Yamaha Saluto 125 – Affordable 125cc Commuter Bike",
+    "meta_description": "Saluto 125 delivers 58–62 kmpl, low cost & reliable performance. Simple, efficient transport for everyday riders.",
+    "brand": "Yamaha",
+    "category": "Commuter",
+    "cc": 125,
+    "price": "Tk. 1,63,500",
+    "short_description": "Yamaha Saluto 125 - The value-packed 125cc commuter bike with fuel efficiency and reliability. Features basic instrumentation and comfortable ergonomics for daily commuting.",
+    "Zero_Sixty": "7.2 sec",
+    "Zero_Hundred": "19.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "58–62 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "112 kg",
+    "max_power": "8.0 PS @ 6000 rpm",
+    "max_torque": "9.6 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "3.00-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "9 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Basic commuter",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761224875/yamaha-saluto-125-showroom-view_s6rtls.png",
+        "alt": "Yamaha Saluto 125 Yahama Saluto 125 Left View"
+      }
+    ],
+    "pros": [
+      "Excellent fuel efficiency (58-62kmpl)",
+      "Affordable pricing",
+      "Low maintenance costs",
+      "Comfortable upright riding position",
+      "Good pillion comfort"
+    ],
+    "cons": [
+      "Basic drum brakes",
+      "Slow acceleration (0-60kmph in 7.2s)",
+      "No modern features",
+      "Tube-type tires",
+      "Outdated styling"
+    ],
+    "faqs": [
+      {
+        "question": "Is Saluto 125 fuel injected?",
+        "answer": "No, uses carburetor system for cost efficiency."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "No, comes with basic drum brakes front and rear."
+      },
+      {
+        "question": "Suitable for highway?",
+        "answer": "Best for city use; can do highways but limited to 85kmph comfortably."
+      },
+      {
+        "question": "Maintenance costs?",
+        "answer": "Very affordable with cheap spare parts availability."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha Saluto 125 (UBS)",
+    "slug": "yamaha-saluto-125-ubs",
+    "meta_title": "Yamaha Saluto 125 UBS – Budget Bike with Linked Brakes",
+    "meta_description": "Most affordable Yamaha with UBS braking, 58–62 kmpl & rugged commuter design. Safety meets value.",
+    "brand": "Yamaha",
+    "category": "Commuter",
+    "cc": 125,
+    "price": "Tk. 1,57,000",
+    "short_description": "Yamaha Saluto 125 UBS - The most affordable 125cc Yamaha with Unified Braking System. Basic transportation with improved safety through linked braking technology.",
+    "Zero_Sixty": "7.3 sec",
+    "Zero_Hundred": "19.8 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "58–62 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Drum, Rear Drum (UBS)",
+    "gear": "4-speed manual",
+    "weight": "112 kg",
+    "max_power": "8.0 PS @ 6000 rpm",
+    "max_torque": "9.6 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "3.00-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "9 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Basic commuter",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761225344/yamaha-saluto-125-showroom-view_rouqpg.png",
+        "alt": "Yamaha Saluto 125 Yahama Saluto 125 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761225341/yamaha-saluto-125-showroom-ubs-view_ytvgka.png",
+        "alt": "Yamaha Saluto 125 Yahama Saluto 125 Right View"
+      }
+    ],
+    "pros": [
+      "Most affordable Yamaha 125cc",
+      "UBS improves braking safety",
+      "Excellent mileage (58-62kmpl)",
+      "Low maintenance costs",
+      "Comfortable for city commuting"
+    ],
+    "cons": [
+      "Very basic features",
+      "Slow acceleration (0-60kmph in 7.3s)",
+      "Outdated styling",
+      "No disc brake option",
+      "Tube-type tires"
+    ],
+    "faqs": [
+      {
+        "question": "What is UBS system?",
+        "answer": "Unified Braking System links front and rear brakes for better stopping power."
+      },
+      {
+        "question": "Difference from standard Saluto?",
+        "answer": "Mainly the braking system; performance identical (0-60kmph in 7.3s)."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "No, UBS is different from ABS but improves braking balance."
+      },
+      {
+        "question": "Best for which riders?",
+        "answer": "Budget-conscious buyers needing basic reliable transportation."
+      }
+    ]
+  },
+  {
+    "name": "Yamaha R3 (Approximate)",
+    "slug": "yamaha-r3-approx",
+    "meta_title": "Yamaha R3 – 321cc Twin-Cylinder Supersport (Unofficial)",
+    "meta_description": "Yamaha R3: 41.4 PS parallel-twin, 0-60 in 2.5s & full fairing. Entry-level supersport for serious riders.",
+    "brand": "Yamaha",
+    "category": "Super Sport",
+    "cc": 321,
+    "price": "Tk. 7,79,990 (Expected)",
+    "short_description": "Yamaha R3 - The entry-level supersport with 321cc parallel-twin engine, aggressive styling, and full-fairing design. Offers genuine sports bike performance for aspiring track riders.",
+    "Zero_Sixty": "2.5 sec",
+    "Zero_Hundred": "5.8 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "30 kmpl",
+    "mileage_reported": "25–28 kmpl",
+    "top_speed_claimed": "180 km/h",
+    "top_speed_reported": "170 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "169 kg",
+    "max_power": "41.4 PS @ 10750 rpm",
+    "max_torque": "29.6 Nm @ 9000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "298 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Dual-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/70-R17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "14 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "780 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "2090 mm",
+    "overall_width": "730 mm",
+    "build_quality": "Premium supersport",
+    "parts_availability": "Limited in Bangladesh",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761225596/yamaha-r3-2025-showroom-view_lakusj.png",
+        "alt": "Yamaha R3 2025 on showroom display with sharp R-series bodywork"
+      }
+    ],
+    "pros": [
+      "Superb acceleration (0-60kmph in 2.5s)",
+      "Genuine supersport performance",
+      "Parallel-twin engine character",
+      "Aggressive R-series styling",
+      "Comfortable for a supersport"
+    ],
+    "cons": [
+      "High price for Bangladeshi market",
+      "Limited service network",
+      "Expensive maintenance",
+      "Not ideal for city commuting",
+      "Approximate pricing may vary"
+    ],
+    "faqs": [
+      {
+        "question": "Is R3 officially available?",
+        "answer": "Currently unofficial in Bangladesh with approximate pricing."
+      },
+      {
+        "question": "How quick is acceleration?",
+        "answer": "0-60kmph in 2.5 seconds and 0-100kmph in 5.8 seconds."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "International versions come with ABS; check locally."
+      },
+      {
+        "question": "Suitable for beginners?",
+        "answer": "Yes, as first supersport but requires respect for power."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki Hayate EP",
+    "slug": "suzuki-hayate-ep",
+    "meta_title": "Suzuki Hayate EP – 113cc Budget Commuter Bike",
+    "meta_description": "Hayate EP: 60–63 kmpl, ultra-affordable & reliable. Perfect starter bike for city commuting in Bangladesh.",
+    "brand": "Suzuki",
+    "category": "Commuter",
+    "cc": 113,
+    "price": "Tk. 118,000",
+    "short_description": "Suzuki Hayate EP - The most affordable 113cc commuter bike from Suzuki featuring Eco Performance technology. Delivers excellent fuel efficiency and reliable performance for daily commuting.",
+    "Zero_Sixty": "8.5 sec",
+    "Zero_Hundred": "22.4 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "60–63 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "108 kg",
+    "max_power": "8.0 PS @ 7500 rpm",
+    "max_torque": "8.2 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tube",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "9.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "785 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "1985 mm",
+    "overall_width": "735 mm",
+    "build_quality": "Basic commuter",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926346/bikes/SUZUKI/Suzuki%20Hayate%20EP/suzuki-hayate-ep-back-view.webp",
+        "alt": "Suzuki Hayate EP Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926346/bikes/SUZUKI/Suzuki%20Hayate%20EP/suzuki-hayate-ep-left-view.webp",
+        "alt": "Suzuki Hayate EP Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926347/bikes/SUZUKI/Suzuki%20Hayate%20EP/suzuki-hayate-ep-right-view.webp",
+        "alt": "Suzuki Hayate EP Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926348/bikes/SUZUKI/Suzuki%20Hayate%20EP/suzuki-hayate-front-view.webp",
+        "alt": "Suzuki Hayate EP Suzuki Hayate Front View"
+      }
+    ],
+    "pros": [
+      "Most affordable Suzuki bike",
+      "Excellent fuel efficiency (60-63kmpl)",
+      "Lightweight at 108kg",
+      "Low maintenance costs",
+      "Comfortable upright riding position"
+    ],
+    "cons": [
+      "Basic drum brakes",
+      "Slow acceleration (0-60kmph in 8.5s)",
+      "No modern features",
+      "Outdated styling",
+      "Tube-type tires"
+    ],
+    "faqs": [
+      {
+        "question": "What does EP stand for?",
+        "answer": "Eco Performance - optimized for fuel efficiency."
+      },
+      {
+        "question": "Does it have electric start?",
+        "answer": "Yes, comes with both kick and electric start."
+      },
+      {
+        "question": "Suitable for highway?",
+        "answer": "Best for city use; can do highways up to 80kmph."
+      },
+      {
+        "question": "Maintenance costs?",
+        "answer": "Very affordable with cheap spare parts availability."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki GSX 125",
+    "slug": "suzuki-gsx-125",
+    "meta_title": "Suzuki GSX 125 – Sporty 125cc Full-Faired Bike",
+    "meta_description": "GSX 125 mimics GSX-R looks with digital console & 50–53 kmpl. Sporty style for young urban riders.",
+    "brand": "Suzuki",
+    "category": "Street",
+    "cc": 125,
+    "price": "Tk. 141,950",
+    "short_description": "Suzuki GSX 125 - The sporty 125cc street bike with full fairing design inspired by GSX-R series. Features digital instrument cluster and aggressive styling for young riders.",
+    "Zero_Sixty": "6.8 sec",
+    "Zero_Hundred": "18.2 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "55 kmpl",
+    "mileage_reported": "50–53 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "128 kg",
+    "max_power": "11.0 PS @ 8000 rpm",
+    "max_torque": "11.0 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-17",
+    "rear_tyre_size": "100/80-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "785 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "785 mm",
+    "build_quality": "Sporty commuter",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926340/bikes/SUZUKI/Suzuki%20GSX%20125/suzuki-gsx-125-black-side-view60d70ac23d87b.webp",
+        "alt": "Suzuki GSX 125 Black Side View60D70Ac23D87B"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926341/bikes/SUZUKI/Suzuki%20GSX%20125/suzuki-gsx-125-black60d70ac256724.webp",
+        "alt": "Suzuki GSX 125 Black60D70Ac256724"
+      }
+    ],
+    "pros": [
+      "GSX-R inspired styling",
+      "Better acceleration than commuters (0-60kmph in 6.8s)",
+      "Digital instrument cluster",
+      "Comfortable semi-sporty ergonomics",
+      "Good fuel efficiency (50-53kmpl)"
+    ],
+    "cons": [
+      "Only 125cc despite sporty looks",
+      "No ABS option",
+      "Basic halogen headlight",
+      "Small 11L fuel tank",
+      "Limited power for highway"
+    ],
+    "faqs": [
+      {
+        "question": "Is this a proper sports bike?",
+        "answer": "No, has sporty looks but 125cc commuter engine."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "No, comes with front disc and rear drum without ABS."
+      },
+      {
+        "question": "Suitable for tall riders?",
+        "answer": "785mm seat height suits most riders comfortably."
+      },
+      {
+        "question": "Main difference from Gixxer?",
+        "answer": "GSX has full fairing while Gixxer is naked."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki Gixxer Monotone",
+    "slug": "suzuki-gixxer-monotone",
+    "meta_title": "Suzuki Gixxer Monotone – Oil-Cooled 155cc Street Bike",
+    "meta_description": "Gixxer Monotone: Oil-cooled 155cc, dual disc brakes & 40–43 kmpl. Clean single-tone style with street performance.",
+    "brand": "Suzuki",
+    "category": "Street",
+    "cc": 150,
+    "price": "Tk. 2,05,950",
+    "short_description": "Suzuki Gixxer Monotone - The 155cc street bike with single-tone color scheme, fuel injection, and sporty performance. Features oil-cooled engine and aggressive streetfighter styling.",
+    "Zero_Sixty": "4.5 sec",
+    "Zero_Hundred": "11.8 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40–43 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "141 kg",
+    "max_power": "14.1 PS @ 8000 rpm",
+    "max_torque": "14.0 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "266 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "805 mm",
+    "build_quality": "Sporty street",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926329/bikes/SUZUKI/Suzuki%20Gixxer%20Monotone/suzuki-gixxer-back-view.webp",
+        "alt": "Suzuki Gixxer Monotone Suzuki Gixxer Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926330/bikes/SUZUKI/Suzuki%20Gixxer%20Monotone/suzuki-gixxer-front-view.webp",
+        "alt": "Suzuki Gixxer Monotone Suzuki Gixxer Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926331/bikes/SUZUKI/Suzuki%20Gixxer%20Monotone/suzuki-gixxer-monotone-left-view.webp",
+        "alt": "Suzuki Gixxer Monotone Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926332/bikes/SUZUKI/Suzuki%20Gixxer%20Monotone/suzuki-gixxer-monotone-right-view.webp",
+        "alt": "Suzuki Gixxer Monotone Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926333/bikes/SUZUKI/Suzuki%20Gixxer%20Monotone/suzuki-gixxer-monotone-showroom-view.webp",
+        "alt": "Suzuki Gixxer Monotone Showroom View"
+      }
+    ],
+    "pros": [
+      "Good acceleration (0-60kmph in 4.5s)",
+      "Oil-cooled engine for better performance",
+      "LED lighting package",
+      "Comfortable street ergonomics",
+      "Dual disc brakes"
+    ],
+    "cons": [
+      "No ABS in base version",
+      "Small 12L fuel tank",
+      "Vibrations at high RPM",
+      "Basic instrument console",
+      "No Bluetooth connectivity"
+    ],
+    "faqs": [
+      {
+        "question": "What's special about Monotone?",
+        "answer": "Features single-tone color scheme for cleaner look."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "Only higher variants come with ABS."
+      },
+      {
+        "question": "Oil-cooled vs liquid-cooled?",
+        "answer": "Oil cooling is simpler but less efficient than liquid."
+      },
+      {
+        "question": "Suitable for highway?",
+        "answer": "Yes, comfortable up to 100-110kmph."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki Gixxer Classic Matte",
+    "slug": "suzuki-gixxer-classic-matte",
+    "meta_title": "Suzuki Gixxer Classic Matte – Retro 155cc Street Bike",
+    "meta_description": "Gixxer Classic Matte: Unique finish, oil-cooled engine & LED lights. Retro aesthetics meet modern street performance.",
+    "brand": "Suzuki",
+    "category": "Street",
+    "cc": 154.9,
+    "price": "Tk. 2,08,950",
+    "short_description": "Suzuki Gixxer Classic Matte - The retro-styled 155cc street bike with matte finish colors. Combines Gixxer's performance with classic aesthetics for style-conscious riders.",
+    "Zero_Sixty": "4.6 sec",
+    "Zero_Hundred": "12.0 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40–42 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "141 kg",
+    "max_power": "14.1 PS @ 8000 rpm",
+    "max_torque": "14.0 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "266 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "805 mm",
+    "build_quality": "Retro-modern street",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926335/bikes/SUZUKI/Suzuki%20Gixxer%20SF%20Fi%20ABS/suzuki-gixxer-sf-fi-abs-back-view.webp",
+        "alt": "Suzuki Gixxer SF Fi ABS Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926336/bikes/SUZUKI/Suzuki%20Gixxer%20SF%20Fi%20ABS/suzuki-gixxer-sf-fi-abs-front-view.webp",
+        "alt": "Suzuki Gixxer SF Fi ABS Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926337/bikes/SUZUKI/Suzuki%20Gixxer%20SF%20Fi%20ABS/suzuki-gixxer-sf-fi-abs-left-view.webp",
+        "alt": "Suzuki Gixxer SF Fi ABS Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926338/bikes/SUZUKI/Suzuki%20Gixxer%20SF%20Fi%20ABS/suzuki-gixxer-sf-fi-abs-right-view.webp",
+        "alt": "Suzuki Gixxer SF Fi ABS Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926339/bikes/SUZUKI/Suzuki%20Gixxer%20SF%20Fi%20ABS/suzuki-gixxer-sf-fi-abs-showroom-view.webp",
+        "alt": "Suzuki Gixxer SF Fi ABS Showroom View"
+      }
+    ],
+    "pros": [
+      "Unique matte finish colors",
+      "Good performance (0-60kmph in 4.6s)",
+      "LED lighting all around",
+      "Comfortable upright ergonomics",
+      "Dual disc brakes"
+    ],
+    "cons": [
+      "Matte paint requires special care",
+      "No ABS in this variant",
+      "Same small 12L tank",
+      "Slightly heavier than rivals",
+      "No major mechanical upgrades"
+    ],
+    "faqs": [
+      {
+        "question": "Difference from Monotone?",
+        "answer": "Mainly cosmetic - matte colors vs gloss."
+      },
+      {
+        "question": "Performance same as standard?",
+        "answer": "Identical: 0-60kmph in 4.6s, 0-100kmph in 12.0s."
+      },
+      {
+        "question": "Special maintenance for matte?",
+        "answer": "Yes, requires specific matte paint cleaners."
+      },
+      {
+        "question": "Does it have classic badging?",
+        "answer": "Yes, features 'Classic' branding on tank."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki Access 125 Fi",
+    "slug": "suzuki-access-125-fi",
+    "meta_title": "Suzuki Access 125 Fi – Premium 125cc Fuel-Injected Scooter",
+    "meta_description": "Access 125 Fi: Fuel injection, LED lights & 50–53 kmpl. Comfortable, refined urban mobility from Suzuki.",
+    "brand": "Suzuki",
+    "category": "Scooter",
+    "cc": 124,
+    "price": "Tk. 205,000",
+    "short_description": "Suzuki Access 125 Fi - The premium 125cc scooter with fuel injection, LED lighting, and spacious design. Offers comfortable urban mobility with Suzuki reliability.",
+    "Zero_Sixty": "6.2 sec",
+    "Zero_Hundred": "17.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "55 kmpl",
+    "mileage_reported": "50–53 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "107 kg",
+    "max_power": "8.7 PS @ 6750 rpm",
+    "max_torque": "10.0 Nm @ 5500 rpm",
+    "clutch": "Automatic centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "220 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-12",
+    "rear_tyre_size": "90/100-10",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5.6 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "765 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "1875 mm",
+    "overall_width": "685 mm",
+    "build_quality": "Premium scooter",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926316/bikes/SUZUKI/Suzuki%20Access%20125%20Fi/suzuki-access-125-fi-back-view.webp",
+        "alt": "Suzuki Access 125 Fi Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926317/bikes/SUZUKI/Suzuki%20Access%20125%20Fi/suzuki-access-125-fi-front-view.webp",
+        "alt": "Suzuki Access 125 Fi Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926318/bikes/SUZUKI/Suzuki%20Access%20125%20Fi/suzuki-access-125-fi-left-view.webp",
+        "alt": "Suzuki Access 125 Fi Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926319/bikes/SUZUKI/Suzuki%20Access%20125%20Fi/suzuki-access-125-fi-right-view.webp",
+        "alt": "Suzuki Access 125 Fi Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926320/bikes/SUZUKI/Suzuki%20Access%20125%20Fi/suzuki-access-125-fi-showroom-view.webp",
+        "alt": "Suzuki Access 125 Fi Showroom View"
+      }
+    ],
+    "pros": [
+      "Smooth fuel-injected performance",
+      "Good acceleration for scooter (0-60kmph in 6.2s)",
+      "LED lighting package",
+      "Spacious floorboard",
+      "Comfortable ride quality"
+    ],
+    "cons": [
+      "Small 5.6L fuel tank",
+      "No ABS option",
+      "Basic instrument console",
+      "Limited underseat storage",
+      "Premium pricing"
+    ],
+    "faqs": [
+      {
+        "question": "Does it have ABS?",
+        "answer": "No, comes with front disc and rear drum without ABS."
+      },
+      {
+        "question": "Fuel injection benefits?",
+        "answer": "Better cold starts, fuel efficiency and throttle response."
+      },
+      {
+        "question": "Suitable for tall riders?",
+        "answer": "765mm seat height accommodates most riders."
+      },
+      {
+        "question": "Maintenance costs?",
+        "answer": "Higher than carbureted scooters but more reliable."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki Gixxer Carburetor",
+    "slug": "suzuki-gixxer-carb",
+    "meta_title": "Suzuki Gixxer Carburetor – Affordable 155cc Street Bike",
+    "meta_description": "Budget-friendly Gixxer with carbureted 155cc engine, oil cooling & sporty looks. Low cost, high value.",
+    "brand": "Suzuki",
+    "category": "Street",
+    "cc": 155,
+    "price": "Tk. 232,950",
+    "short_description": "Suzuki Gixxer Carburetor - The 155cc street bike with carbureted engine and sporty design. Features oil-cooled performance and aggressive streetfighter styling at an affordable price point.",
+    "Zero_Sixty": "4.7 sec",
+    "Zero_Hundred": "12.2 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "42 kmpl",
+    "mileage_reported": "38–40 kmpl",
+    "top_speed_claimed": "118 km/h",
+    "top_speed_reported": "113 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "140 kg",
+    "max_power": "13.6 PS @ 8000 rpm",
+    "max_torque": "13.8 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "266 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Combo",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "805 mm",
+    "build_quality": "Sporty street",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761226232/suzuki-gixxer-carburetor-showroom-view_bjsqxy.png",
+        "alt": "Suzuki Gixxer SF Fi ABS Back View"
+      }
+    ],
+    "pros": [
+      "Affordable 155cc performance",
+      "Good acceleration (0-60kmph in 4.7s)",
+      "Oil-cooled engine reliability",
+      "Sporty streetfighter looks",
+      "Low maintenance costs"
+    ],
+    "cons": [
+      "Carburetor requires more maintenance",
+      "No ABS",
+      "Basic halogen headlight",
+      "Small 12L fuel tank",
+      "Vibrations at high RPM"
+    ],
+    "faqs": [
+      {
+        "question": "Difference between carb and FI?",
+        "answer": "Carburetor version is cheaper but less efficient than fuel injection."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "No, this variant comes without ABS."
+      },
+      {
+        "question": "Cold start issues?",
+        "answer": "Carburetor may need choke in cold weather unlike FI."
+      },
+      {
+        "question": "Suitable for highway?",
+        "answer": "Yes, comfortable up to 100-110kmph."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki Gixxer Fi Disc",
+    "slug": "suzuki-gixxer-fi-disc",
+    "meta_title": "Suzuki Gixxer Fi Disc – Fuel-Injected 155cc Dual Disc",
+    "meta_description": "Gixxer Fi Disc: Smoother FI engine, dual disc brakes & LED lighting. Better efficiency & braking than carb version.",
+    "brand": "Suzuki",
+    "category": "Street",
+    "cc": 155,
+    "price": "Tk. 249,950",
+    "short_description": "Suzuki Gixxer Fi Disc - The fuel-injected 155cc street bike with dual disc brakes. Features improved throttle response, better efficiency, and sporty performance over carbureted version.",
+    "Zero_Sixty": "4.5 sec",
+    "Zero_Hundred": "11.8 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40–43 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "141 kg",
+    "max_power": "14.1 PS @ 8000 rpm",
+    "max_torque": "14.0 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "266 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "805 mm",
+    "build_quality": "Sporty street",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761226686/suzuki-gixxer-fi-disc-showroom-view_i5s5kt.jpg",
+        "alt": "Suzuki Gixxer SF Fi ABS Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761226686/suzuki-gixxer-fi-disc-showroom-view_i5s5kt.jpg",
+        "alt": "Suzuki Gixxer SF Fi ABS Front View"
+      }
+    ],
+    "pros": [
+      "Smoother fuel-injected performance",
+      "Better acceleration (0-60kmph in 4.5s)",
+      "Dual disc brake setup",
+      "LED lighting package",
+      "Improved fuel efficiency"
+    ],
+    "cons": [
+      "Still no ABS",
+      "Same small 12L tank",
+      "Premium pricing over carb",
+      "Basic instrument console",
+      "No Bluetooth features"
+    ],
+    "faqs": [
+      {
+        "question": "Benefits over carburetor?",
+        "answer": "Better throttle response, efficiency and requires less maintenance."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "No, this variant has dual discs but no ABS."
+      },
+      {
+        "question": "Cold start performance?",
+        "answer": "FI provides better cold starts than carburetor."
+      },
+      {
+        "question": "Worth extra over carb?",
+        "answer": "Yes, for better performance and lower maintenance."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki Gixxer Fi ABS",
+    "slug": "suzuki-gixxer-fi-abs",
+    "meta_title": "Suzuki Gixxer Fi ABS – 155cc with Front ABS",
+    "meta_description": "Gixxer Fi ABS adds single-channel ABS to fuel-injected 155cc. Safer braking without compromising performance.",
+    "brand": "Suzuki",
+    "category": "Street",
+    "cc": 155,
+    "price": "Tk. 279,950",
+    "short_description": "Suzuki Gixxer Fi ABS - The top variant of Gixxer with fuel injection and single-channel ABS. Combines 155cc oil-cooled performance with safety features for confident riding.",
+    "Zero_Sixty": "4.5 sec",
+    "Zero_Hundred": "11.8 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40–43 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc, Rear Drum (ABS)",
+    "gear": "5-speed manual",
+    "weight": "142 kg",
+    "max_power": "14.1 PS @ 8000 rpm",
+    "max_torque": "14.0 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "266 mm Disc (ABS)",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "805 mm",
+    "build_quality": "Premium street",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761227936/suzuki-gixxer-fi-abs-showroom-view_hwawtx.png",
+        "alt": "Suzuki Gixxer SF Fi ABS Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761227936/suzuki-gixxer-fi-abs-showroom-view_hwawtx.png",
+        "alt": "Suzuki Gixxer SF Fi ABS Front View"
+      }
+    ],
+    "pros": [
+      "Single-channel ABS safety",
+      "Good acceleration (0-60kmph in 4.5s)",
+      "Fuel-injected smoothness",
+      "LED lighting package",
+      "Confident braking performance"
+    ],
+    "cons": [
+      "Rear brake still drum",
+      "Small fuel tank",
+      "Premium pricing",
+      "No dual-channel ABS",
+      "Same engine as lower variants"
+    ],
+    "faqs": [
+      {
+        "question": "Is ABS single or dual-channel?",
+        "answer": "Single-channel ABS only on front wheel."
+      },
+      {
+        "question": "Performance same as non-ABS?",
+        "answer": "Identical performance: 0-60kmph in 4.5s."
+      },
+      {
+        "question": "Worth extra over non-ABS?",
+        "answer": "Yes, for safety especially in wet conditions."
+      },
+      {
+        "question": "Does it have traction control?",
+        "answer": "No, only comes with ABS."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki Intruder Fi ABS",
+    "slug": "suzuki-intruder-fi-abs",
+    "meta_title": "Suzuki Intruder Fi ABS – 155cc Power Cruiser",
+    "meta_description": "Intruder: Low 740mm seat, cruiser stance, ABS & LED projector. Bold style for relaxed, confident riding.",
+    "brand": "Suzuki",
+    "category": "Cruiser",
+    "cc": 154.9,
+    "price": "Tk. 319,950",
+    "short_description": "Suzuki Intruder Fi ABS - The 155cc power cruiser with muscular styling and relaxed ergonomics. Features fuel injection, single-channel ABS, and distinctive cruiser character.",
+    "Zero_Sixty": "5.2 sec",
+    "Zero_Hundred": "13.5 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "42 kmpl",
+    "mileage_reported": "38–40 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum (ABS)",
+    "gear": "5-speed manual",
+    "weight": "148 kg",
+    "max_power": "14.1 PS @ 8000 rpm",
+    "max_torque": "14.0 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "266 mm Disc (ABS)",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "740 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2195 mm",
+    "overall_width": "805 mm",
+    "build_quality": "Muscular cruiser",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926349/bikes/SUZUKI/Suzuki%20Intruder%20Fi%20ABS/suzuki-iintruder-fi-abs-showeoom-view.webp",
+        "alt": "Suzuki Intruder Fi ABS Suzuki Iintruder Fi Abs Showeoom View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926350/bikes/SUZUKI/Suzuki%20Intruder%20Fi%20ABS/suzuki-intruder-fi-abs-back-view.webp",
+        "alt": "Suzuki Intruder Fi ABS Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926351/bikes/SUZUKI/Suzuki%20Intruder%20Fi%20ABS/suzuki-intruder-fi-abs-front-view.webp",
+        "alt": "Suzuki Intruder Fi ABS Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926352/bikes/SUZUKI/Suzuki%20Intruder%20Fi%20ABS/suzuki-intruder-fi-abs-left-view.webp",
+        "alt": "Suzuki Intruder Fi ABS Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926353/bikes/SUZUKI/Suzuki%20Intruder%20Fi%20ABS/suzuki-intruder-fi-abs-right-view.webp",
+        "alt": "Suzuki Intruder Fi ABS Right View"
+      }
+    ],
+    "pros": [
+      "Distinctive cruiser styling",
+      "Comfortable low seat (740mm)",
+      "Single-channel ABS safety",
+      "LED projector headlight",
+      "Relaxed riding position"
+    ],
+    "cons": [
+      "Heavier than street bikes",
+      "Slower acceleration (0-60kmph in 5.2s)",
+      "Small 11L fuel tank",
+      "Premium pricing",
+      "Limited ground clearance"
+    ],
+    "faqs": [
+      {
+        "question": "Is this a proper cruiser?",
+        "answer": "Yes, with forward-set footpegs and low seat height."
+      },
+      {
+        "question": "Performance vs Gixxer?",
+        "answer": "Slower (0-60kmph in 5.2s) due to weight and gearing."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "Yes, single-channel ABS on front wheel."
+      },
+      {
+        "question": "Suitable for tall riders?",
+        "answer": "Best for average height due to footpeg position."
+      }
+    ]
+  },
+  {
+    "name": "New Suzuki Gixxer SF Fi ABS",
+    "slug": "suzuki-gixxer-sf-fi-abs",
+    "meta_title": "Suzuki Gixxer SF Fi ABS – Fully-Faired 155cc Sports",
+    "meta_description": "Gixxer SF Fi ABS: Full fairing, dual-channel ABS & 0-60 in 4.3s. Sporty looks with enhanced safety.",
+    "brand": "Suzuki",
+    "category": "Sports",
+    "cc": 155,
+    "price": "Tk. 319,950",
+    "short_description": "New Suzuki Gixxer SF Fi ABS - The fully-faired sports version of Gixxer with dual-channel ABS. Features aggressive aerodynamics, fuel injection, and track-inspired styling.",
+    "Zero_Sixty": "4.3 sec",
+    "Zero_Hundred": "11.5 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "43 kmpl",
+    "mileage_reported": "38–41 kmpl",
+    "top_speed_claimed": "125 km/h",
+    "top_speed_reported": "120 km/h",
+    "braking": "Front Disc, Rear Disc (ABS)",
+    "gear": "5-speed manual",
+    "weight": "146 kg",
+    "max_power": "14.1 PS @ 8000 rpm",
+    "max_torque": "14.0 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "266 mm Disc (ABS)",
+    "rear_brake": "220 mm Disc (ABS)",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "785 mm",
+    "build_quality": "Premium sports",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761228323/suzuki-gixxer-sf-fi-abs-showroom-view_kzwd1i.png",
+        "alt": "New Suzuki Gixxer SF Fi ABS on showroom display with full fairing and sporty stance"
+      }
+    ],
+    "pros": [
+      "Sportier acceleration (0-60kmph in 4.3s)",
+      "Dual-channel ABS safety",
+      "Full fairing for better aerodynamics",
+      "LED projector headlight",
+      "Premium sports bike looks"
+    ],
+    "cons": [
+      "Most expensive Gixxer variant",
+      "Same engine as naked version",
+      "Small 12L fuel tank",
+      "Firm ride quality",
+      "Cramped ergonomics for some"
+    ],
+    "faqs": [
+      {
+        "question": "Difference from naked Gixxer?",
+        "answer": "Adds full fairing, dual-channel ABS and sportier ergonomics."
+      },
+      {
+        "question": "How much faster than naked?",
+        "answer": "Marginally quicker: 0-60kmph in 4.3s vs 4.5s."
+      },
+      {
+        "question": "Does it have riding modes?",
+        "answer": "No, but dual-channel ABS improves safety."
+      },
+      {
+        "question": "Suitable for track days?",
+        "answer": "Yes, with sporty ergonomics and fairing."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki Gixxer SF Matt Plus",
+    "slug": "suzuki-gixxer-sf-matt-plus",
+    "meta_title": "Suzuki Gixxer SF Matt Plus – Premium Matte 155cc",
+    "meta_description": "Exclusive matte-finish Gixxer SF with dual-channel ABS & 0-60 in 4.2s. Stand out with premium sports styling.",
+    "brand": "Suzuki",
+    "category": "Sports",
+    "cc": 155,
+    "price": "Tk. 349,950",
+    "short_description": "Suzuki Gixxer SF Matt Plus - The premium edition of Gixxer SF with matte finish colors, dual-channel ABS, and sporty full-fairing design. Offers aggressive styling with 155cc oil-cooled performance.",
+    "Zero_Sixty": "4.2 sec",
+    "Zero_Hundred": "11.3 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "42 kmpl",
+    "mileage_reported": "38–40 kmpl",
+    "top_speed_claimed": "125 km/h",
+    "top_speed_reported": "120 km/h",
+    "braking": "Front Disc, Rear Disc (ABS)",
+    "gear": "5-speed manual",
+    "weight": "147 kg",
+    "max_power": "14.3 PS @ 8000 rpm",
+    "max_torque": "14.0 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "266 mm Disc (ABS)",
+    "rear_brake": "220 mm Disc (ABS)",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2050 mm",
+    "overall_width": "785 mm",
+    "build_quality": "Premium sports",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761228540/suzuki-gixxer-sf-mattplus-showroom-view_sa1rhm.jpg",
+        "alt": "Suzuki Gixxer SF Matt Plus on showroom display with matte finish and full fairing"
+      }
+    ],
+    "pros": [
+      "Exclusive matte finish colors",
+      "Quick acceleration (0-60kmph in 4.2s)",
+      "Dual-channel ABS safety",
+      "LED projector headlight",
+      "Sporty fully-faired design"
+    ],
+    "cons": [
+      "Premium pricing for 155cc",
+      "Matte paint requires special care",
+      "Same engine as standard SF",
+      "Small 12L fuel tank",
+      "Firm ride quality"
+    ],
+    "faqs": [
+      {
+        "question": "What makes Matt Plus special?",
+        "answer": "Premium matte paint scheme and dual-tone colors."
+      },
+      {
+        "question": "Performance same as standard SF?",
+        "answer": "Nearly identical: 0-60kmph in 4.2s vs 4.3s."
+      },
+      {
+        "question": "Does it have traction control?",
+        "answer": "No, but dual-channel ABS provides safety."
+      },
+      {
+        "question": "Is it worth the premium?",
+        "answer": "Only for buyers wanting exclusive matte colors."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki Gixxer 250",
+    "slug": "suzuki-gixxer-250",
+    "meta_title": "Suzuki Gixxer 250 – 248cc Oil-Cooled Naked Bike",
+    "meta_description": "Gixxer 250: 26.5 PS, dual-channel ABS & 0-60 in 3.8s. Strong street performance in a premium naked package.",
+    "brand": "Suzuki",
+    "category": "Street",
+    "cc": 248,
+    "price": "Tk. 379,950",
+    "short_description": "Suzuki Gixxer 250 - The powerful 250cc street naked with oil-cooled engine and aggressive streetfighter styling. Delivers strong performance with 26.5 PS power and premium features.",
+    "Zero_Sixty": "3.8 sec",
+    "Zero_Hundred": "9.5 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "35 kmpl",
+    "mileage_reported": "30–33 kmpl",
+    "top_speed_claimed": "145 km/h",
+    "top_speed_reported": "140 km/h",
+    "braking": "Front Disc, Rear Disc (ABS)",
+    "gear": "6-speed manual",
+    "weight": "156 kg",
+    "max_power": "26.5 PS @ 9300 rpm",
+    "max_torque": "22.6 Nm @ 7300 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "300 mm Disc (ABS)",
+    "rear_brake": "240 mm Disc",
+    "caliper": {
+      "front": "Dual-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/70-R17",
+    "rear_tyre_size": "150/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2010 mm",
+    "overall_width": "805 mm",
+    "build_quality": "Premium street",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926320/bikes/SUZUKI/Suzuki%20Gixxer%20250/suzuki-gixxer-250-back-view.webp",
+        "alt": "Suzuki Gixxer 250 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926321/bikes/SUZUKI/Suzuki%20Gixxer%20250/suzuki-gixxer-250-front-view.webp",
+        "alt": "Suzuki Gixxer 250 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926322/bikes/SUZUKI/Suzuki%20Gixxer%20250/suzuki-gixxer-250-left-view.webp",
+        "alt": "Suzuki Gixxer 250 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926323/bikes/SUZUKI/Suzuki%20Gixxer%20250/suzuki-gixxer-250-right-view.webp",
+        "alt": "Suzuki Gixxer 250 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926324/bikes/SUZUKI/Suzuki%20Gixxer%20250/suzuki-gixxer-250-showroom-view.webp",
+        "alt": "Suzuki Gixxer 250 Showroom View"
+      }
+    ],
+    "pros": [
+      "Strong acceleration (0-60kmph in 3.8s)",
+      "250cc oil-cooled power",
+      "Dual-channel ABS safety",
+      "Wider rear tire for better grip",
+      "Premium LED lighting"
+    ],
+    "cons": [
+      "Small 12L fuel tank",
+      "No liquid cooling",
+      "Vibrations at high RPM",
+      "Premium pricing",
+      "No traction control"
+    ],
+    "faqs": [
+      {
+        "question": "How much faster than 155cc?",
+        "answer": "Significantly quicker: 0-60kmph in 3.8s vs 4.3s."
+      },
+      {
+        "question": "Does it have dual-channel ABS?",
+        "answer": "Yes, comes with dual-channel ABS as standard."
+      },
+      {
+        "question": "Suitable for highway touring?",
+        "answer": "Yes, but small tank limits range."
+      },
+      {
+        "question": "Maintenance costs?",
+        "answer": "Higher than 150cc but reasonable for 250cc."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki Gixxer SF 250",
+    "slug": "suzuki-gixxer-sf-250",
+    "meta_title": "Suzuki Gixxer SF 250 – Fully-Faired 250cc Sports Bike",
+    "meta_description": "Gixxer SF 250: Full fairing, 26.5 PS & 0-60 in 3.7s. Track-inspired design with dual-channel ABS.",
+    "brand": "Suzuki",
+    "category": "Sports",
+    "cc": 250,
+    "price": "Tk. 449,950",
+    "short_description": "Suzuki Gixxer SF 250 - The fully-faired 250cc sports bike with aggressive aerodynamics and track-inspired design. Features dual-channel ABS, LED lighting, and 26.5 PS oil-cooled engine.",
+    "Zero_Sixty": "3.7 sec",
+    "Zero_Hundred": "9.3 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "34 kmpl",
+    "mileage_reported": "29–32 kmpl",
+    "top_speed_claimed": "148 km/h",
+    "top_speed_reported": "143 km/h",
+    "braking": "Front Disc, Rear Disc (ABS)",
+    "gear": "6-speed manual",
+    "weight": "161 kg",
+    "max_power": "26.5 PS @ 9300 rpm",
+    "max_torque": "22.6 Nm @ 7300 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "300 mm Disc (ABS)",
+    "rear_brake": "240 mm Disc (ABS)",
+    "caliper": {
+      "front": "Dual-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/70-R17",
+    "rear_tyre_size": "150/60-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2010 mm",
+    "overall_width": "740 mm",
+    "build_quality": "Premium sports",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761228830/suzuki-gixxer-sf-250-left-side-view_mwyyjc.png",
+        "alt": "Suzuki Gixxer Fi Disc Suzuki Gixxer Fi Disc Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761228856/suzuki-gixxer-sf-250-front-side-view_ynbqch.png",
+        "alt": "Suzuki Gixxer Fi Disc Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761228835/suzuki-gixxer-sf-250-backside-view_ryahrl.png",
+        "alt": "Suzuki Gixxer Fi Disc Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761228850/suzuki-gixxer-sf-250-engie-view_mvrh2s.png",
+        "alt": "Suzuki Gixxer Fi Disc Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761228862/suzuki-gixxer-sf-250-right-side-view_egtimt.png",
+        "alt": "Suzuki Gixxer Fi Disc Showroom View"
+      }
+    ],
+    "pros": [
+      "Excellent acceleration (0-60kmph in 3.7s)",
+      "Full fairing for better aerodynamics",
+      "Dual-channel ABS safety",
+      "Premium suspension setup",
+      "Sporty riding position"
+    ],
+    "cons": [
+      "Firm ride for daily commuting",
+      "Same small 12L tank as naked",
+      "No liquid cooling",
+      "Premium pricing",
+      "Aggressive ergonomics"
+    ],
+    "faqs": [
+      {
+        "question": "Difference from naked 250?",
+        "answer": "Adds fairing, slightly quicker (0-60kmph in 3.7s vs 3.8s)."
+      },
+      {
+        "question": "Does it have quick shifter?",
+        "answer": "No, but gearbox is smooth for clutchless shifts."
+      },
+      {
+        "question": "Suitable for track days?",
+        "answer": "Yes, with sporty ergonomics and fairing."
+      },
+      {
+        "question": "Worth extra over naked?",
+        "answer": "Yes, for sportier looks and slightly better performance."
+      }
+    ]
+  },
+  {
+    "name": "Suzuki GSX R Dual ABS",
+    "slug": "suzuki-gsx-r-dual-abs",
+    "meta_title": "Suzuki GSX R Dual ABS – Liquid-Cooled 150cc Supersport",
+    "meta_description": "GSX R Dual ABS: Liquid-cooled 19.2 PS, dual-channel ABS & 0-60 in 3.5s. GSX-R DNA in a 150cc package.",
+    "brand": "Suzuki",
+    "category": "Sports",
+    "cc": 149,
+    "price": "Tk. 524,950",
+    "short_description": "Suzuki GSX R Dual ABS - The premium 150cc supersport with full fairing, dual-channel ABS, and GSX-R series DNA. Features liquid-cooled engine and aggressive track-focused ergonomics.",
+    "Zero_Sixty": "3.5 sec",
+    "Zero_Hundred": "8.9 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35–38 kmpl",
+    "top_speed_claimed": "135 km/h",
+    "top_speed_reported": "130 km/h",
+    "braking": "Front Disc, Rear Disc (ABS)",
+    "gear": "6-speed manual",
+    "weight": "141 kg",
+    "max_power": "19.2 PS @ 10500 rpm",
+    "max_torque": "14.0 Nm @ 9000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "290 mm Disc (ABS)",
+    "rear_brake": "187 mm Disc (ABS)",
+    "caliper": {
+      "front": "Dual-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "140/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2000 mm",
+    "overall_width": "700 mm",
+    "build_quality": "Premium supersport",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926342/bikes/SUZUKI/Suzuki%20GSX%20R%20Dual%20ABS/suzuki-gsx-r-dual-abs-back-view.webp",
+        "alt": "Suzuki GSX R Dual ABS Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926342/bikes/SUZUKI/Suzuki%20GSX%20R%20Dual%20ABS/suzuki-gsx-r-dual-abs-front-view.webp",
+        "alt": "Suzuki GSX R Dual ABS Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926343/bikes/SUZUKI/Suzuki%20GSX%20R%20Dual%20ABS/suzuki-gsx-r-dual-abs-left-view.webp",
+        "alt": "Suzuki GSX R Dual ABS Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926344/bikes/SUZUKI/Suzuki%20GSX%20R%20Dual%20ABS/suzuki-gsx-r-dual-abs-right-view.webp",
+        "alt": "Suzuki GSX R Dual ABS Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926345/bikes/SUZUKI/Suzuki%20GSX%20R%20Dual%20ABS/suzuki-gsx-r-dual-abs-showroom-view.webp",
+        "alt": "Suzuki GSX R Dual ABS Showroom View"
+      }
+    ],
+    "pros": [
+      "Superb acceleration (0-60kmph in 3.5s)",
+      "GSX-R series DNA and styling",
+      "Dual-channel ABS safety",
+      "Liquid-cooled performance",
+      "Premium suspension components"
+    ],
+    "cons": [
+      "Very premium pricing for 150cc",
+      "Small 11L fuel tank",
+      "Uncomfortable for daily use",
+      "High maintenance costs",
+      "No traction control"
+    ],
+    "faqs": [
+      {
+        "question": "How does it compare to R15?",
+        "answer": "More premium with dual-channel ABS and quicker acceleration (0-60kmph in 3.5s vs 3.0s)."
+      },
+      {
+        "question": "Is it worth the price?",
+        "answer": "Only for buyers wanting GSX-R badge and premium features."
+      },
+      {
+        "question": "Does it have quick shifter?",
+        "answer": "No, but gearbox is precise for clutchless shifts."
+      },
+      {
+        "question": "Suitable for beginners?",
+        "answer": "Not ideal - aggressive ergonomics suit experienced riders."
+      }
+    ]
+  }
+]

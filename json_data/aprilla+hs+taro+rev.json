@@ -1,0 +1,2494 @@
+[
+  {
+    "name": "Aprilia Cafe 150",
+    "slug": "aprilia-cafe-150",
+    "brand": "Aprilia",
+    "category": "Cafe Racer",
+    "cc": 150,
+    "price": "Tk. 170,000",
+    "short_description": "Aprilia Cafe 150 - A 149cc retro-styled cafe racer with modern engineering, offering classic aesthetics with contemporary performance for urban riding.",
+    "Zero_Sixty": "8.5 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "110 km/h",
+    "top_speed_reported": "105 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "135 kg",
+    "max_power": "15.5 PS @ 8500 rpm",
+    "max_torque": "12.5 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "280 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2020 mm",
+    "overall_width": "780 mm",
+    "build_quality": "Retro-modern fusion",
+    "parts_availability": "Good",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986221/bikes/Aprilia/Aprilia%20Cafe%20150/aprilia-cafe-150-left-view.webp",
+          "alt": "Aprilia Cafe 150 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986222/bikes/Aprilia/Aprilia%20Cafe%20150/aprilia-cafe-150-right-view.webp",
+          "alt": "Aprilia Cafe 150 Right View"
+        }
+      ] ,
+    "pros": [
+      "Authentic cafe racer styling",
+      "Comfortable ergonomics for a cafe racer",
+      "Good fuel efficiency",
+      "LED lighting package",
+      "Lightweight and nimble"
+    ],
+    "cons": [
+      "Limited pillion comfort",
+      "Basic instrumentation",
+      "No ABS option",
+      "Vibrations at high RPM",
+      "Small mirrors"
+    ],
+    "faqs": [
+      {
+        "question": "Is it suitable for tall riders?",
+        "answer": "The 800mm seat height accommodates most riders, though the forward-set footpegs may challenge very tall riders."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "No, it comes with front disc and rear drum brakes without ABS."
+      },
+      {
+        "question": "What's the service interval?",
+        "answer": "Recommended service every 4,000 km or 4 months."
+      },
+      {
+        "question": "Is it good for highway riding?",
+        "answer": "Can handle short highway stints but is more suited for urban riding due to its cafe racer ergonomics."
+      }
+    ]
+  },
+  {
+    "name": "Aprilia FX 150",
+    "slug": "aprilia-fx-150",
+    "brand": "Aprilia",
+    "category": "Naked",
+    "cc": 150,
+    "price": "Tk. 135,000",
+    "short_description": "Aprilia FX 150 - A 149.2cc naked street motorcycle with aggressive styling, lightweight chassis, and peppy performance for urban commuting.",
+    "Zero_Sixty": "8.2 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "45-48 kmpl",
+    "top_speed_claimed": "105 km/h",
+    "top_speed_reported": "100 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "128 kg",
+    "max_power": "14.5 PS @ 8000 rpm",
+    "max_torque": "12.3 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-17",
+    "rear_tyre_size": "120/80-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Combo",
+    "seat_height": "790 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "2000 mm",
+    "overall_width": "770 mm",
+    "build_quality": "Sporty urban commuter",
+    "parts_availability": "Good",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986223/bikes/Aprilia/Aprilia%20FX%20150/aprilia-fx-150%20left-view-red.webp",
+          "alt": "Aprilia FX 150 Aprilia Fx 150 Left View Red"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986224/bikes/Aprilia/Aprilia%20FX%20150/aprilia-fx-150-left-view-blue.webp",
+          "alt": "Aprilia FX 150 Left View Blue"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986225/bikes/Aprilia/Aprilia%20FX%20150/aprilia-fx-150-right-view-blue.webp",
+          "alt": "Aprilia FX 150 Right View Blue"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986227/bikes/Aprilia/Aprilia%20FX%20150/aprilia-fx-150-right-view-red.webp",
+          "alt": "Aprilia FX 150 Right View Red"
+        }
+      ] ,
+    "pros": [
+      "Lightweight and agile",
+      "Good fuel efficiency",
+      "Sporty naked styling",
+      "Comfortable upright ergonomics",
+      "Affordable maintenance"
+    ],
+    "cons": [
+      "Basic halogen headlight",
+      "No ABS option",
+      "Vibrations at high speed",
+      "Small pillion seat",
+      "Limited color options"
+    ],
+    "faqs": [
+      {
+        "question": "Is it suitable for beginners?",
+        "answer": "Yes, its lightweight and manageable power make it an excellent beginner bike."
+      },
+      {
+        "question": "Does it have electric start?",
+        "answer": "Yes, it comes with both electric and kick start options."
+      },
+      {
+        "question": "What's the difference from Cafe 150?",
+        "answer": "The FX 150 has more upright ergonomics, simpler styling, and is more affordable than the cafe racer version."
+      },
+      {
+        "question": "Is it good for highway riding?",
+        "answer": "Can cruise at 80-90 kmph but is more comfortable for city commuting."
+      }
+    ]
+  },
+  {
+    "name": "Aprilia GPR 150",
+    "slug": "aprilia-gpr-150",
+    "brand": "Aprilia",
+    "category": "Sports",
+    "cc": 149,
+    "price": "Tk. 300,000",
+    "short_description": "Aprilia GPR 150 - A 149cc full-faired sportbike with track-inspired design, aggressive ergonomics, and race-bred performance for enthusiasts.",
+    "Zero_Sixty": "7.0 sec",
+    "Zero_Hundred": "16.5 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "35 kmpl",
+    "mileage_reported": "30-33 kmpl",
+    "top_speed_claimed": "130 km/h",
+    "top_speed_reported": "125 km/h",
+    "braking": "Front Disc, Rear Disc (ABS)",
+    "gear": "6-speed manual",
+    "weight": "140 kg",
+    "max_power": "18.5 PS @ 10000 rpm",
+    "max_torque": "14 Nm @ 7500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "300 mm Disc",
+    "rear_brake": "218 mm Disc",
+    "caliper": {
+      "front": "Four-piston radial",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "14 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "820 mm",
+    "ground_clearance": "150 mm",
+    "overall_length": "1950 mm",
+    "overall_width": "770 mm",
+    "build_quality": "Premium sportbike",
+    "parts_availability": "Good",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986228/bikes/Aprilia/Aprilia%20GPR%20150/aprilia-gpr-150-showroom-view.webp",
+          "alt": "Aprilia GPR 150 Showroom View"
+        }
+      ] ,
+    "pros": [
+      "True sportbike ergonomics",
+      "Premium radial brake caliper",
+      "Full LED lighting",
+      "Lightweight chassis",
+      "Track-focused suspension"
+    ],
+    "cons": [
+      "Very aggressive riding position",
+      "High seat height may challenge shorter riders",
+      "Firm suspension for city roads",
+      "Expensive for 150cc segment",
+      "Limited pillion comfort"
+    ],
+    "faqs": [
+      {
+        "question": "Is it suitable for beginners?",
+        "answer": "The aggressive ergonomics and high seat height make it challenging for complete beginners."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "Yes, it comes with dual-channel ABS as standard."
+      },
+      {
+        "question": "Is it good for track days?",
+        "answer": "Yes, its chassis and suspension are track-oriented, making it excellent for circuit riding."
+      },
+      {
+        "question": "What's the service interval?",
+        "answer": "Recommended service every 4,000 km or 4 months, more frequent if used on track."
+      }
+    ]
+  },
+  {
+    "name": "Aprilia SR 125",
+    "slug": "aprilia-sr-125",
+    "brand": "Aprilia",
+    "category": "Sport Scooter",
+    "cc": 125,
+    "price": "Tk. 217,200",
+    "short_description": "Aprilia SR 125 - A 125cc sporty scooter with aggressive Italian styling, peppy performance, and premium features for urban commuting.",
+    "Zero_Sixty": "9.5 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "122 kg",
+    "max_power": "10.5 PS @ 7500 rpm",
+    "max_torque": "10 Nm @ 6000 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "220 mm Disc",
+    "rear_brake": "140 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "120/70-14",
+    "rear_tyre_size": "140/60-14",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "7 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "790 mm",
+    "ground_clearance": "155 mm",
+    "overall_length": "1890 mm",
+    "overall_width": "730 mm",
+    "build_quality": "Premium sport scooter",
+    "parts_availability": "Good",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986229/bikes/Aprilia/Aprilia%20SR%20125/aprilia-sr-125-showroom-view.webp",
+          "alt": "Aprilia SR 125 Showroom View"
+        }
+      ],
+    "pros": [
+      "Sporty Italian styling",
+      "Good acceleration for 125cc",
+      "Full LED lighting",
+      "Comfortable ergonomics",
+      "Premium build quality"
+    ],
+    "cons": [
+      "Small fuel tank",
+      "Firm ride quality",
+      "No ABS option",
+      "Expensive for 125cc",
+      "Limited storage space"
+    ],
+    "faqs": [
+      {
+        "question": "Does it have under-seat storage?",
+        "answer": "Yes, it offers 16L under-seat storage - enough for a half-face helmet."
+      },
+      {
+        "question": "Is it suitable for highway riding?",
+        "answer": "Can handle short highway stints but is more comfortable for city riding."
+      },
+      {
+        "question": "What's the difference from SR 150?",
+        "answer": "The SR 125 has less power, smaller wheels, and fewer premium features than the 150cc version."
+      },
+      {
+        "question": "Does it have a charging port?",
+        "answer": "No, the base SR 125 variant doesn't include a charging port."
+      }
+    ]
+  },
+  {
+    "name": "Aprilia SR 150 Race",
+    "slug": "aprilia-sr-150-race",
+    "brand": "Aprilia",
+    "category": "Sport Scooter",
+    "cc": 154.8,
+    "price": "Tk. 289,200",
+    "short_description": "Aprilia SR 150 Race - A 154.8cc performance-oriented scooter with race-inspired styling, sporty ergonomics, and spirited acceleration for urban riding.",
+    "Zero_Sixty": "7.5 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35-38 kmpl",
+    "top_speed_claimed": "105 km/h",
+    "top_speed_reported": "100 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "125 kg",
+    "max_power": "12.5 PS @ 7750 rpm",
+    "max_torque": "12 Nm @ 6500 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "220 mm Disc",
+    "rear_brake": "140 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "120/70-14",
+    "rear_tyre_size": "140/60-14",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "7 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "790 mm",
+    "ground_clearance": "155 mm",
+    "overall_length": "1890 mm",
+    "overall_width": "730 mm",
+    "build_quality": "Sporty premium finish",
+    "parts_availability": "Good",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986230/bikes/Aprilia/Aprilia%20SR%20150%20Race/aprilia-sr-150-race-left-view.webp",
+          "alt": "Aprilia SR 150 Race Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986232/bikes/Aprilia/Aprilia%20SR%20150%20Race/aprilia-sr-150-race-right-view.webp",
+          "alt": "Aprilia SR 150 Race Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986233/bikes/Aprilia/Aprilia%20SR%20150%20Race/aprilia-sr-150-race-showroom-view-red.webp",
+          "alt": "Aprilia SR 150 Race Showroom View Red"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986233/bikes/Aprilia/Aprilia%20SR%20150%20Race/aprilia-sr-150-race-showroom-view-white.webp",
+          "alt": "Aprilia SR 150 Race Showroom View White"
+        }
+      ],
+    "pros": [
+      "Peppy 150cc engine",
+      "Aggressive race styling",
+      "Full LED lighting",
+      "Good cornering stability",
+      "Premium build quality"
+    ],
+    "cons": [
+      "Small fuel tank",
+      "Firm ride quality",
+      "No ABS option",
+      "Expensive for 150cc",
+      "Limited storage space"
+    ],
+    "faqs": [
+      {
+        "question": "What's different from standard SR 150?",
+        "answer": "The Race version has sportier graphics, slightly more power, and performance-oriented tuning."
+      },
+      {
+        "question": "Does it have under-seat storage?",
+        "answer": "Yes, it offers 16L under-seat storage - enough for a half-face helmet."
+      },
+      {
+        "question": "Is it suitable for tall riders?",
+        "answer": "The 790mm seat height accommodates most riders comfortably."
+      },
+      {
+        "question": "What's the service interval?",
+        "answer": "Recommended service every 4,000 km or 4 months."
+      }
+    ]
+  },
+  {
+    "name": "Aprilia SR 150 RACE CARBON ABS",
+    "slug": "aprilia-sr-150-race-carbon-abs",
+    "brand": "Aprilia",
+    "category": "Sport Scooter",
+    "cc": 154.8,
+    "price": "Tk. 300,000",
+    "short_description": "Aprilia SR 150 RACE CARBON ABS - A premium 154.8cc sport scooter with carbon fiber accents, ABS braking, and track-inspired performance for enthusiasts.",
+    "Zero_Sixty": "7.2 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "38 kmpl",
+    "mileage_reported": "33-36 kmpl",
+    "top_speed_claimed": "110 km/h",
+    "top_speed_reported": "105 km/h",
+    "braking": "Front Disc, Rear Drum (ABS)",
+    "gear": "CVT Automatic",
+    "weight": "128 kg",
+    "max_power": "13.5 PS @ 8000 rpm",
+    "max_torque": "12.5 Nm @ 6750 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "220 mm Disc",
+    "rear_brake": "140 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "120/70-14",
+    "rear_tyre_size": "140/60-14",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "7 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "790 mm",
+    "ground_clearance": "155 mm",
+    "overall_length": "1890 mm",
+    "overall_width": "730 mm",
+    "build_quality": "Premium with carbon fiber accents",
+    "parts_availability": "Good",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986234/bikes/Aprilia/Aprilia%20SR%20150%20Race%20ABS/aprilia-sr-150-race-abs-showroom-view.webp",
+          "alt": "Aprilia SR 150 Race ABS Showroom View"
+        }
+      ],
+    "pros": [
+      "Premium carbon fiber elements",
+      "Single-channel ABS for safety",
+      "Peppy 150cc engine",
+      "Full LED lighting",
+      "Sporty handling"
+    ],
+    "cons": [
+      "Very expensive for 150cc",
+      "Small fuel tank",
+      "Firm ride quality",
+      "Limited storage space",
+      "Carbon parts may need special care"
+    ],
+    "faqs": [
+      {
+        "question": "What carbon fiber parts are included?",
+        "answer": "It features carbon fiber front apron, side panels, and mirror caps for premium aesthetics."
+      },
+      {
+        "question": "Does it have dual-channel ABS?",
+        "answer": "No, it comes with single-channel ABS only on the front wheel."
+      },
+      {
+        "question": "Is it worth the premium over standard SR 150?",
+        "answer": "Only for enthusiasts wanting the carbon looks and ABS - performance is similar to Race version."
+      },
+      {
+        "question": "What's the warranty period?",
+        "answer": "Standard warranty is 2 years or 30,000 km, whichever comes first."
+      }
+    ]
+  },
+  {
+    "name": "Aprilia Terra 150",
+    "slug": "aprilia-terra-150",
+    "brand": "Aprilia",
+    "category": "Adventure",
+    "cc": 149,
+    "price": "Tk. 250,000",
+    "short_description": "Aprilia Terra 150 - A 149cc adventure-style motorcycle with long-travel suspension, upright ergonomics, and versatile performance for light off-road exploration.",
+    "Zero_Sixty": "8.8 sec",
+    "Zero_Hundred": "N/A",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "42 kmpl",
+    "mileage_reported": "37-40 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "138 kg",
+    "max_power": "15.5 PS @ 8500 rpm",
+    "max_torque": "13 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "280 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/90-19",
+    "rear_tyre_size": "130/80-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "14 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "830 mm",
+    "ground_clearance": "200 mm",
+    "overall_length": "2150 mm",
+    "overall_width": "810 mm",
+    "build_quality": "Rugged adventure styling",
+    "parts_availability": "Good",
+   "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986236/bikes/Aprilia/Aprilia%20Terra%20150/aprilia-terra-150-showroom-view.webp",
+          "alt": "Aprilia Terra 150 Showroom View"
+        }
+      ] ,
+    "pros": [
+      "Excellent ground clearance",
+      "Comfortable upright riding position",
+      "Good off-road capability",
+      "Large 14L fuel tank",
+      "LED lighting"
+    ],
+    "cons": [
+      "Tall seat height may challenge shorter riders",
+      "No ABS option",
+      "Limited power for highway",
+      "Basic instrumentation",
+      "Vibrations at high speed"
+    ],
+    "faqs": [
+      {
+        "question": "Is it suitable for off-road?",
+        "answer": "Yes, with its long-travel suspension, high ground clearance, and spoke wheels, it's capable of light off-roading."
+      },
+      {
+        "question": "Does it have luggage mounts?",
+        "answer": "Yes, it comes with rear rack mounts for adding panniers or top case."
+      },
+      {
+        "question": "Is it suitable for tall riders?",
+        "answer": "Yes, the 830mm seat height and upright ergonomics accommodate tall riders well."
+      },
+      {
+        "question": "What's the service interval?",
+        "answer": "Recommended service every 4,000 km or 4 months, more frequent if used off-road."
+      }
+    ]
+  },
+
+  {
+    "name": "Hyosung GV250DRA",
+    "slug": "hyosung-gv250dra",
+    "brand": "Hyosung",
+    "category": "Cruiser",
+    "cc": 249,
+    "price": "Tk. 445,000",
+    "short_description": "The Hyosung GV250DRA is a stylish 250cc cruiser designed for comfortable rides with V-twin engine, classic cruiser looks, and modern features for urban and highway cruising.",
+    "Zero_Sixty": "6.5 sec",
+    "Zero_Hundred": "17.5 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "35 kmpl",
+    "mileage_reported": "30–33 kmpl",
+    "top_speed_claimed": "130 km/h",
+    "top_speed_reported": "120 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "172 kg",
+    "max_power": "25.0 PS @ 10,000 rpm",
+    "max_torque": "21.7 Nm @ 7000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "275 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "2-Piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/90-16",
+    "rear_tyre_size": "150/80-15",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "14 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Combo",
+    "seat_height": "710 mm",
+    "ground_clearance": "150 mm",
+    "overall_length": "2270 mm",
+    "overall_width": "800 mm",
+    "build_quality": "Premium Cruiser",
+    "parts_availability": "Moderate in Bangladesh",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926310/bikes/Hyosung/hyosung-GV250DRA/hyosung-GV250DRA-leftt-view.webp",
+          "alt": "hyosung-GV250DRA Hyosung Gv250Dra Leftt View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926311/bikes/Hyosung/hyosung-GV250DRA/hyosung-GV250DRA-right-view.webp",
+          "alt": "hyosung-GV250DRA Hyosung Gv250Dra Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926312/bikes/Hyosung/hyosung-GV250DRA/hyosung-GV250DRa-showroom-view.webp",
+          "alt": "hyosung-GV250DRA Hyosung Gv250Dra Showroom View"
+        }
+      ],
+    "pros": [
+      "V-Twin engine with cruiser feel",
+      "Comfortable low seat height",
+      "Good highway stability",
+      "Stylish cruiser design",
+      "Reasonable pricing in cruiser segment"
+    ],
+    "cons": [
+      "Heavy for beginners",
+      "No ABS option",
+      "Outdated halogen headlamp",
+      "Parts availability not widespread",
+      "Moderate fuel efficiency"
+    ],
+    "faqs": [
+      {"question": "Does it have ABS?", "answer": "No, it comes with front and rear disc brakes without ABS."},
+      {"question": "Is it suitable for long rides?", "answer": "Yes, the cruiser stance and V-twin engine make it good for touring."},
+      {"question": "Is it beginner friendly?", "answer": "It may feel heavy for new riders but manageable for cruiser lovers."},
+      {"question": "What is the fuel efficiency?", "answer": "Users report around 30–33 kmpl under mixed riding conditions."}
+    ]
+  },
+  {
+    "name": "Hyosung GV300R",
+    "slug": "hyosung-gv300r",
+    "brand": "Hyosung",
+    "category": "Cruiser",
+    "cc": 300,
+    "price": "Tk. 535,000",
+    "short_description": "The Hyosung GV300R is a premium 300cc cruiser with a powerful V-twin engine, modern cruiser styling, and comfortable ergonomics designed for both city and highway rides.",
+    "Zero_Sixty": "6.2 sec",
+    "Zero_Hundred": "16.5 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "32 kmpl",
+    "mileage_reported": "28–30 kmpl",
+    "top_speed_claimed": "140 km/h",
+    "top_speed_reported": "130 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "172 kg",
+    "max_power": "30.0 PS @ 8500 rpm",
+    "max_torque": "25.6 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "275 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "2-Piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "120/80-16",
+    "rear_tyre_size": "150/80-15",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "15 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Full Digital LCD",
+    "seat_height": "710 mm",
+    "ground_clearance": "150 mm",
+    "overall_length": "2270 mm",
+    "overall_width": "850 mm",
+    "build_quality": "Premium Mid-Cruiser",
+    "parts_availability": "Limited in Bangladesh",
+    "image_urls": [
+      {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926316/bikes/Hyosung/hyosung-GV300S/hyosung-GV300S-showroom-view.webp",
+          "alt": "hyosung-GV300S Hyosung Gv300S Showroom View"
+        }
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926312/bikes/Hyosung/hyosung-GV300S/hyosung-GV300S-back-view.webp",
+          "alt": "hyosung-GV300S Hyosung Gv300S Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926313/bikes/Hyosung/hyosung-GV300S/hyosung-GV300S-front-view.webp",
+          "alt": "hyosung-GV300S Hyosung Gv300S Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926314/bikes/Hyosung/hyosung-GV300S/hyosung-GV300S-left-view.webp",
+          "alt": "hyosung-GV300S Hyosung Gv300S Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926315/bikes/Hyosung/hyosung-GV300S/hyosung-GV300S-right-view.webp",
+          "alt": "hyosung-GV300S Hyosung Gv300S Right View"
+        },
+      ],
+    "pros": [
+      "Liquid cooled V-Twin engine",
+      "Modern LED headlamp with DRLs",
+      "6-speed gearbox for better cruising",
+      "Comfortable low seat height",
+      "High-speed stability and control"
+    ],
+    "cons": [
+      "Heavy and bulky for city rides",
+      "Limited availability of service centers",
+      "Higher price in 300cc segment",
+      "Not beginner-friendly due to weight",
+      "Average mileage compared to 300cc naked bikes"
+    ],
+    "faqs": [
+      {"question": "Does it have ABS?", "answer": "No, front and rear disc brakes are provided without ABS."},
+      {"question": "Is it suitable for highway cruising?", "answer": "Yes, it is designed for long rides and highway stability."},
+      {"question": "Does it have liquid cooling?", "answer": "Yes, the GV300R comes with liquid cooling system."},
+      {"question": "Is the LED headlight bright enough?", "answer": "Yes, users report it provides good visibility at night."}
+    ]
+  },
+  {
+    "name": "Hyosung GV300S",
+    "slug": "hyosung-gv300s",
+    "brand": "Hyosung",
+    "category": "Cruiser",
+    "cc": 296,
+    "price": "Tk. 485,000",
+    "short_description": "The Hyosung GV300S is a stylish 300cc bobber-inspired cruiser with a low seat height, V-twin engine, and modern features aimed at riders seeking comfort with classic looks.",
+    "Zero_Sixty": "6.4 sec",
+    "Zero_Hundred": "17.0 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "33 kmpl",
+    "mileage_reported": "28–31 kmpl",
+    "top_speed_claimed": "135 km/h",
+    "top_speed_reported": "125 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "6-speed manual",
+    "weight": "172 kg",
+    "max_power": "29.7 PS @ 8500 rpm",
+    "max_torque": "25.6 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "275 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "2-Piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "120/80-16",
+    "rear_tyre_size": "150/80-15",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12.5 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital LCD",
+    "seat_height": "710 mm",
+    "ground_clearance": "150 mm",
+    "overall_length": "2112 mm",
+    "overall_width": "877 mm",
+    "build_quality": "Bobber Style Cruiser",
+    "parts_availability": "Limited in Bangladesh",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926312/bikes/Hyosung/hyosung-GV300S/hyosung-GV300S-back-view.webp",
+          "alt": "hyosung-GV300S Hyosung Gv300S Back View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926313/bikes/Hyosung/hyosung-GV300S/hyosung-GV300S-front-view.webp",
+          "alt": "hyosung-GV300S Hyosung Gv300S Front View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926314/bikes/Hyosung/hyosung-GV300S/hyosung-GV300S-left-view.webp",
+          "alt": "hyosung-GV300S Hyosung Gv300S Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926315/bikes/Hyosung/hyosung-GV300S/hyosung-GV300S-right-view.webp",
+          "alt": "hyosung-GV300S Hyosung Gv300S Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926316/bikes/Hyosung/hyosung-GV300S/hyosung-GV300S-showroom-view.webp",
+          "alt": "hyosung-GV300S Hyosung Gv300S Showroom View"
+        }
+      ],
+    "pros": [
+      "Classic bobber styling",
+      "Liquid cooled V-Twin engine",
+      "Low seat height for comfort",
+      "LED headlamp with projector",
+      "Smooth 6-speed gearbox"
+    ],
+    "cons": [
+      "Heavy weight limits agility",
+      "Parts may be harder to find",
+      "Average mileage for 300cc",
+      "No ABS included",
+      "Limited service center network"
+    ],
+    "faqs": [
+      {"question": "Does the GV300S have ABS?", "answer": "No, it comes with disc brakes but without ABS."},
+      {"question": "Is it suitable for short riders?", "answer": "Yes, the low seat height makes it suitable for short riders."},
+      {"question": "Does it have liquid cooling?", "answer": "Yes, liquid cooling ensures better heat management."},
+      {"question": "Is it good for daily city commuting?", "answer": "It may feel heavy for daily city rides but excellent for cruising."}
+    ]
+  },
+ 
+{
+  "name": "Taro GP 1 V4",
+  "slug": "taro-gp-1-v4",
+  "brand": "Taro",
+  "category": "Sport Bike",
+  "cc": 149.9,
+  "price": "Tk.  375000",
+  "short_description": "The Taro GP 1 is a premium 150cc full-faired sports bike offering aggressive styling, dual-channel ABS, and excellent handling for sport enthusiasts.",
+  "Zero_Sixty": "5.9 sec",
+  "Zero_Hundred": "15.2 sec",
+  "engine_cooling": "Liquid Cooled",
+  "mileage_claimed": "40 kmpl",
+  "mileage_reported": "35-38 kmpl",
+  "top_speed_claimed": "135 km/h",
+  "top_speed_reported": "125 km/h",
+  "braking": "Dual Disc with ABS",
+  "gear": "6-Speed Manual",
+  "weight": "150 kg",
+  "max_power": "16 PS @ 8500 rpm",
+  "max_torque": "14.5 Nm @ 7000 rpm",
+  "clutch": "Wet Multi-Plate",
+  "cooling_system": "Liquid Cooled",
+  "front_brake": "300 mm Disc",
+  "rear_brake": "240 mm Disc",
+  "caliper": {
+    "front": "Dual Piston",
+    "rear": "Single Piston"
+  },
+  "tyre_type": "Tubeless",
+  "front_tyre_size": "110/70-17",
+  "rear_tyre_size": "150/70-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "13.5 L",
+  "headlight_type": "LED",
+  "tail_light_type": "LED",
+  "projector_headlamp": true,
+  "drls": true,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Digital",
+  "seat_height": "800 mm",
+  "ground_clearance": "170 mm",
+  "overall_length": "2050 mm",
+  "overall_width": "720 mm",
+  "build_quality": "Sporty and premium build with racing DNA",
+  "parts_availability": "Moderate to limited",
+ "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986359/bikes/taro/gp/taro-gp1-left-view-black.webp",
+          "alt": "gp Taro Gp1 Left View Black"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986360/bikes/taro/gp/taro-gp1-left-view-blue.webp",
+          "alt": "gp Taro Gp1 Left View Blue"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986361/bikes/taro/gp/taro-gp1-left-view-red.webp",
+          "alt": "gp Taro Gp1 Left View Red"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986362/bikes/taro/gp/taro-gp1-left-view-white.webp",
+          "alt": "gp Taro Gp1 Left View White"
+        }
+      ] ,
+  "pros": [
+    "Stunning sports bike design",
+    "Dual-channel ABS for safety",
+    "Powerful performance engine",
+    "Premium digital instrument cluster",
+    "Good top-end speed"
+  ],
+  "cons": [
+    "Slightly heavy for 150cc class",
+    "Fuel efficiency could be better",
+    "Parts may be harder to find",
+    "No Bluetooth or modern tech",
+    "Not ideal for shorter riders"
+  ],
+  "faqs": [
+    { "question": "Does it have ABS?", "answer": "Yes, dual-channel ABS." },
+    { "question": "Is it suitable for daily use?", "answer": "Yes, but ideal for sport riding rather than commuting." },
+    { "question": "What is the fuel tank range?", "answer": "Approx. 450-500 km on full tank." },
+    { "question": "Can it be used for long tours?", "answer": "Yes, but ensure proper posture and breaks." }
+  ]
+},
+
+{
+  "name": "Taro GP 1 V4 Special Edition",
+  "slug": "taro-gp-1-v4-special-edition",
+  "brand": "Taro",
+  "category": "Sport Bike",
+  "cc": 149.9,
+  "price": "Tk. 316,000",
+  "short_description": "The Taro GP 1 Special Edition features enhanced styling, upgraded suspension, and limited edition graphics for enthusiasts seeking exclusivity.",
+  "Zero_Sixty": "5.7 sec",
+  "Zero_Hundred": "14.8 sec",
+  "engine_cooling": "Liquid Cooled",
+  "mileage_claimed": "39 kmpl",
+  "mileage_reported": "34-37 kmpl",
+  "top_speed_claimed": "138 km/h",
+  "top_speed_reported": "127 km/h",
+  "braking": "Dual Disc with ABS",
+  "gear": "6-Speed Manual",
+  "weight": "152 kg",
+  "max_power": "17 PS @ 8500 rpm",
+  "max_torque": "14.8 Nm @ 7000 rpm",
+  "clutch": "Wet Multi-Plate",
+  "cooling_system": "Liquid Cooled",
+  "front_brake": "300 mm Disc",
+  "rear_brake": "240 mm Disc",
+  "caliper": {
+    "front": "Dual Piston",
+    "rear": "Single Piston"
+  },
+  "tyre_type": "Tubeless",
+  "front_tyre_size": "110/70-17",
+  "rear_tyre_size": "150/70-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "13.5 L",
+  "headlight_type": "LED",
+  "tail_light_type": "LED",
+  "projector_headlamp": true,
+  "drls": true,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Digital",
+  "seat_height": "800 mm",
+  "ground_clearance": "170 mm",
+  "overall_length": "2050 mm",
+  "overall_width": "720 mm",
+  "build_quality": "Sporty and premium with special edition graphics and upgraded suspension",
+  "parts_availability": "Moderate to limited",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986359/bikes/taro/gp/taro-gp1-left-view-black.webp",
+          "alt": "gp Taro Gp1 Left View Black"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986360/bikes/taro/gp/taro-gp1-left-view-blue.webp",
+          "alt": "gp Taro Gp1 Left View Blue"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986361/bikes/taro/gp/taro-gp1-left-view-red.webp",
+          "alt": "gp Taro Gp1 Left View Red"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986362/bikes/taro/gp/taro-gp1-left-view-white.webp",
+          "alt": "gp Taro Gp1 Left View White"
+        }
+      ],
+  "pros": [
+    "Exclusive limited edition styling",
+    "Upgraded suspension for better ride comfort",
+    "Powerful engine with good top speed",
+    "Dual-channel ABS for safety",
+    "Digital instrument cluster with special edition graphics"
+  ],
+  "cons": [
+    "Slightly heavier than base model",
+    "Parts availability can be limited",
+    "No Bluetooth or modern connectivity",
+    "Fuel efficiency slightly lower than base model",
+    "Not ideal for shorter riders"
+  ],
+  "faqs": [
+    { "question": "What makes the Special Edition different?", "answer": "Upgraded suspension, exclusive graphics, and slightly improved performance." },
+    { "question": "Does it have ABS?", "answer": "Yes, dual-channel ABS is standard." },
+    { "question": "Is it suitable for long rides?", "answer": "Yes, with proper breaks and riding posture." },
+    { "question": "Can I customize the graphics?", "answer": "Limited customization is possible through Taro authorized dealers." }
+  ]
+},
+{
+  "name": "Taro GP 1 V3",
+  "slug": "taro-gp-1-v3",
+  "brand": "Taro",
+  "category": "Sport Bike",
+  "cc": 155.2,
+  "price": "Tk. 356,000",
+  "short_description": "The Taro GP 1 V3 offers a more powerful 155cc engine with updated electronics and refined styling, designed for riders seeking enhanced performance and modern features.",
+  "Zero_Sixty": "5.4 sec",
+  "Zero_Hundred": "14.1 sec",
+  "engine_cooling": "Liquid Cooled",
+  "mileage_claimed": "38 kmpl",
+  "mileage_reported": "33-36 kmpl",
+  "top_speed_claimed": "140 km/h",
+  "top_speed_reported": "130 km/h",
+  "braking": "Dual Disc with ABS",
+  "gear": "6-Speed Manual",
+  "weight": "155 kg",
+  "max_power": "18 PS @ 8500 rpm",
+  "max_torque": "15 Nm @ 7000 rpm",
+  "clutch": "Wet Multi-Plate",
+  "cooling_system": "Liquid Cooled",
+  "front_brake": "300 mm Disc",
+  "rear_brake": "240 mm Disc",
+  "caliper": {
+    "front": "Dual Piston",
+    "rear": "Single Piston"
+  },
+  "tyre_type": "Tubeless",
+  "front_tyre_size": "110/70-17",
+  "rear_tyre_size": "150/70-17",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "13.5 L",
+  "headlight_type": "LED",
+  "tail_light_type": "LED",
+  "projector_headlamp": true,
+  "drls": true,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Digital",
+  "seat_height": "800 mm",
+  "ground_clearance": "170 mm",
+  "overall_length": "2050 mm",
+  "overall_width": "720 mm",
+  "build_quality": "Refined sporty build with updated electronics and styling",
+  "parts_availability": "Moderate to limited",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986359/bikes/taro/gp/taro-gp1-left-view-black.webp",
+          "alt": "gp Taro Gp1 Left View Black"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986360/bikes/taro/gp/taro-gp1-left-view-blue.webp",
+          "alt": "gp Taro Gp1 Left View Blue"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986361/bikes/taro/gp/taro-gp1-left-view-red.webp",
+          "alt": "gp Taro Gp1 Left View Red"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986362/bikes/taro/gp/taro-gp1-left-view-white.webp",
+          "alt": "gp Taro Gp1 Left View White"
+        }
+      ],
+  "pros": [
+    "More powerful 155cc engine",
+    "Updated electronics for better performance",
+    "Dual-channel ABS for enhanced safety",
+    "Modern digital display",
+    "Improved top speed and acceleration"
+  ],
+  "cons": [
+    "Parts availability can be limited",
+    "No Bluetooth or traction control",
+    "Heavier than previous versions",
+    "Fuel efficiency is average",
+    "Might be less comfortable for shorter riders"
+  ],
+  "faqs": [
+    { "question": "What are the upgrades in V3?", "answer": "More powerful engine, updated electronics, and refined styling." },
+    { "question": "Does it have ABS?", "answer": "Yes, dual-channel ABS is standard." },
+    { "question": "Is quickshifter available?", "answer": "No, this model does not have quickshifter." },
+    { "question": "Is it suitable for city riding?", "answer": "Yes, it offers a good balance of performance and handling for urban use." }
+  ]
+},
+
+
+{
+  "name": "Revoo C03",
+  "slug": "revoo-c03",
+  "brand": "Revoo",
+  "category": "Electric Scooter",
+  "cc": "Electric",
+  "price": "Tk. 199,900",
+  "short_description": "The Revoo C03 is a stylish and premium electric scooter designed for urban commuting, offering a long range, digital display, and fast charging capability.",
+  "Zero_Sixty": "7.5 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Electric Motor",
+  "mileage_claimed": "100 km per charge",
+  "mileage_reported": "90-95 km per charge",
+  "top_speed_claimed": "75 km/h",
+  "top_speed_reported": "70 km/h",
+  "braking": "Front Disc, Rear Disc",
+  "gear": "Automatic",
+  "weight": "115 kg",
+  "max_power": "2000W",
+  "max_torque": "N/A",
+  "clutch": "No clutch (Electric)",
+  "cooling_system": "Air Cooled",
+  "front_brake": "Disc",
+  "rear_brake": "Disc",
+  "caliper": {
+    "front": "Single Piston",
+    "rear": "Single Piston"
+  },
+  "tyre_type": "Tubeless",
+  "front_tyre_size": "90/90-12",
+  "rear_tyre_size": "100/80-12",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "N/A",
+  "headlight_type": "LED",
+  "tail_light_type": "LED",
+  "projector_headlamp": false,
+  "drls": true,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": true,
+  "display": "Fully Digital",
+  "seat_height": "770 mm",
+  "ground_clearance": "150 mm",
+  "overall_length": "1820 mm",
+  "overall_width": "710 mm",
+  "build_quality": "Premium finish with urban e-mobility focus",
+  "parts_availability": "Limited",
+ "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986329/bikes/Revoo/Revoo%20C03/revoo-c03-showroom-view-grey.webp",
+          "alt": "Revoo C03 Showroom View Grey"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986330/bikes/Revoo/Revoo%20C03/revoo-c03-showroom-view-white.webp",
+          "alt": "Revoo C03 Showroom View White"
+        }
+      ] ,
+  "pros": [
+    "Modern styling with LED lights",
+    "Decent top speed for an EV",
+    "Good range per charge",
+    "Fully digital instrument cluster",
+    "Supports Bluetooth and smart features"
+  ],
+  "cons": [
+    "Limited service centers",
+    "Not ideal for highways",
+    "Spare parts availability may vary",
+    "Long-term battery reliability unknown",
+    "Slightly pricey for the segment"
+  ],
+  "faqs": [
+    { "question": "What is the range of Revoo C03?", "answer": "Up to 100 km on a full charge." },
+    { "question": "Does it support fast charging?", "answer": "Yes, it supports fast charging." },
+    { "question": "Is it suitable for long tours?", "answer": "Not ideal; it’s designed for city commuting." },
+    { "question": "Can it carry two people?", "answer": "Yes, comfortably supports two adults." }
+  ]
+},
+{
+  "name": "Revoo C00",
+  "slug": "revoo-c00",
+  "brand": "Revoo",
+  "category": "Electric Scooter",
+  "cc": "Electric",
+  "price": "Tk. 139,900",
+  "short_description": "The Revoo C00 is a budget-friendly electric scooter with an efficient motor and compact design, perfect for short commutes and eco-conscious riders.",
+  "Zero_Sixty": "8.0 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Electric Motor",
+  "mileage_claimed": "80 km per charge",
+  "mileage_reported": "70-75 km per charge",
+  "top_speed_claimed": "65 km/h",
+  "top_speed_reported": "60 km/h",
+  "braking": "Front Disc, Rear Drum",
+  "gear": "Automatic",
+  "weight": "105 kg",
+  "max_power": "1500W",
+  "max_torque": "N/A",
+  "clutch": "No clutch (Electric)",
+  "cooling_system": "Air Cooled",
+  "front_brake": "Disc",
+  "rear_brake": "Drum",
+  "caliper": {
+    "front": "Single Piston",
+    "rear": "Mechanical Drum"
+  },
+  "tyre_type": "Tubeless",
+  "front_tyre_size": "90/90-10",
+  "rear_tyre_size": "90/90-10",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "N/A",
+  "headlight_type": "LED",
+  "tail_light_type": "LED",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Digital",
+  "seat_height": "760 mm",
+  "ground_clearance": "145 mm",
+  "overall_length": "1750 mm",
+  "overall_width": "680 mm",
+  "build_quality": "Lightweight and commuter-friendly",
+  "parts_availability": "Limited",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986329/bikes/Revoo/Revoo%20C03/revoo-c03-showroom-view-grey.webp",
+          "alt": "Revoo C03 Showroom View Grey"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986330/bikes/Revoo/Revoo%20C03/revoo-c03-showroom-view-white.webp",
+          "alt": "Revoo C03 Showroom View White"
+        }
+      ],
+  "pros": [
+    "Affordable price point",
+    "Ideal for short daily rides",
+    "Easy to maneuver",
+    "Low maintenance",
+    "Good for new EV users"
+  ],
+  "cons": [
+    "Lower top speed",
+    "No smart features",
+    "Drum brake on rear",
+    "Range less than premium models",
+    "Small tyre size"
+  ],
+  "faqs": [
+    { "question": "Is this good for city rides?", "answer": "Yes, it’s great for short-distance city use." },
+    { "question": "Does it come with Bluetooth?", "answer": "No, this model does not support Bluetooth." },
+    { "question": "Can I charge it at home?", "answer": "Yes, it charges easily from standard sockets." },
+    { "question": "What is the warranty?", "answer": "Check with dealer for latest warranty terms." }
+  ]
+},
+{
+  "name": "Revoo A12",
+  "slug": "revoo-a12",
+  "brand": "Revoo",
+  "category": "Electric Scooter",
+  "cc": "Electric",
+  "price": "Tk. 105,900",
+  "short_description": "The Revoo A12 is an entry-level electric scooter focused on affordability and basic performance, suitable for students and short-range riders.",
+  "Zero_Sixty": "9.0 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Electric Motor",
+  "mileage_claimed": "70 km per charge",
+  "mileage_reported": "60-65 km per charge",
+  "top_speed_claimed": "55 km/h",
+  "top_speed_reported": "50 km/h",
+  "braking": "Front Disc, Rear Drum",
+  "gear": "Automatic",
+  "weight": "95 kg",
+  "max_power": "1000W",
+  "max_torque": "N/A",
+  "clutch": "No clutch (Electric)",
+  "cooling_system": "Air Cooled",
+  "front_brake": "Disc",
+  "rear_brake": "Drum",
+  "caliper": {
+    "front": "Single Piston",
+    "rear": "Mechanical Drum"
+  },
+  "tyre_type": "Tubeless",
+  "front_tyre_size": "90/90-10",
+  "rear_tyre_size": "90/90-10",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "N/A",
+  "headlight_type": "Halogen",
+  "tail_light_type": "Bulb",
+  "projector_headlamp": false,
+  "drls": false,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Basic Digital",
+  "seat_height": "750 mm",
+  "ground_clearance": "140 mm",
+  "overall_length": "1720 mm",
+  "overall_width": "660 mm",
+  "build_quality": "Entry-level commuter e-scooter",
+  "parts_availability": "Available",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986327/bikes/Revoo/Revoo%20A12/revoo-a12-showroom-view-black.webp",
+          "alt": "Revoo A12 Showroom View Black"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986328/bikes/Revoo/Revoo%20A12/revoo-a12-showroom-view-red.webp",
+          "alt": "Revoo A12 Showroom View Red"
+        }
+      ],
+  "pros": [
+    "Lowest priced Revoo model",
+    "Ideal for students and short trips",
+    "Lightweight and easy to park",
+    "Cost-efficient",
+    "Low running cost"
+  ],
+  "cons": [
+    "Very basic features",
+    "Low speed and acceleration",
+    "No LED headlamp",
+    "Limited range",
+    "Drum brakes at rear"
+  ],
+  "faqs": [
+    { "question": "Is this scooter suitable for long rides?", "answer": "No, it’s designed for short trips and basic commuting." },
+    { "question": "What is the charging time?", "answer": "Typically 5-6 hours from standard outlet." },
+    { "question": "Does it have a digital display?", "answer": "Yes, but it’s basic." },
+    { "question": "How much weight can it carry?", "answer": "Up to 150 kg load capacity." }
+  ]
+},
+{
+    "model_name": "Revoo A01",
+    "slug": "revoo-a01",
+    "cc": "Not Specified",
+    "price": "Tk. 99,900",
+    "short_description": "The Revoo A01 is a budget-friendly electric bike offering essential features for everyday commuting in urban areas with zero fuel cost.",
+    "description": "Revoo A01 is designed for riders who want reliable, economical transportation with a minimal carbon footprint. The bike offers a sleek, compact body, LED headlamps, a basic digital console, and comfortable ergonomics. With good battery efficiency and user-friendly handling, the A01 is ideal for students and city dwellers.",
+    "max_power": "Not Specified",
+    "max_torque": "Not Specified",
+    "bore": "Not Applicable",
+    "stroke": "Not Applicable",
+    "cylinder": "Not Applicable",
+    "cooling": "Air Cooled",
+    "fuel_system": "Electric",
+    "compression_ratio": "Not Applicable",
+    "ignition": "Electric Start",
+    "clutch": "Automatic",
+    "transmission": "Automatic",
+    "top_speed": "60 km/h (approx)",
+    "mileage": "60-70 km/charge",
+    "zero_sixty": "Not Tested",
+    "zero_hundred": "Not Tested",
+    "chassis": "Underbone Frame",
+    "front_suspension": "Telescopic",
+    "rear_suspension": "Dual Shock Absorber",
+    "front_brake": "Disc",
+    "rear_brake": "Drum",
+    "abs": "No",
+    "wheel_type": "Alloy",
+    "front_tyre": "80/90-14",
+    "rear_tyre": "90/90-14",
+    "battery": "Lithium-ion",
+    "battery_capacity": "Not Specified",
+    "charging_time": "5-6 hours",
+    "headlight": "LED",
+    "tail_light": "LED",
+    "turn_signal": "LED",
+    "speedometer": "Digital",
+    "odometer": "Digital",
+    "trip_meter": "Digital",
+    "seat_height": "750 mm (approx)",
+    "ground_clearance": "160 mm (approx)",
+    "weight": "90 kg (approx)",
+    "fuel_capacity": "Not Applicable",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986325/bikes/Revoo/Revoo%20A01/revoo-a01-showroom-view.webp",
+          "alt": "Revoo A01 Showroom View"
+        }
+      ],
+    "pros": [
+      "Affordable electric option",
+      "Lightweight and easy to maneuver",
+      "LED lights and digital display",
+      "Low charging cost",
+      "Beginner-friendly"
+    ],
+    "cons": [
+      "Limited top speed",
+      "Low power output",
+      "Not suitable for highways",
+      "Battery capacity not specified"
+    ],
+    "faqs": [
+      {
+        "question": "What is the top speed of Revoo A01?",
+        "answer": "The top speed is approximately 60 km/h."
+      },
+      {
+        "question": "How long does it take to fully charge?",
+        "answer": "It takes about 5–6 hours for a full charge."
+      },
+      {
+        "question": "Is it suitable for long-distance travel?",
+        "answer": "It's best suited for short city commutes."
+      },
+      {
+        "question": "Does it have disc brakes?",
+        "answer": "It has a front disc and rear drum brake."
+      }
+    ]
+  },
+ {
+    "model_name": "Revoo A10",
+    "slug": "revoo-a10",
+    "cc": "Not Specified",
+    "price": "Tk. 79,900",
+    "short_description": "Revoo A10 is one of the most affordable electric bikes in Bangladesh, built for basic urban commuting with minimal running costs.",
+    "description": "The Revoo A10 is a no-frills electric scooter with core features for low-cost city transportation. It features a minimal design, easy controls, LED lighting, and moderate battery range. It's ideal for first-time users, students, or budget-conscious riders who want a reliable and eco-friendly daily ride.",
+    "engine_type": "Electric Motor",
+    "max_power": "Not Specified",
+    "max_torque": "Not Specified",
+    "bore": "Not Applicable",
+    "stroke": "Not Applicable",
+    "cylinder": "Not Applicable",
+    "cooling": "Air Cooled",
+    "fuel_system": "Electric",
+    "compression_ratio": "Not Applicable",
+    "ignition": "Electric Start",
+    "clutch": "Automatic",
+    "transmission": "Automatic",
+    "top_speed": "50 km/h (approx)",
+    "mileage": "50-60 km/charge",
+    "zero_sixty": "Not Tested",
+    "zero_hundred": "Not Tested",
+    "chassis": "Steel Frame",
+    "front_suspension": "Telescopic",
+    "rear_suspension": "Spring Loaded",
+    "front_brake": "Drum",
+    "rear_brake": "Drum",
+    "abs": "No",
+    "wheel_type": "Steel/Alloy",
+    "front_tyre": "70/90-14",
+    "rear_tyre": "80/90-14",
+    "battery": "Lead Acid",
+    "battery_capacity": "Not Specified",
+    "charging_time": "6-8 hours",
+    "headlight": "LED",
+    "tail_light": "LED",
+    "turn_signal": "Bulb Type",
+    "speedometer": "Analog",
+    "odometer": "Analog",
+    "trip_meter": "No",
+    "seat_height": "740 mm (approx)",
+    "ground_clearance": "150 mm (approx)",
+    "weight": "85 kg (approx)",
+    "fuel_capacity": "Not Applicable",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986326/bikes/Revoo/Revoo%20A10/revoo-a10-showroom-view.webp",
+          "alt": "Revoo A10 Showroom View"
+        }
+      ],
+    "pros": [
+      "Extremely affordable",
+      "Simple and easy controls",
+      "Ideal for short-range commuting",
+      "LED lighting included",
+      "Eco-friendly"
+    ],
+    "cons": [
+      "Basic suspension system",
+      "No disc brakes",
+      "Very limited speed",
+      "Lead-acid battery takes longer to charge"
+    ],
+    "faqs": [
+      {
+        "question": "Is Revoo A10 a good option for beginners?",
+        "answer": "Yes, it’s light and easy to ride, ideal for first-time users."
+      },
+      {
+        "question": "What is the estimated range?",
+        "answer": "Approximately 50–60 km per charge."
+      },
+      {
+        "question": "Does it come with a digital meter?",
+        "answer": "No, it uses analog meters."
+      },
+      {
+        "question": "How much time does it take to charge?",
+        "answer": "6 to 8 hours with standard charger."
+      }
+    ]
+ }, 
+ {
+    "model_name": "Revoo C32",
+    "slug": "revoo-c32",
+    "cc": "Not Specified",
+    "price": "Tk. 129,900",
+    "short_description": "The Revoo C32 is a sleek electric motorcycle offering urban styling and efficient commuting with an eco-friendly footprint.",
+    "description": "Revoo C32 combines functionality with style, offering a futuristic design and a smooth riding experience. Designed for city mobility, it features an LED lighting system, digital display, and a capable electric motor. It provides excellent battery range and is suitable for regular urban use without fuel expenses.",
+    "engine_type": "Electric Motor",
+    "max_power": "Not Specified",
+    "max_torque": "Not Specified",
+    "bore": "Not Applicable",
+    "stroke": "Not Applicable",
+    "cylinder": "Not Applicable",
+    "cooling": "Air Cooled",
+    "fuel_system": "Electric",
+    "compression_ratio": "Not Applicable",
+    "ignition": "Electric Start",
+    "clutch": "Automatic",
+    "transmission": "Automatic",
+    "top_speed": "65 km/h (approx)",
+    "mileage": "70 km/charge",
+    "zero_sixty": "Not Tested",
+    "zero_hundred": "Not Tested",
+    "chassis": "Tubular Frame",
+    "front_suspension": "Telescopic",
+    "rear_suspension": "Twin Shock",
+    "front_brake": "Disc",
+    "rear_brake": "Drum",
+    "abs": "No",
+    "wheel_type": "Alloy",
+    "front_tyre": "80/90-14",
+    "rear_tyre": "90/90-14",
+    "battery": "Lithium-ion",
+    "battery_capacity": "Not Specified",
+    "charging_time": "5-6 hours",
+    "headlight": "LED",
+    "tail_light": "LED",
+    "turn_signal": "LED",
+    "speedometer": "Digital",
+    "odometer": "Digital",
+    "trip_meter": "Digital",
+    "seat_height": "760 mm (approx)",
+    "ground_clearance": "165 mm (approx)",
+    "weight": "95 kg (approx)",
+    "fuel_capacity": "Not Applicable",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986331/bikes/Revoo/Revoo%20C32/revoo-c32-showroom-view-green.webp",
+          "alt": "Revoo C32 Showroom View Green"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986332/bikes/Revoo/Revoo%20C32/revoo-c32-showroom-view.webp",
+          "alt": "Revoo C32 Showroom View"
+        }
+      ] ,
+    "pros": [
+      "Modern and stylish design",
+      "Efficient lithium-ion battery",
+      "Good city range",
+      "Front disc brake",
+      "Digital instrument cluster"
+    ],
+    "cons": [
+      "Rear drum brake only",
+      "Limited top speed",
+      "No fast-charging support",
+      "Spare parts availability may vary"
+    ],
+    "faqs": [
+      {
+        "question": "What is the battery range of the C32?",
+        "answer": "Around 70 km per full charge."
+      },
+      {
+        "question": "Is it suitable for hilly terrain?",
+        "answer": "It's best used in flat city roads."
+      },
+      {
+        "question": "Does it support fast charging?",
+        "answer": "No, it uses standard charging only."
+      },
+      {
+        "question": "What type of brakes are used?",
+        "answer": "Disc at front and drum at rear."
+      }
+  ]
+},
+{
+  "name": "Revoo E52",
+  "slug": "revoo-e52",
+  "brand": "Revoo",
+  "category": "Electric Motorcycle",
+  "cc": "Not Specified",
+  "price": "Tk. 225,900",
+  "short_description": "The Revoo E52 is a powerful electric motorcycle offering smooth acceleration, modern design, and eco-friendly urban commuting.",
+  "Zero_Sixty": "4.8 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Electric Motor",
+  "mileage_claimed": "Up to 80 km per charge",
+  "mileage_reported": "75-85 km per charge",
+  "top_speed_claimed": "90 km/h",
+  "top_speed_reported": "85-90 km/h",
+  "braking": "Front Disc, Rear Disc",
+  "gear": "Single-speed",
+  "weight": "110 kg",
+  "max_power": "6 kW",
+  "max_torque": "45 Nm",
+  "clutch": "None (Electric)",
+  "cooling_system": "Air Cooled",
+  "front_brake": "180 mm Disc",
+  "rear_brake": "160 mm Disc",
+  "caliper": {
+    "front": "Single-piston",
+    "rear": "Single-piston"
+  },
+  "tyre_type": "Tubeless",
+  "front_tyre_size": "90/90-14",
+  "rear_tyre_size": "90/90-14",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "Battery: 2.5 kWh",
+  "headlight_type": "LED",
+  "tail_light_type": "LED",
+  "projector_headlamp": true,
+  "drls": true,
+  "quickshifter": false,
+  "traction_control": true,
+  "bluetooth_connectivity": true,
+  "display": "Digital LCD with smartphone connectivity",
+  "seat_height": "780 mm",
+  "ground_clearance": "160 mm",
+  "overall_length": "1900 mm",
+  "overall_width": "730 mm",
+  "build_quality": "Robust electric motorcycle build",
+  "parts_availability": "Good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986335/bikes/Revoo/Revoo%20E52/revoo-e52-left-view.webp",
+          "alt": "Revoo E52 Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986336/bikes/Revoo/Revoo%20E52/revoo-e52-right-view.webp",
+          "alt": "Revoo E52 Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986337/bikes/Revoo/Revoo%20E52/revoo-e52-showroom-view.webp",
+          "alt": "Revoo E52 Showroom View"
+        }
+      ],
+  "pros": [
+    "Powerful electric motor",
+    "Good mileage per charge",
+    "Modern digital display",
+    "LED lighting with projector headlamp",
+    "Smooth acceleration"
+  ],
+  "cons": [
+    "Limited top speed compared to petrol bikes",
+    "Battery charging takes several hours",
+    "Higher price point for segment",
+    "No manual gears",
+    "Weight slightly higher than petrol counterparts"
+  ],
+  "faqs": [
+    {
+      "question": "How long does it take to fully charge?",
+      "answer": "Charging time is approximately 4-5 hours on a standard home socket."
+    },
+    {
+      "question": "Is there smartphone connectivity?",
+      "answer": "Yes, it supports Bluetooth connectivity with a dedicated app."
+    },
+    {
+      "question": "What is the warranty period?",
+      "answer": "The battery and motor have a 2-year warranty."
+    },
+    {
+      "question": "Can it be used for highway rides?",
+      "answer": "It is suitable for city and suburban rides but limited for long highway travel."
+    }
+  ]
+},
+{
+  "name": "Revoo A12-S",
+  "slug": "revoo-a12-s",
+  "brand": "Revoo",
+  "category": "Electric Scooter",
+  "cc": "Not Specified",
+  "price": "Tk. 105,900",
+  "short_description": "Revoo A12-S is a compact and affordable electric scooter ideal for short city commutes with eco-friendly performance.",
+  "Zero_Sixty": "7.2 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Electric Motor",
+  "mileage_claimed": "Up to 60 km per charge",
+  "mileage_reported": "55-65 km per charge",
+  "top_speed_claimed": "60 km/h",
+  "top_speed_reported": "55-60 km/h",
+  "braking": "Front Disc, Rear Drum",
+  "gear": "Automatic",
+  "weight": "85 kg",
+  "max_power": "2.5 kW",
+  "max_torque": "25 Nm",
+  "clutch": "None (Electric)",
+  "cooling_system": "Air Cooled",
+  "front_brake": "130 mm Disc",
+  "rear_brake": "110 mm Drum",
+  "caliper": {
+    "front": "Single-piston",
+    "rear": "N/A (Drum)"
+  },
+  "tyre_type": "Tubeless",
+  "front_tyre_size": "90/90-12",
+  "rear_tyre_size": "90/90-12",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "Battery: 1.5 kWh",
+  "headlight_type": "LED",
+  "tail_light_type": "LED",
+  "projector_headlamp": false,
+  "drls": true,
+  "quickshifter": false,
+  "traction_control": false,
+  "bluetooth_connectivity": false,
+  "display": "Digital LCD",
+  "seat_height": "750 mm",
+  "ground_clearance": "140 mm",
+  "overall_length": "1750 mm",
+  "overall_width": "690 mm",
+  "build_quality": "Lightweight and compact",
+  "parts_availability": "Good",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986327/bikes/Revoo/Revoo%20A12/revoo-a12-showroom-view-black.webp",
+          "alt": "Revoo A12 Showroom View Black"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986328/bikes/Revoo/Revoo%20A12/revoo-a12-showroom-view-red.webp",
+          "alt": "Revoo A12 Showroom View Red"
+        }
+      ] ,
+  "pros": [
+    "Affordable electric scooter",
+    "Lightweight and easy to handle",
+    "Good mileage for city use",
+    "LED lights for better visibility",
+    "Smooth automatic transmission"
+  ],
+  "cons": [
+    "Lower top speed",
+    "Limited features compared to higher models",
+    "No Bluetooth connectivity",
+    "Small battery capacity",
+    "No rear disc brake"
+  ],
+  "faqs": [
+    {
+      "question": "How far can it go on a single charge?",
+      "answer": "It can travel up to 60 km depending on riding conditions."
+    },
+    {
+      "question": "Does it have under-seat storage?",
+      "answer": "Yes, it has limited under-seat storage suitable for small items."
+    },
+    {
+      "question": "Is it suitable for hilly areas?",
+      "answer": "It performs best on flat urban roads; hills may reduce range."
+    },
+    {
+      "question": "Does it support fast charging?",
+      "answer": "No, it uses standard charging which takes about 4 hours."
+    }
+  ]
+},
+{
+  "name": "Revoo C32-Y",
+  "slug": "revoo-c32-y",
+  "brand": "Revoo",
+  "category": "Electric Motorcycle",
+  "cc": "Not Specified",
+  "price": "Tk. 129,900",
+  "short_description": "The Revoo C32-Y is a stylish and efficient electric motorcycle perfect for eco-conscious urban riders.",
+  "Zero_Sixty": "6.5 sec",
+  "Zero_Hundred": "N/A",
+  "engine_cooling": "Electric Motor",
+  "mileage_claimed": "Up to 70 km per charge",
+  "mileage_reported": "65-72 km per charge",
+  "top_speed_claimed": "80 km/h",
+  "top_speed_reported": "75-80 km/h",
+  "braking": "Front Disc, Rear Disc",
+  "gear": "Single-speed",
+  "weight": "95 kg",
+  "max_power": "3.5 kW",
+  "max_torque": "30 Nm",
+  "clutch": "None (Electric)",
+  "cooling_system": "Air Cooled",
+  "front_brake": "160 mm Disc",
+  "rear_brake": "140 mm Disc",
+  "caliper": {
+    "front": "Single-piston",
+    "rear": "Single-piston"
+  },
+  "tyre_type": "Tubeless",
+  "front_tyre_size": "90/90-14",
+  "rear_tyre_size": "90/90-14",
+  "wheel_type": "Alloy",
+  "fuel_tank_capacity": "Battery: 2 kWh",
+  "headlight_type": "LED",
+  "tail_light_type": "LED",
+  "projector_headlamp": false,
+  "drls": true,
+  "quickshifter": false,
+  "traction_control": true,
+  "bluetooth_connectivity": true,
+  "display": "Digital LCD with smartphone app",
+  "seat_height": "770 mm",
+  "ground_clearance": "150 mm",
+  "overall_length": "1850 mm",
+  "overall_width": "720 mm",
+  "build_quality": "Compact and reliable electric motorcycle",
+  "parts_availability": "Moderate",
+  "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986333/bikes/Revoo/Revoo%20C32Y/revoo-c32y-left-view.webp",
+          "alt": "Revoo C32Y Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986333/bikes/Revoo/Revoo%20C32Y/revoo-c32y-right-view.webp",
+          "alt": "Revoo C32Y Right View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986334/bikes/Revoo/Revoo%20C32Y/revoo-c32y-showroom-view.webp",
+          "alt": "Revoo C32Y Showroom View"
+        }
+      ],
+  "pros": [
+    "Smooth and quiet electric motor",
+    "Good mileage for city rides",
+    "Modern digital display",
+    "Bluetooth connectivity",
+    "Lightweight and easy to handle"
+  ],
+  "cons": [
+    "Moderate top speed",
+    "Battery charging takes time",
+    "Limited dealer network",
+    "No quickshifter",
+    "Small storage capacity"
+  ],
+  "faqs": [
+    {
+      "question": "Can I track the bike via smartphone?",
+      "answer": "Yes, it supports smartphone app for tracking and diagnostics."
+    },
+    {
+      "question": "Is it suitable for long rides?",
+      "answer": "Best suited for short city commutes due to battery range."
+    },
+    {
+      "question": "What is the warranty period?",
+      "answer": "Battery and motor warranty is 2 years."
+    },
+    {
+      "question": "Does it have LED lights?",
+      "answer": "Yes, both headlight and tail light are LED."
+    }
+  ]
+ },
+
+  {
+    "name": "Akij Durbar",
+    "slug": "akij-durbar",
+    "brand": "Akij",
+    "category": "Commuter",
+    "cc": 110,
+    "price": "Tk. 145,000",
+    "short_description": "Akij Durbar is a no-frills 110cc commuter bike designed for rural and urban use, offering basic transportation with reliability and low running costs.",
+    "Zero_Sixty": "10.5 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "60–63 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "108 kg",
+    "max_power": "8.2 PS @ 7500 rpm",
+    "max_torque": "8.3 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubed",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "3.00-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "780 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2000 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Basic but rugged",
+    "parts_availability": "Widely available",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986215/bikes/Akij/Akij%20Durbar/akij-durbar-left-view.webp",
+          "alt": "Akij Durbar Left View"
+        },
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986216/bikes/Akij/Akij%20Durbar/akij-durbar-right-view.webp",
+          "alt": "Akij Durbar Right View"
+        }
+      ],
+    "pros": [
+      "Low maintenance cost",
+      "Good fuel efficiency",
+      "Lightweight for easy handling",
+      "Affordable price"
+    ],
+    "cons": [
+      "No disc brakes",
+      "Outdated design",
+      "No self-start option",
+      "Basic features"
+    ],
+    "faqs": [
+      {
+        "question": "Does Akij Durbar have self-start?",
+        "answer": "No, it comes with kick start only."
+      },
+      {
+        "question": "Is it suitable for highways?",
+        "answer": "Best for city/rural roads due to limited top speed."
+      },
+      {
+        "question": "What is the fuel tank capacity?",
+        "answer": "10 liters with a 1.5L reserve."
+      }
+    ]
+  },
+  {
+    "name": "Akij Bondhu",
+    "slug": "akij-bondhu",
+    "brand": "Akij",
+    "category": "Commuter",
+    "cc": 100,
+    "price": "Tk. 148,000",
+    "short_description": "Akij Bondhu is an ultra-affordable 100cc motorcycle aimed at budget riders, prioritizing simplicity and low running costs for daily commutes.",
+    "Zero_Sixty": "12.0 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "70 kmpl",
+    "mileage_reported": "65–68 kmpl",
+    "top_speed_claimed": "80 km/h",
+    "top_speed_reported": "75 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "102 kg",
+    "max_power": "7.5 PS @ 7000 rpm",
+    "max_torque": "7.8 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "120 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubed",
+    "front_tyre_size": "2.50-17",
+    "rear_tyre_size": "2.75-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "8 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "770 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "1950 mm",
+    "overall_width": "740 mm",
+    "build_quality": "Economy-grade",
+    "parts_availability": "Widely available",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986214/bikes/Akij/Akij%20Bondhu/akij-bondhu-showroom-view.webp",
+          "alt": "Akij Bondhu Showroom View"
+        }
+      ],
+    "pros": [
+      "Extremely affordable",
+      "Low fuel consumption",
+      "Easy to maintain",
+      "Lightweight design"
+    ],
+    "cons": [
+      "Very basic features",
+      "No self-start",
+      "Small fuel tank",
+      "Low power output"
+    ],
+    "faqs": [
+      {
+        "question": "Does Bondhu have tubeless tyres?",
+        "answer": "No, it uses tubed tyres."
+      },
+      {
+        "question": "Is it good for hilly areas?",
+        "answer": "Limited power for steep inclines; best for flat terrain."
+      },
+      {
+        "question": "What colors are available?",
+        "answer": "Typically red, blue, and black."
+      }
+    ]
+  },
+  {
+    "name": "Akij Durjoy",
+    "slug": "akij-durjoy",
+    "brand": "Akij",
+    "category": "Commuter",
+    "cc": 125,
+    "price": "Tk. 975,00",
+    "short_description": "Akij Durjoy is a 125cc commuter motorcycle with slightly upgraded power and features compared to Durbar/Bondhu, targeting rural and semi-urban riders.",
+    "Zero_Sixty": "9.8 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "60 kmpl",
+    "mileage_reported": "55–58 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc (Optional) / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "115 kg",
+    "max_power": "9.5 PS @ 8000 rpm",
+    "max_torque": "9.2 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc (Optional) / 130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "Single-piston (if disc)",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless (Optional)",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "3.00-18",
+    "wheel_type": "Alloy (Optional) / Spoke",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Semi-Digital",
+    "seat_height": "785 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2020 mm",
+    "overall_width": "760 mm",
+    "build_quality": "Improved over Durbar",
+    "parts_availability": "Good in rural areas",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986218/bikes/Akij/Akij%20Durjoy/akij-durjoy-showroom-view.webp",
+          "alt": "Akij Durjoy Showroom View"
+        }
+      ],
+    "pros": [
+      "Better power than Durbar/Bondhu",
+      "Optional front disc brake",
+      "Larger fuel tank",
+      "Comfortable for long rides"
+    ],
+    "cons": [
+      "No ABS",
+      "Tubeless tyres only in top variant",
+      "Heavier than Bondhu",
+      "Limited dealership support"
+    ],
+    "faqs": [
+      {
+        "question": "Does Durjoy come with self-start?",
+        "answer": "Yes, it includes self-start as standard."
+      },
+      {
+        "question": "Is the display digital?",
+        "answer": "Semi-digital (speedometer is digital, odometer analog)."
+      },
+      {
+        "question": "Does it have alloy wheels?",
+        "answer": "Optional; base variant has spoke wheels."
+      }
+    ]
+  },
+  {
+    "name": "Akij Duranto",
+    "slug": "akij-duranto",
+    "brand": "Akij",
+    "category": "Commuter",
+    "cc": 110,
+    "price": "Tk. 1,25,000",
+    "short_description": "Akij Duranto is a reliable 110cc commuter motorcycle offering a balance of fuel efficiency and performance for daily commuting needs.",
+    "Zero_Sixty": "9.5 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "60-63 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "112 kg",
+    "max_power": "8.5 PS @ 7500 rpm",
+    "max_torque": "8.7 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubed",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "3.00-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "10.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "785 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2010 mm",
+    "overall_width": "755 mm",
+    "build_quality": "Standard commuter build",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986218/bikes/Akij/Akij%20Duronto/akij-duronto-showroom-view.webp",
+          "alt": "Akij Duronto Showroom View"
+        }
+      ],
+    "pros": [
+      "Good fuel efficiency",
+      "Reliable engine performance",
+      "Comfortable riding posture",
+      "Affordable maintenance"
+    ],
+    "cons": [
+      "Basic features",
+      "No disc brake option",
+      "Outdated styling",
+      "Limited power for highways"
+    ],
+    "faqs": [
+      {
+        "question": "Does Akij Duranto have self-start?",
+        "answer": "No, it comes with kick start only."
+      },
+      {
+        "question": "What is the fuel tank capacity?",
+        "answer": "10.5 liters with a 1.8L reserve."
+      },
+      {
+        "question": "Is it suitable for long rides?",
+        "answer": "Best suited for city commuting due to limited power."
+      }
+    ]
+  },
+  {
+    "name": "Akij Duranto V6",
+    "slug": "akij-duranto-v6",
+    "brand": "Akij",
+    "category": "Commuter",
+    "cc": 125,
+    "price": "Tk. 1,45,000",
+    "short_description": "Akij Duranto V6 is an upgraded version with a 125cc engine, offering better performance and slightly more premium features than the standard Duranto.",
+    "Zero_Sixty": "8.2 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "60 kmpl",
+    "mileage_reported": "55-58 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "118 kg",
+    "max_power": "10.2 PS @ 8000 rpm",
+    "max_torque": "10.5 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "3.00-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Semi-Digital",
+    "seat_height": "790 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2030 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Improved over standard Duranto",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986218/bikes/Akij/Akij%20Duronto/akij-duronto-showroom-view.webp",
+          "alt": "Akij Duronto Showroom View"
+        }
+      ],
+    "pros": [
+      "Better power than standard Duranto",
+      "Front disc brake for improved safety",
+      "Tubeless tyres with alloy wheels",
+      "Larger fuel tank capacity"
+    ],
+    "cons": [
+      "No ABS",
+      "Basic instrument cluster",
+      "Higher price than standard Duranto",
+      "Limited color options"
+    ],
+    "faqs": [
+      {
+        "question": "Does Duranto V6 have self-start?",
+        "answer": "Yes, it comes with self-start as standard."
+      },
+      {
+        "question": "What is the main difference from standard Duranto?",
+        "answer": "Larger 125cc engine, front disc brake, and alloy wheels."
+      },
+      {
+        "question": "Is it suitable for highway riding?",
+        "answer": "Better than standard Duranto but still limited for long highway use."
+      }
+    ]
+  },
+  {
+    "name": "Akij Ponkhiraj",
+    "slug": "akij-ponkhiraj",
+    "brand": "Akij",
+    "category": "Commuter",
+    "cc": 100,
+    "price": "Tk. 875,00",
+    "short_description": "Akij Ponkhiraj is an ultra-affordable 100cc commuter bike designed for budget-conscious riders, offering exceptional fuel efficiency and basic transportation needs.",
+    "Zero_Sixty": "12.5 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "70 kmpl",
+    "mileage_reported": "65-68 kmpl",
+    "top_speed_claimed": "80 km/h",
+    "top_speed_reported": "75 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "105 kg",
+    "max_power": "7.8 PS @ 7500 rpm",
+    "max_torque": "7.5 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "120 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubed",
+    "front_tyre_size": "2.50-17",
+    "rear_tyre_size": "2.75-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "8.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "775 mm",
+    "ground_clearance": "160 mm",
+    "overall_length": "1970 mm",
+    "overall_width": "735 mm",
+    "build_quality": "Economy-grade",
+    "parts_availability": "Widely available",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986219/bikes/Akij/Akij%20Ponkhiraj/akij-ponkhirag-showroom-view.webp",
+          "alt": "Akij Ponkhiraj Akij Ponkhirag Showroom View"
+        }
+      ],
+    "pros": [
+      "Extremely fuel efficient",
+      "Lightweight and easy to handle",
+      "Very affordable price",
+      "Low maintenance costs"
+    ],
+    "cons": [
+      "Very basic features",
+      "No self-start option",
+      "Small engine size",
+      "Uncomfortable for long rides"
+    ],
+    "faqs": [
+      {
+        "question": "Does Ponkhiraj have electric start?",
+        "answer": "No, it only has kick start."
+      },
+      {
+        "question": "What is the actual mileage?",
+        "answer": "Users report 65-68 kmpl in city conditions."
+      },
+      {
+        "question": "Is it good for hilly areas?",
+        "answer": "Not ideal due to limited power; best for flat terrain."
+      }
+    ]
+  },
+  {
+    "name": "Akij Romeo",
+    "slug": "akij-romeo",
+    "brand": "Akij",
+    "category": "Commuter",
+    "cc": 110,
+    "price": "Tk. 125,000",
+    "short_description": "Akij Romeo is a stylish 110cc commuter motorcycle with slightly premium looks compared to other Akij bikes, offering decent performance for city commuting.",
+    "Zero_Sixty": "10.0 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "60-63 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "110 kg",
+    "max_power": "8.0 PS @ 7500 rpm",
+    "max_torque": "8.2 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubed",
+    "front_tyre_size": "2.75-17",
+    "rear_tyre_size": "3.00-17",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "9 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "780 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1990 mm",
+    "overall_width": "745 mm",
+    "build_quality": "Standard commuter with stylish elements",
+    "parts_availability": "Good in urban areas",
+    "image_urls": [
+        {
+          "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986220/bikes/Akij/Akij%20Romeo/akij-romeo-showroom-view.webp",
+          "alt": "Akij Romeo Showroom View"
+        }
+      ],
+    "pros": [
+      "Better styling than other Akij bikes",
+      "Decent fuel efficiency",
+      "Affordable price point",
+      "Reliable performance"
+    ],
+    "cons": [
+      "No modern features",
+      "Drum brakes only",
+      "Basic suspension",
+      "Limited color options"
+    ],
+    "faqs": [
+      {
+        "question": "Does Romeo have self-start?",
+        "answer": "No, it comes with kick start only."
+      },
+      {
+        "question": "What colors are available?",
+        "answer": "Typically red, black and blue variants."
+      },
+      {
+        "question": "Is it good for highway use?",
+        "answer": "Not recommended due to limited power and top speed."
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+

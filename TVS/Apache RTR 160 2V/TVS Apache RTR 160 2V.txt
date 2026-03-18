@@ -1,0 +1,85 @@
+Bike Name : TVS Apache RTR 160 2V (Refresh) 
+Top Speed : 114 km/h (approx, information from multiple enthusiast sources)
+Mileage(City): 40 km/l 
+Mileage(Highway): 45 km/l (estimated based on city mileage)
+Category: Sports / Naked Streetfighter 
+Base Price: ৳ 189,999 (Single Disc Variant) 
+Description: The TVS Apache RTR 160 2V is a popular streetfighter in Bangladesh, now updated with a "Refresh" version. It features a new LED bi-functional headlight, LED DRLs, and a fully digital instrument cluster with Bluetooth connectivity (on X-connect variant) . It is powered by a refined 160cc, fuel-injected engine tuned for a good balance of performance and efficiency, making it suitable for both city commutes and highway rides. It comes with a single-channel Super-Moto ABS for added safety .
+
+Displacement(CC): 159.7 CC 
+Max Power: 16.04 PS (11.8 kW) @ 8750 rpm (Sport Mode) 
+Max Torque: 13.85 Nm @ 6500 rpm (Sport Mode) 
+Engine Type: 4-Stroke, Single Cylinder, SOHC, 2-Valve 
+Fuel System: Electronic Fuel Injection (EFI) (on Refresh model) 
+Cooling System: Air-Cooled 
+Gears : 5-Speed 
+Clutch: Multi-Plate Wet 
+Spark Plugs: (Information not specified in search results)
+Gear Shift Pattern: 1 Down, 4 Up (Standard)
+
+Front Brake: 270 mm Petal Disc 
+Rear Brake: 130 mm Drum OR 200 mm Petal Disc 
+Braking System: Single-Channel Super Moto ABS 
+Front Tyre: 90/90-17 Tubeless 
+Rear Tyre: 110/80-17 OR 120/70-17 Tubeless (Variant Dependent) 
+
+Kerb Weight: 139 kg (Rear Drum) / 140 kg (Rear Disc) 
+Fuel Capacity: 16 Litres 
+Seat Height: 790 mm 
+Ground Clearance: 165 mm 
+Wheelbase: 1300 mm 
+
+(Give boolean Answers Yes/No)
+USB Charging: No (Not standard)
+Side Stand Cut-off: No (Information not specified)
+Projector Headlight: Yes (LED Bi-functional Unit on Refresh model) 
+DRLs: Yes (LED DRLs) 
+Gear Indicator: Yes (on Digital Console of Refresh model) 
+Distance to Empty: Yes (Likely on Digital Console)
+Avg Fuel Consumption: Yes (Likely on Digital Console)
+
+Varriants Count : 2 (Single Disc, Rear Disc [ABS]) 
+
+Varriant Name: TVS Apache RTR 160 2V (Single Disc) 
+Variant Key: Base/Variant 1
+Price BDT: ৳ 189,999 
+Top Speed(Company Claimed): (Information not specified in search results)
+Top Speed(User Claimed): (Information not specified in search results)
+Mileage(Company Claimed): (Information not specified in search results)
+Braking System: Single-Channel Super Moto ABS 
+Rear Braking System: 130 mm Drum 
+Tyre Type: Tubeless 
+Headlight Type: LED Bi-functional (on Refresh model) 
+Kerb Weight: 139 kg 
+Instrument Console: Fully Digital (with Bluetooth on Refresh X-connect) 
+Seat Type: Split Grip / Single-Piece 
+
+(Give boolean Answers Yes/No)
+Mobile Phone Connectivity: Yes (on Refresh X-connect variant) 
+Riding Modes: Yes (Sport/Urban on Refresh model) 
+Traction Control: No
+GPS & Navigation: Yes (via SmartXonnect on Refresh X-connect variant) 
+Slipper/Assist Clutch: No 
+Quick Shifter: No
+
+Varriant Name: TVS Apache RTR 160 2V (Rear Disc / ABS) 
+Variant Key: Variant 2
+Price BDT: ৳ 194,999 
+Top Speed(Company Claimed): (Information not specified in search results)
+Top Speed(User Claimed): (Information not specified in search results)
+Mileage(Company Claimed): 40.0 km/l 
+Braking System: Single-Channel Super Moto ABS 
+Rear Braking System: 200 mm Petal Disc 
+Tyre Type: Tubeless 
+Headlight Type: LED Bi-functional (on Refresh model) 
+Kerb Weight: 140 kg 
+Instrument Console: Fully Digital (with Bluetooth on Refresh X-connect) 
+Seat Type: Split Grip / Single-Piece 
+
+(Give boolean Answers Yes/No)
+Mobile Phone Connectivity: Yes (on Refresh X-connect variant) 
+Riding Modes: Yes (Sport/Urban on Refresh model) 
+Traction Control: No
+GPS & Navigation: Yes (via SmartXonnect on Refresh X-connect variant) 
+Slipper/Assist Clutch: No 
+Quick Shifter: No

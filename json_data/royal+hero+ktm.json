@@ -1,0 +1,3947 @@
+[
+  {
+    "name": "Royal Enfield Hunter 350",
+    "slug": "royal-enfield-hunter-350",
+    "metaTitle": "Royal Enfield Hunter 350 – Neo-Retro Urban Roadster | 349cc",
+    "metaDescription": "Explore the Royal Enfield Hunter 350: 349cc neo-retro roadster with smooth torque, dual disc brakes & 30–34 kmpl mileage. Perfect for city rides & weekend getaways.",
+    "brand": "Royal Enfield",
+    "category": "Standard",
+    "cc": 350,
+    "price": "Tk. 346,500",
+    "short_description": "Royal Enfield Hunter 350 is a 349cc roadster that blends neo-retro styling with modern performance, ideal for urban commutes and casual touring.",
+    "Zero_Sixty": "6.9 sec",
+    "Zero_Hundred": "14.2 sec",
+    "engine_cooling": "Air-Oil Cooled",
+    "mileage_claimed": "36 kmpl",
+    "mileage_reported": "30-34 kmpl",
+    "top_speed_claimed": "114 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "181 kg",
+    "max_power": "20.4 PS @ 6100 rpm",
+    "max_torque": "27 Nm @ 4000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air-Oil Cooled",
+    "front_brake": "300 mm Disc",
+    "rear_brake": "270 mm Disc",
+    "caliper": {
+      "front": "Dual-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/70-17",
+    "rear_tyre_size": "140/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "13 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Semi-Digital Console",
+    "seat_height": "800 mm",
+    "ground_clearance": "150 mm",
+    "overall_length": "2055 mm",
+    "overall_width": "800 mm",
+    "build_quality": "Solid and refined",
+    "parts_availability": "Very Good",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986349/bikes/royal-enfield/hunter/royal-enfield-hunter-350-royal-blue-back-view.webp",
+        "alt": "hunter Royal Enfield 350 Royal Blue Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986350/bikes/royal-enfield/hunter/royal-enfield-hunter-350-royal-blue-front-view.webp",
+        "alt": "hunter Royal Enfield 350 Royal Blue Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986350/bikes/royal-enfield/hunter/royal-enfield-hunter-350-royal-blue-left-view.webp",
+        "alt": "hunter Royal Enfield 350 Royal Blue Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986351/bikes/royal-enfield/hunter/royal-enfield-hunter-350-royal-blue-right-view.webp",
+        "alt": "hunter Royal Enfield 350 Royal Blue Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986352/bikes/royal-enfield/hunter/royal-enfield-hunter-350-royal-blue-showroom-view.webp",
+        "alt": "hunter Royal Enfield 350 Royal Blue Showroom View"
+      }
+    ],
+    "pros": [
+      "Attractive neo-retro design",
+      "Smooth and torquey engine",
+      "Comfortable upright riding posture",
+      "Dual disc brakes for solid stopping power",
+      "Premium build quality"
+    ],
+    "cons": [
+      "No ABS in some variants",
+      "Lack of full digital display",
+      "Heavy in traffic conditions",
+      "No LED headlight",
+      "No Bluetooth connectivity"
+    ],
+    "faqs": [
+      {
+        "question": "Is the Hunter 350 good for beginners?",
+        "answer": "Yes, its upright stance and manageable power make it beginner-friendly."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "Some variants come with dual-channel ABS, others with single-channel or none."
+      },
+      {
+        "question": "Can it handle highway touring?",
+        "answer": "Yes, it's capable of relaxed cruising around 90–100 km/h."
+      },
+      {
+        "question": "How often does it need servicing?",
+        "answer": "Recommended service interval is every 5,000 km or 6 months."
+      }
+    ]
+  },
+  {
+    "name": "Royal Enfield Bullet 350",
+    "slug": "royal-enfield-bullet-350",
+    "metaTitle": "Royal Enfield Bullet 350 – Iconic 346cc Cruiser | Classic Thump & 33–36 kmpl",
+    "metaDescription": "Ride the legendary Bullet 350: timeless 346cc cruiser with deep thump, 33–36 kmpl mileage & unmatched heritage. Built for comfort & long-distance cruising.",
+    "brand": "Royal Enfield",
+    "category": "Cruiser",
+    "cc": 346,
+    "price": "Tk. 417,500",
+    "short_description": "Royal Enfield Bullet 350 is an iconic 346cc cruiser known for its timeless design, deep exhaust note, and comfortable long-distance riding capability.",
+    "Zero_Sixty": "7.2 sec",
+    "Zero_Hundred": "15.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "38 kmpl",
+    "mileage_reported": "33-36 kmpl",
+    "top_speed_claimed": "110 km/h",
+    "top_speed_reported": "105 km/h",
+    "braking": "Front Disc, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "191 kg",
+    "max_power": "19.1 PS @ 5250 rpm",
+    "max_torque": "28 Nm @ 4000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "280 mm Disc",
+    "rear_brake": "153 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "N/A (Drum)"
+    },
+    "tyre_type": "Tube-type",
+    "front_tyre_size": "90/90-19",
+    "rear_tyre_size": "120/80-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "13.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Halogen",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog Console",
+    "seat_height": "800 mm",
+    "ground_clearance": "135 mm",
+    "overall_length": "2170 mm",
+    "overall_width": "810 mm",
+    "build_quality": "Vintage premium",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986338/bikes/royal-enfield/bullet/royal-enfield-bullet-350-back-view.webp",
+        "alt": "bullet Royal Enfield 350 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986339/bikes/royal-enfield/bullet/royal-enfield-bullet-350-right-view.webp",
+        "alt": "bullet Royal Enfield 350 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986340/bikes/royal-enfield/bullet/royal-enfield-bullet-350-royal-blue-front-view.webp",
+        "alt": "bullet Royal Enfield 350 Royal Blue Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986341/bikes/royal-enfield/bullet/royal-enfield-bullet-350-royal-blue-left-view.webp",
+        "alt": "bullet Royal Enfield 350 Royal Blue Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986342/bikes/royal-enfield/bullet/royal-enfield-bullet-350-royal-showroom-view.webp",
+        "alt": "bullet Royal Enfield 350 Royal Showroom View"
+      }
+    ],
+    "pros": [
+      "Classic Royal Enfield heritage design",
+      "Strong low-end torque",
+      "Comfortable for long rides",
+      "Iconic thumping exhaust note",
+      "Large service network"
+    ],
+    "cons": [
+      "Heavier than modern bikes",
+      "No rear disc brake",
+      "Vibrations at high speeds",
+      "Basic analog console",
+      "Not ideal for city traffic"
+    ],
+    "faqs": [
+      {
+        "question": "Is the Bullet 350 fuel efficient?",
+        "answer": "It offers around 33–36 kmpl, good for a cruiser of its size."
+      },
+      {
+        "question": "Does it support pillion riding?",
+        "answer": "Yes, it has a spacious seat and comfortable pillion support."
+      },
+      {
+        "question": "Is the Bullet good for off-road riding?",
+        "answer": "Not primarily, but its suspension and ground clearance allow mild off-roading."
+      },
+      {
+        "question": "Can I add accessories like backrest or windshield?",
+        "answer": "Yes, it's highly customizable with official and aftermarket parts."
+      }
+    ]
+  },
+  {
+    "name": "Royal Enfield Classic 350",
+    "slug": "royal-enfield-classic-350",
+    "metaTitle": "Royal Enfield Classic 350 – Retro Cruiser with J-Series Engine | 30–34 kmpl",
+    "metaDescription": "Classic 350 blends vintage design & modern J-series engine. Enjoy dual disc brakes, 30–34 kmpl efficiency & relaxed highway cruising in true Royal Enfield style.",
+    "brand": "Royal Enfield",
+    "category": "Cruiser",
+    "cc": 350,
+    "price": "Tk. 412,000",
+    "short_description": "Royal Enfield Classic 350 is a 349cc retro cruiser known for its vintage charm, smooth J-series engine, and balanced performance on both city and highway roads.",
+    "Zero_Sixty": "7.0 sec",
+    "Zero_Hundred": "15.0 sec",
+    "engine_cooling": "Air-Oil Cooled",
+    "mileage_claimed": "35 kmpl",
+    "mileage_reported": "30-34 kmpl",
+    "top_speed_claimed": "114 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "195 kg",
+    "max_power": "20.2 PS @ 6100 rpm",
+    "max_torque": "27 Nm @ 4000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air-Oil Cooled",
+    "front_brake": "300 mm Disc",
+    "rear_brake": "270 mm Disc",
+    "caliper": {
+      "front": "Dual-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/90-19",
+    "rear_tyre_size": "120/80-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "13 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Semi-Digital Console",
+    "seat_height": "805 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2145 mm",
+    "overall_width": "785 mm",
+    "build_quality": "Premium and durable",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986343/bikes/royal-enfield/classic/royal-enfield-classic-350--back-view.webp",
+        "alt": "classic Royal Enfield 350  Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986344/bikes/royal-enfield/classic/royal-enfield-classic-350--front-view.webp",
+        "alt": "classic Royal Enfield 350  Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986345/bikes/royal-enfield/classic/royal-enfield-classic-350--left-view.webp",
+        "alt": "classic Royal Enfield 350  Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986346/bikes/royal-enfield/classic/royal-enfield-classic-350--right-view.webp",
+        "alt": "classic Royal Enfield 350  Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986347/bikes/royal-enfield/classic/royal-enfield-classic-350--showroom-view.webp",
+        "alt": "classic Royal Enfield 350  Showroom View"
+      }
+    ],
+    "pros": [
+      "Timeless classic design",
+      "Refined engine with low vibrations",
+      "Comfortable for daily use and touring",
+      "Dual disc brakes and good ride quality",
+      "Extensive aftermarket support"
+    ],
+    "cons": [
+      "Relatively heavy for city use",
+      "No LED headlight",
+      "Spoke wheels mean tube tyres",
+      "Lacks modern tech features",
+      "Vibrations beyond 90 km/h"
+    ],
+    "faqs": [
+      {
+        "question": "Does Classic 350 come with ABS?",
+        "answer": "Yes, dual-channel ABS is available in most variants."
+      },
+      {
+        "question": "Is it good for touring?",
+        "answer": "Yes, it performs well on highways with a comfortable seating posture."
+      },
+      {
+        "question": "How is the engine refinement?",
+        "answer": "The new J-series engine is significantly more refined than older models."
+      },
+      {
+        "question": "What is the fuel tank range?",
+        "answer": "With a 13L tank and 30–34 kmpl, you can expect 390–440 km per tank."
+      }
+    ]
+  },
+  {
+    "name": "Royal Enfield Meteor 350",
+    "slug": "royal-enfield-meteor-350",
+    "metaTitle": "Royal Enfield Meteor 350 – Premium Cruiser with Tripper Nav | 35–38 kmpl",
+    "metaDescription": "Meteor 350 offers relaxed ergonomics, 15L fuel tank, Bluetooth Tripper navigation & 35–38 kmpl mileage—perfect for stress-free long-distance touring.",
+    "brand": "Royal Enfield",
+    "category": "Cruiser",
+    "cc": 349,
+    "price": "Tk. 435,000",
+    "short_description": "Royal Enfield Meteor 350 is a stylish 349cc cruiser designed for long-distance comfort, featuring a modern Tripper navigation system and smooth ride dynamics.",
+    "Zero_Sixty": "6.8 sec",
+    "Zero_Hundred": "14.3 sec",
+    "engine_cooling": "Air-Oil Cooled",
+    "mileage_claimed": "41 kmpl",
+    "mileage_reported": "35-38 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "113 km/h",
+    "braking": "Front Disc, Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "191 kg",
+    "max_power": "20.4 PS @ 6100 rpm",
+    "max_torque": "27 Nm @ 4000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air-Oil Cooled",
+    "front_brake": "300 mm Disc",
+    "rear_brake": "270 mm Disc",
+    "caliper": {
+      "front": "Twin-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/90-19",
+    "rear_tyre_size": "140/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "15 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Semi-Digital Console with Tripper Navigation",
+    "seat_height": "765 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2140 mm",
+    "overall_width": "845 mm",
+    "build_quality": "Modern premium cruiser",
+    "parts_availability": "Very Good",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986353/bikes/royal-enfield/meteor/royal-enfield-meteor-350-supernova-blue-back-view.webp",
+        "alt": "meteor Royal Enfield 350 Supernova Blue Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986354/bikes/royal-enfield/meteor/royal-enfield-meteor-350-supernova-blue-front-view.webp",
+        "alt": "meteor Royal Enfield 350 Supernova Blue Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986356/bikes/royal-enfield/meteor/royal-enfield-meteor-350-supernova-blue-leftt-view.webp",
+        "alt": "meteor Royal Enfield 350 Supernova Blue Leftt View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986357/bikes/royal-enfield/meteor/royal-enfield-meteor-350-supernova-blue-right-view.webp",
+        "alt": "meteor Royal Enfield 350 Supernova Blue Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986358/bikes/royal-enfield/meteor/royal-enfield-meteor-350-supernova-blue-showroom-view.webp",
+        "alt": "meteor Royal Enfield 350 Supernova Blue Showroom View"
+      }
+    ],
+    "pros": [
+      "Smooth and refined engine",
+      "Tripper navigation system",
+      "Excellent ride comfort",
+      "Premium cruiser styling",
+      "Tubeless tyres with alloy wheels"
+    ],
+    "cons": [
+      "Slight vibrations at high RPM",
+      "Halogen headlamp instead of LED",
+      "Moderate acceleration",
+      "No slipper clutch",
+      "Limited cornering clearance"
+    ],
+    "faqs": [
+      {
+        "question": "Is the Meteor 350 suitable for long tours?",
+        "answer": "Yes, it's built for long-distance cruising with a comfortable seat and stable ride."
+      },
+      {
+        "question": "Does it have navigation support?",
+        "answer": "Yes, it features Royal Enfield's Tripper navigation system powered by Google Maps."
+      },
+      {
+        "question": "What is the seat height of Meteor 350?",
+        "answer": "It has a low seat height of 765 mm, suitable for most riders."
+      },
+      {
+        "question": "Is Bluetooth available in the Meteor 350?",
+        "answer": "Yes, Bluetooth is available for navigation and smartphone connectivity."
+      }
+    ]
+  },
+  {
+    "name": "Hero Glamour",
+    "slug": "hero-glamour",
+    "metaTitle": "Hero Glamour 125 – Stylish Commuter Bike | 50–55 kmpl Mileage",
+    "metaDescription": "Hero Glamour delivers 125cc practicality, 50–55 kmpl fuel efficiency & reliable performance—ideal for daily city commuting on a budget.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 125,
+    "price": "Tk. 147,000",
+    "short_description": "Hero Glamour is a stylish 125cc commuter bike designed for daily use, offering decent mileage, practical performance, and affordable maintenance.",
+    "Zero_Sixty": "7.8 sec",
+    "Zero_Hundred": "16.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "60 kmpl",
+    "mileage_reported": "50-55 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc / Drum, Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "122 kg",
+    "max_power": "10.7 PS @ 7500 rpm",
+    "max_torque": "10.6 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc / 130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "100/80-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Halogen",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital",
+    "seat_height": "798 mm",
+    "ground_clearance": "180 mm",
+    "overall_length": "2051 mm",
+    "overall_width": "743 mm",
+    "build_quality": "Reliable and practical",
+    "parts_availability": "Very Good",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926208/bikes/HERO/hero-glamour/hero-glamour-back-view.webp",
+        "alt": "hero-glamour Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926208/bikes/HERO/hero-glamour/hero-glamour-front-view.webp",
+        "alt": "hero-glamour Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926209/bikes/HERO/hero-glamour/hero-glamour-left-view.webp",
+        "alt": "hero-glamour Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926210/bikes/HERO/hero-glamour/hero-glamour-right-view.webp",
+        "alt": "hero-glamour Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926211/bikes/HERO/hero-glamour/hero-glamour-showroom-view.webp",
+        "alt": "hero-glamour Showroom View"
+      }
+    ],
+    "pros": [
+      "Great mileage for daily riding",
+      "Low maintenance costs",
+      "Comfortable upright posture",
+      "Good build quality",
+      "Reliable Hero service network"
+    ],
+    "cons": [
+      "Halogen lighting feels outdated",
+      "Basic instrument cluster",
+      "No rear disc brake in base models",
+      "Average high-speed stability"
+    ],
+    "faqs": [
+      {
+        "question": "Is Hero Glamour fuel efficient?",
+        "answer": "Yes, it delivers around 50–55 kmpl in real-world riding."
+      },
+      {
+        "question": "Does Hero Glamour have disc brakes?",
+        "answer": "Yes, it has front disc in higher variants; base variant has drum."
+      },
+      {
+        "question": "Is Hero Glamour good for long rides?",
+        "answer": "It is best suited for short city commutes, not for long highway rides."
+      },
+      {
+        "question": "What is the fuel tank capacity?",
+        "answer": "It has a 10-liter fuel tank."
+      }
+    ]
+  },
+  {
+    "name": "Hero Glamour BS4",
+    "slug": "hero-glamour-bs4",
+    "metaTitle": "Hero Glamour BS4 i3S – Smart Start-Stop 125cc Bike | 55–60 kmpl",
+    "metaDescription": "Glamour BS4 i3S features idle start-stop tech for 55–60 kmpl mileage, stylish design & low-cost commuting in stop-and-go city traffic.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 124.7,
+    "price": "Tk. 136,500",
+    "short_description": "Hero Glamour BS4 is a fuel-efficient 125cc commuter offering great mileage, refined engine, and simple analog-digital instrument console.",
+    "Zero_Sixty": "8.2 sec",
+    "Zero_Hundred": "17.3 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "62 kmpl",
+    "mileage_reported": "52-58 kmpl",
+    "top_speed_claimed": "94 km/h",
+    "top_speed_reported": "88 km/h",
+    "braking": "Front Disc / Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "129 kg",
+    "max_power": "9.1 PS @ 7000 rpm",
+    "max_torque": "10.35 Nm @ 4000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc / 130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "90/90-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Halogen",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital",
+    "seat_height": "790 mm",
+    "ground_clearance": "159 mm",
+    "overall_length": "2005 mm",
+    "overall_width": "735 mm",
+    "build_quality": "Basic and practical",
+    "parts_availability": "Very Good",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926211/bikes/HERO/hero-glamour/hero-glamour-showroom-view.webp",
+        "alt": "hero-glamour Showroom View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926208/bikes/HERO/hero-glamour/hero-glamour-back-view.webp",
+        "alt": "hero-glamour Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926208/bikes/HERO/hero-glamour/hero-glamour-front-view.webp",
+        "alt": "hero-glamour Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926209/bikes/HERO/hero-glamour/hero-glamour-left-view.webp",
+        "alt": "hero-glamour Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926210/bikes/HERO/hero-glamour/hero-glamour-right-view.webp",
+        "alt": "hero-glamour Right View"
+      }
+    ],
+    "pros": [
+      "Excellent mileage",
+      "Simple and reliable engine",
+      "Affordable running cost",
+      "Sturdy build quality",
+      "Wider service availability"
+    ],
+    "cons": [
+      "Only 4-speed gearbox",
+      "Dated design compared to newer models",
+      "No DRLs",
+      "Halogen headlamp looks outdated"
+    ],
+    "faqs": [
+      {
+        "question": "Is the BS4 Glamour still available?",
+        "answer": "It's mostly available in the used market as BS6 has replaced it."
+      },
+      {
+        "question": "What is the gearbox type?",
+        "answer": "It comes with a 4-speed manual gearbox."
+      },
+      {
+        "question": "Does it offer good mileage?",
+        "answer": "Yes, the BS4 Glamour is known for delivering over 50+ kmpl."
+      },
+      {
+        "question": "Is the build quality reliable?",
+        "answer": "Yes, it has a solid and practical design suitable for daily use."
+      }
+    ]
+  },
+  {
+    "name": "Hero Glamour BS4 i3S",
+    "slug": "hero-glamour-bs4-i3s",
+    "metaTitle": "Hero HF Deluxe All Black BS4 – 100cc Commuter | 65–70 kmpl Mileage",
+    "metaDescription": "All-black HF Deluxe BS4 offers 65–70 kmpl fuel economy, lightweight handling & rugged reliability—perfect for budget-conscious daily riders.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 124.7,
+    "price": "Tk. 1,41,000",
+    "short_description": "Hero Glamour BS4 i3S is a stylish and fuel-efficient 125cc commuter bike, equipped with i3S technology for better mileage and comfort for daily rides.",
+    "Zero_Sixty": "7.5 sec",
+    "Zero_Hundred": "16.2 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "55–60 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc/Drum, Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "127 kg",
+    "max_power": "11.5 PS @ 7500 rpm",
+    "max_torque": "11 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc / 130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston (Disc version only)",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "90/90-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Console",
+    "seat_height": "790 mm",
+    "ground_clearance": "150 mm",
+    "overall_length": "2005 mm",
+    "overall_width": "735 mm",
+    "build_quality": "Reliable commuter build",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926208/bikes/HERO/hero-glamour/hero-glamour-back-view.webp",
+        "alt": "hero-glamour Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926208/bikes/HERO/hero-glamour/hero-glamour-front-view.webp",
+        "alt": "hero-glamour Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926209/bikes/HERO/hero-glamour/hero-glamour-left-view.webp",
+        "alt": "hero-glamour Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926210/bikes/HERO/hero-glamour/hero-glamour-right-view.webp",
+        "alt": "hero-glamour Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926211/bikes/HERO/hero-glamour/hero-glamour-showroom-view.webp",
+        "alt": "hero-glamour Showroom View"
+      }
+    ],
+    "pros": [
+      "Good mileage with i3S tech",
+      "Attractive styling for a commuter",
+      "Comfortable seating",
+      "Reliable Hero engine",
+      "Low maintenance cost"
+    ],
+    "cons": [
+      "No ABS",
+      "Limited power for highway use",
+      "No LED lights",
+      "Analog-digital console looks outdated",
+      "Vibrations at higher speed"
+    ],
+    "faqs": [
+      {
+        "question": "Does Glamour BS4 come with i3S? ",
+        "answer": "Yes, it features Hero's i3S (idle start-stop system) for better fuel efficiency."
+      },
+      {
+        "question": "What is the real-world mileage? ",
+        "answer": "Users have reported 55–60 kmpl in city and highway conditions."
+      },
+      {
+        "question": "Is it good for long rides?",
+        "answer": "It's mainly for daily commutes, but occasional long rides are fine with breaks."
+      },
+      {
+        "question": "Does it have disc brakes?",
+        "answer": "Yes, disc variants are available with 240mm front disc."
+      }
+    ]
+  },
+  {
+    "name": "Hero HF Deluxe All Black BS4",
+    "slug": "hero-hf-deluxe-all-black-bs4",
+    "metaTitle": "Hero HF Deluxe All Black BS4 – 100cc Commuter | 65–70 kmpl Mileage",
+    "metaDescription": "All-black HF Deluxe BS4 offers 65–70 kmpl fuel economy, lightweight handling & rugged reliability—perfect for budget-conscious daily riders.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 97.2,
+    "price": "Tk. 1,09,500",
+    "short_description": "Hero HF Deluxe All Black BS4 is a budget-friendly 100cc commuter bike known for its stylish blacked-out design, excellent mileage, and dependable performance for daily city rides.",
+    "Zero_Sixty": "8.5 sec",
+    "Zero_Hundred": "21.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "82 kmpl",
+    "mileage_reported": "65-70 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "82 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "109 kg",
+    "max_power": "8.36 PS @ 8000 rpm",
+    "max_torque": "8.05 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "2.75-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "9.6 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "805 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1965 mm",
+    "overall_width": "720 mm",
+    "build_quality": "Sturdy and reliable for daily commuting",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926212/bikes/HERO/HERO-HF-DELUX/hero-hf-deluxe-back-view.webp",
+        "alt": "HERO-HF-DELUX Hero Hf Deluxe Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926213/bikes/HERO/HERO-HF-DELUX/hero-hf-deluxe-front-view.webp",
+        "alt": "HERO-HF-DELUX Hero Hf Deluxe Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926214/bikes/HERO/HERO-HF-DELUX/hero-hf-deluxe-left-view.webp",
+        "alt": "HERO-HF-DELUX Hero Hf Deluxe Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926215/bikes/HERO/HERO-HF-DELUX/hero-hf-deluxe-right-view.webp",
+        "alt": "HERO-HF-DELUX Hero Hf Deluxe Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926216/bikes/HERO/HERO-HF-DELUX/hero-hf-deluxe-showroom-view.webp",
+        "alt": "HERO-HF-DELUX Hero Hf Deluxe Showroom View"
+      }
+    ],
+    "pros": [
+      "Excellent mileage",
+      "Lightweight and easy to handle",
+      "Attractive black design",
+      "Affordable price range",
+      "Reliable engine performance"
+    ],
+    "cons": [
+      "Basic features only",
+      "No disc brake option",
+      "Lacks digital meter",
+      "Low top speed",
+      "BS4 variant is outdated"
+    ],
+    "faqs": [
+      {
+        "question": "What is the mileage of Hero HF Deluxe BS4?",
+        "answer": "It offers around 65-70 kmpl in real-world city conditions."
+      },
+      {
+        "question": "Does this model support disc brakes?",
+        "answer": "No, it comes with drum brakes on both wheels."
+      },
+      {
+        "question": "Is this bike good for rural roads?",
+        "answer": "Yes, it's lightweight and strong enough for rural commuting."
+      },
+      {
+        "question": "Can I still buy the BS4 version?",
+        "answer": "Yes, it is still available in some Hero showrooms as older stock."
+      }
+    ]
+  },
+  {
+    "name": "Hero HF Deluxe Self",
+    "slug": "hero-hf-deluxe-self",
+    "metaTitle": "Hero HF Deluxe Self – 100cc Self-Start Bike | 65–70 kmpl Efficiency",
+    "metaDescription": "HF Deluxe Self combines self-start convenience, 65–70 kmpl mileage & tubeless tyres—ideal for city & rural commuting alike.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 97.2,
+    "price": "Tk. 1,04,500",
+    "short_description": "Hero HF Deluxe Self is a fuel-efficient 100cc commuter motorcycle offering self-start convenience, dependable engine performance, and great mileage for everyday use in cities and villages.",
+    "Zero_Sixty": "8.2 sec",
+    "Zero_Hundred": "21.2 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "82 kmpl",
+    "mileage_reported": "65-70 kmpl",
+    "top_speed_claimed": "87 km/h",
+    "top_speed_reported": "82 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "110 kg",
+    "max_power": "8.02 PS @ 8000 rpm",
+    "max_torque": "8.05 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "2.75-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "9.6 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "805 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1965 mm",
+    "overall_width": "720 mm",
+    "build_quality": "Basic but reliable commuter design",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926212/bikes/HERO/HERO-HF-DELUX/hero-hf-deluxe-back-view.webp",
+        "alt": "HERO-HF-DELUX Hero Hf Deluxe Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926213/bikes/HERO/HERO-HF-DELUX/hero-hf-deluxe-front-view.webp",
+        "alt": "HERO-HF-DELUX Hero Hf Deluxe Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926214/bikes/HERO/HERO-HF-DELUX/hero-hf-deluxe-left-view.webp",
+        "alt": "HERO-HF-DELUX Hero Hf Deluxe Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926215/bikes/HERO/HERO-HF-DELUX/hero-hf-deluxe-right-view.webp",
+        "alt": "HERO-HF-DELUX Hero Hf Deluxe Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761037383/hero-hfdeluxe-self-showroom-view_svqloq.png",
+        "alt": "HERO-HF-DELUX Self Showroom View"
+      }
+    ],
+    "pros": [
+      "Very fuel efficient",
+      "Self-start convenience",
+      "Affordable price",
+      "Comfortable seating",
+      "Strong rural and city performance"
+    ],
+    "cons": [
+      "No disc brakes",
+      "No digital display",
+      "Basic styling",
+      "Lacks modern safety features"
+    ],
+    "faqs": [
+      {
+        "question": "Is the Hero HF Deluxe Self a self-start only model?",
+        "answer": "It comes with both self and kick start options."
+      },
+      {
+        "question": "Is this bike fuel efficient?",
+        "answer": "Yes, it delivers over 65 kmpl in real-world usage."
+      },
+      {
+        "question": "Is it good for hilly areas?",
+        "answer": "Yes, but it's better suited for flat city or rural roads."
+      },
+      {
+        "question": "Does it have alloy wheels?",
+        "answer": "Yes, it comes with alloy wheels and tubeless tyres."
+      }
+    ]
+  },
+  {
+    "name": "Hero Hunk",
+    "slug": "hero-hunk",
+    "metaTitle": "Hero Hunk 150 – Muscular 150cc Street Bike | 42–50 kmpl & 15.6 PS",
+    "metaDescription": "Hero Hunk 150 delivers bold styling, 15.6 PS power & confident handling—a head-turner for young urban riders seeking sporty daily performance.",
+    "brand": "Hero",
+    "category": "Standard",
+    "cc": 149.2,
+    "price": "Tk. 1,58,490",
+    "short_description": "Hero Hunk is a muscular and stylish 150cc bike designed for those who want a sporty ride with reliable performance, comfortable handling, and a bold presence on the road.",
+    "Zero_Sixty": "5.2 sec",
+    "Zero_Hundred": "17.8 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "55 kmpl",
+    "mileage_reported": "42-50 kmpl",
+    "top_speed_claimed": "107 km/h",
+    "top_speed_reported": "100 km/h",
+    "braking": "Front Disc / Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "145 kg",
+    "max_power": "15.6 PS @ 8500 rpm",
+    "max_torque": "13.5 Nm @ 7000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "2-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "100/90-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12.4 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Combo",
+    "seat_height": "795 mm",
+    "ground_clearance": "163 mm",
+    "overall_length": "2080 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Sporty and muscular street build",
+    "parts_availability": "Good",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926217/bikes/HERO/HERO-HUNK/hero-hunk-back-view.webp",
+        "alt": "HERO-HUNK Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926218/bikes/HERO/HERO-HUNK/hero-hunk-front-view.webp",
+        "alt": "HERO-HUNK Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926219/bikes/HERO/HERO-HUNK/hero-hunk-left-view.webp",
+        "alt": "HERO-HUNK Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926220/bikes/HERO/HERO-HUNK/hero-hunk-right-view.webp",
+        "alt": "HERO-HUNK Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926221/bikes/HERO/HERO-HUNK/hero-hunk-showroom-view.webp",
+        "alt": "HERO-HUNK Showroom View"
+      }
+    ],
+    "pros": [
+      "Strong mid-range power",
+      "Sporty and muscular looks",
+      "Comfortable for daily rides",
+      "Good cornering stability",
+      "Reliable build and parts availability"
+    ],
+    "cons": [
+      "Rear brake lacks disc option",
+      "No ABS",
+      "Outdated instrument cluster",
+      "Heavier than rivals"
+    ],
+    "faqs": [
+      {
+        "question": "Does the Hero Hunk come with ABS?",
+        "answer": "No, it does not offer ABS in the current version."
+      },
+      {
+        "question": "What type of instrument console does it have?",
+        "answer": "It has a combination of analog tachometer and digital speedometer."
+      },
+      {
+        "question": "Is the Hero Hunk suitable for long rides?",
+        "answer": "Yes, it offers decent comfort and power for short to medium highway trips."
+      },
+      {
+        "question": "Does it support tubeless tyres?",
+        "answer": "Yes, both front and rear tyres are tubeless."
+      }
+    ]
+  },
+  {
+    "name": "Hero Hunk 150R",
+    "slug": "hero-hunk-150r",
+    "metaTitle": "Hero Hunk 150R – Modern 150cc Streetfighter | Dual Disc Brakes",
+    "metaDescription": "Hunk 150R upgrades with dual disc brakes, digital console & aggressive stance—built for style, safety & city-ready performance.",
+    "brand": "Hero",
+    "category": "Standard",
+    "cc": 149.2,
+    "price": "Tk. 204,500",
+    "short_description": "Hero Hunk 150R is a refreshed version of the classic Hunk, offering modern styling, better handling, and improved performance, tailored for city commuters and sporty riders.",
+    "Zero_Sixty": "5.1 sec",
+    "Zero_Hundred": "17.2 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "40-48 kmpl",
+    "top_speed_claimed": "110 km/h",
+    "top_speed_reported": "102 km/h",
+    "braking": "Front Disc / Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "148 kg",
+    "max_power": "14.2 PS @ 8500 rpm",
+    "max_torque": "12.6 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "2-piston",
+      "rear": "1-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Fully Digital",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2062 mm",
+    "overall_width": "778 mm",
+    "build_quality": "Sport-inspired commuter with muscular design",
+    "parts_availability": "Good",
+    "image_urls": [
+      {
+        "url": "hero-hunk150r-showroom-view.jpg",
+        "alt": "HERO-HUNK Showroom View"
+      }
+    ],
+    "pros": [
+      "Dual disc brakes",
+      "Improved styling and performance",
+      "Wider rear tyre for better grip",
+      "Digital instrument cluster",
+      "Comfortable for daily use"
+    ],
+    "cons": [
+      "No ABS in base variant",
+      "Not ideal for long touring",
+      "Halogen headlamp feels outdated",
+      "Slightly overpriced for features"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between Hunk 150R and older Hunk?",
+        "answer": "The 150R features updated styling, dual disc brakes, and digital display."
+      },
+      {
+        "question": "Is there ABS on Hero Hunk 150R?",
+        "answer": "No, the base 150R variant does not have ABS. ABS is available in the 150R ABS version."
+      },
+      {
+        "question": "Is the ride quality comfortable?",
+        "answer": "Yes, it offers good suspension and seating comfort for daily use."
+      },
+      {
+        "question": "What type of tyres does it use?",
+        "answer": "The Hunk 150R uses tubeless tyres with alloy wheels."
+      }
+    ]
+  },
+  {
+    "name": "Hero Hunk 150R ABS",
+    "slug": "hero-hunk-150r-abs",
+    "metaTitle": "Hero Hunk 150R ABS – Safe 150cc Commuter | Front ABS & Digital Display",
+    "metaDescription": "Hunk 150R ABS adds front-wheel ABS for safer braking, digital display & muscular design—confidence in daily city traffic.",
+    "brand": "Hero",
+    "category": "Standard",
+    "cc": 149.2,
+    "price": "Tk. 1,84,500",
+    "short_description": "Hero Hunk 150R ABS is the upgraded variant of the popular Hunk series, featuring single-channel ABS, muscular design, digital console, and commuter-friendly performance.",
+    "Zero_Sixty": "5.0 sec",
+    "Zero_Hundred": "16.8 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "40-48 kmpl",
+    "top_speed_claimed": "112 km/h",
+    "top_speed_reported": "104 km/h",
+    "braking": "Front Disc with ABS / Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "148 kg",
+    "max_power": "14.2 PS @ 8500 rpm",
+    "max_torque": "12.6 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc with ABS",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "2-piston",
+      "rear": "1-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Fully Digital",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2062 mm",
+    "overall_width": "778 mm",
+    "build_quality": "Modern commuter with enhanced safety features",
+    "parts_availability": "Good",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761038468/hero-hunk150r-showroom-view_ck1293.png",
+        "alt": "HERO-HUNK 150R ABS Showroom View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761038525/hero-hunk150r-right-side-view_keclp6.png",
+        "alt": "HERO-HUNK 150R ABS Right View"
+      }
+    ],
+    "pros": [
+      "Single-channel ABS for enhanced safety",
+      "Aggressive styling with digital console",
+      "Comfortable for daily commuting",
+      "Wider tyres ensure good road grip",
+      "Decent mileage in city rides"
+    ],
+    "cons": [
+      "Halogen headlight lacks brightness",
+      "No rear ABS",
+      "Not suitable for high-speed touring",
+      "ABS variant priced slightly high"
+    ],
+    "faqs": [
+      {
+        "question": "Does the ABS variant have dual-channel ABS?",
+        "answer": "No, the Hero Hunk 150R ABS has single-channel ABS for the front wheel only."
+      },
+      {
+        "question": "Is the engine same as the non-ABS version?",
+        "answer": "Yes, both variants share the same 149.2cc engine with similar performance."
+      },
+      {
+        "question": "Can it be used for occasional touring?",
+        "answer": "While possible, it’s more suitable for city use and short-distance travel."
+      },
+      {
+        "question": "What type of brake system does it use?",
+        "answer": "It comes with front ABS disc and rear disc setup."
+      }
+    ]
+  },
+  {
+    "name": "Hero Hunk DD",
+    "slug": "hero-hunk-dd",
+    "metaTitle": "Hero Hunk DD – Dual Disc 150cc Bike | Urban Commuter with Style",
+    "metaDescription": "Hunk DD packs dual disc brakes, 14.2 PS & alloy wheels—a balanced blend of safety, style & practical city performance.",
+    "brand": "Hero",
+    "category": "Standard",
+    "cc": 149.2,
+    "price": "Tk. 1,87,500",
+    "short_description": "Hero Hunk DD is a reliable 150cc commuter with dual disc brakes, muscular design, digital-analog console, and comfortable riding ergonomics for daily use.",
+    "Zero_Sixty": "5.2 sec",
+    "Zero_Hundred": "17.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "40-47 kmpl",
+    "top_speed_claimed": "110 km/h",
+    "top_speed_reported": "102 km/h",
+    "braking": "Front Disc / Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "145 kg",
+    "max_power": "14.2 PS @ 8500 rpm",
+    "max_torque": "12.6 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "2-piston",
+      "rear": "1-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12.4 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital-Analog Combo",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2080 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Solid urban commuter with balanced power",
+    "parts_availability": "Good",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761039759/hero-hunkdd-right-side-view_mq8gft.png",
+        "alt": "HERO-HUNK Right View"
+      }
+    ],
+    "pros": [
+      "Dual disc brakes offer better stopping power",
+      "Comfortable upright riding posture",
+      "Muscular fuel tank design",
+      "Affordable maintenance",
+      "Good mileage for a 150cc segment"
+    ],
+    "cons": [
+      "No ABS offered",
+      "Halogen headlight setup",
+      "Analog speedometer might feel outdated",
+      "Performance is average for the price"
+    ],
+    "faqs": [
+      {
+        "question": "Does the Hunk DD come with ABS?",
+        "answer": "No, the Hero Hunk DD does not have ABS, it features dual disc brakes only."
+      },
+      {
+        "question": "Is the digital console fully digital?",
+        "answer": "No, it comes with a digital-analog combo instrument cluster."
+      },
+      {
+        "question": "Is this bike good for city traffic?",
+        "answer": "Yes, it’s very well-suited for daily urban commuting."
+      },
+      {
+        "question": "Is there any difference in engine with the ABS version?",
+        "answer": "No, the engine specs are the same as the ABS variant."
+      }
+    ]
+  },
+  {
+    "name": "Hero Hunk Matt DD",
+    "slug": "hero-hunk-matt-dd",
+    "metaTitle": "Hero Hunk Matt DD – Matte Finish 150cc Dual Disc Bike | 40+ kmpl",
+    "metaDescription": "Stand out with Hunk Matt DD’s stealthy matte look, dual disc setup & 40+ kmpl mileage—bold style meets everyday practicality.",
+    "brand": "Hero",
+    "category": "Standard",
+    "cc": 149.2,
+    "price": "Tk. 1,83,000",
+    "short_description": "Hero Hunk Matt DD is a sporty 150cc commuter with dual disc brakes and a unique matte finish, offering decent performance, comfort, and fuel efficiency.",
+    "Zero_Sixty": "5.3 sec",
+    "Zero_Hundred": "17.7 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "40-46 kmpl",
+    "top_speed_claimed": "110 km/h",
+    "top_speed_reported": "101 km/h",
+    "braking": "Front Disc / Rear Disc",
+    "gear": "5-speed manual",
+    "weight": "146 kg",
+    "max_power": "14.2 PS @ 8500 rpm",
+    "max_torque": "12.6 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "2-piston",
+      "rear": "1-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12.4 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital-Analog Combo",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2080 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Good urban build with matte style",
+    "parts_availability": "Easily Available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926220/bikes/HERO/HERO-HUNK/hero-hunk-right-view.webp",
+        "alt": "HERO-HUNK Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926217/bikes/HERO/HERO-HUNK/hero-hunk-back-view.webp",
+        "alt": "HERO-HUNK Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926218/bikes/HERO/HERO-HUNK/hero-hunk-front-view.webp",
+        "alt": "HERO-HUNK Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926219/bikes/HERO/HERO-HUNK/hero-hunk-left-view.webp",
+        "alt": "HERO-HUNK Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926221/bikes/HERO/HERO-HUNK/hero-hunk-showroom-view.webp",
+        "alt": "HERO-HUNK Showroom View"
+      }
+    ],
+    "pros": [
+      "Attractive matte paint scheme",
+      "Dual disc setup enhances safety",
+      "Fuel efficient for daily use",
+      "Wide tyres for better grip",
+      "Comfortable ergonomics"
+    ],
+    "cons": [
+      "No ABS",
+      "Basic lighting setup",
+      "Design hasn’t been updated in years",
+      "Performance not segment-leading"
+    ],
+    "faqs": [
+      {
+        "question": "What makes the Matt version different?",
+        "answer": "The Matt DD version features a matte color scheme and similar mechanical setup as the standard DD."
+      },
+      {
+        "question": "Does it come with ABS?",
+        "answer": "No, the Hero Hunk Matt DD does not include ABS."
+      },
+      {
+        "question": "Is it a good choice for students?",
+        "answer": "Yes, it's a practical, stylish, and cost-effective bike for daily commutes."
+      },
+      {
+        "question": "What colors are available?",
+        "answer": "Matte colors like matte black and matte red are typically offered."
+      }
+    ]
+  },
+  {
+    "name": "Hero Hunk Matt SD",
+    "slug": "hero-hunk-matt-sd",
+    "metaTitle": "Hero Ignitor 125 – Sporty Commuter | 55–60 kmpl & 11.5 PS",
+    "metaDescription": "Ignitor 125 blends sharp looks, 11.5 PS power & 55–60 kmpl efficiency—perfect for style-conscious city riders on a budget.",
+    "brand": "Hero",
+    "category": "Standard",
+    "cc": 149.2,
+    "price": "Tk. 1,76,000",
+    "short_description": "Hero Hunk Matt SD is the single disc version of the Hunk, offering a matte design, muscular appeal, and good mileage for budget-conscious riders.",
+    "Zero_Sixty": "5.4 sec",
+    "Zero_Hundred": "18.2 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "41-47 kmpl",
+    "top_speed_claimed": "110 km/h",
+    "top_speed_reported": "100 km/h",
+    "braking": "Front Disc / Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "143 kg",
+    "max_power": "14.2 PS @ 8500 rpm",
+    "max_torque": "12.6 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "2-piston",
+      "rear": "Drum"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-R17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12.4 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital-Analog Combo",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2080 mm",
+    "overall_width": "765 mm",
+    "build_quality": "Sturdy with aggressive styling",
+    "parts_availability": "Easily Available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761040086/hero-hunk-mattsd-showroom-view_mz9wzv.png",
+        "alt": "Hero-Hunk-Matt-SD SHowroom View"
+      }
+    ],
+    "pros": [
+      "Aggressive styling with matte finish",
+      "Good mileage for a 150cc bike",
+      "Comfortable upright posture",
+      "Low maintenance costs",
+      "Affordable pricing"
+    ],
+    "cons": [
+      "No ABS",
+      "Rear brake is drum type",
+      "Dated instrument cluster",
+      "Engine lacks refinement"
+    ],
+    "faqs": [
+      {
+        "question": "What does SD stand for?",
+        "answer": "SD stands for Single Disc, referring to front disc and rear drum brake setup."
+      },
+      {
+        "question": "Does it come in matte colors only?",
+        "answer": "Yes, the Matt SD variant features a matte finish in select colors."
+      },
+      {
+        "question": "Is it suitable for city commuting?",
+        "answer": "Yes, it's designed for daily urban use with decent pickup and comfort."
+      },
+      {
+        "question": "Does it include ABS?",
+        "answer": "No, this variant does not offer ABS."
+      }
+    ]
+  },
+  {
+    "name": "Hero Ignitor",
+    "slug": "hero-ignitor",
+    "metaTitle": "Hero Ignitor 125 – Sporty Commuter | 55–60 kmpl & 11.5 PS",
+    "metaDescription": "Ignitor 125 blends sharp looks, 11.5 PS power & 55–60 kmpl efficiency—perfect for style-conscious city riders on a budget.",
+    "brand": "Hero",
+    "category": "Standard",
+    "cc": 124.7,
+    "price": "Tk. 1,28,500",
+    "short_description": "Hero Ignitor is a stylish 125cc commuter bike with good mileage, reliable performance, and a sporty design suited for city rides.",
+    "Zero_Sixty": "6.2 sec",
+    "Zero_Hundred": "20.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "55-60 kmpl",
+    "top_speed_claimed": "95 km/h",
+    "top_speed_reported": "85-90 km/h",
+    "braking": "Front Disc / Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "138 kg",
+    "max_power": "11.5 PS @ 8000 rpm",
+    "max_torque": "11 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "2-piston",
+      "rear": "Drum"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "100/90-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital-Analog Combo",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2010 mm",
+    "overall_width": "760 mm",
+    "build_quality": "Good build with sporty looks",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926223/bikes/HERO/HERO-IGNITOR/her-ignitor-right-view.webp",
+        "alt": "HERO-IGNITOR Her Ignitor Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926223/bikes/HERO/HERO-IGNITOR/hero-ignitor-back-view.webp",
+        "alt": "HERO-IGNITOR Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926224/bikes/HERO/HERO-IGNITOR/hero-ignitor-front-view.webp",
+        "alt": "HERO-IGNITOR Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926225/bikes/HERO/HERO-IGNITOR/hero-ignitor-left-view.webp",
+        "alt": "HERO-IGNITOR Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926226/bikes/HERO/HERO-IGNITOR/hero-ignitor-showroom-view.webp",
+        "alt": "HERO-IGNITOR Showroom View"
+      }
+    ],
+    "pros": [
+      "Fuel efficient engine",
+      "Comfortable riding posture",
+      "Sharp styling",
+      "Affordable maintenance",
+      "Good pickup in city traffic"
+    ],
+    "cons": [
+      "Rear drum brake",
+      "No ABS",
+      "Basic instrument cluster",
+      "Lacks advanced features"
+    ],
+    "faqs": [
+      {
+        "question": "Is the Hero Ignitor suitable for daily commuting?",
+        "answer": "Yes, it offers good mileage and comfortable handling for city rides."
+      },
+      {
+        "question": "Does the bike come with ABS?",
+        "answer": "No, the Hero Ignitor does not feature ABS."
+      },
+      {
+        "question": "What type of tyres does the Hero Ignitor have?",
+        "answer": "It comes with tubeless alloy wheels for better safety."
+      },
+      {
+        "question": "What is the fuel tank capacity?",
+        "answer": "The fuel tank can hold up to 12 liters."
+      }
+    ]
+  },
+  {
+    "name": "Hero Ignitor - FV XTEC Refresh",
+    "slug": "hero-ignitor-fv-xtec-refresh",
+    "metaTitle": "Hero Ignitor FV XTEC – Connected 125cc Bike | LED + Bluetooth",
+    "metaDescription": "Ignitor FV XTEC features LED lights, Bluetooth connectivity & XTEC digital console—smart tech for modern, efficient commuting.",
+    "brand": "Hero",
+    "category": "Standard",
+    "cc": 124.7,
+    "price": "Tk. 1,56,000",
+    "short_description": "The Hero Ignitor FV XTEC Refresh is an updated variant featuring modern XTEC technology, refreshed styling, and improved features for enhanced city performance.",
+    "Zero_Sixty": "6.0 sec",
+    "Zero_Hundred": "19.8 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "55-62 kmpl",
+    "top_speed_claimed": "98 km/h",
+    "top_speed_reported": "90 km/h",
+    "braking": "Front Disc / Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "140 kg",
+    "max_power": "11.8 PS @ 8000 rpm",
+    "max_torque": "11.2 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "2-piston",
+      "rear": "Drum"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "100/90-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Digital LCD with XTEC",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2010 mm",
+    "overall_width": "760 mm",
+    "build_quality": "Refined build with modern styling updates",
+    "parts_availability": "Widely available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761040343/hero-ignitor-fvxtec-refresh-right-side-view_t3mwb9.png",
+        "alt": "Hero-Ignitor-FV-XTEC-Refresh Showroom View"
+      }
+    ],
+    "pros": [
+      "Modern digital XTEC display",
+      "Improved mileage",
+      "LED headlight and tail light",
+      "Bluetooth connectivity",
+      "Refreshed sporty styling"
+    ],
+    "cons": [
+      "Rear drum brake",
+      "No ABS",
+      "Slightly higher price",
+      "Limited feature upgrades"
+    ],
+    "faqs": [
+      {
+        "question": "What is XTEC in the Hero Ignitor FV XTEC Refresh?",
+        "answer": "XTEC is Hero's digital technology platform providing improved ride analytics and better mileage."
+      },
+      {
+        "question": "Does this variant have Bluetooth connectivity?",
+        "answer": "Yes, it includes Bluetooth connectivity for smartphone pairing."
+      },
+      {
+        "question": "Are the lights LED type?",
+        "answer": "Yes, both headlight and tail light use LED technology."
+      },
+      {
+        "question": "Is this bike suitable for long city commutes?",
+        "answer": "Yes, it offers comfort and fuel efficiency for urban riding."
+      }
+    ]
+  },
+  {
+    "name": "Hero Ignitor Techno",
+    "slug": "hero-ignitor-techno",
+    "metaTitle": "Hero Ignitor Techno – Tech-Inspired 125cc Bike | 54–59 kmpl",
+    "metaDescription": "Ignitor Techno merges techno-styling, 11.6 PS engine & 54–59 kmpl mileage—a fresh, efficient take on urban commuting.",
+    "brand": "Hero",
+    "category": "Standard",
+    "cc": 124.7,
+    "price": "Tk. 1,40,000",
+    "short_description": "Hero Ignitor Techno is a 125cc commuter bike combining techno-inspired design with good mileage and reliable performance for daily urban riding.",
+    "Zero_Sixty": "6.1 sec",
+    "Zero_Hundred": "20.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "63 kmpl",
+    "mileage_reported": "54-59 kmpl",
+    "top_speed_claimed": "96 km/h",
+    "top_speed_reported": "88-92 km/h",
+    "braking": "Front Disc / Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "139 kg",
+    "max_power": "11.6 PS @ 8000 rpm",
+    "max_torque": "11 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "2-piston",
+      "rear": "Drum"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "100/90-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital-Analog Combo",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2010 mm",
+    "overall_width": "760 mm",
+    "build_quality": "Strong build with techno-themed styling",
+    "parts_availability": "Easily Available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926223/bikes/HERO/HERO-IGNITOR/her-ignitor-right-view.webp",
+        "alt": "HERO-IGNITOR Her Ignitor Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926223/bikes/HERO/HERO-IGNITOR/hero-ignitor-back-view.webp",
+        "alt": "HERO-IGNITOR Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926224/bikes/HERO/HERO-IGNITOR/hero-ignitor-front-view.webp",
+        "alt": "HERO-IGNITOR Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926225/bikes/HERO/HERO-IGNITOR/hero-ignitor-left-view.webp",
+        "alt": "HERO-IGNITOR Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926226/bikes/HERO/HERO-IGNITOR/hero-ignitor-showroom-view.webp",
+        "alt": "HERO-IGNITOR Showroom View"
+      }
+    ],
+    "pros": [
+      "Good fuel efficiency",
+      "Attractive techno styling",
+      "Comfortable ride quality",
+      "Affordable maintenance",
+      "Reliable engine"
+    ],
+    "cons": [
+      "No ABS",
+      "Rear drum brake",
+      "Basic instrument cluster",
+      "Halogen headlight"
+    ],
+    "faqs": [
+      {
+        "question": "Is the Hero Ignitor Techno good for city rides?",
+        "answer": "Yes, it is designed for efficient and comfortable urban commuting."
+      },
+      {
+        "question": "Does this bike have ABS?",
+        "answer": "No, the Ignitor Techno does not come with ABS."
+      },
+      {
+        "question": "What type of headlight does it have?",
+        "answer": "It uses a halogen headlight."
+      },
+      {
+        "question": "Are the tyres tubeless?",
+        "answer": "Yes, the bike comes with tubeless tyres."
+      }
+    ]
+  },
+  {
+    "name": "Hero Karizma XMR 210",
+    "slug": "hero-karizma-xmr-210",
+    "metaTitle": "Hero Karizma XMR 210 – 210cc Liquid-Cooled Sports Bike | ABS + LED",
+    "metaDescription": "Karizma XMR 210 unleashes 20.7 PS, LED projector headlamp, dual-channel ABS & Bluetooth—Hero’s most advanced sportbike for enthusiasts.",
+    "brand": "Hero",
+    "category": "Sports",
+    "cc": 210,
+    "price": "Tk. 4,99,990",
+    "short_description": "The Hero Karizma XMR 210 is a powerful 210cc sports bike combining aggressive styling, advanced features, and strong performance for enthusiasts.",
+    "Zero_Sixty": "3.8 sec",
+    "Zero_Hundred": "10.5 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "36-42 kmpl",
+    "top_speed_claimed": "135 km/h",
+    "top_speed_reported": "125-130 km/h",
+    "braking": "Front & Rear Disc with ABS",
+    "gear": "6-speed manual",
+    "weight": "145 kg",
+    "max_power": "20.7 PS @ 9000 rpm",
+    "max_torque": "18 Nm @ 7000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "4-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-17",
+    "rear_tyre_size": "120/80-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "11 L",
+    "headlight_type": "LED Projector",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Fully Digital LCD",
+    "seat_height": "800 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2020 mm",
+    "overall_width": "780 mm",
+    "build_quality": "Robust sports build with aerodynamic design",
+    "parts_availability": "Available but limited in some areas",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926226/bikes/HERO/HERO-KARIZMA-XMR/hero-karizma-xmr-210-back-view.webp",
+        "alt": "HERO-KARIZMA-XMR 210 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926227/bikes/HERO/HERO-KARIZMA-XMR/hero-karizma-xmr-210-front-view.webp",
+        "alt": "HERO-KARIZMA-XMR 210 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926228/bikes/HERO/HERO-KARIZMA-XMR/hero-karizma-xmr-210-left-view.webp",
+        "alt": "HERO-KARIZMA-XMR 210 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926230/bikes/HERO/HERO-KARIZMA-XMR/hero-karizma-xmr-210-right-view.webp",
+        "alt": "HERO-KARIZMA-XMR 210 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926231/bikes/HERO/HERO-KARIZMA-XMR/hero-karizma-xmr-210-showroom-view.webp",
+        "alt": "HERO-KARIZMA-XMR 210 Showroom View"
+      }
+    ],
+    "pros": [
+      "Powerful 210cc liquid cooled engine",
+      "Aggressive sport styling",
+      "Full LED lighting with projector headlamp",
+      "Disc brakes with ABS on both ends",
+      "Digital display with Bluetooth connectivity"
+    ],
+    "cons": [
+      "Relatively higher price",
+      "Slightly heavier than competitors",
+      "Limited parts availability in some areas",
+      "No quickshifter or traction control"
+    ],
+    "faqs": [
+      {
+        "question": "Does the Karizma XMR 210 come with ABS?",
+        "answer": "Yes, it has front and rear disc brakes with ABS."
+      },
+      {
+        "question": "Is the headlight projector type?",
+        "answer": "Yes, it features a LED projector headlamp."
+      },
+      {
+        "question": "Does it have Bluetooth connectivity?",
+        "answer": "Yes, the digital display supports Bluetooth pairing."
+      },
+      {
+        "question": "Is this bike suitable for sport riding?",
+        "answer": "Absolutely, it is designed for sporty performance and aggressive riding."
+      }
+    ]
+  },
+  {
+    "name": "Hero Maestro Edge",
+    "slug": "hero-maestro-edge",
+    "metaTitle": "Hero Maestro Edge – 110cc Scooter | 48–52 kmpl & CVT Ease",
+    "metaDescription": "Maestro Edge scooter offers effortless CVT ride, 48–52 kmpl mileage & tubeless tyres—ideal for stress-free city mobility.",
+    "brand": "Hero",
+    "category": "Scooter",
+    "cc": 110.9,
+    "price": "Tk. 1,57,500",
+    "short_description": "Hero Maestro Edge is a stylish and efficient 110cc scooter offering comfortable urban mobility with modern features and smooth performance.",
+    "Zero_Sixty": "7.5 sec",
+    "Zero_Hundred": "25.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "55 kmpl",
+    "mileage_reported": "48-52 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "75-80 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "108 kg",
+    "max_power": "8.7 PS @ 7500 rpm",
+    "max_torque": "9 Nm @ 5500 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Drum",
+      "rear": "Drum"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-12",
+    "rear_tyre_size": "90/90-12",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5.3 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital-Analog Combo",
+    "seat_height": "765 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1775 mm",
+    "overall_width": "700 mm",
+    "build_quality": "Compact build with modern styling",
+    "parts_availability": "Easily Available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926231/bikes/HERO/HERO-MAESTRO-EDGE/hero-maestro-edge-back-view.webp",
+        "alt": "HERO-MAESTRO-EDGE Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926232/bikes/HERO/HERO-MAESTRO-EDGE/hero-maestro-edge-front-view.webp",
+        "alt": "HERO-MAESTRO-EDGE Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926233/bikes/HERO/HERO-MAESTRO-EDGE/hero-maestro-edge-left-view.webp",
+        "alt": "HERO-MAESTRO-EDGE Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926234/bikes/HERO/HERO-MAESTRO-EDGE/hero-maestro-edge-showroom-view.webp",
+        "alt": "HERO-MAESTRO-EDGE Showroom View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926235/bikes/HERO/HERO-MAESTRO-EDGE/herp-maestro-edge-right-view.webp",
+        "alt": "HERO-MAESTRO-EDGE Herp Maestro Edge Right View"
+      }
+    ],
+    "pros": [
+      "Smooth automatic transmission",
+      "Comfortable ride for city traffic",
+      "Good mileage",
+      "Tubeless tyres",
+      "Affordable price"
+    ],
+    "cons": [
+      "Drum brakes front and rear",
+      "No LED headlight",
+      "No advanced connectivity features",
+      "Basic instrument cluster"
+    ],
+    "faqs": [
+      {
+        "question": "Is the Hero Maestro Edge suitable for daily city commute?",
+        "answer": "Yes, it offers comfortable and efficient riding in urban environments."
+      },
+      {
+        "question": "Does it have tubeless tyres?",
+        "answer": "Yes, both front and rear tyres are tubeless."
+      },
+      {
+        "question": "What type of transmission does it have?",
+        "answer": "It uses a CVT automatic transmission."
+      },
+      {
+        "question": "Does it come with LED headlights?",
+        "answer": "No, it has halogen headlights."
+      }
+    ]
+  },
+  {
+    "name": "Hero Maestro EDGE XTEC",
+    "slug": "hero-maestro-edge-xtec",
+    "metaTitle": "Hero Maestro EDGE XTEC – Smart 110cc Scooter | LED + Bluetooth",
+    "metaDescription": "Maestro EDGE XTEC adds LED lights, Bluetooth & digital XTEC display—the connected scooter for tech-savvy urban riders.",
+    "brand": "Hero",
+    "category": "Scooter",
+    "cc": 110.9,
+    "price": "Tk. 1,75,000",
+    "short_description": "Hero Maestro EDGE XTEC is an advanced 110cc scooter featuring XTEC digital technology, improved styling, and smart connectivity for modern riders.",
+    "Zero_Sixty": "7.3 sec",
+    "Zero_Hundred": "24.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "58 kmpl",
+    "mileage_reported": "50-54 kmpl",
+    "top_speed_claimed": "88 km/h",
+    "top_speed_reported": "78-82 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "110 kg",
+    "max_power": "8.9 PS @ 7500 rpm",
+    "max_torque": "9.2 Nm @ 5500 rpm",
+    "clutch": "Automatic Centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Drum",
+      "rear": "Drum"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-12",
+    "rear_tyre_size": "90/90-12",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5.3 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Fully Digital LCD with XTEC",
+    "seat_height": "765 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1775 mm",
+    "overall_width": "700 mm",
+    "build_quality": "Refined build with modern digital features",
+    "parts_availability": "Easily Available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761040787/hero-maestro-edgextec-showroom-red-view_ychsxa.png",
+        "alt": "HERO-MAESTRO-EDGE XTEC Showroom View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761040801/hero-maestro-edgextec-showroom-black-view_gktokj.png",
+        "alt": "HERO-MAESTRO-EDGE XTEC Showroom View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761040794/hero-maestro-edgextec-showroom-white-view_mbyc1y.png",
+        "alt": "HERO-MAESTRO-EDGE XTEC Showroom View"
+      }
+    ],
+    "pros": [
+      "Digital XTEC display with connectivity",
+      "LED headlight and tail light",
+      "Improved mileage",
+      "Tubeless tyres",
+      "Modern scooter styling"
+    ],
+    "cons": [
+      "Drum brakes front and rear",
+      "No ABS",
+      "Higher price than standard variant",
+      "Limited advanced safety features"
+    ],
+    "faqs": [
+      {
+        "question": "What is XTEC in the Maestro EDGE XTEC?",
+        "answer": "XTEC is Hero's digital technology platform that offers enhanced connectivity and ride analytics."
+      },
+      {
+        "question": "Does the Maestro EDGE XTEC have Bluetooth connectivity?",
+        "answer": "Yes, it supports Bluetooth smartphone pairing."
+      },
+      {
+        "question": "Are the headlights LED?",
+        "answer": "Yes, both headlight and tail light are LED."
+      },
+      {
+        "question": "Is the transmission automatic?",
+        "answer": "Yes, it uses a CVT automatic transmission."
+      }
+    ]
+  },
+  {
+    "name": "Hero Passion X Pro Disc",
+    "slug": "hero-passion-x-pro-disc",
+    "metaTitle": "Hero Passion X Pro Disc – 110cc Commuter | Front Disc & i3S Tech",
+    "metaDescription": "Passion X Pro Disc brings front disc safety, i3S fuel-saving tech & 50–56 kmpl—reliable & efficient for daily commutes.",
+    "brand": "Hero",
+    "category": "Standard",
+    "cc": 109.15,
+    "price": "Tk. 1,14,750",
+    "short_description": "The Hero Passion X Pro Disc is a reliable 110cc commuter bike with front disc brake, stylish design, and efficient i3S engine for urban mobility.",
+    "Zero_Sixty": "7.2 sec",
+    "Zero_Hundred": "23.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "60 kmpl",
+    "mileage_reported": "50-56 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "82-87 km/h",
+    "braking": "Front Disc / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "117 kg",
+    "max_power": "9.4 PS @ 7500 rpm",
+    "max_torque": "9 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "240 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "2-piston",
+      "rear": "Drum"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "90/90-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Halogen",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital-Analog Combo",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1982 mm",
+    "overall_width": "744 mm",
+    "build_quality": "Durable commuter with stylish finish",
+    "parts_availability": "Easily Available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761041403/hero-passionxpro-disc-showroom-view_wkqyzc.png",
+        "alt": "HERO-PASSION-XPRO Disc Back View"
+      }
+    ],
+    "pros": [
+      "Front disc brake for improved safety",
+      "Stylish and practical design",
+      "Good mileage for daily rides",
+      "Reliable i3S engine technology",
+      "Lightweight and easy handling"
+    ],
+    "cons": [
+      "No LED lighting",
+      "Basic instrument cluster",
+      "No ABS or CBS",
+      "Lacks premium features"
+    ],
+    "faqs": [
+      {
+        "question": "What is the i3S technology in this bike?",
+        "answer": "i3S stands for Idle Stop-Start System, which helps save fuel by stopping the engine when idle."
+      },
+      {
+        "question": "Does the Passion X Pro Disc have ABS?",
+        "answer": "No, it does not include ABS."
+      },
+      {
+        "question": "Is this bike good for long-distance rides?",
+        "answer": "It is best suited for short to medium city commutes, not ideal for highway touring."
+      },
+      {
+        "question": "What type of headlight is used?",
+        "answer": "It uses a halogen headlight."
+      }
+    ]
+  },
+  {
+    "name": "Hero Passion X Pro Drum",
+    "slug": "hero-passion-x-pro-drum",
+    "metaTitle": "Hero Passion X Pro Drum – Budget 110cc Bike | 50–56 kmpl Mileage",
+    "metaDescription": "Affordable Passion X Pro Drum offers i3S tech, 50–56 kmpl & lightweight handling—value-packed commuting for city & village roads.",
+    "brand": "Hero",
+    "category": "Standard",
+    "cc": 109.15,
+    "price": "Tk. 1,07,250",
+    "short_description": "Hero Passion X Pro Drum is a budget-friendly 110cc commuter with a drum braking system, stylish graphics, and Hero's efficient i3S engine.",
+    "Zero_Sixty": "7.5 sec",
+    "Zero_Hundred": "24.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "60 kmpl",
+    "mileage_reported": "50-56 kmpl",
+    "top_speed_claimed": "88 km/h",
+    "top_speed_reported": "80-85 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "116 kg",
+    "max_power": "9.4 PS @ 7500 rpm",
+    "max_torque": "9 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Drum",
+      "rear": "Drum"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "90/90-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Halogen",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital-Analog Combo",
+    "seat_height": "790 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1982 mm",
+    "overall_width": "744 mm",
+    "build_quality": "Simple build focused on economy and durability",
+    "parts_availability": "Easily Available",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761041607/hero-passionxpro-drum-showroom-view_z6kb3c.png",
+        "alt": "HERO-PASSION-XPRO Drum Back View"
+      }
+    ],
+    "pros": [
+      "Economical pricing",
+      "i3S fuel-saving engine",
+      "Tubeless tyres",
+      "Simple and low maintenance",
+      "Good mileage"
+    ],
+    "cons": [
+      "Both brakes are drum",
+      "No advanced features",
+      "Basic design elements",
+      "No LED lighting"
+    ],
+    "faqs": [
+      {
+        "question": "Is the drum variant less safe than disc?",
+        "answer": "Drum brakes are adequate for city use, but disc offers better stopping power."
+      },
+      {
+        "question": "Does this variant have the same engine as the disc version?",
+        "answer": "Yes, both share the same 109.15cc i3S engine."
+      },
+      {
+        "question": "Is it suitable for new riders?",
+        "answer": "Yes, it's lightweight and easy to control, ideal for beginners."
+      },
+      {
+        "question": "What’s the difference between this and the disc version?",
+        "answer": "The only major difference is the front brake type – drum here vs disc in the other."
+      }
+    ]
+  },
+  {
+    "name": "Hero Passion X Pro X tec",
+    "slug": "hero-passion-x-pro-x-tec",
+    "metaTitle": "Hero Passion X Pro XTEC – Connected 110cc Bike | LED + Bluetooth",
+    "metaDescription": "Passion X Pro XTEC features LED lighting, Bluetooth alerts & digital XTEC console—smart commuting redefined for modern riders.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 109.15,
+    "price": "Tk. 141,000",
+    "short_description": "The Hero Passion X Pro X tec is a premium 110cc commuter bike with advanced features like XTEC connected technology, offering a blend of style and modern convenience for daily commuting.",
+    "Zero_Sixty": "9.2 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "65 kmpl",
+    "mileage_reported": "60-63 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "115 kg",
+    "max_power": "9.1 PS @ 7500 rpm",
+    "max_torque": "9.89 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "80/100-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "9.8 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Digital with XTEC connectivity",
+    "seat_height": "805 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Premium commuter",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761041789/hero-passionxpro-xtec-right-side-view_zaeree.png",
+        "alt": "HERO-PASSION-XPRO XTEC Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761041796/hero-passionxpro-xtec-showroom-view_mfqisc.png",
+        "alt": "HERO-PASSION-XPRO XTEC Showroom View"
+      }
+    ],
+    "pros": [
+      "XTEC connected features",
+      "LED lighting package",
+      "Good fuel efficiency",
+      "Comfortable ergonomics",
+      "Modern digital console"
+    ],
+    "cons": [
+      "Drum brakes only",
+      "No ABS option",
+      "Limited power for highways",
+      "Premium pricing for segment"
+    ],
+    "faqs": [
+      {
+        "question": "What is XTEC technology?",
+        "answer": "Hero's connected tech offering call/SMS alerts, real-time mileage info, and other smart features."
+      },
+      {
+        "question": "Does it have disc brake option?",
+        "answer": "No, it comes with drum brakes only."
+      },
+      {
+        "question": "Is it good for female riders?",
+        "alt": "Hero Passion X Pro X tec Rear View"
+      }
+    ]
+  },
+  {
+    "name": "Hero Passion Xpro i3S",
+    "slug": "hero-passion-xpro-i3s",
+    "metaTitle": "Hero Passion Xpro i3S – Ultra-Efficient 110cc Bike | 65–68 kmpl",
+    "metaDescription": "Passion Xpro i3S delivers class-leading 65–68 kmpl with idle start-stop tech—ultimate fuel saver for stop-and-go city traffic.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 109.15,
+    "price": "Tk. 128,500",
+    "short_description": "The Hero Passion Xpro i3S is a fuel-efficient 110cc commuter bike featuring Hero's i3S idle start-stop system, designed for optimal fuel savings in city riding conditions.",
+    "Zero_Sixty": "9.5 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "70 kmpl",
+    "mileage_reported": "65-68 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "114 kg",
+    "max_power": "8.91 PS @ 7250 rpm",
+    "max_torque": "9.89 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "80/100-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "9.8 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Combo",
+    "seat_height": "805 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Standard commuter",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761042064/hero-passionxpro-i3s-right-side-view_cz8vgv.png",
+        "alt": "HERO-PASSION-XPRO I3S Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761042049/hero-passionxpro-i3s-right-side-red-view_iea6sy.png",
+        "alt": "HERO-PASSION-XPRO I3S Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761042056/hero-passionxpro-i3s-right-side-blue-view_zl2spd.png",
+        "alt": "HERO-PASSION-XPRO I3S Right View"
+      }
+    ],
+    "pros": [
+      "Excellent fuel efficiency",
+      "i3S start-stop system saves fuel",
+      "Low maintenance costs",
+      "Comfortable riding posture",
+      "Affordable price point"
+    ],
+    "cons": [
+      "Basic features",
+      "No disc brake option",
+      "Outdated halogen headlight",
+      "No connected features"
+    ],
+    "faqs": [
+      {
+        "question": "How does i3S system work?",
+        "answer": "Automatically turns off engine at idle and restarts when clutch is engaged."
+      },
+      {
+        "question": "What's the difference between Xtec and i3S versions?",
+        "answer": "Xtec has LED lights and Bluetooth, while i3S focuses on fuel efficiency."
+      },
+      {
+        "question": "Is it good for stop-and-go traffic?",
+        "answer": "Yes, the i3S system makes it ideal for city traffic conditions."
+      }
+    ]
+  },
+  {
+    "name": "Hero Pleasure",
+    "slug": "hero-pleasure",
+    "metaTitle": "Hero Pleasure – Lightweight 102cc Scooter for Women | 55–58 kmpl",
+    "metaDescription": "Hero Pleasure scooter: compact, 102 kg, 55–58 kmpl & feminine styling—designed for easy, confident urban rides.",
+    "brand": "Hero",
+    "category": "Scooter",
+    "cc": 102,
+    "price": "Tk. 152,000",
+    "short_description": "The Hero Pleasure is a stylish and lightweight 102cc scooter designed specifically for women, offering easy handling, good mileage, and feminine color options.",
+    "Zero_Sixty": "Not Specified",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "60 kmpl",
+    "mileage_reported": "55-58 kmpl",
+    "top_speed_claimed": "80 km/h",
+    "top_speed_reported": "75 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "102 kg",
+    "max_power": "7.9 PS @ 7000 rpm",
+    "max_torque": "8.3 Nm @ 5000 rpm",
+    "clutch": "Automatic centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-12",
+    "rear_tyre_size": "90/100-10",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "760 mm",
+    "ground_clearance": "155 mm",
+    "overall_length": "1805 mm",
+    "overall_width": "695 mm",
+    "build_quality": "Lightweight scooter",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926240/bikes/HERO/HERO-PLEASURE/hero-pleasure-back-view.webp",
+        "alt": "HERO-PLEASURE Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926241/bikes/HERO/HERO-PLEASURE/hero-pleasure-front-view.webp",
+        "alt": "HERO-PLEASURE Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926242/bikes/HERO/HERO-PLEASURE/hero-pleasure-left-view.webp",
+        "alt": "HERO-PLEASURE Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926242/bikes/HERO/HERO-PLEASURE/hero-pleasure-right-view.webp",
+        "alt": "HERO-PLEASURE Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926243/bikes/HERO/HERO-PLEASURE/hero-pleasure-showroom-view.webp",
+        "alt": "HERO-PLEASURE Showroom View"
+      }
+    ],
+    "pros": [
+      "Lightweight and easy to handle",
+      "Feminine styling options",
+      "Good fuel efficiency",
+      "Low seat height",
+      "Maintenance-free battery"
+    ],
+    "cons": [
+      "Small wheels affect stability",
+      "Limited storage space",
+      "Basic features",
+      "Small fuel tank"
+    ],
+    "faqs": [
+      {
+        "question": "Is Hero Pleasure only for women?",
+        "answer": "Designed for women but can be ridden by anyone."
+      },
+      {
+        "question": "Does it have disc brake option?",
+        "answer": "No, it comes with drum brakes only."
+      },
+      {
+        "question": "What is the under-seat storage capacity?",
+        "answer": "18 liters - can fit a small bag or groceries."
+      }
+    ]
+  },
+  {
+    "name": "Hero Splendor iSmart Plus",
+    "slug": "hero-splendor-ismart-plus",
+    "metaTitle": "Hero Splendor iSmart Plus – Legendary 110cc Bike | 70–73 kmpl",
+    "metaDescription": "Splendor iSmart Plus: India’s most trusted bike with 70–73 kmpl, unmatched reliability & lowest running costs for daily riders.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 109.15,
+    "price": "Tk. 120,000",
+    "short_description": "The Hero Splendor iSmart Plus is one of India's most trusted 110cc commuter bikes, known for its legendary reliability, excellent mileage, and low running costs.",
+    "Zero_Sixty": "10.0 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "75 kmpl",
+    "mileage_reported": "70-73 kmpl",
+    "top_speed_claimed": "90 km/h",
+    "top_speed_reported": "85 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "112 kg",
+    "max_power": "8.91 PS @ 7250 rpm",
+    "max_torque": "9.89 Nm @ 5500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubed",
+    "front_tyre_size": "80/100-18",
+    "rear_tyre_size": "80/100-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "9.8 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "800 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "750 mm",
+    "build_quality": "Basic but reliable",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761042800/hero-splendor-ismartplus-showroom-view_a0hsil.png",
+        "alt": "HERO-SPLENDER-iSmart-PLUS-SPORTS Hero Splendor Plus Sports Back View"
+      }
+    ],
+    "pros": [
+      "Legendary reliability",
+      "Excellent fuel efficiency",
+      "Low maintenance costs",
+      "Comfortable for long rides",
+      "Wide service network"
+    ],
+    "cons": [
+      "Very basic features",
+      "Outdated styling",
+      "No disc brake option",
+      "Tubed tyres"
+    ],
+    "faqs": [
+      {
+        "question": "Why is Splendor so popular?",
+        "answer": "Due to its unbeatable reliability, mileage and low running costs."
+      },
+      {
+        "question": "Does it have self-start?",
+        "answer": "Yes, the iSmart Plus version comes with self-start."
+      },
+      {
+        "question": "Is it good for rural areas?",
+        "answer": "Perfect for rural conditions due to simple mechanics and durability."
+      }
+    ]
+  },
+  {
+    "name": "Hero Splendor+ 25 Years Special Edition",
+    "slug": "hero-splendor-plus-25-years-special-edition",
+    "metaTitle": "Splendor+ 25 Years SE – Commemorative 97cc Bike | 75–78 kmpl",
+    "metaDescription": "Celebrate 25 years of Splendor with this special edition—75–78 kmpl, kick-start simplicity & iconic reliability in exclusive badging.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 97.2,
+    "price": "Tk. 110,500",
+    "short_description": "The Hero Splendor+ 25 Years Special Edition commemorates the legendary bike's legacy with exclusive badging and graphics, maintaining the same reliable 97.2cc engine that made it India's best-selling motorcycle.",
+    "Zero_Sixty": "11.5 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "80 kmpl",
+    "mileage_reported": "75-78 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "109 kg",
+    "max_power": "7.9 PS @ 8000 rpm",
+    "max_torque": "8.05 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "110 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubed",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "2.75-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "9.8 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1995 mm",
+    "overall_width": "735 mm",
+    "build_quality": "Basic but reliable",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761043470/hero-splendorplus-25years-right-side-view_scukdg.png",
+        "alt": "Right profile of Hero Splendor+ 25 Years Special Edition"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761043465/hero-splendorplus-25years-left-side-view_vjlj2b.png",
+        "alt": "Left profile showing engine and kick lever of Hero Splendor+ 25 SE"
+      },
+      {
+        "url": "Hero Splendor+ 25 Years Special Edition on showroom display",
+        "alt": "HERO-SPLENDER-PLUS-SPORTS Hero Splendor Plus Sports Front View"
+      }
+    ],
+    "pros": [
+      "Exclusive anniversary edition",
+      "Legendary reliability",
+      "Excellent fuel efficiency",
+      "Low maintenance costs",
+      "Commemorative badging"
+    ],
+    "cons": [
+      "Very basic features",
+      "No modern upgrades",
+      "Drum brakes only",
+      "Outdated styling"
+    ],
+    "faqs": [
+      {
+        "question": "What's special about this edition?",
+        "answer": "Commemorative graphics and badging celebrating 25 years of Splendor."
+      },
+      {
+        "question": "Does it have self-start?",
+        "answer": "No, this edition comes with kick start only."
+      },
+      {
+        "question": "Is the engine different?",
+        "answer": "Same reliable 97.2cc engine as standard Splendor+."
+      }
+    ]
+  },
+  {
+    "name": "Hero Splendor+ IBS i3S",
+    "slug": "hero-splendor-plus-ibs-i3s",
+    "metaTitle": "Splendor+ IBS i3S – Smart 100cc Bike | 80–83 kmpl Mileage",
+    "metaDescription": "Splendor+ IBS i3S combines integrated braking & start-stop tech for 80–83 kmpl—the ultimate fuel-efficient commuter.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 97.2,
+    "price": "Tk. 116,000",
+    "short_description": "The Hero Splendor+ IBS i3S combines the brand's IBS (Integrated Braking System) with i3S start-stop technology, creating one of the most fuel-efficient 100cc motorcycles in the market.",
+    "Zero_Sixty": "11.8 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "85 kmpl",
+    "mileage_reported": "80-83 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum / Rear Drum (IBS)",
+    "gear": "4-speed manual",
+    "weight": "110 kg",
+    "max_power": "7.9 PS @ 8000 rpm",
+    "max_torque": "8.05 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "110 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubed",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "2.75-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "9.8 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1995 mm",
+    "overall_width": "735 mm",
+    "build_quality": "Basic but reliable",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761044058/hero-splendorplus-ibsi3s-right-side-view_pijydi.png",
+        "alt": "Right profile showing Hero Splendor+ IBS i3S with alloy wheels"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761044052/hero-splendorplus-ibsi3s-left-side-view_iahqs3.png",
+        "alt": "Left profile showing engine, kick lever, and i3S decal"
+      }
+    ],
+    "pros": [
+      "Industry-leading mileage",
+      "i3S start-stop technology",
+      "IBS improves braking safety",
+      "Proven reliability",
+      "Low running costs"
+    ],
+    "cons": [
+      "Very basic features",
+      "No self-start option",
+      "Tubed tyres",
+      "Outdated instrument cluster"
+    ],
+    "faqs": [
+      {
+        "question": "How does IBS work?",
+        "answer": "Integrated Braking System applies both brakes when rear brake is used."
+      },
+      {
+        "question": "Is i3S useful in traffic?",
+        "answer": "Yes, automatically stops engine at idle to save fuel."
+      },
+      {
+        "question": "Does it have self-start?",
+        "answer": "No, this variant is kick start only."
+      }
+    ]
+  },
+  {
+    "name": "Hero Splendor+ Self",
+    "slug": "hero-splendor-plus-self",
+    "metaTitle": "Splendor+ Self – Self-Start 100cc Bike | 75–78 kmpl Efficiency",
+    "metaDescription": "Splendor+ Self adds self-start convenience to legendary efficiency—75–78 kmpl & proven durability for all riders.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 97.2,
+    "price": "Tk. 115,000",
+    "short_description": "The Hero Splendor+ Self brings the convenience of self-start to the legendary Splendor platform, maintaining its renowned reliability while adding modern convenience features.",
+    "Zero_Sixty": "11.5 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "80 kmpl",
+    "mileage_reported": "75-78 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "111 kg",
+    "max_power": "7.9 PS @ 8000 rpm",
+    "max_torque": "8.05 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "110 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubed",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "2.75-18",
+    "wheel_type": "Spoke",
+    "fuel_tank_capacity": "9.8 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "Bulb",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1995 mm",
+    "overall_width": "735 mm",
+    "build_quality": "Basic but reliable",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761037383/hero-hfdeluxe-self-showroom-view_svqloq.png",
+        "alt": "HERO-SPLENDER-PLUS-SPORTS Hero Splendor Plus Sports Back View"
+      }
+    ],
+    "pros": [
+      "Self-start convenience",
+      "Legendary Splendor reliability",
+      "Excellent fuel efficiency",
+      "Low maintenance costs",
+      "Wide service network"
+    ],
+    "cons": [
+      "Basic features",
+      "No disc brake option",
+      "Tubed tyres",
+      "Outdated styling"
+    ],
+    "faqs": [
+      {
+        "question": "Does it have kick start too?",
+        "answer": "Yes, comes with both self and kick start options."
+      },
+      {
+        "question": "Is the engine different from standard Splendor?",
+        "answer": "Same reliable 97.2cc engine with added self-starter."
+      },
+      {
+        "question": "What colors are available?",
+        "answer": "Typically black, red, blue and silver options."
+      }
+    ]
+  },
+  {
+    "name": "Hero Splendor+ XTEC",
+    "slug": "hero-splendor-plus-xtec",
+    "metaTitle": "Splendor+ XTEC – Connected 100cc Bike | LED + Bluetooth + Alloy",
+    "metaDescription": "Splendor+ XTEC modernizes the classic with LED lights, Bluetooth & digital display—smart features meet timeless reliability.",
+    "brand": "Hero",
+    "category": "Commuter",
+    "cc": 97.2,
+    "price": "Tk. 127,000",
+    "short_description": "The Hero Splendor+ XTEC brings modern connected features to the legendary platform, offering Bluetooth connectivity and LED lighting while maintaining the bike's renowned efficiency.",
+    "Zero_Sixty": "11.5 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "80 kmpl",
+    "mileage_reported": "75-78 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "4-speed manual",
+    "weight": "112 kg",
+    "max_power": "7.9 PS @ 8000 rpm",
+    "max_torque": "8.05 Nm @ 5000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "110 mm Drum",
+    "rear_brake": "110 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "2.75-18",
+    "rear_tyre_size": "2.75-18",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "9.8 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Digital with Bluetooth",
+    "seat_height": "795 mm",
+    "ground_clearance": "165 mm",
+    "overall_length": "1995 mm",
+    "overall_width": "735 mm",
+    "build_quality": "Premium commuter",
+    "parts_availability": "Excellent nationwide",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761044967/hero-splendorplus-xtec-left-side-view_dhdevz.png",
+        "alt": "HERO-SPLENDER-PLUS-SPORTS Hero Splendor Plus Sports Showroom View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761044957/hero-splendorplus-xtec-showroom-view_w7vl60.png",
+        "alt": "Hero Splendor+ XTEC on showroom display with XTEC graphics and console"
+      }
+    ],
+    "pros": [
+      "XTEC connected features",
+      "LED lighting package",
+      "Tubeless tyres",
+      "Alloy wheels",
+      "Maintains Splendor reliability"
+    ],
+    "cons": [
+      "Premium pricing for segment",
+      "Still has drum brakes",
+      "Same engine as base model",
+      "Limited performance upgrade"
+    ],
+    "faqs": [
+      {
+        "question": "What XTEC features does it have?",
+        "answer": "Bluetooth connectivity, call/SMS alerts, and trip analytics."
+      },
+      {
+        "question": "Does it have self-start?",
+        "answer": "Yes, comes with self-start as standard."
+      },
+      {
+        "question": "Is it worth the premium over standard Splendor?",
+        "answer": "Only if you value connected features and LED lighting."
+      }
+    ]
+  },
+  {
+    "name": "Hero Thriller 160R 4V",
+    "slug": "hero-thriller-160r-4v",
+    "metaTitle": "Hero Thriller 160R 4V – 163cc 4-Valve Street Bike | ABS + LED",
+    "metaDescription": "Thriller 160R 4V packs a 16.4 PS 4-valve engine, dual-channel ABS & LED lighting—premium performance for thrill-seeking riders.",
+    "brand": "Hero",
+    "category": "Street Bike",
+    "cc": 163.2,
+    "price": "Tk. 254,990",
+    "short_description": "The Hero Thriller 160R 4V is a premium street bike featuring a 4-valve engine, aggressive styling, and segment-leading features like Bluetooth connectivity and LED lighting.",
+    "Zero_Sixty": "6.5 sec",
+    "Zero_Hundred": "17.5 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "125 km/h",
+    "top_speed_reported": "120 km/h",
+    "braking": "Front Disc / Rear Disc (Single-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "148 kg",
+    "max_power": "16.4 PS @ 8500 rpm",
+    "max_torque": "14.7 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Full-digital with Bluetooth",
+    "seat_height": "800 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2045 mm",
+    "overall_width": "810 mm",
+    "build_quality": "Premium street bike",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761146140/hero-thriller-160r-4v-right-side-view_hx2c7j.png",
+        "alt": "Hero Thriller 160R 4V Right side View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761146141/hero-thriller-160r-4v-showroom-view_lghito.jpg",
+        "alt": "Hero Thriller 160R 4V Showroom View"
+      }
+    ],
+    "pros": [
+      "Powerful 4-valve engine",
+      "Premium LED lighting",
+      "Bluetooth connectivity",
+      "Sporty aggressive styling",
+      "Good feature package"
+    ],
+    "cons": [
+      "Premium pricing",
+      "No dual-channel ABS",
+      "Firm ride quality",
+      "Small pillion seat"
+    ],
+    "faqs": [
+      {
+        "question": "What's special about the 4V engine?",
+        "answer": "4-valve design improves airflow for better power and efficiency."
+      },
+      {
+        "question": "Does it have traction control?",
+        "answer": "No, but it has single-channel ABS."
+      },
+      {
+        "question": "Is it good for touring?",
+        "answer": "Yes, the 160cc engine is capable for short tours."
+      }
+    ]
+  },
+  {
+    "name": "Hero Thriller 160R 4V",
+    "slug": "hero-thriller-160r-4v",
+    "metaTitle": "Thriller 160R Fi ABS DD – 163cc Dual Disc Bike | Dual-Channel ABS",
+    "metaDescription": "Thriller 160R Fi ABS DD offers fuel injection, dual-channel ABS & aggressive styling—safety meets sporty street performance.",
+    "brand": "Hero",
+    "category": "Street Bike",
+    "cc": 163.2,
+    "price": "Tk. 254,990",
+    "description": "The Hero Thriller 160R 4V is a premium street bike featuring a high-performance 4-valve engine for exhilarating performance. With its aggressive naked bike styling, full LED lighting, and digital instrument cluster, it offers modern aesthetics to match its impressive power. The refined 160cc engine delivers strong acceleration while maintaining good fuel efficiency. Features like dual-channel ABS, inverted front forks, and radial tires make it one of Hero's most advanced offerings, perfect for riders wanting performance and style.",
+    "engine_type": "Single cylinder, 4-stroke, air-cooled, 4-valve",
+    "max_power": "16.4 PS @ 8500 rpm",
+    "max_torque": "14.5 Nm @ 6500 rpm",
+    "transmission": "5-speed manual",
+    "braking_system": "Front 276mm disc, Rear 220mm disc (with dual-channel ABS)",
+    "suspension": "Front inverted fork, Rear monoshock",
+    "tire_size": "Front 100/80-17, Rear 140/60-17",
+    "dimensions": "2085mm x 785mm x 1095mm (LxWxH)",
+    "seat_height": "810 mm",
+    "ground_clearance": "170 mm",
+    "fuel_capacity": "12 liters",
+    "weight": "148 kg",
+    "features": [
+      "4-valve engine technology",
+      "Full LED lighting",
+      "Digital instrument cluster",
+      "Dual-channel ABS",
+      "Inverted front forks"
+    ],
+    "pros": [
+      "Powerful 4-valve engine",
+      "Premium suspension components",
+      "Excellent braking with ABS",
+      "Aggressive street bike styling",
+      "Good power-to-weight ratio"
+    ],
+    "cons": [
+      "Premium pricing",
+      "Firm seat for long rides",
+      "Vibrations at high RPM",
+      "Small fuel tank",
+      "Limited service network"
+    ],
+    "faqs": [
+      {
+        "question": "What does 4V mean?",
+        "answer": "4-valve technology for better airflow and performance."
+      },
+      {
+        "question": "Is this Hero's most powerful bike?",
+        "answer": "One of the most powerful in Hero's conventional lineup (excluding Xpulse)."
+      },
+      {
+        "question": "What's the top speed?",
+        "answer": "About 120-125 km/h under ideal conditions."
+      },
+      {
+        "question": "Is it suitable for highway riding?",
+        "answer": "Yes, the power and stability make it good for highways."
+      }
+    ]
+  },
+  {
+    "name": "Hero Thriller 160R Fi ABS DD",
+    "slug": "hero-thriller-160r-fi-abs-dd",
+    "metaTitle": "Thriller 160R Fi ABS SD – Affordable 163cc Bike | Front ABS",
+    "metaDescription": "Thriller 160R Fi ABS SD delivers 15.2 PS, front ABS & LED lights at a smart price—value-packed urban performance.",
+    "brand": "Hero",
+    "category": "Street Bike",
+    "cc": 163,
+    "price": "Tk. 202,000",
+    "short_description": "The Hero Thriller 160R Fi ABS DD is a sporty street bike with dual-disc braking, fuel injection, and aggressive styling, offering a balance of performance and safety features.",
+    "Zero_Sixty": "6.8 sec",
+    "Zero_Hundred": "18.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc / Rear Disc (ABS)",
+    "gear": "5-speed manual",
+    "weight": "148 kg",
+    "max_power": "15.2 PS @ 8000 rpm",
+    "max_torque": "14 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "800 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2045 mm",
+    "overall_width": "785 mm",
+    "build_quality": "Sporty street bike",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761146542/hero-thriller-160r-fi-abs-dd-showroom-red-view_yidolk.png",
+        "alt": "Hero Thriller 160R DD White Showroom View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761146536/hero-thriller-160r-fi-abs-dd-showroom-view_vavy3r.png",
+        "alt": "Hero Thriller 160R DD Red Showroom View"
+      }
+    ],
+    "pros": [
+      "Dual-channel ABS for safety",
+      "Sporty aggressive styling",
+      "Good power-to-weight ratio",
+      "LED lighting package",
+      "Comfortable ergonomics"
+    ],
+    "cons": [
+      "Air-cooled engine",
+      "No Bluetooth connectivity",
+      "Rear suspension could be better",
+      "Limited color options"
+    ],
+    "faqs": [
+      {
+        "question": "Does the Thriller 160R DD have ABS?",
+        "answer": "Yes, it comes with dual-channel ABS as standard."
+      },
+      {
+        "question": "What's the difference between DD and SD versions?",
+        "answer": "DD has dual disc brakes while SD has single disc (front only)."
+      },
+      {
+        "question": "Is it good for highway riding?",
+        "answer": "Yes, the 163cc engine is capable for highway use."
+      }
+    ]
+  },
+  {
+    "name": "Hero Thriller 160R Fi ABS SD",
+    "slug": "hero-thriller-160r-fi-abs-sd",
+    "metaTitle": "Hero Xoom 110 – Practical 110cc Scooter | 55–58 kmpl & 18L Storage",
+    "metaDescription": "Xoom 110 scooter: 110cc ease, 55–58 kmpl & 18L under-seat storage—practical, comfortable city commuting for all.",
+    "brand": "Hero",
+    "category": "Street Bike",
+    "cc": 163,
+    "price": "Tk. 192,000",
+    "short_description": "The Hero Thriller 160R Fi ABS SD offers the same 163cc engine as the DD version but with single disc brake configuration, making it a more affordable option with core features intact.",
+    "Zero_Sixty": "6.8 sec",
+    "Zero_Hundred": "18.5 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc (ABS) / Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "146 kg",
+    "max_power": "15.2 PS @ 8000 rpm",
+    "max_torque": "14 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "800 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2045 mm",
+    "overall_width": "785 mm",
+    "build_quality": "Sporty street bike",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://cdn.example.com/hero-thriller-160r-sd-front.webp",
+        "alt": "Hero Thriller 160R Fi ABS SD on showroom display with sleek street styling"
+      }
+    ],
+    "pros": [
+      "More affordable than DD version",
+      "Same powerful 163cc engine",
+      "Single-channel ABS still provides safety",
+      "LED lighting package",
+      "Good mileage for performance"
+    ],
+    "cons": [
+      "No rear disc brake",
+      "Drum brake at rear",
+      "Air-cooled engine",
+      "No Bluetooth features"
+    ],
+    "faqs": [
+      {
+        "question": "Does the SD version have ABS?",
+        "answer": "Yes, but only single-channel ABS for the front wheel."
+      },
+      {
+        "question": "Is the engine different from DD version?",
+        "answer": "No, same 163cc engine, only braking system differs."
+      },
+      {
+        "question": "Which version is better value?",
+        "answer": "SD offers better value for budget-conscious buyers who can compromise on rear disc brake."
+      }
+    ]
+  },
+  {
+    "name": "Hero Xoom 110",
+    "slug": "hero-xoom-110",
+    "metaTitle": "Hero Xoom 110 – Practical 110cc Scooter | 55–58 kmpl & 18L Storage",
+    "metaDescription": "Xoom 110 scooter: 110cc ease, 55–58 kmpl & 18L under-seat storage—practical, comfortable city commuting for all.",
+    "brand": "Hero",
+    "category": "Scooter",
+    "cc": 110.9,
+    "price": "Tk. 188,000 (Price not available)",
+    "short_description": "The Hero Xoom 110 is a modern scooter offering convenience and efficiency with its 110cc engine, designed for comfortable city commuting with practical features.",
+    "Zero_Sixty": "Not Specified",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "60 kmpl",
+    "mileage_reported": "55-58 kmpl",
+    "top_speed_claimed": "85 km/h",
+    "top_speed_reported": "80 km/h",
+    "braking": "Front Drum / Rear Drum",
+    "gear": "CVT Automatic",
+    "weight": "108 kg",
+    "max_power": "8.1 PS @ 7250 rpm",
+    "max_torque": "8.7 Nm @ 5500 rpm",
+    "clutch": "Automatic centrifugal",
+    "cooling_system": "Air Cooled",
+    "front_brake": "130 mm Drum",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "None",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "90/90-12",
+    "rear_tyre_size": "90/100-10",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "5.5 L",
+    "headlight_type": "Halogen",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": false,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Analog-Digital Combo",
+    "seat_height": "765 mm",
+    "ground_clearance": "155 mm",
+    "overall_length": "1835 mm",
+    "overall_width": "715 mm",
+    "build_quality": "Practical commuter",
+    "parts_availability": "Good",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926249/bikes/HERO/HERO-XOOM-110/hero-xoom-110-back-view.webp",
+        "alt": "HERO-XOOM-110 Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926250/bikes/HERO/HERO-XOOM-110/hero-xoom-110-front-view.webp",
+        "alt": "HERO-XOOM-110 Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926250/bikes/HERO/HERO-XOOM-110/hero-xoom-110-left-view.webp",
+        "alt": "HERO-XOOM-110 Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926252/bikes/HERO/HERO-XOOM-110/hero-xoom-110-right-view.webp",
+        "alt": "HERO-XOOM-110 Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926252/bikes/HERO/HERO-XOOM-110/hero-xoom-110-showroom-view.webp",
+        "alt": "HERO-XOOM-110 Showroom View"
+      }
+    ],
+    "pros": [
+      "Easy to ride in traffic",
+      "Good fuel efficiency",
+      "Low maintenance costs",
+      "Comfortable seating",
+      "Practical storage space"
+    ],
+    "cons": [
+      "Basic features",
+      "Drum brakes only",
+      "Small fuel tank",
+      "Limited power for slopes"
+    ],
+    "faqs": [
+      {
+        "question": "Does Xoom 110 have disc brake option?",
+        "answer": "No, it comes with drum brakes only."
+      },
+      {
+        "question": "What is the under-seat storage capacity?",
+        "answer": "Approximately 18 liters - can fit a half-face helmet."
+      },
+      {
+        "question": "Is it good for female riders?",
+        "answer": "Yes, its light weight and low seat height make it easy to handle."
+      }
+    ]
+  },
+  {
+    "name": "Hero Xtreme 125R",
+    "slug": "hero-xtreme-125r",
+    "metaTitle": "Hero Xtreme 125R – Sporty 125cc Street Bike | LED + DRLs",
+    "metaDescription": "Xtreme 125R combines aggressive looks, LED headlamp & 50–53 kmpl—youthful style with everyday practicality.",
+    "brand": "Hero",
+    "category": "Street Bike",
+    "cc": 124.7,
+    "price": "Tk. 174,000",
+    "short_description": "The Hero Xtreme 125R is a sporty 125cc motorcycle offering aggressive styling, decent performance, and good fuel efficiency for young riders.",
+    "Zero_Sixty": "8.5 sec",
+    "Zero_Hundred": "22.0 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "55 kmpl",
+    "mileage_reported": "50-53 kmpl",
+    "top_speed_claimed": "105 km/h",
+    "top_speed_reported": "100 km/h",
+    "braking": "Front Disc / Rear Drum",
+    "gear": "5-speed manual",
+    "weight": "135 kg",
+    "max_power": "11.4 PS @ 8000 rpm",
+    "max_torque": "11 Nm @ 6000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "130 mm Drum",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "None"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "80/100-17",
+    "rear_tyre_size": "100/90-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "10 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Digital",
+    "seat_height": "805 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2040 mm",
+    "overall_width": "800 mm",
+    "build_quality": "Sporty commuter",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926253/bikes/HERO/HERO-XTREME/hero-xtreme-125R-back-view.webp",
+        "alt": "HERO-XTREME 125R Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926254/bikes/HERO/HERO-XTREME/hero-xtreme-125R-front-view.webp",
+        "alt": "HERO-XTREME 125R Front View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926255/bikes/HERO/HERO-XTREME/hero-xtreme-125R-left-view.webp",
+        "alt": "HERO-XTREME 125R Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926256/bikes/HERO/HERO-XTREME/hero-xtreme-125R-right-view.webp",
+        "alt": "HERO-XTREME 125R Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926258/bikes/HERO/HERO-XTREME/hero-xtreme-125R-showroom-view.webp",
+        "alt": "HERO-XTREME 125R Showroom View"
+      }
+    ],
+    "pros": [
+      "Sporty aggressive looks",
+      "Good mileage for performance",
+      "LED headlight with DRLs",
+      "Comfortable riding posture",
+      "Affordable maintenance"
+    ],
+    "cons": [
+      "No ABS option",
+      "Rear drum brake",
+      "Could use more power",
+      "Basic instrument cluster"
+    ],
+    "faqs": [
+      {
+        "question": "Does Xtreme 125R have ABS?",
+        "answer": "No, it comes with single disc brake upfront and drum at rear."
+      },
+      {
+        "question": "Is it good for college students?",
+        "answer": "Yes, its sporty looks and good mileage make it ideal for students."
+      },
+      {
+        "question": "What colors are available?",
+        "answer": "Typically sports red, black, and blue variants."
+      }
+    ]
+  },
+  {
+    "name": "Hero Xtreme 160R 4V",
+    "slug": "hero-xtreme-160r-4v",
+    "metaTitle": "Hero Xtreme 160R 4V – 163cc 4-Valve Bike | Bluetooth + ABS",
+    "metaDescription": "Xtreme 160R 4V features 16.4 PS, single-channel ABS, Bluetooth & LED lighting—advanced tech for street riders.",
+    "brand": "Hero",
+    "category": "Street Bike",
+    "cc": 163.2,
+    "price": "Tk. 240,000",
+    "short_description": "The Hero Xtreme 160R 4V is a premium 160cc street bike featuring a 4-valve engine, aggressive styling, and segment-leading features for performance enthusiasts.",
+    "Zero_Sixty": "6.5 sec",
+    "Zero_Hundred": "17.8 sec",
+    "engine_cooling": "Oil Cooled",
+    "mileage_claimed": "45 kmpl",
+    "mileage_reported": "40-43 kmpl",
+    "top_speed_claimed": "125 km/h",
+    "top_speed_reported": "120 km/h",
+    "braking": "Front Disc / Rear Disc (Single-channel ABS)",
+    "gear": "5-speed manual",
+    "weight": "147 kg",
+    "max_power": "16.4 PS @ 8500 rpm",
+    "max_torque": "14.7 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Oil Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Single-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Full-digital with Bluetooth",
+    "seat_height": "800 mm",
+    "ground_clearance": "170 mm",
+    "overall_length": "2045 mm",
+    "overall_width": "810 mm",
+    "build_quality": "Premium street bike",
+    "parts_availability": "Excellent",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761147185/hero-xtreme-160r-4v-right-side-view2_z2tr0j.png",
+        "alt": "Right profile showing split seat and tank shrouds of Hero Xtreme 160R 4V"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761147177/hero-xtreme-160r-4v-backside-view_qmar17.jpg",
+        "alt": "Rear view showing tail lamp and radial tyre of Hero Xtreme 160R 4V"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761147176/hero-xtreme-160r-4v-right-side-view_ofwwl7.png",
+        "alt": "Hero Xtreme 160R 4V on showroom display with aggressive streetfighter styling"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753926255/bikes/HERO/HERO-XTREME/hero-xtreme-125R-left-view.webp",
+        "alt": "HERO-XTREME 125R Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761147163/hero-xtreme-160r-4v-left-side-view_hfcnuy.png",
+        "alt": "Left profile showing engine casing and exhaust of Hero Xtreme 160R 4V"
+      }
+    ],
+    "pros": [
+      "Powerful 4-valve engine",
+      "Premium LED lighting",
+      "Single-channel ABS",
+      "Bluetooth connectivity",
+      "Sporty aggressive styling"
+    ],
+    "cons": [
+      "No dual-channel ABS",
+      "Firm ride quality",
+      "Higher price than competitors",
+      "Small pillion seat"
+    ],
+    "faqs": [
+      {
+        "question": "What's special about the 4V engine?",
+        "answer": "4-valve design improves airflow for better power and efficiency."
+      },
+      {
+        "question": "Does it have traction control?",
+        "answer": "No, but it does have single-channel ABS."
+      },
+      {
+        "question": "Is it good for touring?",
+        "answer": "Yes, the 160cc engine and comfortable ergonomics make it capable for short tours."
+      }
+    ]
+  },
+  {
+    "name": "Hero Hunk 150R Xtec",
+    "slug": "hero-hunk-150r-xtec",
+    "metaTitle": "Hero Hunk 150R Xtec – Connected 150cc Bike | LED + Bluetooth",
+    "metaDescription": "Hunk 150R Xtec upgrades with LED lighting, Bluetooth console & dual disc brakes—smart, stylish urban commuting.",
+    "brand": "Hero",
+    "category": "Naked",
+    "cc": 149.2,
+    "price": "Tk. 211,000",
+    "short_description": "Hero Hunk 150R Xtec is a sporty 149cc commuter with a bold design, LED lighting, digital console, and dual disc brakes for better urban performance.",
+    "Zero_Sixty": "5.1 sec",
+    "Zero_Hundred": "13.2 sec",
+    "engine_cooling": "Air Cooled",
+    "mileage_claimed": "50 kmpl",
+    "mileage_reported": "42-48 kmpl",
+    "top_speed_claimed": "115 km/h",
+    "top_speed_reported": "110 km/h",
+    "braking": "Front Disc, Rear Disc (optional)",
+    "gear": "5-speed manual",
+    "weight": "148 kg",
+    "max_power": "14.2 PS @ 8500 rpm",
+    "max_torque": "12.6 Nm @ 6500 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Air Cooled",
+    "front_brake": "276 mm Disc",
+    "rear_brake": "220 mm Disc",
+    "caliper": {
+      "front": "Twin-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "100/80-17",
+    "rear_tyre_size": "130/70-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "12.4 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Fully Digital LCD Console with Bluetooth",
+    "seat_height": "790 mm",
+    "ground_clearance": "163 mm",
+    "overall_length": "2062 mm",
+    "overall_width": "778 mm",
+    "build_quality": "Urban aggressive",
+    "parts_availability": "Good",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761147529/hero-hunk-150r-xtec-showroom-view_pqyni5.png",
+        "alt": "Hero Hunk 150R XTEC on showroom display with XTEC badging and digital console"
+      }
+    ],
+    "pros": [
+      "Stylish and aggressive design",
+      "Dual disc brakes for better safety",
+      "Bluetooth-enabled digital console",
+      "LED headlamp and DRLs",
+      "Reliable mileage in city traffic"
+    ],
+    "cons": [
+      "Slight engine vibration at high rpm",
+      "No slipper clutch",
+      "Average highway performance",
+      "Not ideal for tall riders",
+      "Build quality could be improved"
+    ],
+    "faqs": [
+      {
+        "question": "Does the Hunk 150R Xtec have ABS?",
+        "answer": "It features Combined Braking System (CBS), but not ABS."
+      },
+      {
+        "question": "Is Bluetooth available?",
+        "answer": "Yes, the Xtec variant has Bluetooth for call and SMS alerts."
+      },
+      {
+        "question": "Is the bike good for beginners?",
+        "answer": "Yes, it's lightweight and easy to handle for city commuting."
+      },
+      {
+        "question": "Can it be used for daily office rides?",
+        "answer": "Absolutely, it offers good mileage and comfort for regular use."
+      }
+    ]
+  },
+  {
+    "name": "KTM 125 Duke",
+    "slug": "ktm-125-duke",
+    "metaTitle": "KTM 125 Duke – Premium 125cc Naked Bike | TFT + ABS",
+    "metaDescription": "125 Duke: liquid-cooled 14.5 PS, full-color TFT, ABS & razor-sharp handling—the ultimate entry-level KTM streetfighter.",
+    "brand": "KTM",
+    "category": "Naked Bike",
+    "cc": 125,
+    "price": "Tk. 448,000",
+    "short_description": "The KTM 125 Duke is an entry-level naked sports bike featuring aggressive styling, premium components, and sharp handling - perfect for beginners and urban riders.",
+    "Zero_Sixty": "7.5 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "40 kmpl",
+    "mileage_reported": "35-38 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc / Rear Disc (ABS)",
+    "gear": "6-speed manual",
+    "weight": "137 kg",
+    "max_power": "14.5 PS @ 9250 rpm",
+    "max_torque": "12 Nm @ 8000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "300 mm Disc",
+    "rear_brake": "230 mm Disc",
+    "caliper": {
+      "front": "4-piston radial",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/70-17",
+    "rear_tyre_size": "150/60-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "13.4 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Full-color TFT",
+    "seat_height": "830 mm",
+    "ground_clearance": "185 mm",
+    "overall_length": "2000 mm",
+    "overall_width": "800 mm",
+    "build_quality": "Premium",
+    "parts_availability": "Good in major cities",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986259/bikes/ktm/duke-125/ktm-duke-125-back-view.webp",
+        "alt": "duke-125 Ktm Back View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986260/bikes/ktm/duke-125/ktm-duke-125-left-view.webp",
+        "alt": "duke-125 Ktm Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986261/bikes/ktm/duke-125/ktm-duke-125-right-view.webp",
+        "alt": "duke-125 Ktm Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986263/bikes/ktm/duke-125/ktm-duke-125-showroom-view.webp",
+        "alt": "duke-125 Ktm Showroom View"
+      }
+    ],
+    "pros": [
+      "Premium build quality",
+      "Excellent handling",
+      "Full-color TFT display",
+      "Aggressive styling",
+      "ABS as standard"
+    ],
+    "cons": [
+      "Expensive for 125cc",
+      "High seat height for short riders",
+      "Firm ride quality",
+      "Limited service network"
+    ],
+    "faqs": [
+      {
+        "question": "Does the 125 Duke have ABS?",
+        "answer": "Yes, it comes with dual-channel ABS as standard."
+      },
+      {
+        "question": "What is the fuel capacity?",
+        "answer": "13.4 liters with about 2.5L reserve."
+      },
+      {
+        "question": "Is it good for highway riding?",
+        "answer": "Capable for short highway stretches but limited by engine size."
+      }
+    ]
+  },
+  {
+    "name": "KTM RC 125",
+    "slug": "ktm-rc-125",
+    "metaTitle": "KTM RC 125 – Full-Faired 125cc Sportbike | Track-Ready Ergonomics",
+    "metaDescription": "RC 125 brings full fairing, aggressive ergonomics & 14.5 PS—a miniature MotoGP machine for spirited riders and track days.",
+    "brand": "KTM",
+    "category": "Sports Bike",
+    "cc": 124.7,
+    "price": "Tk. 566,000",
+    "short_description": "The KTM RC 125 is a full-faired sportbike derived from the Duke 125, offering aggressive racing ergonomics and track-focused handling in a 125cc package.",
+    "Zero_Sixty": "7.8 sec",
+    "Zero_Hundred": "Not Specified",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "38 kmpl",
+    "mileage_reported": "33-36 kmpl",
+    "top_speed_claimed": "120 km/h",
+    "top_speed_reported": "115 km/h",
+    "braking": "Front Disc / Rear Disc (ABS)",
+    "gear": "6-speed manual",
+    "weight": "142 kg",
+    "max_power": "14.5 PS @ 9250 rpm",
+    "max_torque": "12 Nm @ 8000 rpm",
+    "clutch": "Wet multi-plate",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "300 mm Disc",
+    "rear_brake": "230 mm Disc",
+    "caliper": {
+      "front": "4-piston radial",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/70-17",
+    "rear_tyre_size": "150/60-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "13.7 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": true,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": true,
+    "display": "Full-color TFT",
+    "seat_height": "820 mm",
+    "ground_clearance": "185 mm",
+    "overall_length": "2015 mm",
+    "overall_width": "800 mm",
+    "build_quality": "Premium sportbike",
+    "parts_availability": "Good in major cities",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986269/bikes/ktm/rc-125/ktm-rc-125-left-view.webp",
+        "alt": "rc-125 Ktm Left View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986270/bikes/ktm/rc-125/ktm-rc-125-right-view.webp",
+        "alt": "rc-125 Ktm Right View"
+      },
+      {
+        "url": "https://res.cloudinary.com/dbjpqcth5/image/upload/v1753986271/bikes/ktm/rc-125/ktm-rc-125-showroom-view.webp",
+        "alt": "rc-125 Ktm Showroom View"
+      }
+    ],
+    "pros": [
+      "Full-faired sportbike looks",
+      "Premium suspension setup",
+      "Aggressive riding position",
+      "Full-color TFT display",
+      "Excellent braking system"
+    ],
+    "cons": [
+      "Uncomfortable for daily use",
+      "Expensive maintenance",
+      "Not practical for city commuting",
+      "Small engine for the sportbike chassis"
+    ],
+    "faqs": [
+      {
+        "question": "How is RC 125 different from Duke 125?",
+        "answer": "RC has full fairing, more aggressive ergonomics, and sportier handling."
+      },
+      {
+        "question": "Is it good for tall riders?",
+        "answer": "The riding position is compact, better suited for average height riders."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "Yes, dual-channel ABS comes standard."
+      }
+    ]
+  },
+  {
+    "name": "KTM 250 Duke",
+    "slug": "ktm-250-duke",
+    "metaTitle": "KTM 250 Duke – 30 PS Naked Streetfighter | Slipper Clutch + ABS",
+    "metaDescription": "250 Duke unleashes 30 PS, slipper clutch & dual-channel ABS—aggressive performance in KTM’s iconic orange streetfighter.",
+    "brand": "KTM",
+    "category": "Naked Sport",
+    "cc": 248.8,
+    "price": "Tk. 6,20,000",
+    "short_description": "KTM 250 Duke is a performance-oriented 250cc naked streetfighter, blending aggressive design, premium components, and sharp handling for spirited riding.",
+    "Zero_Sixty": "3.4 sec",
+    "Zero_Hundred": "8.9 sec",
+    "engine_cooling": "Liquid Cooled",
+    "mileage_claimed": "35 kmpl",
+    "mileage_reported": "28–32 kmpl",
+    "top_speed_claimed": "140 km/h",
+    "top_speed_reported": "135 km/h",
+    "braking": "Front Disc, Rear Disc with Dual-Channel ABS",
+    "gear": "6-speed manual",
+    "weight": "162 kg",
+    "max_power": "30 PS @ 9000 rpm",
+    "max_torque": "24 Nm @ 7500 rpm",
+    "clutch": "Slipper clutch",
+    "cooling_system": "Liquid Cooled",
+    "front_brake": "320 mm Disc",
+    "rear_brake": "230 mm Disc",
+    "caliper": {
+      "front": "Radial 4-piston",
+      "rear": "Single-piston"
+    },
+    "tyre_type": "Tubeless",
+    "front_tyre_size": "110/70-17",
+    "rear_tyre_size": "150/60-17",
+    "wheel_type": "Alloy",
+    "fuel_tank_capacity": "13.5 L",
+    "headlight_type": "LED",
+    "tail_light_type": "LED",
+    "projector_headlamp": false,
+    "drls": true,
+    "quickshifter": false,
+    "traction_control": false,
+    "bluetooth_connectivity": false,
+    "display": "Fully Digital LCD Console",
+    "seat_height": "822 mm",
+    "ground_clearance": "151 mm",
+    "overall_length": "2072 mm",
+    "overall_width": "831 mm",
+    "build_quality": "Aggressive and premium",
+    "parts_availability": "Moderate",
+    "image_urls": [
+      {
+        "url": "https://res.cloudinary.com/duna87jkw/image/upload/v1761148098/ktm-250duke-right-side-view_caewyf.jpg",
+        "alt": "Right profile showing trellis frame and tank shrouds of KTM 250 Duke"
+      }
+    ],
+    "pros": [
+      "Powerful engine with quick acceleration",
+      "Premium suspension and chassis",
+      "Aggressive and sharp streetfighter design",
+      "Slipper clutch for smooth downshifts",
+      "Dual-channel ABS for safety"
+    ],
+    "cons": [
+      "Slightly high maintenance cost",
+      "Stiff suspension for city roads",
+      "Lacks Bluetooth/TFT display like 390 Duke",
+      "High seat height for shorter riders",
+      "Limited fuel efficiency"
+    ],
+    "faqs": [
+      {
+        "question": "Is the KTM 250 Duke suitable for beginners?",
+        "answer": "It’s better suited for intermediate riders due to its power and aggressive nature."
+      },
+      {
+        "question": "Does it have ABS?",
+        "answer": "Yes, the 250 Duke features dual-channel ABS as standard."
+      },
+      {
+        "question": "Is the slipper clutch standard?",
+        "answer": "Yes, it comes with a slipper clutch for smoother downshifting."
+      },
+      {
+        "question": "What is the mileage in real-world usage?",
+        "answer": "You can expect around 28–32 kmpl depending on riding style."
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+Bike Name: Honda CB Hornet 160R
+Top Speed: 110 km/h (User Claimed) 
+Mileage(City): 32-34 km/L (User Reported) 
+Mileage(Highway): 40-50 km/L (Company Claimed) 
+Category: Naked Sports / Standard 
+Base Price: BDT 180,000 - BDT 199,800 (Historical Launch Price) 
+Description: The Honda CB Hornet 160R was a popular premium 160cc naked sports bike in Bangladesh, known for its muscular design, distinctive 'X' shaped LED tail lamp, and reliable engine performance. It appealed to style-conscious daily riders and was available with both CBS (Combi Brake System) and ABS (Anti-lock Braking System) variants .
+
+Displacement(CC): 162.7cc / 163cc 
+Max Power: 15.04 PS - 15.6 bhp 
+Max Torque: 14.76 Nm - 15 Nm 
+Engine Type: Air Cooled, 4-Stroke, Single Cylinder 
+Fuel System: Carburetor (Note: Fuel Injection was not used) 
+Cooling System: Air Cooled 
+Gears: 5 Speed 
+Clutch: Wet, Multi-plate
+Spark Plugs: Standard
+Gear Shift Pattern: 1 Down 4 Up (Standard)
+
+Front Brake: Disc (Petal Disc on some variants) 
+Rear Brake: Disc (Petal Disc on some variants) 
+Braking System: Single Channel ABS / Combi Brake System (CBS) 
+Front Tyre: 100/80-17" Tubeless 
+Rear Tyre: 140/70-17" Tubeless 
+
+Kerb Weight: ~135 kg 
+Fuel Capacity: 12 Litres 
+Seat Height: 790 mm (approx.)
+Ground Clearance: 160 mm (approx.)
+Wheelbase: 1345 mm 
+
+(Boolean Answers Yes/No)
+USB Charging: No
+Side Stand Cut-off: No
+Projector Headlight: No (It used a multi-reflector halogen headlight) 
+DRLs: No
+Gear Indicator: No 
+Distance to Empty: No
+Avg Fuel Consumption: No
+
+Variants Count: 2 (CBS and ABS) 
+
+Variant 1: Honda CB Hornet 160R CBS
+Varriant Name: Honda CB Hornet 160R CBS
+Variant Key: Standard / CBS
+Price BDT: BDT 190,800 (Historical) 
+Top Speed(Company Claimed): - (Not Specified)
+Top Speed(User Claimed): 110 km/h 
+Mileage(Company Claimed): 50 kmpl 
+Braking System: Combi Brake System (CBS) 
+Rear Braking System: Disc 
+Tyre Type: Tubeless 
+Headlight Type: Halogen 
+Kerb Weight: - (Not Specified, approx. 135 kg)
+Instrument Console: Digital 
+Seat Type: Split Seat
+
+(Boolean Answers Yes/No)
+
+Mobile Phone Connectivity: No
+Riding Modes: No
+Traction Control: No
+GPS & Navigation: No
+Slipper/Assist Clutch: No
+Quick Shifter: No
+
+Variant 2: Honda CB Hornet 160R ABS
+Varriant Name: Honda CB Hornet 160R ABS
+Variant Key: ABS
+Price BDT: BDT 229,500 - BDT 255,000 (Historical) 
+Top Speed(Company Claimed): - (Not Specified)
+Top Speed(User Claimed): - (Not Specified)
+Mileage(Company Claimed): 40 kmpl 
+Braking System: Single Channel Anti-lock Braking System (ABS) 
+Rear Braking System: Disc 
+Tyre Type: Tubeless 
+Headlight Type: Halogen 
+Kerb Weight: - (Not Specified, approx. 135 kg)
+Instrument Console: Digital 
+Seat Type: Split Seat
+
+(Boolean Answers Yes/No)
+
+Mobile Phone Connectivity: No
+Riding Modes: No
+Traction Control: No
+GPS & Navigation: No
+Slipper/Assist Clutch: No
+Quick Shifter: No

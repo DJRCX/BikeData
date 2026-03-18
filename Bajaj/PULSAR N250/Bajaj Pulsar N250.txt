@@ -1,0 +1,64 @@
+Bike Name: Bajaj Pulsar N250
+Top Speed: 132-145 km/h (Company/General Claim) ; 135 km/h (User Claimed)
+Mileage(City): 35 kmpl (approx.)
+Mileage(Highway): 40 kmpl (approx.)
+Category: Naked Sports / Streetfighter
+Base Price: 330,100 BDT
+Description: The Bajaj Pulsar N250 is a premium quarter-liter streetfighter motorcycle in Bangladesh. It features an aggressive naked design, highlighted by a Bi-functional LED projector headlamp with signature "Naked Wolf" DRLs. It is powered by a refined 249.07cc, oil-cooled, fuel-injected engine tuned for strong low and mid-range torque, making it ideal for both city commuting and highway cruising. Key highlights include its 37mm USD front forks for enhanced handling, dual-channel ABS with three riding modes, and a modern feature set including a fully digital Bluetooth-enabled console with turn-by-turn navigation. It balances sporty performance with everyday practicality and affordability.
+
+Displacement(CC): 249.07 cc
+Max Power: 24.5 PS @ 8750 rpm (24.1 bhp / 18 kW)
+Max Torque: 21.5 Nm @ 6500 rpm
+Engine Type: 2-Valve, Single Cylinder, 4-Stroke, SOHC, Oil Cooled, Fuel Injection
+Fuel System: Fuel Injection
+Cooling System: Oil Cooled
+Gears: 5-Speed
+Clutch: Assist & Slipper Clutch
+Spark Plugs: 2 Nos, Gap: 0.8 - 0.9 mm
+Gear Shift Pattern: 1 Down, 4 Up
+
+Front Brake: Disc (300 mm)
+Rear Brake: Disc (230 mm)
+Braking System: Dual Channel ABS (with 3 Ride Modes: Road, Rain, Off-Road)
+Front Tyre: 110/70-17 Tubeless
+Rear Tyre: 140/70-17 Tubeless
+
+Kerb Weight: 162 kg
+Fuel Capacity: 14 Litres
+Seat Height: 795 mm
+Ground Clearance: 165 mm
+Wheelbase: 1341 mm
+
+(Give boolean Answers Yes/No)
+USB Charging: Yes
+Side Stand Cut-off: Not specified
+Projector Headlight: Yes (Bi-functional LED Projector)
+DRLs: Yes
+Gear Indicator: Yes
+Distance to Empty: Yes
+Avg Fuel Consumption: Yes
+
+Variants Count: 1
+
+Variant Name: Bajaj Pulsar N250 Dual Channel ABS
+Variant Key: N250 STD
+Price BDT: 330,100 BDT
+Top Speed(Company Claimed): 132-145 km/h
+Top Speed(User Claimed): 135 km/h
+Mileage(Company Claimed): 35-40 kmpl
+Braking System: Dual Channel ABS (with 3 Modes)
+Rear Braking System: Disc (230 mm)
+Tyre Type: Tubeless
+Headlight Type: LED (Bi-functional Projector)
+Kerb Weight: 162 kg
+Instrument Console: Fully Digital Reverse LCD Display with Bluetooth Connectivity
+Seat Type: Split
+
+(Give boolean Answers Yes/No)
+Mobile Phone Connectivity: Yes
+Riding Modes: Yes (via ABS Modes)
+Traction Control: Yes
+GPS & Navigation: Yes (Turn-by-Turn Navigation)
+Slipper/Assist Clutch: Yes
+Quick Shifter: No
+

@@ -1,0 +1,88 @@
+Bike Name: TVS Apache RTR 160 4V
+Top Speed: 114 km/h (Company Claimed)
+Mileage(City): 40-45 kmpl (User Reported)
+Mileage(Highway): 45-50 kmpl (User Reported)
+Category: Sports Naked Bike
+Base Price: ৳ 189,900
+Description: The TVS Apache RTR 160 4V is a performance-oriented 160cc motorcycle that brings racing technology to the streets. It features a refined 4-valve, oil-cooled engine. The top variant offers segment-first features including three riding modes (Sport, Urban, and Rain), traction control, and a 5-inch TFT connected display with SmartXonnect Bluetooth system. With its aggressive styling, race-tuned slipper clutch, and powerful engine, it's designed for riders who want a thrilling yet connected ride. It's known for its quick acceleration, nimble handling, and is often called a "pocket rocket" in the Bangladeshi market.
+
+Displacement(CC): 159.7 cc
+Max Power: 17.31 bhp (17.55 PS) @ 9250 rpm
+Max Torque: 14.73 Nm @ 7250 rpm
+Engine Type: Single Cylinder, 4-Stroke, Oil-Cooled, SOHC, Fuel Injection (RT-Fi)
+Fuel System: Fuel Injection (RT-Fi - Race Tuned Fuel Injection)
+Cooling System: Oil Cooled
+Gears: 5
+Clutch: Wet Multiplate (with Slipper/Assist Clutch on top variant)
+Spark Plugs: 1 Per Cylinder
+Gear Shift Pattern: 1 Down 4 Up
+
+Front Brake: Disc (270 mm Petal Disc)
+Rear Brake: Disc (240 mm on top variant)
+Braking System: Single Channel ABS / Dual Channel ABS with Rear Lift-off Protection (Variant Dependent)
+Front Tyre: 90/90 - 17 (Tubeless)
+Rear Tyre: 130/70 - 17 (Tubeless, Radial on top variant)
+
+Kerb Weight: 143 kg (Single Channel ABS) / 146 kg (Dual Channel ABS)
+Fuel Capacity: 12 litres
+Seat Height: 800 mm
+Ground Clearance: 180 mm
+Wheelbase: 1357 mm
+
+(Give boolean answers Yes/No)
+USB Charging: No
+Side Stand Cut-off: Yes
+Projector Headlight: Yes (Class-leading Projector Headlamps on top variant)
+DRLs: Yes
+Gear Indicator: Yes
+Distance to Empty: Yes (on TFT display)
+Avg Fuel Consumption: Yes (on TFT display)
+
+Variants Count: 2
+
+Varriant Name: TVS Apache RTR 160 4V (Single Channel ABS)
+Variant Key: Apache-160-4V-SC-BD
+Price BDT: ৳ 189,900
+Top Speed(Company Claimed): 114 km/h
+Top Speed(User Claimed): 110-115 km/h
+Mileage(Company Claimed): 45 kmpl
+Braking System: Single Channel ABS
+Rear Braking System: Disc (240 mm)
+Tyre Type: Tubeless
+Headlight Type: LED with DRLs
+Kerb Weight: 143 kg
+Instrument Console: Digital
+Seat Type: Single Piece
+
+(Give boolean answers Yes/No)
+
+Mobile Phone Connectivity: No
+Riding Modes: No
+Traction Control: No
+GPS & Navigation: No
+Slipper/Assist Clutch: No
+Quick Shifter: No
+
+Varriant Name: TVS Apache RTR 160 4V SMARTXCONNECT (Dual Channel ABS)
+Variant Key: Apache-160-4V-DC-BD
+Price BDT: ৳ 219,900 - ৳ 227,000
+Top Speed(Company Claimed): 114 km/h
+Top Speed(User Claimed): 112-117 km/h
+Mileage(Company Claimed): 45 kmpl
+Braking System: Dual Channel ABS with Rear Lift-off Protection
+Rear Braking System: Disc (240 mm)
+Tyre Type: Tubeless (Rear Radial)
+Headlight Type: Class-leading Projector Headlamps with LED DRLs
+Kerb Weight: 146 kg
+Instrument Console: Next-Gen 5-inch Connected TFT Display with SmartXonnect
+Seat Type: Single Piece
+
+(Give boolean answers Yes/No)
+
+Mobile Phone Connectivity: Yes (Call/SMS alerts, ride telemetry)
+Riding Modes: Yes (Sport, Urban, Rain)
+Traction Control: Yes
+GPS & Navigation: Yes (with voice assist)
+Slipper/Assist Clutch: Yes (Race-tuned)
+Quick Shifter: No
+

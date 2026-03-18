@@ -1,0 +1,87 @@
+Bike Name : Bajaj Pulsar 150 Twin Disc ABS
+Top Speed : 110 km/h (claimed) 
+Mileage(City): 45 km/l (approx.) 
+Mileage(Highway): 50 km/l (approx.) 
+Category: Commuter / Sports 
+Base Price: BDT 227,000 (Revised price effective Jan 2026) 
+Description: The Bajaj Pulsar 150 TD ABS is an iconic motorcycle in Bangladesh, known for its perfect balance of sporty styling, reliable performance, and everyday practicality. It is powered by a proven 149.5cc DTS-i engine and features a twin-disc brake setup with a single-channel ABS for enhanced safety, making it a trusted choice for daily commutes and weekend rides .
+
+Displacement(CC): 149.5 cc 
+Max Power: 14 PS @ 8000-8500 rpm 
+Max Torque: 13.4 Nm @ 6000-6500 rpm 
+Engine Type: 4-Stroke, Single Cylinder, Twin Spark DTS-i 
+Fuel System: Carburetor
+Cooling System: Air Cooled 
+Gears : 5 
+Clutch: Wet Multiplate 
+Spark Plugs: 2 Per Cylinder 
+Gear Shift Pattern: 1 Down 4 Up 
+
+Front Brake: Disc (260 mm) 
+Rear Brake: Disc (230 mm) 
+Braking System: Single Channel ABS 
+Front Tyre: 80/100 - 17 (Tubeless) 
+Rear Tyre: 100/90 - 17 (Tubeless) 
+
+Kerb Weight: 148 kg 
+Fuel Capacity: 15 Litres 
+Seat Height: 785 mm 
+Ground Clearance: 165 mm 
+Wheelbase: 1320 mm 
+
+(Give boolean Answers Yes/No)
+USB Charging: No
+Side Stand Cut-off: Yes 
+Projector Headlight: No
+DRLs: Yes (LED position lamps) 
+Gear Indicator: No 
+Distance to Empty: Yes 
+Avg Fuel Consumption: Yes 
+
+Variants Count : 2 (Pulsar 150 TD and Pulsar 150 TD ABS) 
+
+Variant Data
+Variant Name: Bajaj Pulsar 150 Twin Disc (Non-ABS)
+Variant Key: P150-TD-NonABS
+Price BDT: BDT 215,900 (Approx. Market Price) 
+Top Speed(Company Claimed): 110 km/h
+Top Speed(User Claimed): 105-110 km/h
+Mileage(Company Claimed): 45-50 km/l
+Braking System: Dual Disc (Non-ABS) 
+Rear Braking System: Disc 
+Tyre Type: Tubeless 
+Headlight Type: Halogen (Wolf-Eyed) 
+Kerb Weight: 148 kg 
+Instrument Console: Digital 
+Seat Type: Split Sporty Seat 
+
+(Give boolean Answers Yes/No)
+Mobile Phone Connectivity: No
+Riding Modes: No 
+Traction Control: No 
+GPS & Navigation: No 
+Slipper/Assist Clutch: No
+Quick Shifter: No 
+
+Variant Name: Bajaj Pulsar 150 Twin Disc ABS
+Variant Key: P150-TD-ABS
+Price BDT: BDT 227,000 (Official Revised Price) 
+Top Speed(Company Claimed): 110 km/h 
+Top Speed(User Claimed): 105-110 km/h
+Mileage(Company Claimed): 45-50 km/l 
+Braking System: Single Channel ABS 
+Rear Braking System: Disc 
+Tyre Type: Tubeless 
+Headlight Type: Halogen (Wolf-Eyed) 
+Kerb Weight: 148 kg 
+Instrument Console: Digital 
+Seat Type: Split Sporty Seat 
+
+(Give boolean Answers Yes/No)
+Mobile Phone Connectivity: No
+Riding Modes: No 
+Traction Control: No 
+GPS & Navigation: No 
+Slipper/Assist Clutch: No
+Quick Shifter: No 
+

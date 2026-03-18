@@ -1,0 +1,109 @@
+Bike Name: Honda X-Blade 160
+Top Speed: 110-115 km/h (User Claimed)
+Mileage(City): 45-50 km/l (approx.)
+Mileage(Highway): Information not found in search results.
+Category: Streetfighter / Commuter
+Base Price: BDT 173,900 (2021 Single Disc) to BDT 240,000 (2025 PGM-FI)
+Description: The Honda X-Blade 160 is a "Street All-Rounder" that combines a bold, muscular "Robo-Faced" design with advanced technology and reliable performance . It is powered by a refined 162.71cc HET engine and is designed to offer a comfortable, upright riding position, making it suitable for both young enthusiasts and daily commuters. Over the years, Honda has updated the model with features like Single Channel ABS and, most recently, PGM-FI fuel injection .
+
+Core Specifications (Common across most variants):
+Displacement(CC): 162.71 cc 
+Max Power: 14.12 BHP @ 8,500 rpm  (Note: Other sources may vary slightly, e.g., 13.9 PS )
+Max Torque: 13.9 Nm @ 6,000 rpm  (Note: Other sources state 14.7 Nm @ 5500 rpm)
+Engine Type: 4-Stroke, Single Cylinder, HET (Honda Eco Technology) 
+Fuel System: Carburetor (2021 models) / Programmed Fuel Injection (PGM-FI) (2025 model)
+Cooling System: Air Cooled 
+Gears: 5-Speed 
+Clutch: Multiplate Wet Clutch
+Spark Plugs: Information not found in search results.
+Gear Shift Pattern: 1 Down, 4 Up (Standard for motorcycles)
+Front Brake: Disc (276mm Petal Disc) 
+Rear Brake: Drum (2021 Single Disc) / Disc (220mm Petal Disc) (2021 Double Disc ABS & 2025 model) 
+Braking System: Single Channel ABS (on front wheel for ABS variants) 
+Front Tyre: 80/100-17 Tubeless 
+Rear Tyre: 130/70-17 Tubeless 
+Kerb Weight: 140 kg (2021 ABS model)  / 144 kg (2025 model)
+Fuel Capacity: 12 Litres 
+Seat Height: 795 mm
+Ground Clearance: 160 mm 
+Wheelbase: 1347 mm 
+
+(Give boolean answers Yes/No)
+USB Charging: No (Information not found)
+Side Stand Cut-off: Yes (Assumed for all variants)
+Projector Headlight: No (It has a "Robo-Faced" LED unit, but it's a reflector-type, not a projector) 
+DRLs: Yes (Position lamps integrated with LED headlight)
+Gear Indicator: Yes 
+Distance to Empty: Information not found.
+Avg Fuel Consumption: Information not found.
+
+Varriants Count: 3 (across all model years: 2021 Single Disc, 2021 Double Disc ABS, 2025 PGM-FI)
+
+Variant 1: 2021 Honda X-Blade 160 Single Disc
+Varriant Name: Honda X-Blade 160 Single Disc (2021)
+Variant Key: XBlade160_SD_2021
+Price BDT: 173,900 
+Top Speed(Company Claimed): Information not found in search results.
+Top Speed(User Claimed): 110-115 km/h
+Mileage(Company Claimed): 59 km/l 
+Braking System: Standard (Non-ABS) 
+Rear Braking System: Drum 
+Tyre Type: Tubeless 
+Headlight Type: LED (Robo-faced) 
+Kerb Weight: Information not found in search results.
+Instrument Console: Digital (Street-Tech Meter) 
+Seat Type: Single-piece stepped seat 
+
+(Give boolean answers Yes/No)
+Mobile Phone Connectivity: No
+Riding Modes: No
+Traction Control: No
+GPS & Navigation: No
+Slipper/Assist Clutch: No
+Quick Shifter: No
+
+Variant 2: 2021 Honda X-Blade 160 Double Disc ABS
+Varriant Name: Honda X-Blade 160 Double Disc ABS (2021)
+Variant Key: XBlade160_DDABS_2021
+Price BDT: 192,000 
+Top Speed(Company Claimed): Information not found in search results.
+Top Speed(User Claimed): 110-115 km/h
+Mileage(Company Claimed): 59 km/l 
+Braking System: Single Channel ABS (Front) 
+Rear Braking System: Disc (220mm) 
+Tyre Type: Tubeless 
+Headlight Type: LED (Robo-faced) 
+Kerb Weight: 140 kg 
+Instrument Console: Digital (Street-Tech Meter with ABS indicator) 
+Seat Type: Single-piece stepped seat 
+
+(Give boolean answers Yes/No)
+Mobile Phone Connectivity: No
+Riding Modes: No
+Traction Control: No
+GPS & Navigation: No
+Slipper/Assist Clutch: No
+Quick Shifter: No
+
+Variant 3: 2025 Honda X-Blade 160 PGM-FI
+Varriant Name: Honda X-Blade 160 PGM-FI (2025 Model)
+Variant Key: XBlade160_PGMFI_2025
+Price BDT: 240,000
+Top Speed(Company Claimed): Information not found in search results.
+Top Speed(User Claimed): 110-115 km/h
+Mileage(Company Claimed): 60 km/l
+Braking System: Single Channel ABS
+Rear Braking System: Disc
+Tyre Type: Tubeless
+Headlight Type: LED (Robo-faced)
+Kerb Weight: 144 kg
+Instrument Console: Digital (Street-Tech Meter)
+Seat Type: Split Seat (as per description)
+
+(Give boolen Answers Yes/No)
+Mobile Phone Connectivity: No
+Riding Modes: No
+TRaction Control: No
+Gps & Navigation: No
+Slipper/Assist Clutch: No
+Quick Shifter: No

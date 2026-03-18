@@ -1,0 +1,133 @@
+Bike Name: Suzuki Gixxer SF
+Top Speed: 125 km/h (for 155cc variant) 
+Mileage(City): 40-45 km/l (user-reported, varies with riding conditions) 
+Mileage(Highway): 45-55 km/l (user-reported) 
+Category: Sports 
+Base Price: BDT 297,950 (for 155cc Fi Disc model, March 2024 launch price)
+Description: The Suzuki Gixxer SF is the fully-faired version of the popular Gixxer series, known for its MotoGP-inspired design and sporty performance. It is available in multiple variants with a 155cc Fuel Injection (FI) engine and a larger 250cc oil-cooled engine .
+
+Displacement(CC): 155cc 
+Max Power: 13.4 bhp - 13.6 bhp @ 8000 rpm 
+Max Torque: 13.8 Nm @ 6000 rpm 
+Engine Type: 4-Stroke, Single-cylinder, SOHC 
+Fuel System: Fuel Injection 
+Cooling System: Air Cooled 
+Gears: 5-speed 
+Clutch: Wet Multiplate 
+Spark Plugs: 1 Per Cylinder 
+Gear Shift Pattern: 1 Down 4 Up 
+
+Front Brake: Disc 
+Rear Brake: Disc 
+Braking System: Single Channel ABS 
+Front Tyre: 100/80 - 17 
+Rear Tyre: 140/60 - R17 (Radial for some variants) 
+
+Kerb Weight: 146 kg - 148 kg 
+Fuel Capacity: 12 Litres 
+Seat Height: 795 mm 
+Ground Clearance: 165 mm 
+Wheelbase: 1340 mm 
+
+(Give boolean answers Yes/No)
+USB Charging: No (Not standard, but mentioned as a missing feature in reviews) 
+Side Stand Cut-off: Yes 
+Projector Headlight: No (Uses LED headlight, but not a projector type) 
+DRLs: No (for 155cc variant) 
+Gear Indicator: Yes 
+Distance to Empty: No 
+Avg Fuel Consumption: Not specified as a standard display feature.
+
+Varriants Count: 4 (based on available data: 155cc Fi Disc, 155cc Fi ABS, 250cc Standard, and likely a 250cc Special Edition/Flex Fuel model) 
+
+Variant 1
+Varriant Name: Suzuki Gixxer SF 155 (Standard/Fi Disc)
+Variant Key: Gixxer SF 155
+Price BDT: 297,950
+Top Speed(Company Claimed): 125 km/h 
+Top Speed(User Claimed): ~120-125 km/h
+Mileage(Company Claimed): 48-50.2 km/l (ARAI/Manufacturer estimate) 
+Braking System: Single Channel ABS 
+Rear Braking System: Disc 
+Tyre Type: Tubeless 
+Headlight Type: LED (for newer models) 
+Kerb Weight: 148 kg 
+Instrument Console: Digital 
+Seat Type: Split Seat 
+
+(Give boolean answers Yes/No)
+Mobile Phone Connectivity: Yes (with Suzuki Ride Connect app for call alerts) 
+Riding Modes: No 
+Traction Control: No 
+GPS & Navigation: Yes (Turn-by-turn navigation via Suzuki Ride Connect) 
+Slipper/Assist Clutch: No
+Quick Shifter: No 
+
+Variant 2
+Varriant Name: Suzuki Gixxer SF 155 (Fi ABS)
+Variant Key: Gixxer SF 155 ABS
+Price BDT: 322,950
+Top Speed(Company Claimed): 125 km/h 
+Top Speed(User Claimed): ~120-125 km/h
+Mileage(Company Claimed): 48-50.2 km/l 
+Braking System: Single Channel ABS 
+Rear Braking System: Disc 
+Tyre Type: Tubeless 
+Headlight Type: LED (for newer models) 
+Kerb Weight: 148 kg 
+Instrument Console: Digital 
+Seat Type: Split Seat 
+
+(Give boolean answers Yes/No)
+Mobile Phone Connectivity: Yes (with Suzuki Ride Connect app for call alerts) 
+Riding Modes: No 
+Traction Control: No 
+GPS & Navigation: Yes (Turn-by-turn navigation via Suzuki Ride Connect) 
+Slipper/Assist Clutch: No
+Quick Shifter: No 
+
+Variant 3
+Varriant Name: Suzuki Gixxer SF 250
+Variant Key: Gixxer SF 250 FI
+Price BDT: 449,950 (based on official Suzuki Bangladesh news)
+Top Speed(Company Claimed): 150 km/h 
+Top Speed(User Claimed): ~150 km/h
+Mileage(Company Claimed): Not specified in provided sources.
+Braking System: Dual-channel ABS 
+Rear Braking System: Disc
+Tyre Type: Tubeless
+Headlight Type: LED 
+Kerb Weight: Not specified in provided sources.
+Instrument Console: Digital, Bluetooth-enabled 
+Seat Type: Split Seat
+
+(Give boolean answers Yes/No)
+Mobile Phone Connectivity: Yes (via Suzuki Ride Connect app) 
+Riding Modes: Not specified
+Traction Control: Not specified
+GPS & Navigation: Yes (Turn-by-turn navigation) 
+Slipper/Assist Clutch: Not specified
+Quick Shifter: No
+
+Variant 4
+Varriant Name: Suzuki Gixxer SF 250 Flex Fuel
+Variant Key: Gixxer SF 250 E85
+Price BDT: Price not available (likely higher than standard 250)
+Top Speed(Company Claimed): 150 km/h 
+Top Speed(User Claimed): ~150 km/h
+Mileage(Company Claimed): Not specified in provided sources.
+Braking System: Dual-channel ABS 
+Rear Braking System: Disc
+Tyre Type: Tubeless
+Headlight Type: LED 
+Kerb Weight: Not specified in provided sources.
+Instrument Console: Digital, Bluetooth-enabled 
+Seat Type: Split Seat
+
+(Give boolean answers Yes/No)
+Mobile Phone Connectivity: Yes (via Suzuki Ride Connect app) 
+Riding Modes: Not specified
+Traction Control: Not specified
+GPS & Navigation: Yes (Turn-by-turn navigation) 
+Slipper/Assist Clutch: Not specified
+Quick Shifter: No

@@ -1,0 +1,89 @@
+Bike Name: Honda SP 125
+Top Speed: 100 kmph (Estimated) 
+Mileage(City): 55 kmpl (User reported, city conditions) 
+Mileage(Highway): 63 kmpl (Company claimed / ARAI) 
+Category: Commuter 
+Base Price: 165,000 BDT (Launch price, may vary by variant and showroom) 
+Description: The Honda SP 125 is a popular 125cc commuter motorcycle known for its refined fuel-injected engine, sporty styling, and modern features like a full LED lighting system and a digital console. It is designed for daily commuting with a focus on fuel efficiency and reliability .
+
+Displacement(CC): 123.94 cc 
+Max Power: 10.8 PS (10.72 bhp) @ 7,500 rpm 
+Max Torque: 10.9 Nm @ 6,000 rpm 
+Engine Type: 4-Stroke, Single Cylinder 
+Fuel System: Fuel Injection (PGM-FI) 
+Cooling System: Air Cooled 
+Gears: 5 
+Clutch: Wet Multiplate 
+Spark Plugs: 1 Per Cylinder 
+Gear Shift Pattern: 1 Down 4 Up 
+
+Front Brake: Disc (240mm) / Drum (130mm) (Variant dependent) 
+Rear Brake: Drum (130mm) 
+Braking System: Combined Braking System (CBS) 
+Front Tyre: 80/100 - 18 (Tubeless) 
+Rear Tyre: 100/80 - 18 (Tubeless) 
+
+Kerb Weight: 116 kg (STD) / 117 kg (DLX) 
+Fuel Capacity: 11.2 Litres 
+Seat Height: 790 mm 
+Ground Clearance: 160 mm 
+Wheelbase: 1285 mm 
+
+(Give boolean Answers Yes/No)
+USB Charging: Yes (on DLX variant) 
+Side Stand Cut-off: Yes 
+Projector Headlight: No (It uses an LED reflector type) 
+DRLs: No 
+Gear Indicator: Yes 
+Distance to Empty: Yes 
+Avg Fuel Consumption: Yes 
+
+Variants Count: 2 
+
+Variants Details
+
+____________________________
+
+Variant Name: Honda SP 125 STD
+Variant Key: STD (Drum)
+Price BDT: Approx. 165,000 BDT (Initial market price) 
+Top Speed(Company Claimed): 100 kmph 
+Top Speed(User Claimed): 95-100 kmph
+Mileage(Company Claimed): 63 kmpl 
+Braking System: CBS (Combined Braking System)
+Rear Braking System: Drum (130mm)
+Tyre Type: Tubeless 
+Headlight Type: LED 
+Kerb Weight: 116 kg 
+Instrument Console: Digital 
+Seat Type: Single-piece 
+
+(Give boolean Answers Yes/No)
+Mobile Phone Connectivity: No 
+Riding Modes: No 
+Traction Control: No 
+GPS & Navigation: No 
+Slipper/Assist Clutch: No 
+Quick Shifter: No
+
+Variant Name: Honda SP 125 DLX
+Variant Key: DLX (Disc)
+Price BDT: Approx. 167,000 - 185,000 BDT 
+Top Speed(Company Claimed): 100 kmph 
+Top Speed(User Claimed): 95-100 kmph
+Mileage(Company Claimed): 63 kmpl 
+Braking System: CBS (Combined Braking System) 
+Rear Braking System: Drum (130mm) 
+Tyre Type: Tubeless 
+Headlight Type: LED 
+Kerb Weight: 117 kg 
+Instrument Console: TFT (4.2 inch with Bluetooth connectivity) 
+Seat Type: Single-piece 
+
+(Give boolean Answers Yes/No)
+Mobile Phone Connectivity: Yes (via Honda RoadSync) 
+Riding Modes: No 
+Traction Control: No 
+GPS & Navigation: Yes (Turn-by-Turn Navigation) 
+Slipper/Assist Clutch: No 
+Quick Shifter: No

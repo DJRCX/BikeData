@@ -1,0 +1,88 @@
+Bike Name: TVS NTORQ 125
+Top Speed: 100 km/h 
+Mileage (City): 40 km/L 
+Mileage (Highway): 45 km/L 
+Category: Scooter 
+Base Price: BDT 197,999 - 204,900 (Variant Dependent) 
+Description: A sporty and feature-rich scooter from TVS, designed for young riders. It features a powerful 125cc engine, aggressive styling, and a segment-first digital instrument console with Bluetooth connectivity .
+
+Displacement (CC): 124.8 cc 
+Max Power: 9.2 - 9.38 BHP @ 7000 rpm 
+Max Torque: 10.5 Nm @ 5500 rpm 
+Engine Type: 4-Stroke, Single Cylinder, SI 
+Fuel System: Fuel Injection (FI) 
+Cooling System: Air Cooled 
+Gears: Automatic (CVT) 
+Clutch: Automatic Centrifugal Clutch 
+Spark Plugs: Yes (Replacement recommended every 15,000 km) 
+Gear Shift Pattern: N/A (Automatic)
+
+Front Brake: Disc (220 mm) / Drum (130 mm) (Variant Dependent) 
+Rear Brake: Drum (130 mm) 
+Braking System: Synchronized Braking System (SBS) 
+Front Tyre: 100/80-12 (Tubeless) 
+Rear Tyre: 110/80-12 (Tubeless) 
+
+Kerb Weight: 118 kg 
+Fuel Capacity: 5.8 Liters 
+Seat Height: 1,160 mm 
+Ground Clearance: 155 mm 
+Wheelbase: 1285 mm 
+
+(Boolean Answers Yes/No)
+USB Charging: Yes 
+Side Stand Cut-off: No (Information not found in sources)
+Projector Headlight: No (Features Halogen/LED unit, but not specified as projector) 
+DRLs: Yes 
+Gear Indicator: No (Automatic transmission)
+Distance to Empty: Yes (Likely, as part of digital console features) 
+Avg Fuel Consumption: Yes (Displayed on digital console) 
+
+Variants Count: 2 (In Bangladesh market, based on brake configuration. Internationally, more exist but BD listings show two main trims) 
+
+Variant 1
+Variant Name: TVS NTORQ 125 (Disc)
+Variant Key: Standard Disc
+Price BDT: 204,900 
+Top Speed (Company Claimed): 100 km/h 
+Top Speed (User Claimed): 100 km/h 
+Mileage (Company Claimed): 40 km/L 
+Braking System: SBS (Single Disc) 
+Rear Braking System: Drum 
+Tyre Type: Tubeless 
+Headlight Type: Halogen / LED (Sources conflict, but higher trims get LED) 
+Kerb Weight: 118 kg 
+Instrument Console: Digital 
+Seat Type: Single 
+
+(Boolean Answers Yes/No)
+Mobile Phone Connectivity: Yes (Bluetooth SmartXonnect) 
+Riding Modes: No
+Traction Control: No
+GPS & Navigation: Yes (Navigation assist) 
+Slipper/Assist Clutch: No
+Quick Shifter: No
+
+Variant 2
+Variant Name: TVS NTORQ 125 (Drum)
+Variant Key: Standard Drum
+Price BDT: 197,999 
+Top Speed (Company Claimed): 100 km/h 
+Top Speed (User Claimed): N/A
+Mileage (Company Claimed): 40 km/L 
+Braking System: SBS (Dual Drum) 
+Rear Braking System: Drum 
+Tyre Type: Tubeless 
+Headlight Type: Halogen 
+Kerb Weight: 118 kg 
+Instrument Console: Digital 
+Seat Type: Single
+
+(Boolean Answers Yes/No)
+Mobile Phone Connectivity: Yes 
+Riding Modes: No
+Traction Control: No
+GPS & Navigation: Yes 
+Slipper/Assist Clutch: No
+Quick Shifter: No
+

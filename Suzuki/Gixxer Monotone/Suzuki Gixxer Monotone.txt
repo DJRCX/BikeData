@@ -1,0 +1,68 @@
+Bike Name : Suzuki Gixxer Monotone 
+Top Speed : 130 km/h (User Claimed) 
+Mileage(City): 40 kmpl (Approx., based on User Claimed average) 
+Mileage(Highway): 50 kmpl (Company Claimed) 
+Category: Naked / Streetfighter 
+Base Price: ৳ 201,950 (as of late 2023/early 2024)  - ৳ 205,950 (2025 model) 
+Description: The Suzuki Gixxer Monotone is a popular naked streetfighter in Bangladesh, known for its muscular and sporty design inspired by Suzuki's MotoGP DNA . It features a powerful and fuel-efficient 155cc air-cooled engine, making it suitable for both city commuting and highway rides. The bike is appreciated for its fast acceleration, excellent cornering stability, and comfortable riding experience, though the pillion seat is noted to be less comfortable .
+
+Displacement(CC): 154.9 cc 
+Max Power: 14.8 PS @ 8000 rpm 
+Max Torque: 14 Nm @ 6000 rpm 
+Engine Type: 4-Stroke, Single Cylinder, SOHC, 2-Valve, Air-Cooled 
+Fuel System: Carburetor 
+Cooling System: Air-Cooled 
+Gears : 5 
+Clutch: Multi-Plate Wet Type
+Spark Plugs: 1 Per Cylinder
+Gear Shift Pattern: 1 Down, 4 Up (Standard)
+
+Front Brake: Disc 
+Rear Brake: Drum 
+Braking System: Standard 
+Front Tyre: 100/80-17 - Tubeless 
+Rear Tyre: 140/60-17 - Radial Tubeless 
+
+Kerb Weight: 135 kg 
+Fuel Capacity: 12 Liters 
+Seat Height: 780 mm 
+Ground Clearance: 160 mm 
+Wheelbase: 1330 mm 
+
+(Give boolen Answers Yes/No)
+USB Charging: No
+Side Stand Cut-off: No
+Projector Headlight: No (Features LED Headlight) 
+DRLs: Yes 
+Gear Indicator: Yes
+Distance to Empty: No
+Avg Fuel Consumption: Yes (on digital console)
+
+Varriants Count : 1 (Single Variant based on Monotone color scheme) 
+
+Variant Details
+Based on the sources, the Suzuki Gixxer Monotone is available as a single, distinct variant focused on a single-tone color scheme. However, it's important to note that Suzuki Bangladesh also offers other Gixxer 155cc variants like the Gixxer Fi Disc and Gixxer Fi ABS [suzuki.com.bd]. For the purpose of this specific request, data for the "Monotone" variant is provided below.
+
+____________________________
+
+Varriant Name: Suzuki Gixxer Monotone 
+Variant Key: Gixxer-Monotone-155
+Price BDT: ৳ 205,950 
+Top Speed(Company Claimed): Not Specified
+Top Speed(User Claimed): 130 km/h 
+Mileage(Company Claimed): 50 kmpl 
+Braking System: Standard (Disc Front, Drum Rear) 
+Rear Braking System: Drum 
+Tyre Type: Tubeless (Front), Radial Tubeless (Rear) 
+Headlight Type: LED 
+Kerb Weight: 135 kg 
+Instrument Console: Digital LCD 
+Seat Type: Split Seat [citation:suzuki.com.bd]
+
+(Give boolen Answers Yes/No)
+Mobile Phone Connectivity: No
+Riding Modes: No
+TRaction Control: No
+Gps & Navigation: No
+Slipper/Assist Clutch: No
+Quick Shifter: No
